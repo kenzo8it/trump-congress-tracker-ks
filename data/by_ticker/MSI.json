@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "MSI",
+ "company": {
+  "name": "Motorola Solutions, Inc.",
+  "cik": 68505,
+  "sic": 3663,
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Technology"
+ },
+ "price_now": 465.8,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "15BNAS26F00000249",
+   "recipient": "MOTOROLA SOLUTIONS, INC.",
+   "ticker": "MSI",
+   "amount": 139567423.8,
+   "agency": "Department of Justice",
+   "sub_agency": "Federal Prison System / Bureau of Prisons",
+   "start_date": "2026-09-21",
+   "description": "TASK ORDER FOR AN ENTERPRISE RADIO SYSTEM PROJECT IN ACCORDANCE WITH THE DHS TACCOM II MAC.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_15BNAS26F00000249_1540_70B04C19D00000010_7014"
+  },
+  {
+   "award_id": "70B02C26F00000560",
+   "recipient": "MOTOROLA SOLUTIONS, INC.",
+   "ticker": "MSI",
+   "amount": 25755445.0,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Customs and Border Protection",
+   "start_date": "2026-09-30",
+   "description": "LAND MOBILE RADIO INFRASTRUCTURE SERVICES",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70B02C26F00000560_7014_70B04C19D00000035_7014"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "OXM",
+ "company": {
+  "name": "OXFORD INDUSTRIES INC",
+  "cik": 75288,
+  "sic": 2320,
+  "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 26.69,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "Oxford Industries, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "OXM",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-09-29",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "OXFORD INDUSTRIES INC",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "price_at_trade": 24.38,
+   "price_now": 26.69,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 9.5,
+   "days_to_disclose": 13,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

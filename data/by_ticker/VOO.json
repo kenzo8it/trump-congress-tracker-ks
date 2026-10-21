@@ -1,0 +1,37 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "VOO",
+ "company": {},
+ "price_now": 710.41,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [
+  {
+   "ticker": "VOO",
+   "company": "Vanguard S&P 500 ETF",
+   "trade_type": "BUY",
+   "traded_date": "2026-03-25",
+   "period": null,
+   "size_lower": 500001,
+   "size_upper": 1000000,
+   "size_mid": 750000.5,
+   "filing": "OGE 278-T certified 2026-05-08 (Q1 2026)",
+   "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
+   "price_at_trade": 600.46,
+   "price_basis": "price on trade date",
+   "price_now": 710.41,
+   "total_return_pct": 18.3
+  }
+ ],
+ "trump_sponsor": [],
+ "contracts": []
+}

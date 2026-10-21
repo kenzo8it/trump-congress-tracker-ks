@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "TTD",
+ "company": {
+  "name": "Trade Desk, Inc.",
+  "cik": 1671933,
+  "sic": 7370,
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Technology"
+ },
+ "price_now": 12.55,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "The Trade Desk, Inc. - Class A Common Stock",
+   "asset_type": "ST",
+   "ticker": "TTD",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Trade Desk, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 13.92,
+   "price_now": 12.55,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -9.9,
+   "days_to_disclose": 24,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

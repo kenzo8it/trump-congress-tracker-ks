@@ -1,0 +1,38 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "GM",
+ "company": {
+  "name": "General Motors Co",
+  "cik": 1467858,
+  "sic": 3711,
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Transport & Autos"
+ },
+ "price_now": 75.62,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "70US0926F3OTH3117",
+   "recipient": "GENERAL MOTORS LLC",
+   "ticker": "GM",
+   "amount": 30066079.0,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Secret Service",
+   "start_date": "2026-09-21",
+   "description": "THE PURPOSE OF THIS ORDER IS TO PROCURE SHIELD VEHICLES OFF AN EXISTING IDIQ.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70US0926F3OTH3117_7009_70US0926D70092111_7009"
+  }
+ ]
+}

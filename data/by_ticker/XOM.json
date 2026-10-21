@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "XOM",
+ "company": {
+  "name": "ExxonMobil Holdings Corp",
+  "cik": 2115436,
+  "sic": 2911,
+  "industry": "Petroleum Refining",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 177.7,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-09-25",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+   "owner": "joint",
+   "asset": "ExxonMobil Holdings Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "XOM",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-08-31",
+   "notified_date": "2026-09-15",
+   "size_lower": 100001,
+   "size_upper": 250000,
+   "size_mid": 175000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "ExxonMobil Holdings Corp",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [],
+   "price_at_trade": 160.95,
+   "price_now": 177.7,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 10.4,
+   "days_to_disclose": 25,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [
+  {
+   "ticker": "XOM",
+   "company": "Exxon Mobil",
+   "trade_type": "SELL",
+   "traded_date": null,
+   "period": "2026-06-01 to 2026-06-30",
+   "size_lower": 2002,
+   "size_upper": 30000,
+   "size_mid": 16001.0,
+   "filing": "OGE 278-T (June 2026 trades); two sales of $1001-15000",
+   "source_url": "https://www.nbcpalmsprings.com/business-finance-and-tech/2026/08/27/trump-discloses-1000-more-stock-trades-while-in-office",
+   "price_at_trade": 142.96,
+   "price_basis": "average price over the period",
+   "price_now": 177.7,
+   "total_return_pct": 24.3
+  }
+ ],
+ "trump_sponsor": [],
+ "contracts": []
+}

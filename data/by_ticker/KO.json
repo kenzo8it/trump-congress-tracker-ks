@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "KO",
+ "company": {
+  "name": "COCA COLA CO",
+  "cik": 21344,
+  "sic": 2080,
+  "industry": "Beverages",
+  "sector": "Agriculture & Food"
+ },
+ "price_now": 92.79,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-09-25",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+   "owner": "joint",
+   "asset": "Coca-Cola Company",
+   "asset_type": "ST",
+   "ticker": "KO",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-08-31",
+   "notified_date": "2026-09-15",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "COCA COLA CO",
+   "sector": "Agriculture & Food",
+   "committee_overlap": [],
+   "price_at_trade": 88.14,
+   "price_now": 92.79,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.3,
+   "days_to_disclose": 25,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Kevin Hern",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OK",
+   "committee_overlap": [],
+   "ticker": "KO",
+   "est_shares": 90.8,
+   "avg_price": 88.14,
+   "price_now": 92.79,
+   "est_position_value": 8422,
+   "total_return_pct": 5.3,
+   "total_return_usd": 422,
+   "first_buy": "2026-08-31",
+   "last_trade": "2026-08-31"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

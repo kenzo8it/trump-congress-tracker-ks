@@ -1,0 +1,46 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "KMI",
+ "company": {
+  "name": "KINDER MORGAN, INC.",
+  "cik": 1506307,
+  "sic": 4922,
+  "industry": "Natural Gas Transmission",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 34.0,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "KMI",
+   "company_name": "KINDER MORGAN, INC.",
+   "owner_name": "Garthwaite Michael P.",
+   "owner_title": "VP (Pres., Products Pipelines)",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 1550.0,
+   "price": 33.647,
+   "value": 52152.85,
+   "shares_after": 47313.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506307/0001506307-26-000128.txt",
+   "price_at_trade": 34.2,
+   "price_now": 34.0,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

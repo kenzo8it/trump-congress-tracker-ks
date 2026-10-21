@@ -1,0 +1,46 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "CHH",
+ "company": {
+  "name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+  "cik": 1046311,
+  "sic": 7011,
+  "industry": "Hotels & Motels",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 115.14,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Dragisich Dominic",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-20",
+   "shares": 1227.0,
+   "price": 112.0,
+   "value": 137424.0,
+   "shares_after": 90055.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-426126.txt",
+   "price_at_trade": 113.46,
+   "price_now": 115.14,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

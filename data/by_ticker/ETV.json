@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "ETV",
+ "company": {
+  "name": "Eaton Vance Tax-Managed Buy-Write Opportunities Fund",
+  "cik": 1322436,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 14.76,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-09-25",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf",
+   "owner": "child",
+   "asset": "Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest",
+   "asset_type": "ST",
+   "ticker": "ETV",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-09-08",
+   "notified_date": "2026-09-15",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "Eaton Vance Tax-Managed Buy-Write Opportunities Fund",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": 15.18,
+   "price_now": 14.76,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -2.8,
+   "days_to_disclose": 17,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

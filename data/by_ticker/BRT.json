@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "BRT",
+ "company": {
+  "name": "BRT Apartments Corp.",
+  "cik": 14846,
+  "sic": 6798,
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate"
+ },
+ "price_now": 13.03,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BRT",
+   "company_name": "BRT Apartments Corp.",
+   "owner_name": "Ginsburg Alan H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 50129.0,
+   "price": 13.43,
+   "value": 673232.47,
+   "shares_after": 24799.9077,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1347712/0001214659-26-013085.txt",
+   "price_at_trade": 13.55,
+   "price_now": 13.03,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -3.8
+  },
+  {
+   "ticker": "BRT",
+   "company_name": "BRT Apartments Corp.",
+   "owner_name": "Ginsburg Alan H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 50129.0,
+   "price": 13.43,
+   "value": 673232.47,
+   "shares_after": 24799.9077,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/14846/0001214659-26-013085.txt",
+   "price_at_trade": 13.55,
+   "price_now": 13.03,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -3.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

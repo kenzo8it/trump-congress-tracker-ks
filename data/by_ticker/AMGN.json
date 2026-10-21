@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "AMGN",
+ "company": {
+  "name": "AMGEN INC",
+  "cik": 318154,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 435.29,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-10-01",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf",
+   "owner": "self",
+   "asset": "Amgen Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "AMGN",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-22",
+   "notified_date": "2026-10-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "AMGEN INC",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 410.24,
+   "price_now": 435.29,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.1,
+   "days_to_disclose": 9,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "David J. Taylor",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "committee_overlap": [],
+   "ticker": "AMGN",
+   "est_shares": 19.5,
+   "avg_price": 410.24,
+   "price_now": 435.29,
+   "est_position_value": 8489,
+   "total_return_pct": 6.1,
+   "total_return_usd": 488,
+   "first_buy": "2026-09-22",
+   "last_trade": "2026-09-22"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

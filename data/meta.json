@@ -1,0 +1,103 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "counts": {
+  "congress_trades": 320,
+  "recent_congress_trades": 320,
+  "members_with_positions": 13,
+  "insider_trades": 104,
+  "trump_trades": 20,
+  "sponsor_involvements": 44,
+  "contracts": 200,
+  "tickers": 234
+ },
+ "unparsed_filings": [
+  {
+   "doc_id": "9116378",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-10-14",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116376",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-10-07",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116361",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-10-02",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116355",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-01",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116355.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116356",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-01",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116356.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116357",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-01",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116342",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-09-23",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116342.pdf",
+   "reason": "scanned paper filing"
+  }
+ ],
+ "files": {
+  "per_stock": "data/by_ticker/{TICKER}.json",
+  "stock_list": "data/by_ticker/index.json",
+  "congress_recent": "data/congress_trades_recent.json",
+  "congress_ranking": "data/congress_ranking.json",
+  "per_member": "data/politicians/{BIOGUIDE_ID}.json",
+  "insider": "data/insider_trades.json",
+  "trump": "data/trump_trades.json",
+  "sponsors": "data/trump_sponsors.json",
+  "contracts": "data/contracts.json"
+ }
+}

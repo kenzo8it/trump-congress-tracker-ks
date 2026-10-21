@@ -1,0 +1,190 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "L000597",
+  "name": "Laurel M. Lee",
+  "first": "Laurel",
+  "last": "Lee",
+  "nickname": null,
+  "chamber": "House",
+  "state": "FL",
+  "district": 15,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSJU",
+    "name": "House Committee on the Judiciary",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSIF",
+    "name": "House Committee on Energy and Commerce",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSHA",
+    "name": "House Committee on House Administration",
+    "parent": "HSHA",
+    "title": "Vice Chair",
+    "sectors": []
+   },
+   {
+    "code": "HSJU08",
+    "name": "House Committee on the Judiciary — Crime and Federal Government Surveillance",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSIF03",
+    "name": "House Committee on Energy and Commerce — Energy",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSIF18",
+    "name": "House Committee on Energy and Commerce — Environment",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSHA08",
+    "name": "House Committee on House Administration — Elections",
+    "parent": "HSHA",
+    "title": "Chair",
+    "sectors": []
+   },
+   {
+    "code": "HSJU03",
+    "name": "House Committee on the Judiciary — Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSIF17",
+    "name": "House Committee on Energy and Commerce — Commerce, Manufacturing, and Trade",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "NOKBF",
+   "est_shares": 3037.4,
+   "avg_price": 10.7,
+   "price_now": 9.15,
+   "est_position_value": 27792,
+   "total_return_pct": -14.5,
+   "total_return_usd": -4708,
+   "first_buy": "2026-09-18",
+   "last_trade": "2026-09-18"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Laurel M. Lee",
+   "state_district": "FL15",
+   "reported_date": "2026-10-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+   "owner": "spouse",
+   "asset": "Bank of America Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "BAC",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-08-24",
+   "notified_date": "2026-09-21",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "L000597",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "BANK OF AMERICA CORP /DE/",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 62.01,
+   "price_now": 50.9,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.9,
+   "days_to_disclose": 53,
+   "late_filing": true
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Laurel M. Lee",
+   "state_district": "FL15",
+   "reported_date": "2026-10-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+   "owner": "spouse",
+   "asset": "NOKIA A SHS",
+   "asset_type": "ST",
+   "ticker": "NOKBF",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-09-21",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "L000597",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "NOKIA CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce",
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 10.7,
+   "price_now": 9.15,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -14.5,
+   "days_to_disclose": 28,
+   "late_filing": false
+  }
+ ]
+}

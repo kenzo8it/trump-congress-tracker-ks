@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "JOF",
+ "company": {
+  "name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+  "cik": 859796,
+  "sic": 0,
+  "industry": "",
+  "sector": "Other"
+ },
+ "price_now": 11.77,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 30000.0,
+   "price": 11.94,
+   "value": 358200.0,
+   "shares_after": 2742376.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
+   "price_at_trade": 11.92,
+   "price_now": 11.77,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 16222.0,
+   "price": 11.94,
+   "value": 193690.68,
+   "shares_after": 2712376.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
+   "price_at_trade": 11.89,
+   "price_now": 11.77,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

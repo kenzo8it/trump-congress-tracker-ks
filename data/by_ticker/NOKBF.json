@@ -1,0 +1,80 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "NOKBF",
+ "company": {
+  "name": "NOKIA CORP",
+  "cik": 924613,
+  "sic": 3663,
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Technology"
+ },
+ "price_now": 9.15,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Laurel M. Lee",
+   "state_district": "FL15",
+   "reported_date": "2026-10-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+   "owner": "spouse",
+   "asset": "NOKIA A SHS",
+   "asset_type": "ST",
+   "ticker": "NOKBF",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-09-21",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "L000597",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "NOKIA CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce",
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 10.7,
+   "price_now": 9.15,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -14.5,
+   "days_to_disclose": 28,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Laurel M. Lee",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce",
+    "House Committee on the Judiciary"
+   ],
+   "ticker": "NOKBF",
+   "est_shares": 3037.4,
+   "avg_price": 10.7,
+   "price_now": 9.15,
+   "est_position_value": 27792,
+   "total_return_pct": -14.5,
+   "total_return_usd": -4708,
+   "first_buy": "2026-09-18",
+   "last_trade": "2026-09-18"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

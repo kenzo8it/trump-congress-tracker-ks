@@ -1,0 +1,38 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "AMTM",
+ "company": {
+  "name": "Amentum Holdings, Inc.",
+  "cik": 2011286,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 19.98,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "80LARC26FA020",
+   "recipient": "AMENTUM TECHNOLOGY, INC.",
+   "ticker": "AMTM",
+   "amount": 36874648.0,
+   "agency": "National Aeronautics and Space Administration",
+   "sub_agency": "National Aeronautics and Space Administration",
+   "start_date": "2026-10-01",
+   "description": "CENTER MAINTENANCE, OPERATION AND ENGINEERING II (CMOE-II) SUPPORT SERVICES.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_80LARC26FA020_8000_80LARC24DA009_8000"
+  }
+ ]
+}

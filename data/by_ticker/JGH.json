@@ -1,0 +1,46 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "JGH",
+ "company": {
+  "name": "Nuveen Global High Income Fund",
+  "cik": 1615905,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 11.32,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "JGH",
+   "company_name": "Nuveen Global High Income Fund",
+   "owner_name": "Robert Young L",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 20595.0,
+   "price": 11.33,
+   "value": 233341.35,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1379422/0001225208-26-008476.txt",
+   "price_at_trade": 11.31,
+   "price_now": 11.32,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

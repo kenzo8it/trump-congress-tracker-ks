@@ -1,0 +1,247 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "D000399",
+  "name": "Lloyd Doggett",
+  "first": "Lloyd",
+  "last": "Doggett",
+  "nickname": null,
+  "chamber": "House",
+  "state": "TX",
+  "district": 37,
+  "party": "Democrat",
+  "committees": [
+   {
+    "code": "JSTX",
+    "name": "Joint Committee on Taxation",
+    "parent": "JSTX",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSWM",
+    "name": "House Committee on Ways and Means",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HSBU",
+    "name": "House Committee on the Budget",
+    "parent": "HSBU",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSWM04",
+    "name": "House Committee on Ways and Means — Trade",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HSWM06",
+    "name": "House Committee on Ways and Means — Oversight",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HSWM02",
+    "name": "House Committee on Ways and Means — Health",
+    "parent": "HSWM",
+    "title": "Ranking Member",
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "IBM",
+   "est_shares": 34.2,
+   "avg_price": 234.02,
+   "price_now": 244.59,
+   "est_position_value": 8362,
+   "total_return_pct": 4.5,
+   "total_return_usd": 361,
+   "first_buy": "2026-09-10",
+   "last_trade": "2026-09-10"
+  },
+  {
+   "ticker": "HD",
+   "est_shares": 26.4,
+   "avg_price": 302.51,
+   "price_now": 313.82,
+   "est_position_value": 8300,
+   "total_return_pct": 3.7,
+   "total_return_usd": 299,
+   "first_buy": "2026-09-17",
+   "last_trade": "2026-09-17"
+  },
+  {
+   "ticker": "PPG",
+   "est_shares": 75.8,
+   "avg_price": 105.5,
+   "price_now": 109.04,
+   "est_position_value": 8269,
+   "total_return_pct": 3.4,
+   "total_return_usd": 269,
+   "first_buy": "2026-09-11",
+   "last_trade": "2026-09-11"
+  },
+  {
+   "ticker": "JNJ",
+   "est_shares": 29.7,
+   "avg_price": 269.12,
+   "price_now": 255.0,
+   "est_position_value": 7581,
+   "total_return_pct": -5.2,
+   "total_return_usd": -420,
+   "first_buy": "2026-09-08",
+   "last_trade": "2026-09-08"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Lloyd Doggett",
+   "state_district": "TX37",
+   "reported_date": "2026-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+   "owner": "self",
+   "asset": "Home Depot, Inc.",
+   "asset_type": "ST",
+   "ticker": "HD",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-17",
+   "notified_date": "2026-10-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "D000399",
+   "party": "Democrat",
+   "state": "TX",
+   "company_name": "HOME DEPOT, INC.",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 302.51,
+   "price_now": 313.82,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 3.7,
+   "days_to_disclose": 18,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Lloyd Doggett",
+   "state_district": "TX37",
+   "reported_date": "2026-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+   "owner": "self",
+   "asset": "International Business Machines Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "IBM",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-10",
+   "notified_date": "2026-10-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "D000399",
+   "party": "Democrat",
+   "state": "TX",
+   "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 234.02,
+   "price_now": 244.59,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 4.5,
+   "days_to_disclose": 25,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Lloyd Doggett",
+   "state_district": "TX37",
+   "reported_date": "2026-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+   "owner": "self",
+   "asset": "Johnson & Johnson Common Stock",
+   "asset_type": "ST",
+   "ticker": "JNJ",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-08",
+   "notified_date": "2026-10-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "D000399",
+   "party": "Democrat",
+   "state": "TX",
+   "company_name": "JOHNSON & JOHNSON",
+   "sector": "Healthcare",
+   "committee_overlap": [
+    "House Committee on Ways and Means"
+   ],
+   "price_at_trade": 269.12,
+   "price_now": 255.0,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Lloyd Doggett",
+   "state_district": "TX37",
+   "reported_date": "2026-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
+   "owner": "self",
+   "asset": "PPG Industries, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "PPG",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-11",
+   "notified_date": "2026-10-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "D000399",
+   "party": "Democrat",
+   "state": "TX",
+   "company_name": "PPG INDUSTRIES INC",
+   "sector": "Materials & Mining",
+   "committee_overlap": [],
+   "price_at_trade": 105.5,
+   "price_now": 109.04,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 3.4,
+   "days_to_disclose": 24,
+   "late_filing": false
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "NVDA",
+ "company": {
+  "name": "NVIDIA CORP",
+  "cik": 1045810,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 220.62,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Daniel Meuser",
+   "state_district": "PA09",
+   "reported_date": "2026-10-14",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf",
+   "owner": "spouse",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "NVDA",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-08-31",
+   "notified_date": "2026-09-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "M001204",
+   "party": "Republican",
+   "state": "PA",
+   "company_name": "NVIDIA CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 220.53,
+   "price_now": 220.62,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0,
+   "days_to_disclose": 44,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [
+  {
+   "ticker": "NVDA",
+   "company": "NVIDIA",
+   "trade_type": "BUY",
+   "traded_date": null,
+   "period": "2026-01-01 to 2026-03-31",
+   "size_lower": 1800000,
+   "size_upper": 6600000,
+   "size_mid": 4200000.0,
+   "filing": "OGE 278-T certified 2026-05-08 (Q1 2026)",
+   "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
+   "price_at_trade": 183.04,
+   "price_basis": "average price over the period",
+   "price_now": 220.62,
+   "total_return_pct": 20.5
+  }
+ ],
+ "trump_sponsor": [
+  {
+   "company": "NVIDIA",
+   "ticker": "NVDA",
+   "project": "White House Ballroom",
+   "involvement": "Donor (reported; not on official list)",
+   "involvement_date": "2025-11-12",
+   "source_url": "https://www.wrdw.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+   "price_now": 220.62,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": 14.1,
+   "price_at_involvement": 193.34
+  },
+  {
+   "company": "NVIDIA",
+   "ticker": "NVDA",
+   "project": "Trump Accounts",
+   "involvement": "Corporate commitment",
+   "involvement_date": "2026-01-29",
+   "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
+   "price_now": 220.62,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": 14.9,
+   "price_at_involvement": 192.06
+  }
+ ],
+ "contracts": []
+}

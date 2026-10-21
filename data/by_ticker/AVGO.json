@@ -1,0 +1,121 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "AVGO",
+ "company": {
+  "name": "Broadcom Inc.",
+  "cik": 1730168,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 337.57,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "Broadcom Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "AVGO",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-09-16",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Broadcom Inc.",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 338.89,
+   "price_now": 337.57,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.4,
+   "days_to_disclose": 26,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Rick W. Allen",
+   "state_district": "GA12",
+   "reported_date": "2026-09-22",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+   "owner": "spouse",
+   "asset": "Broadcom Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "AVGO",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-08-12",
+   "notified_date": "2026-09-15",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "A000372",
+   "party": "Republican",
+   "state": "GA",
+   "company_name": "Broadcom Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "price_at_trade": 415.29,
+   "price_now": 337.57,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -18.7,
+   "days_to_disclose": 41,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Rick W. Allen",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "ticker": "AVGO",
+   "est_shares": 19.3,
+   "avg_price": 415.29,
+   "price_now": 337.57,
+   "est_position_value": 6503,
+   "total_return_pct": -18.7,
+   "total_return_usd": -1497,
+   "first_buy": "2026-08-12",
+   "last_trade": "2026-08-12"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [
+  {
+   "company": "Broadcom",
+   "ticker": "AVGO",
+   "project": "Trump Accounts",
+   "involvement": "Corporate commitment",
+   "involvement_date": "2026-01-29",
+   "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
+   "price_now": 337.57,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": 2.6,
+   "price_at_involvement": 328.92
+  }
+ ],
+ "contracts": []
+}

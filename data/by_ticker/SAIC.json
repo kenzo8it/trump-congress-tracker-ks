@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "SAIC",
+ "company": {
+  "name": "Science Applications International Corp",
+  "cik": 1571123,
+  "sic": 7373,
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Technology"
+ },
+ "price_now": 136.85,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "70B04C26F00000442",
+   "recipient": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+   "ticker": "SAIC",
+   "amount": 149453675.31,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Customs and Border Protection",
+   "start_date": "2026-09-15",
+   "description": "IT SUPPORT SERVICES",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70B04C26F00000442_7014_47QTCK18D0001_4732"
+  },
+  {
+   "award_id": "2099AC26F00075",
+   "recipient": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+   "ticker": "SAIC",
+   "amount": 39265223.69,
+   "agency": "Department of the Treasury",
+   "sub_agency": "Treasury Common Services Center",
+   "start_date": "2026-09-30",
+   "description": "TCLOUD TASK ORDER 07: THE INTERNAL REVENUE SERVICE (IRS) INTENDS TO ISSUE A TASK ORDER FOR THE EXERCISE OF AN OPTION PERIOD UNDER SINGLE-AWARD BLANKET PURCHASE AGREEMENT (BPA) NO. 2032H5-23-A-00010.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_2099AC26F00075_2099_2032H523A00010_2050"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "VZ",
+ "company": {
+  "name": "VERIZON COMMUNICATIONS INC",
+  "cik": 732712,
+  "sic": 4813,
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "sector": "Telecom"
+ },
+ "price_now": 43.15,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "Verizon Communications Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "VZ",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "VERIZON COMMUNICATIONS INC",
+   "sector": "Telecom",
+   "committee_overlap": [],
+   "price_at_trade": 47.36,
+   "price_now": 43.15,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.9,
+   "days_to_disclose": 24,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "VZ",
+   "est_shares": 168.9,
+   "avg_price": 47.36,
+   "price_now": 43.15,
+   "est_position_value": 7290,
+   "total_return_pct": -8.9,
+   "total_return_usd": -710,
+   "first_buy": "2026-09-18",
+   "last_trade": "2026-09-18"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [
+  {
+   "ticker": "VZ",
+   "company": "Verizon",
+   "trade_type": "SELL",
+   "traded_date": "2026-02-23",
+   "period": null,
+   "size_lower": 100001,
+   "size_upper": 250000,
+   "size_mid": 175000.5,
+   "filing": "OGE 278-T certified 2026-05-08 (Q1 2026); Feb 23-27",
+   "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
+   "price_at_trade": 47.39,
+   "price_basis": "price on trade date",
+   "price_now": 43.15,
+   "total_return_pct": -8.9
+  }
+ ],
+ "trump_sponsor": [],
+ "contracts": []
+}

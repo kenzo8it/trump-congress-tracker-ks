@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "WSBC",
+ "company": {
+  "name": "WESBANCO INC",
+  "cik": 203596,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 37.52,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Michael A. Rulli",
+   "state_district": "OH06",
+   "reported_date": "2026-10-19",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
+   "owner": "self",
+   "asset": "WesBanco, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "WSBC",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-16",
+   "notified_date": "2026-10-16",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "R000619",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "WESBANCO INC",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 37.22,
+   "price_now": 37.52,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.8,
+   "days_to_disclose": 3,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

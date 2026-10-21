@@ -1,0 +1,70 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "BAC",
+ "company": {
+  "name": "BANK OF AMERICA CORP /DE/",
+  "cik": 70858,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 50.9,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Laurel M. Lee",
+   "state_district": "FL15",
+   "reported_date": "2026-10-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+   "owner": "spouse",
+   "asset": "Bank of America Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "BAC",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-08-24",
+   "notified_date": "2026-09-21",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "L000597",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "BANK OF AMERICA CORP /DE/",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 62.01,
+   "price_now": 50.9,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.9,
+   "days_to_disclose": 53,
+   "late_filing": true
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [
+  {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "project": "Trump Accounts",
+   "involvement": "Corporate commitment",
+   "involvement_date": "2026-01-29",
+   "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
+   "price_now": 50.9,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": -2.6,
+   "price_at_involvement": 52.24
+  }
+ ],
+ "contracts": []
+}

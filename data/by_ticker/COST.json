@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "COST",
+ "company": {
+  "name": "COSTCO WHOLESALE CORP /NEW",
+  "cik": 909832,
+  "sic": 5331,
+  "industry": "Retail-Variety Stores",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 994.9,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Rick W. Allen",
+   "state_district": "GA12",
+   "reported_date": "2026-10-14",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+   "owner": "spouse",
+   "asset": "Costco Wholesale Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "COST",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "A000372",
+   "party": "Republican",
+   "state": "GA",
+   "company_name": "COSTCO WHOLESALE CORP /NEW",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 895.31,
+   "price_now": 994.9,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 11.1,
+   "days_to_disclose": 26,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

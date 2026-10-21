@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "PTON",
+ "company": {
+  "name": "PELOTON INTERACTIVE, INC.",
+  "cik": 1639825,
+  "sic": 3949,
+  "industry": "Sporting & Athletic Goods, NEC",
+  "sector": "Other"
+ },
+ "price_now": 5.39,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Maria Elvira Salazar",
+   "state_district": "FL27",
+   "reported_date": "2026-10-07",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+   "owner": "self",
+   "asset": "Peloton Interactive, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "PTON",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-09-24",
+   "notified_date": "2026-10-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "S000168",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "PELOTON INTERACTIVE, INC.",
+   "sector": "Other",
+   "committee_overlap": [],
+   "price_at_trade": 4.79,
+   "price_now": 5.39,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 12.4,
+   "days_to_disclose": 13,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

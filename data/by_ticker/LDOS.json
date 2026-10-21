@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "LDOS",
+ "company": {
+  "name": "Leidos Holdings, Inc.",
+  "cik": 1336920,
+  "sic": 7373,
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Technology"
+ },
+ "price_now": 128.23,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "75N91026F00034",
+   "recipient": "LEIDOS BIOMEDICAL RESEARCH INC",
+   "ticker": "LDOS",
+   "amount": 72167416.0,
+   "agency": "Department of Health and Human Services",
+   "sub_agency": "National Institutes of Health",
+   "start_date": "2026-09-29",
+   "description": "FUNCTIONAL PRECISION MEDICINE AND RESPONSE ASSAYS",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_75N91026F00034_7529_75N91019D00024_7529"
+  },
+  {
+   "award_id": "70B03C26F00000633",
+   "recipient": "LEIDOS, INC.",
+   "ticker": "LDOS",
+   "amount": 39650533.0,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Customs and Border Protection",
+   "start_date": "2026-08-24",
+   "description": "MEMS SYSTEMS",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70B03C26F00000633_7014_70B03C26D00000029_7014"
+  }
+ ]
+}

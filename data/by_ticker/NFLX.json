@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "NFLX",
+ "company": {
+  "name": "NETFLIX INC",
+  "cik": 1065280,
+  "sic": 7841,
+  "industry": "Services-Video Tape Rental",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 65.25,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Cleo Fields",
+   "state_district": "LA06",
+   "reported_date": "2026-10-01",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
+   "owner": "self",
+   "asset": "Netflix, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "NFLX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-14",
+   "notified_date": "2026-09-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "F000110",
+   "party": "Democrat",
+   "state": "LA",
+   "company_name": "NETFLIX INC",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 80.32,
+   "price_now": 65.25,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -18.8,
+   "days_to_disclose": 17,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Cleo Fields",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "LA",
+   "committee_overlap": [],
+   "ticker": "NFLX",
+   "est_shares": 99.6,
+   "avg_price": 80.32,
+   "price_now": 65.25,
+   "est_position_value": 6499,
+   "total_return_pct": -18.8,
+   "total_return_usd": -1502,
+   "first_buy": "2026-09-14",
+   "last_trade": "2026-09-14"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

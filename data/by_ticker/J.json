@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "J",
+ "company": {
+  "name": "JACOBS SOLUTIONS INC.",
+  "cik": 52988,
+  "sic": 1600,
+  "industry": "Heavy Construction Other Than Bldg Const - Contractors",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 141.39,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": [
+  {
+   "award_id": "70B01C26F00000581",
+   "recipient": "JACOBS ENGINEERING GROUP INC.",
+   "ticker": "J",
+   "amount": 105597114.41,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Customs and Border Protection",
+   "start_date": "2026-08-07",
+   "description": "CONSTRUCTION MANAGEMENT AS ADVISOR (CMA)SERVICES FOR 11 DESIGN-BUILD CONSTRUCTION PROJECTS IMPACTING BORDER PATROL STATIONS IN ARIZONA, CALIFORNIA, NEW MEXICO, AND TEXAS.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70B01C26F00000581_7014_70B01C26A00000011_7014"
+  },
+  {
+   "award_id": "70B01C26F00000597",
+   "recipient": "JACOBS ENGINEERING GROUP INC.",
+   "ticker": "J",
+   "amount": 44953139.81,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "U.S. Customs and Border Protection",
+   "start_date": "2026-08-07",
+   "description": "CONSTRUCTION MANAGEMENT AS ADVISOR(CMA)SERVICES FOR 10 DESIGN-BUILD CONSTRUCTION PROJECTS IMPACTING FACILITIES IN ARIZONA, CALIFORNIA, FLORIDA, NEW YORK, TEXAS, UNITED STATES VIRGIN ISLANDS, AND WASHINGTON.",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70B01C26F00000597_7014_70B01C26A00000011_7014"
+  }
+ ]
+}

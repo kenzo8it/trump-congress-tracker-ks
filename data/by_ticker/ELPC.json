@@ -1,0 +1,46 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "ELPC",
+ "company": {
+  "name": "ENERGY CO OF PARANA",
+  "cik": 1041792,
+  "sic": 4911,
+  "industry": "Electric Services",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 13.93,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ELPC",
+   "company_name": "ENERGY CO OF PARANA",
+   "owner_name": "Sales Pedro Franco",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 50000.0,
+   "price": 3.4768,
+   "value": 173840.0,
+   "shares_after": 24844.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041792/0001292814-26-004956.txt",
+   "price_at_trade": 13.95,
+   "price_now": 13.93,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "ALKS",
+ "company": {
+  "name": "Alkermes plc.",
+  "cik": 1520262,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 43.86,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "Alkermes plc - Ordinary Shares",
+   "asset_type": "ST",
+   "ticker": "ALKS",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-29",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Alkermes plc.",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 40.8,
+   "price_now": 43.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 7.5,
+   "days_to_disclose": 13,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "ALKS",
+   "est_shares": 196.1,
+   "avg_price": 40.8,
+   "price_now": 43.86,
+   "est_position_value": 8601,
+   "total_return_pct": 7.5,
+   "total_return_usd": 600,
+   "first_buy": "2026-09-29",
+   "last_trade": "2026-09-29"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

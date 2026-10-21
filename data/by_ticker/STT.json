@@ -1,0 +1,39 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "STT",
+ "company": {
+  "name": "STATE STREET CORP",
+  "cik": 93751,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 168.77,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [
+  {
+   "company": "State Street",
+   "ticker": "STT",
+   "project": "Trump Accounts",
+   "involvement": "Corporate commitment",
+   "involvement_date": "2026-01-29",
+   "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
+   "price_now": 168.77,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": 30.6,
+   "price_at_involvement": 129.23
+  }
+ ],
+ "contracts": []
+}

@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "STAG",
+ "company": {
+  "name": "STAG Industrial, Inc.",
+  "cik": 1479094,
+  "sic": 6798,
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate"
+ },
+ "price_now": 36.35,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-10-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
+   "owner": "self",
+   "asset": "Stag Industrial, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "STAG",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-17",
+   "notified_date": "2026-10-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "STAG Industrial, Inc.",
+   "sector": "Real Estate",
+   "committee_overlap": [],
+   "price_at_trade": 37.1,
+   "price_now": 36.35,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -2.0,
+   "days_to_disclose": 25,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "STAG",
+   "est_shares": 215.6,
+   "avg_price": 37.1,
+   "price_now": 36.35,
+   "est_position_value": 7839,
+   "total_return_pct": -2.0,
+   "total_return_usd": -162,
+   "first_buy": "2026-09-17",
+   "last_trade": "2026-09-17"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,155 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "ranking": [
+  {
+   "bioguide": "M001208",
+   "name": "Lucy McBath",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "GA",
+   "positions": 1,
+   "est_portfolio_value": 8514,
+   "total_return_pct": 6.4,
+   "total_return_usd": 514
+  },
+  {
+   "bioguide": "H001082",
+   "name": "Kevin Hern",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OK",
+   "positions": 1,
+   "est_portfolio_value": 8422,
+   "total_return_pct": 5.3,
+   "total_return_usd": 422
+  },
+  {
+   "bioguide": "J000309",
+   "name": "Jonathan L. Jackson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "IL",
+   "positions": 3,
+   "est_portfolio_value": 190122,
+   "total_return_pct": 4.2,
+   "total_return_usd": 7619
+  },
+  {
+   "bioguide": "L000560",
+   "name": "Rick Larsen",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "WA",
+   "positions": 2,
+   "est_portfolio_value": 16498,
+   "total_return_pct": 3.1,
+   "total_return_usd": 497
+  },
+  {
+   "bioguide": "T000490",
+   "name": "David J. Taylor",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 5,
+   "est_portfolio_value": 49426,
+   "total_return_pct": 3.0,
+   "total_return_usd": 1423
+  },
+  {
+   "bioguide": "D000399",
+   "name": "Lloyd Doggett",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TX",
+   "positions": 4,
+   "est_portfolio_value": 32512,
+   "total_return_pct": 1.6,
+   "total_return_usd": 509
+  },
+  {
+   "bioguide": "F000110",
+   "name": "Cleo Fields",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "LA",
+   "positions": 4,
+   "est_portfolio_value": 40117,
+   "total_return_pct": 0.3,
+   "total_return_usd": 113
+  },
+  {
+   "bioguide": "S000168",
+   "name": "Maria Elvira Salazar",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 5,
+   "est_portfolio_value": 65356,
+   "total_return_pct": -0.4,
+   "total_return_usd": -274
+  },
+  {
+   "bioguide": "C001123",
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "positions": 26,
+   "est_portfolio_value": 286711,
+   "total_return_pct": -1.0,
+   "total_return_usd": -2804
+  },
+  {
+   "bioguide": "M001136",
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "positions": 7,
+   "est_portfolio_value": 132774,
+   "total_return_pct": -3.4,
+   "total_return_usd": -4728
+  },
+  {
+   "bioguide": "A000372",
+   "name": "Rick W. Allen",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "positions": 2,
+   "est_portfolio_value": 14494,
+   "total_return_pct": -9.4,
+   "total_return_usd": -1506
+  },
+  {
+   "bioguide": "R000619",
+   "name": "Michael A. Rulli",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 1,
+   "est_portfolio_value": 6922,
+   "total_return_pct": -13.5,
+   "total_return_usd": -1079
+  },
+  {
+   "bioguide": "L000597",
+   "name": "Laurel M. Lee",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 1,
+   "est_portfolio_value": 27792,
+   "total_return_pct": -14.5,
+   "total_return_usd": -4708
+  }
+ ]
+}

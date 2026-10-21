@@ -1,0 +1,107 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "M001208",
+  "name": "Lucy McBath",
+  "first": "Lucy",
+  "last": "McBath",
+  "nickname": null,
+  "chamber": "House",
+  "state": "GA",
+  "district": 6,
+  "party": "Democrat",
+  "committees": [
+   {
+    "code": "HSJU",
+    "name": "House Committee on the Judiciary",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSED",
+    "name": "House Committee on Education and Workforce",
+    "parent": "HSED",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSJU08",
+    "name": "House Committee on the Judiciary — Crime and Federal Government Surveillance",
+    "parent": "HSJU",
+    "title": "Ranking Member",
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSED13",
+    "name": "House Committee on Education and Workforce — Higher Education and Workforce Development",
+    "parent": "HSED",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSED02",
+    "name": "House Committee on Education and Workforce — Health, Employment, Labor, and Pensions",
+    "parent": "HSED",
+    "title": null,
+    "sectors": []
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "BRK.B",
+   "est_shares": 15.7,
+   "avg_price": 509.77,
+   "price_now": 542.52,
+   "est_position_value": 8514,
+   "total_return_pct": 6.4,
+   "total_return_usd": 514,
+   "first_buy": "2026-09-18",
+   "last_trade": "2026-09-18"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Lucy McBath",
+   "state_district": "GA06",
+   "reported_date": "2026-10-14",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
+   "owner": "self",
+   "asset": "Berkshire Hathaway Inc. New Common Stock",
+   "asset_type": "ST",
+   "ticker": "BRK.B",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-18",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "M001208",
+   "party": "Democrat",
+   "state": "GA",
+   "company_name": "BERKSHIRE HATHAWAY INC",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 509.77,
+   "price_now": 542.52,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.4,
+   "days_to_disclose": 26,
+   "late_filing": false
+  }
+ ]
+}

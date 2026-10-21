@@ -1,0 +1,51 @@
+{
+ "updated": "2026-10-21T15:50+00:00",
+ "ticker": "PLTR",
+ "company": {
+  "name": "Palantir Technologies Inc.",
+  "cik": 1321655,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 199.82,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [
+  {
+   "company": "Palantir Technologies",
+   "ticker": "PLTR",
+   "project": "White House Ballroom",
+   "involvement": "Donor",
+   "involvement_date": "2025-10-23",
+   "source_url": "https://www.wrdw.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+   "price_now": 199.82,
+   "price_now_date": "2026-10-21",
+   "return_since_involvement_pct": 10.7,
+   "price_at_involvement": 180.48
+  }
+ ],
+ "contracts": [
+  {
+   "award_id": "70RCSJ26FC0000028",
+   "recipient": "PALANTIR TECHNOLOGIES INC.",
+   "ticker": "PLTR",
+   "amount": 32106349.78,
+   "agency": "Department of Homeland Security",
+   "sub_agency": "Office of Procurement Operations",
+   "start_date": "2026-09-29",
+   "description": "PROCURE PALANTIR LICENSE FOR SOFTWARE AS A SERVICE",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FC0000028_7001_70RTAC26A00000001_7001"
+  }
+ ]
+}
