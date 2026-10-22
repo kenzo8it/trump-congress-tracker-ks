@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "URGN",
+ "company": {
+  "name": "UroGen Pharma Ltd.",
+  "cik": 1668243,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 35.48,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "URGN",
+   "company_name": "UroGen Pharma Ltd.",
+   "owner_name": "Degnan Chris",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-09",
+   "shares": 2202.0,
+   "price": 36.69,
+   "value": 80791.38,
+   "shares_after": 4561.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1668243/0001437749-26-032421.txt",
+   "price_at_trade": 36.98,
+   "price_now": 35.48,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -4.1
+  },
+  {
+   "ticker": "URGN",
+   "company_name": "UroGen Pharma Ltd.",
+   "owner_name": "Degnan Chris",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-09",
+   "shares": 2202.0,
+   "price": 36.69,
+   "value": 80791.38,
+   "shares_after": 4561.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1741968/0001437749-26-032421.txt",
+   "price_at_trade": 36.98,
+   "price_now": 35.48,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -4.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

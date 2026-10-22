@@ -1,0 +1,115 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "T000486",
+  "name": "Ritchie Torres",
+  "first": "Ritchie",
+  "last": "Torres",
+  "nickname": null,
+  "chamber": "House",
+  "state": "NY",
+  "district": 15,
+  "party": "Democrat",
+  "committees": [
+   {
+    "code": "HSBA",
+    "name": "House Committee on Financial Services",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSZS",
+    "name": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+    "parent": "HSZS",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSBA10",
+    "name": "House Committee on Financial Services — National Security, Illicit Finance, and International Financial Institutions",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSBA21",
+    "name": "House Committee on Financial Services — Digital Assets, Financial Technology, and Artificial Intelligence",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSBA04",
+    "name": "House Committee on Financial Services — Housing and Insurance",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "MCK",
+   "est_shares": 13.8,
+   "avg_price": 581.03,
+   "price_now": 1030.12,
+   "est_position_value": 14184,
+   "total_return_pct": 77.3,
+   "total_return_usd": 6184,
+   "first_buy": "2025-01-07",
+   "last_trade": "2025-01-07"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Ritchie Torres",
+   "state_district": "NY15",
+   "reported_date": "2026-07-08",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf",
+   "owner": "self",
+   "asset": "McKesson Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "MCK",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-01-07",
+   "notified_date": "2025-08-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000486",
+   "party": "Democrat",
+   "state": "NY",
+   "company_name": "MCKESSON CORP",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 581.03,
+   "price_now": 1030.12,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 77.3,
+   "days_to_disclose": 547,
+   "late_filing": true
+  }
+ ]
+}

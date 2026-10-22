@@ -1,0 +1,78 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "EPD",
+ "company": {
+  "name": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+  "cik": 1061219,
+  "sic": 4922,
+  "industry": "Natural Gas Transmission",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 36.98,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "August Pfluger",
+   "state_district": "TX11",
+   "reported_date": "2026-04-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034348.pdf",
+   "owner": "self",
+   "asset": "Enterprise Products Partners L.P. Common Stock",
+   "asset_type": "ST",
+   "ticker": "EPD",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-03-13",
+   "notified_date": "2026-03-31",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "P000048",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "price_at_trade": 35.93,
+   "price_now": 36.98,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 2.9,
+   "days_to_disclose": 33,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "August Pfluger",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "TX",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "ticker": "EPD",
+   "est_shares": 904.6,
+   "avg_price": 35.93,
+   "price_now": 36.98,
+   "est_position_value": 33450,
+   "total_return_pct": 2.9,
+   "total_return_usd": 950,
+   "first_buy": "2026-03-13",
+   "last_trade": "2026-03-13"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

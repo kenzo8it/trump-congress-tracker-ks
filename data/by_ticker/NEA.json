@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NEA",
+ "company": {
+  "name": "Nuveen AMT-Free Quality Municipal Income Fund",
+  "cik": 1195737,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 9.96,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "NEA",
+   "company_name": "Nuveen AMT-Free Quality Municipal Income Fund",
+   "owner_name": "Hamilton Michael S.",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-09-24",
+   "reported_date": "2026-09-25",
+   "shares": 2676.0,
+   "price": 9.93,
+   "value": 26572.68,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1195737/0001225208-26-007915.txt",
+   "price_at_trade": 9.9,
+   "price_now": 9.96,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "NEA",
+   "company_name": "Nuveen AMT-Free Quality Municipal Income Fund",
+   "owner_name": "Hamilton Michael S.",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-09-24",
+   "reported_date": "2026-09-25",
+   "shares": 2676.0,
+   "price": 9.93,
+   "value": 26572.68,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1508889/0001225208-26-007915.txt",
+   "price_at_trade": 9.9,
+   "price_now": 9.96,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

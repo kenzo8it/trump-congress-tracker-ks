@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "MWA",
+ "company": {
+  "name": "Mueller Water Products, Inc.",
+  "cik": 1350593,
+  "sic": 3490,
+  "industry": "Miscellaneous Fabricated Metal Products",
+  "sector": "Other"
+ },
+ "price_now": 21.86,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "MWA",
+   "company_name": "Mueller Water Products, Inc.",
+   "owner_name": "Healy Brian C.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-07",
+   "reported_date": "2026-10-09",
+   "shares": 1376.0,
+   "price": 21.7496,
+   "value": 29927.45,
+   "shares_after": 26322.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1350593/0001225208-26-008364.txt",
+   "price_at_trade": 21.39,
+   "price_now": 21.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.2
+  },
+  {
+   "ticker": "MWA",
+   "company_name": "Mueller Water Products, Inc.",
+   "owner_name": "Healy Brian C.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-07",
+   "reported_date": "2026-10-09",
+   "shares": 1376.0,
+   "price": 21.7496,
+   "value": 29927.45,
+   "shares_after": 26322.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012616/0001225208-26-008364.txt",
+   "price_at_trade": 21.39,
+   "price_now": 21.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

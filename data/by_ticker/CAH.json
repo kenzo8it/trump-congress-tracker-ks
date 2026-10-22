@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "CAH",
+ "company": {
+  "name": "CARDINAL HEALTH INC",
+  "cik": 721371,
+  "sic": 5122,
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "sector": "Healthcare"
+ },
+ "price_now": 257.55,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Clay Fuller",
+   "state_district": "GA14",
+   "reported_date": "2025-10-28",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033360.pdf",
+   "owner": "self",
+   "asset": "Cardinal Health, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "CAH",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-10-24",
+   "notified_date": "2025-10-27",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "F000485",
+   "party": "Republican",
+   "state": "GA",
+   "company_name": "CARDINAL HEALTH INC",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 160.37,
+   "price_now": 257.55,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 60.6,
+   "days_to_disclose": 4,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "CAH",
+   "est_shares": 49.9,
+   "avg_price": 160.37,
+   "price_now": 257.55,
+   "est_position_value": 12849,
+   "total_return_pct": 60.6,
+   "total_return_usd": 4848,
+   "first_buy": "2025-10-24",
+   "last_trade": "2025-10-24"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

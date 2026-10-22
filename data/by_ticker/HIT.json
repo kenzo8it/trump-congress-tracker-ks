@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "HIT",
+ "company": {
+  "name": "Health In Tech, Inc.",
+  "cik": 2019505,
+  "sic": 6411,
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials"
+ },
+ "price_now": 0.6,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "HIT",
+   "company_name": "Health In Tech, Inc.",
+   "owner_name": "Hasan Zain Syed",
+   "owner_title": "Chief Growth Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-19",
+   "shares": 3333.0,
+   "price": 0.62,
+   "value": 2066.46,
+   "shares_after": 173660.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019505/0001213900-26-110783.txt",
+   "price_at_trade": 0.65,
+   "price_now": 0.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.0
+  },
+  {
+   "ticker": "HIT",
+   "company_name": "Health In Tech, Inc.",
+   "owner_name": "Hasan Zain Syed",
+   "owner_title": "Chief Growth Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-19",
+   "shares": 3333.0,
+   "price": 0.62,
+   "value": 2066.46,
+   "shares_after": 173660.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2102674/0001213900-26-110783.txt",
+   "price_at_trade": 0.65,
+   "price_now": 0.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

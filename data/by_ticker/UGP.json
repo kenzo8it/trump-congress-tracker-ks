@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "UGP",
+ "company": {
+  "name": "ULTRAPAR HOLDINGS INC",
+  "cik": 1094972,
+  "sic": 4924,
+  "industry": "Natural Gas Distribution",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 7.97,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "UGP",
+   "company_name": "ULTRAPAR HOLDINGS INC",
+   "owner_name": "Hachem Andre Saleme",
+   "owner_title": "CFO and IRO Hidrovias",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 39200.0,
+   "price": 7.67,
+   "value": 300664.0,
+   "shares_after": 25675.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1094972/0001292814-26-004678.txt",
+   "price_at_trade": 7.69,
+   "price_now": 7.97,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "UGP",
+   "company_name": "ULTRAPAR HOLDINGS INC",
+   "owner_name": "Hachem Andre Saleme",
+   "owner_title": "CFO and IRO Hidrovias",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 39200.0,
+   "price": 7.67,
+   "value": 300664.0,
+   "shares_after": 25675.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2121755/0001292814-26-004678.txt",
+   "price_at_trade": 7.69,
+   "price_now": 7.97,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 3.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

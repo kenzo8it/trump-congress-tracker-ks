@@ -1,0 +1,149 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SO",
+ "company": {
+  "name": "SOUTHERN CO",
+  "cik": 92122,
+  "sic": 4911,
+  "industry": "Electric Services",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 90.71,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Jared Moskowitz",
+   "state_district": "FL23",
+   "reported_date": "2026-01-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033760.pdf",
+   "owner": "self",
+   "asset": "Southern Company",
+   "asset_type": "ST",
+   "ticker": "SO",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-12-02",
+   "notified_date": "2025-12-31",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "M001217",
+   "party": "Democrat",
+   "state": "FL",
+   "company_name": "SOUTHERN CO",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [
+    "House Committee on Foreign Affairs"
+   ],
+   "price_at_trade": 86.9,
+   "price_now": 90.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 4.4,
+   "days_to_disclose": 45,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Val T. Hoyle",
+   "state_district": "OR04",
+   "reported_date": "2025-10-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
+   "owner": "spouse",
+   "asset": "Southern Company",
+   "asset_type": "ST",
+   "ticker": "SO",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-09-23",
+   "notified_date": "2025-09-23",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001094",
+   "party": "Democrat",
+   "state": "OR",
+   "company_name": "SOUTHERN CO",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [
+    "House Committee on Natural Resources"
+   ],
+   "price_at_trade": 90.72,
+   "price_now": 90.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -0.0,
+   "days_to_disclose": 17,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Jared Moskowitz",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "FL",
+   "committee_overlap": [
+    "House Committee on Foreign Affairs"
+   ],
+   "ticker": "SO",
+   "est_shares": 92.1,
+   "avg_price": 86.9,
+   "price_now": 90.71,
+   "est_position_value": 8351,
+   "total_return_pct": 4.4,
+   "total_return_usd": 351,
+   "first_buy": "2025-12-02",
+   "last_trade": "2025-12-02"
+  }
+ ],
+ "insider_trades": [
+  {
+   "ticker": "SO",
+   "company_name": "SOUTHERN CO",
+   "owner_name": "Kim Matthew M.",
+   "owner_title": "Comptroller",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-01",
+   "shares": 100.0,
+   "price": 82.73,
+   "value": 8273.0,
+   "shares_after": 4888.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2082705/0001193125-26-410627.txt",
+   "price_at_trade": 83.47,
+   "price_now": 90.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 8.7
+  },
+  {
+   "ticker": "SO",
+   "company_name": "SOUTHERN CO",
+   "owner_name": "Kim Matthew M.",
+   "owner_title": "Comptroller",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-01",
+   "shares": 100.0,
+   "price": 82.73,
+   "value": 8273.0,
+   "shares_after": 4888.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92122/0001193125-26-410627.txt",
+   "price_at_trade": 83.47,
+   "price_now": 90.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 8.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

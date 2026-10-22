@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "LW",
  "company": {
   "name": "Lamb Weston Holdings, Inc.",
@@ -8,11 +8,11 @@
   "industry": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
   "sector": "Agriculture & Food"
  },
- "price_now": 53.21,
+ "price_now": 53.11,
  "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -34,8 +34,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 40.21,
    "price_basis": "price on trade date",
-   "price_now": 53.21,
-   "total_return_pct": 32.3
+   "price_now": 53.11,
+   "total_return_pct": 32.1
   }
  ],
  "trump_sponsor": [],

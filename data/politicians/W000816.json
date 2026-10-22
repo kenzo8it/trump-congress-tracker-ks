@@ -1,0 +1,210 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "W000816",
+  "name": "Roger Williams",
+  "first": "Roger",
+  "last": "Williams",
+  "nickname": null,
+  "chamber": "House",
+  "state": "TX",
+  "district": 25,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSBA",
+    "name": "House Committee on Financial Services",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSSM",
+    "name": "House Committee on Small Business",
+    "parent": "HSSM",
+    "title": "Chair",
+    "sectors": [
+     "Retail & Consumer"
+    ]
+   },
+   {
+    "code": "HSBA10",
+    "name": "House Committee on Financial Services — National Security, Illicit Finance, and International Financial Institutions",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSBA20",
+    "name": "House Committee on Financial Services — Financial Institutions",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "JPM",
+   "est_shares": 25.2,
+   "avg_price": 316.98,
+   "price_now": 335.26,
+   "est_position_value": 8462,
+   "total_return_pct": 5.8,
+   "total_return_usd": 461,
+   "first_buy": "2025-12-22",
+   "last_trade": "2025-12-22"
+  },
+  {
+   "ticker": "RTX",
+   "est_shares": 43.6,
+   "avg_price": 183.69,
+   "price_now": 193.34,
+   "est_position_value": 8421,
+   "total_return_pct": 5.3,
+   "total_return_usd": 420,
+   "first_buy": "2025-12-22",
+   "last_trade": "2025-12-22"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Roger Williams",
+   "state_district": "TX25",
+   "reported_date": "2026-01-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+   "owner": "self",
+   "asset": "Chevron Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "CVX",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2025-12-22",
+   "notified_date": "2025-12-22",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "W000816",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "CHEVRON CORP",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [],
+   "price_at_trade": 145.73,
+   "price_now": 225.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 54.9,
+   "days_to_disclose": 24,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Roger Williams",
+   "state_district": "TX25",
+   "reported_date": "2026-01-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+   "owner": "self",
+   "asset": "Diamondback Energy, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "FANG",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2025-12-22",
+   "notified_date": "2025-12-22",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "W000816",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "Diamondback Energy, Inc.",
+   "sector": "Energy & Utilities",
+   "committee_overlap": [],
+   "price_at_trade": 145.97,
+   "price_now": 202.42,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 38.7,
+   "days_to_disclose": 24,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Roger Williams",
+   "state_district": "TX25",
+   "reported_date": "2026-01-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+   "owner": "self",
+   "asset": "JP Morgan Chase & Co. Common Stock",
+   "asset_type": "ST",
+   "ticker": "JPM",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-12-22",
+   "notified_date": "2025-12-22",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "W000816",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "JPMORGAN CHASE & CO",
+   "sector": "Financials",
+   "committee_overlap": [
+    "House Committee on Financial Services"
+   ],
+   "price_at_trade": 316.98,
+   "price_now": 335.26,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 5.8,
+   "days_to_disclose": 24,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Roger Williams",
+   "state_district": "TX25",
+   "reported_date": "2026-01-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+   "owner": "self",
+   "asset": "RTX Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "RTX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-12-22",
+   "notified_date": "2025-12-22",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "W000816",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "RTX Corp",
+   "sector": "Defense & Aerospace",
+   "committee_overlap": [],
+   "price_at_trade": 183.69,
+   "price_now": 193.34,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 5.3,
+   "days_to_disclose": 24,
+   "late_filing": false
+  }
+ ]
+}

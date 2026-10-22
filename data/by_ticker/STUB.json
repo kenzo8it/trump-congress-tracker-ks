@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "STUB",
+ "company": {
+  "name": "StubHub Holdings, Inc.",
+  "cik": 1337634,
+  "sic": 7990,
+  "industry": "Services-Miscellaneous Amusement & Recreation",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 5.91,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Islam Nayaab",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-14",
+   "reported_date": "2026-09-23",
+   "shares": 14306.0,
+   "price": 6.2007,
+   "value": 88707.21,
+   "shares_after": 7996986.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-063275.txt",
+   "price_at_trade": 6.09,
+   "price_now": 5.91,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -3.0
+  },
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Islam Nayaab",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-14",
+   "reported_date": "2026-09-23",
+   "shares": 14306.0,
+   "price": 6.2007,
+   "value": 88707.21,
+   "shares_after": 7996986.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2059741/0001628280-26-063275.txt",
+   "price_at_trade": 6.09,
+   "price_now": 5.91,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -3.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

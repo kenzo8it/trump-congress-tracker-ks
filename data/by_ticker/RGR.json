@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "RGR",
+ "company": {
+  "name": "STURM RUGER & CO INC",
+  "cik": 95029,
+  "sic": 3480,
+  "industry": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "sector": "Defense & Aerospace"
+ },
+ "price_now": 50.1,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "RGR",
+   "company_name": "STURM RUGER & CO INC",
+   "owner_name": "Wilson Michael W",
+   "owner_title": "VP of New Product Development",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-24",
+   "reported_date": "2026-09-28",
+   "shares": 600.0,
+   "price": 41.95,
+   "value": 25170.0,
+   "shares_after": 628.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1714436/0000095029-26-000082.txt",
+   "price_at_trade": 41.9,
+   "price_now": 50.1,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 19.6
+  },
+  {
+   "ticker": "RGR",
+   "company_name": "STURM RUGER & CO INC",
+   "owner_name": "Wilson Michael W",
+   "owner_title": "VP of New Product Development",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-24",
+   "reported_date": "2026-09-28",
+   "shares": 600.0,
+   "price": 41.95,
+   "value": 25170.0,
+   "shares_after": 628.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/95029/0000095029-26-000082.txt",
+   "price_at_trade": 41.9,
+   "price_now": 50.1,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 19.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

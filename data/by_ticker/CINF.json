@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "CINF",
  "company": {
   "name": "CINCINNATI FINANCIAL CORP",
@@ -8,11 +8,11 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 173.03,
- "price_date": "2026-10-21",
+ "price_now": 172.07,
+ "price_date": "2026-10-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -42,11 +42,41 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 168.04,
-   "price_now": 173.03,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.0,
+   "price_now": 172.07,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 2.4,
    "days_to_disclose": 24,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Sheri Biggs",
+   "state_district": "SC03",
+   "reported_date": "2025-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+   "owner": "spouse",
+   "asset": "Cincinnati Financial Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "CINF",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-03-18",
+   "notified_date": "2025-08-11",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "B001325",
+   "party": "Republican",
+   "state": "SC",
+   "company_name": "CINCINNATI FINANCIAL CORP",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 140.18,
+   "price_now": 172.07,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 22.7,
+   "days_to_disclose": 201,
+   "late_filing": true
   }
  ],
  "congress_holders": [
@@ -59,10 +89,10 @@
    "ticker": "CINF",
    "est_shares": 47.6,
    "avg_price": 168.04,
-   "price_now": 173.03,
-   "est_position_value": 8238,
-   "total_return_pct": 3.0,
-   "total_return_usd": 238,
+   "price_now": 172.07,
+   "est_position_value": 8192,
+   "total_return_pct": 2.4,
+   "total_return_usd": 192,
    "first_buy": "2026-09-18",
    "last_trade": "2026-09-18"
   }
@@ -82,8 +112,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 158.19,
    "price_basis": "price on trade date",
-   "price_now": 173.03,
-   "total_return_pct": 9.4
+   "price_now": 172.07,
+   "total_return_pct": 8.8
   }
  ],
  "trump_sponsor": [],

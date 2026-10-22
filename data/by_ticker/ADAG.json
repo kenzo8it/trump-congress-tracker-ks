@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ADAG",
+ "company": {
+  "name": "Adagene Inc.",
+  "cik": 1818838,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 2.41,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ADAG",
+   "company_name": "Adagene Inc.",
+   "owner_name": "Tam Man Kin",
+   "owner_title": "Director, Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-23",
+   "reported_date": "2026-09-25",
+   "shares": 2000.0,
+   "price": 3.0,
+   "value": 6000.0,
+   "shares_after": 12000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818838/0001104659-26-111069.txt",
+   "price_at_trade": 2.97,
+   "price_now": 2.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -18.9
+  },
+  {
+   "ticker": "ADAG",
+   "company_name": "Adagene Inc.",
+   "owner_name": "Tam Man Kin",
+   "owner_title": "Director, Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-23",
+   "reported_date": "2026-09-25",
+   "shares": 2000.0,
+   "price": 3.0,
+   "value": 6000.0,
+   "shares_after": 12000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2106478/0001104659-26-111069.txt",
+   "price_at_trade": 2.97,
+   "price_now": 2.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -18.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

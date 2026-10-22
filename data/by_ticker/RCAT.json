@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "RCAT",
+ "company": {
+  "name": "Red Cat Holdings, Inc.",
+  "cik": 748268,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 4.58,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "RCAT",
+   "company_name": "Red Cat Holdings, Inc.",
+   "owner_name": "Thompson Jeffrey M",
+   "owner_title": "Director, Chairman of the Board, CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-19",
+   "shares": 150000.0,
+   "price": 4.51,
+   "value": 676500.0,
+   "shares_after": 11562202.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1397565/0001628280-26-066340.txt",
+   "price_at_trade": 4.9,
+   "price_now": 4.58,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.5
+  },
+  {
+   "ticker": "RCAT",
+   "company_name": "Red Cat Holdings, Inc.",
+   "owner_name": "Thompson Jeffrey M",
+   "owner_title": "Director, Chairman of the Board, CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-19",
+   "shares": 150000.0,
+   "price": 4.51,
+   "value": 676500.0,
+   "shares_after": 11562202.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/748268/0001628280-26-066340.txt",
+   "price_at_trade": 4.9,
+   "price_now": 4.58,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

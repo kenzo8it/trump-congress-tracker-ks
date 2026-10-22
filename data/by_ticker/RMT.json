@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "RMT",
+ "company": {
+  "name": "ROYCE MICRO-CAP TRUST, INC.",
+  "cik": 912147,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 12.86,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "RMT",
+   "company_name": "ROYCE MICRO-CAP TRUST, INC.",
+   "owner_name": "CLARK CHRISTOPHER D",
+   "owner_title": "Director, President",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 1000.0,
+   "price": 13.4,
+   "value": 13400.0,
+   "shares_after": 76624.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1619450/0000906304-26-000163.txt",
+   "price_at_trade": 13.44,
+   "price_now": 12.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -4.3
+  },
+  {
+   "ticker": "RMT",
+   "company_name": "ROYCE MICRO-CAP TRUST, INC.",
+   "owner_name": "CLARK CHRISTOPHER D",
+   "owner_title": "Director, President",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 1000.0,
+   "price": 13.4,
+   "value": 13400.0,
+   "shares_after": 76624.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/912147/0000906304-26-000163.txt",
+   "price_at_trade": 13.44,
+   "price_now": 12.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -4.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

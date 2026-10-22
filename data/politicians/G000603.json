@@ -1,0 +1,185 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "G000603",
+  "name": "Brandon Gill",
+  "first": "Brandon",
+  "last": "Gill",
+  "nickname": null,
+  "chamber": "House",
+  "state": "TX",
+  "district": 26,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSJU",
+    "name": "House Committee on the Judiciary",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSGO",
+    "name": "House Committee on Oversight and Government Reform",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSBU",
+    "name": "House Committee on the Budget",
+    "parent": "HSBU",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSJU01",
+    "name": "House Committee on the Judiciary — Immigration Integrity, Security, and Enforcement",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSJU13",
+    "name": "House Committee on the Judiciary — Oversight",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSGO24",
+    "name": "House Committee on Oversight and Government Reform — Government Operations",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSGO27",
+    "name": "House Committee on Oversight and Government Reform — Health Care and Financial Services",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSJU10",
+    "name": "House Committee on the Judiciary — The Constitution and Limited Government",
+    "parent": "HSJU",
+    "title": null,
+    "sectors": [
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSGO16",
+    "name": "House Committee on Oversight and Government Reform — Delivering on Government Efficiency",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "IBIT",
+   "est_shares": 517.9,
+   "avg_price": 62.75,
+   "price_now": 46.71,
+   "est_position_value": 24193,
+   "total_return_pct": -25.6,
+   "total_return_usd": -8308,
+   "first_buy": "2025-10-29",
+   "last_trade": "2025-10-29"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Brandon Gill",
+   "state_district": "TX26",
+   "reported_date": "2026-09-09",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035410.pdf",
+   "owner": "self",
+   "asset": "RSP ETF",
+   "asset_type": "OT",
+   "ticker": null,
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-08-13",
+   "notified_date": "2026-08-13",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "G000603",
+   "party": "Republican",
+   "state": "TX",
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Brandon Gill",
+   "state_district": "TX26",
+   "reported_date": "2025-11-18",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf",
+   "owner": "self",
+   "asset": "BTC",
+   "asset_type": "CT",
+   "ticker": null,
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-10-20",
+   "notified_date": "2025-10-20",
+   "size_lower": 100001,
+   "size_upper": 250000,
+   "size_mid": 175000.5,
+   "bioguide": "G000603",
+   "party": "Republican",
+   "state": "TX",
+   "days_to_disclose": 29,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Brandon Gill",
+   "state_district": "TX26",
+   "reported_date": "2025-11-18",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033476.pdf",
+   "owner": "self",
+   "asset": "iShares Bitcoin Trust ETF",
+   "asset_type": "ST",
+   "ticker": "IBIT",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-10-29",
+   "notified_date": "2025-10-29",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "G000603",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "iShares Bitcoin Trust ETF",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 62.75,
+   "price_now": 46.71,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -25.6,
+   "days_to_disclose": 20,
+   "late_filing": false
+  }
+ ]
+}

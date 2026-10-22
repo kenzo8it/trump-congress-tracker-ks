@@ -1,0 +1,98 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "IBKR",
+ "company": {
+  "name": "Interactive Brokers Group, Inc.",
+  "cik": 1381197,
+  "sic": 6211,
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials"
+ },
+ "price_now": 82.91,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Lisa C. McClain",
+   "state_district": "MI09",
+   "reported_date": "2025-11-21",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033446.pdf",
+   "owner": "spouse",
+   "asset": "Interactive Brokers Group, Inc. - Class A Common Stock",
+   "asset_type": "ST",
+   "ticker": "IBKR",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-10-14",
+   "notified_date": "2025-11-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "M001136",
+   "party": "Republican",
+   "state": "MI",
+   "company_name": "Interactive Brokers Group, Inc.",
+   "sector": "Financials",
+   "committee_overlap": [
+    "House Committee on Financial Services"
+   ],
+   "price_at_trade": 69.07,
+   "price_now": 82.91,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 20.0,
+   "days_to_disclose": 38,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "IBKR",
+   "company_name": "Interactive Brokers Group, Inc.",
+   "owner_name": "Conkling Lori A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 25.0,
+   "price": 85.42,
+   "value": 2135.5,
+   "shares_after": 2584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1381197/0001381197-26-000151.txt",
+   "price_at_trade": 85.81,
+   "price_now": 82.91,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -3.4
+  },
+  {
+   "ticker": "IBKR",
+   "company_name": "Interactive Brokers Group, Inc.",
+   "owner_name": "Conkling Lori A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 25.0,
+   "price": 85.42,
+   "value": 2135.5,
+   "shares_after": 2584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2067952/0001381197-26-000151.txt",
+   "price_at_trade": 85.81,
+   "price_now": 82.91,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -3.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NVR",
+ "company": {
+  "name": "NVR INC",
+  "cik": 906163,
+  "sic": 1531,
+  "industry": "Operative Builders",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 5977.67,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Maria Elvira Salazar",
+   "state_district": "FL27",
+   "reported_date": "2026-04-21",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf",
+   "owner": "self",
+   "asset": "NVR, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "NVR",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-03-19",
+   "notified_date": "2026-04-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "S000168",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "NVR INC",
+   "sector": "Construction & Industrials",
+   "committee_overlap": [],
+   "price_at_trade": 6417.9,
+   "price_now": 5977.67,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -6.9,
+   "days_to_disclose": 33,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Maria Elvira Salazar",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "committee_overlap": [],
+   "ticker": "NVR",
+   "est_shares": 1.2,
+   "avg_price": 6417.9,
+   "price_now": 5977.67,
+   "est_position_value": 7452,
+   "total_return_pct": -6.9,
+   "total_return_usd": -549,
+   "first_buy": "2026-03-19",
+   "last_trade": "2026-03-19"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

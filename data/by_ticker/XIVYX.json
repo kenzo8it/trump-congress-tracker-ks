@@ -1,0 +1,59 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "XIVYX",
+ "company": {},
+ "price_now": null,
+ "price_date": null,
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "XIVYX",
+   "company_name": "Institutional Investment Strategy Fund",
+   "owner_name": "Ghodoosi Arash",
+   "owner_title": "President, Principal Executive",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 7.652,
+   "price": 13.2,
+   "value": 101.01,
+   "shares_after": 41646.882,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1976685/0002004397-26-000008.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  },
+  {
+   "ticker": "XIVYX",
+   "company_name": "Institutional Investment Strategy Fund",
+   "owner_name": "Ghodoosi Arash",
+   "owner_title": "President, Principal Executive",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 7.652,
+   "price": 13.2,
+   "value": 101.01,
+   "shares_after": 41646.882,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2004397/0002004397-26-000008.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

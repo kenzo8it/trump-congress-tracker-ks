@@ -1,0 +1,142 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "IFNNY",
+ "company": {
+  "name": "INFINEON TECHNOLOGIES AG",
+  "cik": 1107457,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 60.06,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Josh Gottheimer",
+   "state_district": "NJ05",
+   "reported_date": "2026-05-19",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf",
+   "owner": "joint",
+   "asset": "Infineon Technologies AG",
+   "asset_type": null,
+   "ticker": "IFNNY",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-13",
+   "notified_date": "2026-05-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "G000583",
+   "party": "Democrat",
+   "state": "NJ",
+   "company_name": "INFINEON TECHNOLOGIES AG",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Permanent Select Committee on Intelligence"
+   ],
+   "price_at_trade": 51.19,
+   "price_now": 60.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 17.3,
+   "days_to_disclose": 36,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Josh Gottheimer",
+   "state_district": "NJ05",
+   "reported_date": "2026-04-08",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034305.pdf",
+   "owner": "joint",
+   "asset": "Infineon Technologies AG",
+   "asset_type": "ST",
+   "ticker": "IFNNY",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-03-12",
+   "notified_date": "2026-04-07",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "G000583",
+   "party": "Democrat",
+   "state": "NJ",
+   "company_name": "INFINEON TECHNOLOGIES AG",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Permanent Select Committee on Intelligence"
+   ],
+   "price_at_trade": 46.12,
+   "price_now": 60.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 30.2,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Josh Gottheimer",
+   "state_district": "NJ05",
+   "reported_date": "2026-03-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034130.pdf",
+   "owner": "joint",
+   "asset": "Infineon Technologies AG",
+   "asset_type": "ST",
+   "ticker": "IFNNY",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-02-27",
+   "notified_date": "2026-03-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "G000583",
+   "party": "Democrat",
+   "state": "NJ",
+   "company_name": "INFINEON TECHNOLOGIES AG",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Permanent Select Committee on Intelligence"
+   ],
+   "price_at_trade": 54.02,
+   "price_now": 60.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 11.2,
+   "days_to_disclose": 17,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "committee_overlap": [
+    "House Permanent Select Committee on Intelligence"
+   ],
+   "ticker": "IFNNY",
+   "est_shares": 156.3,
+   "avg_price": 51.19,
+   "price_now": 60.06,
+   "est_position_value": 9387,
+   "total_return_pct": 17.3,
+   "total_return_usd": 1386,
+   "first_buy": "2026-02-27",
+   "last_trade": "2026-04-13"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

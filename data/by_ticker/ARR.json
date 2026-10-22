@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ARR",
+ "company": {
+  "name": "Armour Residential REIT, Inc.",
+  "cik": 1428205,
+  "sic": 6798,
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate"
+ },
+ "price_now": 12.81,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ARR",
+   "company_name": "Armour Residential REIT, Inc.",
+   "owner_name": "Losyev Sergey",
+   "owner_title": "Co-Chief Investment Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-29",
+   "reported_date": "2026-09-30",
+   "shares": 725.0,
+   "price": 13.91,
+   "value": 10084.75,
+   "shares_after": 9676.539,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428205/0002016863-26-000011.txt",
+   "price_at_trade": 13.76,
+   "price_now": 12.81,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.9
+  },
+  {
+   "ticker": "ARR",
+   "company_name": "Armour Residential REIT, Inc.",
+   "owner_name": "Losyev Sergey",
+   "owner_title": "Co-Chief Investment Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-29",
+   "reported_date": "2026-09-30",
+   "shares": 725.0,
+   "price": 13.91,
+   "value": 10084.75,
+   "shares_after": 9676.539,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2016863/0002016863-26-000011.txt",
+   "price_at_trade": 13.76,
+   "price_now": 12.81,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "ON",
  "company": {
   "name": "ON SEMICONDUCTOR CORP",
@@ -8,11 +8,11 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 76.67,
- "price_date": "2026-10-21",
+ "price_now": 75.62,
+ "price_date": "2026-10-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 75.65,
-   "price_now": 76.67,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 1.3,
+   "price_now": 75.62,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -0.0,
    "days_to_disclose": 14,
    "late_filing": false
   }
@@ -59,15 +59,54 @@
    "ticker": "ON",
    "est_shares": 429.6,
    "avg_price": 75.65,
-   "price_now": 76.67,
-   "est_position_value": 32939,
-   "total_return_pct": 1.3,
-   "total_return_usd": 438,
+   "price_now": 75.62,
+   "est_position_value": 32488,
+   "total_return_pct": -0.0,
+   "total_return_usd": -13,
    "first_buy": "2026-09-28",
    "last_trade": "2026-09-28"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ON",
+   "company_name": "ON SEMICONDUCTOR CORP",
+   "owner_name": "GOPALSWAMY SUDHIR",
+   "owner_title": "Group President, AMG & ISG",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 15578.0,
+   "price": 80.0,
+   "value": 1246240.0,
+   "shares_after": 158177.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1097864/0001225208-26-008113.txt",
+   "price_at_trade": 80.08,
+   "price_now": 75.62,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -5.6
+  },
+  {
+   "ticker": "ON",
+   "company_name": "ON SEMICONDUCTOR CORP",
+   "owner_name": "GOPALSWAMY SUDHIR",
+   "owner_title": "Group President, AMG & ISG",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 15578.0,
+   "price": 80.0,
+   "value": 1246240.0,
+   "shares_after": 158177.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1722291/0001225208-26-008113.txt",
+   "price_at_trade": 80.08,
+   "price_now": 75.62,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -5.6
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

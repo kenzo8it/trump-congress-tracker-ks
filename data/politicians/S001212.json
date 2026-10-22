@@ -1,0 +1,156 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "S001212",
+  "name": "Pete Stauber",
+  "first": "Pete",
+  "last": "Stauber",
+  "nickname": null,
+  "chamber": "House",
+  "state": "MN",
+  "district": 8,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSII",
+    "name": "House Committee on Natural Resources",
+    "parent": "HSII",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Materials & Mining"
+    ]
+   },
+   {
+    "code": "HSPW",
+    "name": "House Committee on Transportation and Infrastructure",
+    "parent": "HSPW",
+    "title": null,
+    "sectors": [
+     "Transport & Autos",
+     "Construction & Industrials"
+    ]
+   },
+   {
+    "code": "HSSM",
+    "name": "House Committee on Small Business",
+    "parent": "HSSM",
+    "title": null,
+    "sectors": [
+     "Retail & Consumer"
+    ]
+   },
+   {
+    "code": "HSII06",
+    "name": "House Committee on Natural Resources — Energy and Mineral Resources",
+    "parent": "HSII",
+    "title": "Chair",
+    "sectors": [
+     "Energy & Utilities",
+     "Materials & Mining"
+    ]
+   },
+   {
+    "code": "HSII10",
+    "name": "House Committee on Natural Resources — Federal Lands",
+    "parent": "HSII",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Materials & Mining"
+    ]
+   },
+   {
+    "code": "HSSM21",
+    "name": "House Committee on Small Business — Rural Development, Energy, and Supply Chains",
+    "parent": "HSSM",
+    "title": null,
+    "sectors": [
+     "Retail & Consumer"
+    ]
+   },
+   {
+    "code": "HSPW05",
+    "name": "House Committee on Transportation and Infrastructure — Aviation",
+    "parent": "HSPW",
+    "title": null,
+    "sectors": [
+     "Transport & Autos",
+     "Construction & Industrials"
+    ]
+   },
+   {
+    "code": "HSPW14",
+    "name": "House Committee on Transportation and Infrastructure — Railroads, Pipelines, and Hazardous Materials",
+    "parent": "HSPW",
+    "title": null,
+    "sectors": [
+     "Transport & Autos",
+     "Construction & Industrials"
+    ]
+   },
+   {
+    "code": "HSPW12",
+    "name": "House Committee on Transportation and Infrastructure — Highways and Transit",
+    "parent": "HSPW",
+    "title": null,
+    "sectors": [
+     "Transport & Autos",
+     "Construction & Industrials"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "NWL",
+   "est_shares": 6827.8,
+   "avg_price": 4.76,
+   "price_now": 5.68,
+   "est_position_value": 38782,
+   "total_return_pct": 19.3,
+   "total_return_usd": 6282,
+   "first_buy": "2025-10-27",
+   "last_trade": "2025-10-27"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Pete Stauber",
+   "state_district": "MN08",
+   "reported_date": "2025-11-21",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033488.pdf",
+   "owner": "self",
+   "asset": "Newell Brands Inc.",
+   "asset_type": "ST",
+   "ticker": "NWL",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-10-27",
+   "notified_date": "2025-10-28",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "S001212",
+   "party": "Republican",
+   "state": "MN",
+   "company_name": "NEWELL BRANDS INC.",
+   "sector": "Other",
+   "committee_overlap": [],
+   "price_at_trade": 4.76,
+   "price_now": 5.68,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 19.2,
+   "days_to_disclose": 25,
+   "late_filing": false
+  }
+ ]
+}

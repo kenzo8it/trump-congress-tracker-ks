@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NHC",
+ "company": {
+  "name": "NATIONAL HEALTHCARE CORP",
+  "cik": 1047335,
+  "sic": 8051,
+  "industry": "Services-Skilled Nursing Care Facilities",
+  "sector": "Healthcare"
+ },
+ "price_now": 235.6,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "NHC",
+   "company_name": "NATIONAL HEALTHCARE CORP",
+   "owner_name": "Dodson Vicki L",
+   "owner_title": "Sr.VP Patient Srvcs",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 4834.0007,
+   "price": 225.0,
+   "value": 1087650.16,
+   "shares_after": 10725.5448,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1047335/0001437749-26-031086.txt",
+   "price_at_trade": 222.19,
+   "price_now": 235.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.0
+  },
+  {
+   "ticker": "NHC",
+   "company_name": "NATIONAL HEALTHCARE CORP",
+   "owner_name": "Dodson Vicki L",
+   "owner_title": "Sr.VP Patient Srvcs",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 4834.0007,
+   "price": 225.0,
+   "value": 1087650.16,
+   "shares_after": 10725.5448,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1779472/0001437749-26-031086.txt",
+   "price_at_trade": 222.19,
+   "price_now": 235.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "HPQ",
  "company": {
   "name": "HP INC",
@@ -8,18 +8,57 @@
   "industry": "Computer & office Equipment",
   "sector": "Technology"
  },
- "price_now": 31.36,
+ "price_now": 31.32,
  "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "HPQ",
+   "company_name": "HP INC",
+   "owner_name": "McQuarrie David P.",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 31572.0,
+   "price": 32.12,
+   "value": 1014092.64,
+   "shares_after": 8008.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1951912/0001951912-26-000008.txt",
+   "price_at_trade": 32.12,
+   "price_now": 31.32,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -2.5
+  },
+  {
+   "ticker": "HPQ",
+   "company_name": "HP INC",
+   "owner_name": "McQuarrie David P.",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 31572.0,
+   "price": 32.12,
+   "value": 1014092.64,
+   "shares_after": 8008.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/0001951912-26-000008.txt",
+   "price_at_trade": 32.12,
+   "price_now": 31.32,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -2.5
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [
   {
@@ -29,9 +68,9 @@
    "involvement": "Donor",
    "involvement_date": "2025-10-23",
    "source_url": "https://www.wrdw.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
-   "price_now": 31.36,
+   "price_now": 31.32,
    "price_now_date": "2026-10-21",
-   "return_since_involvement_pct": 18.4,
+   "return_since_involvement_pct": 18.3,
    "price_at_involvement": 26.48
   }
  ],

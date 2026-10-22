@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "MQ",
+ "company": {
+  "name": "Marqeta, Inc.",
+  "cik": 1522540,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 18.8,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "MQ",
+   "company_name": "Marqeta, Inc.",
+   "owner_name": "Sumner Crystal",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-16",
+   "shares": 1250.0,
+   "price": 18.759,
+   "value": 23448.75,
+   "shares_after": 167645.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/0001870987-26-000029.txt",
+   "price_at_trade": 18.99,
+   "price_now": 18.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MQ",
+   "company_name": "Marqeta, Inc.",
+   "owner_name": "Sumner Crystal",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-16",
+   "shares": 1250.0,
+   "price": 18.759,
+   "value": 23448.75,
+   "shares_after": 167645.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1870987/0001870987-26-000029.txt",
+   "price_at_trade": 18.99,
+   "price_now": 18.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

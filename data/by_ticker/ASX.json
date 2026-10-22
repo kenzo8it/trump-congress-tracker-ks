@@ -1,0 +1,99 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ASX",
+ "company": {
+  "name": "ASE Technology Holding Co., Ltd.",
+  "cik": 1122411,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 40.77,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Sheri Biggs",
+   "state_district": "SC03",
+   "reported_date": "2025-10-05",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032149.pdf",
+   "owner": "spouse",
+   "asset": "ASE Technology Holding Co., Ltd. American Depositary Shares",
+   "asset_type": "ST",
+   "ticker": "ASX",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-03-18",
+   "notified_date": "2025-08-11",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "B001325",
+   "party": "Republican",
+   "state": "SC",
+   "company_name": "ASE Technology Holding Co., Ltd.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Homeland Security",
+    "House Committee on Science, Space, and Technology"
+   ],
+   "price_at_trade": 9.32,
+   "price_now": 40.77,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 337.5,
+   "days_to_disclose": 201,
+   "late_filing": true
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ASX",
+   "company_name": "ASE Technology Holding Co., Ltd.",
+   "owner_name": "Uang Du-Tsuen",
+   "owner_title": "Chief Administration Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 3000.0,
+   "price": 752.0,
+   "value": 2256000.0,
+   "shares_after": 838000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1122411/0000950103-26-015546.txt",
+   "price_at_trade": 47.53,
+   "price_now": 40.77,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -14.2
+  },
+  {
+   "ticker": "ASX",
+   "company_name": "ASE Technology Holding Co., Ltd.",
+   "owner_name": "Uang Du-Tsuen",
+   "owner_title": "Chief Administration Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 3000.0,
+   "price": 752.0,
+   "value": 2256000.0,
+   "shares_after": 838000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2118034/0000950103-26-015546.txt",
+   "price_at_trade": 47.53,
+   "price_now": 40.77,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -14.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "OBIO",
+ "company": {
+  "name": "Orchestra BioMed Holdings, Inc.",
+  "cik": 1814114,
+  "sic": 3841,
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Healthcare"
+ },
+ "price_now": 5.8,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "OBIO",
+   "company_name": "Orchestra BioMed Holdings, Inc.",
+   "owner_name": "Sherman Darren",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 15000.0,
+   "price": 6.36,
+   "value": 95400.0,
+   "shares_after": 1119402.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1723524/0001104659-26-113320.txt",
+   "price_at_trade": 6.35,
+   "price_now": 5.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.6
+  },
+  {
+   "ticker": "OBIO",
+   "company_name": "Orchestra BioMed Holdings, Inc.",
+   "owner_name": "Sherman Darren",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 15000.0,
+   "price": 6.36,
+   "value": 95400.0,
+   "shares_after": 1119402.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1814114/0001104659-26-113320.txt",
+   "price_at_trade": 6.35,
+   "price_now": 5.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

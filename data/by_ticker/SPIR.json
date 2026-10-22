@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SPIR",
+ "company": {
+  "name": "Spire Global, Inc.",
+  "cik": 1816017,
+  "sic": 4899,
+  "industry": "Communications Services, NEC",
+  "sector": "Telecom"
+ },
+ "price_now": 9.01,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SPIR",
+   "company_name": "Spire Global, Inc.",
+   "owner_name": "Platzer Peter",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 17954.0,
+   "price": 11.02,
+   "value": 197853.08,
+   "shares_after": 1455514.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1816017/0001193125-26-414689.txt",
+   "price_at_trade": 10.97,
+   "price_now": 9.01,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.9
+  },
+  {
+   "ticker": "SPIR",
+   "company_name": "Spire Global, Inc.",
+   "owner_name": "Platzer Peter",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 17954.0,
+   "price": 11.02,
+   "value": 197853.08,
+   "shares_after": 1455514.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1856366/0001193125-26-414689.txt",
+   "price_at_trade": 10.97,
+   "price_now": 9.01,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

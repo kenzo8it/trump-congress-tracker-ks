@@ -1,0 +1,91 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "OGN",
+ "company": {
+  "name": "Organon & Co.",
+  "cik": 1821825,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 13.76,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-08-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf",
+   "owner": "self",
+   "asset": "Organon & Co. Common Stock",
+   "asset_type": "ST",
+   "ticker": "OGN",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-08-05",
+   "notified_date": "2026-08-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "Organon & Co.",
+   "sector": "Healthcare",
+   "committee_overlap": [
+    "House Committee on Ways and Means"
+   ],
+   "price_at_trade": 13.55,
+   "price_now": 13.76,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 1.5,
+   "days_to_disclose": 7,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-08-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035134.pdf",
+   "owner": "joint",
+   "asset": "Organon & Co. Common Stock",
+   "asset_type": "ST",
+   "ticker": "OGN",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-08-05",
+   "notified_date": "2026-08-05",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "Organon & Co.",
+   "sector": "Healthcare",
+   "committee_overlap": [
+    "House Committee on Ways and Means"
+   ],
+   "price_at_trade": 13.55,
+   "price_now": 13.76,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 1.5,
+   "days_to_disclose": 5,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

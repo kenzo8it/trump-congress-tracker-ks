@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "PROP",
+ "company": {
+  "name": "Prairie Operating Co.",
+  "cik": 1162896,
+  "sic": 1311,
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 0.37,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PROP",
+   "company_name": "Prairie Operating Co.",
+   "owner_name": "Frommer Richard N.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-03",
+   "reported_date": "2026-10-02",
+   "shares": 28000.0,
+   "price": 0.45,
+   "value": 12600.0,
+   "shares_after": 333372.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1162896/0001140361-26-038462.txt",
+   "price_at_trade": 0.47,
+   "price_now": 0.37,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -22.3
+  },
+  {
+   "ticker": "PROP",
+   "company_name": "Prairie Operating Co.",
+   "owner_name": "Frommer Richard N.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-03",
+   "reported_date": "2026-10-02",
+   "shares": 28000.0,
+   "price": 0.45,
+   "value": 12600.0,
+   "shares_after": 333372.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2047025/0001140361-26-038462.txt",
+   "price_at_trade": 0.47,
+   "price_now": 0.37,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -22.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SXI",
+ "company": {
+  "name": "STANDEX INTERNATIONAL CORP/DE/",
+  "cik": 310354,
+  "sic": 3580,
+  "industry": "Refrigeration & Service Industry Machinery",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 269.69,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SXI",
+   "company_name": "STANDEX INTERNATIONAL CORP/DE/",
+   "owner_name": "CHORMAN THOMAS E",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 50.0,
+   "price": 271.39,
+   "value": 13569.5,
+   "shares_after": 12266.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1248847/0000310354-26-000098.txt",
+   "price_at_trade": 285.12,
+   "price_now": 269.69,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.4
+  },
+  {
+   "ticker": "SXI",
+   "company_name": "STANDEX INTERNATIONAL CORP/DE/",
+   "owner_name": "CHORMAN THOMAS E",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 50.0,
+   "price": 271.39,
+   "value": 13569.5,
+   "shares_after": 12266.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000098.txt",
+   "price_at_trade": 285.12,
+   "price_now": 269.69,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

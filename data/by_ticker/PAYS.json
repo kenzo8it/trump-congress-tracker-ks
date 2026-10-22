@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "PAYS",
+ "company": {
+  "name": "Paysign, Inc.",
+  "cik": 1496443,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 15.62,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PAYS",
+   "company_name": "Paysign, Inc.",
+   "owner_name": "Newcomer Mark",
+   "owner_title": "Director, CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-14",
+   "shares": 50000.0,
+   "price": 15.3379,
+   "value": 766895.0,
+   "shares_after": 9113002.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1496443/0001683168-26-007854.txt",
+   "price_at_trade": 15.37,
+   "price_now": 15.62,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "PAYS",
+   "company_name": "Paysign, Inc.",
+   "owner_name": "Newcomer Mark",
+   "owner_title": "Director, CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-14",
+   "shares": 50000.0,
+   "price": 15.3379,
+   "value": 766895.0,
+   "shares_after": 9113002.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506415/0001683168-26-007854.txt",
+   "price_at_trade": 15.37,
+   "price_now": 15.62,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "CNS",
+ "company": {
+  "name": "COHEN & STEERS, INC.",
+  "cik": 1284812,
+  "sic": 6282,
+  "industry": "Investment Advice",
+  "sector": "Financials"
+ },
+ "price_now": 72.03,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2025-11-18",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033455.pdf",
+   "owner": "self",
+   "asset": "Cohen & Steers Inc Common Stock",
+   "asset_type": "ST",
+   "ticker": "CNS",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2025-10-30",
+   "notified_date": "2025-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "COHEN & STEERS, INC.",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 67.02,
+   "price_now": 72.03,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 7.5,
+   "days_to_disclose": 19,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "CNS",
+   "est_shares": 119.4,
+   "avg_price": 67.02,
+   "price_now": 72.03,
+   "est_position_value": 8599,
+   "total_return_pct": 7.5,
+   "total_return_usd": 598,
+   "first_buy": "2025-10-30",
+   "last_trade": "2025-10-30"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

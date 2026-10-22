@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "TEO",
+ "company": {
+  "name": "TELECOM ARGENTINA SA",
+  "cik": 932470,
+  "sic": 4813,
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "sector": "Telecom"
+ },
+ "price_now": 13.04,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "TEO",
+   "company_name": "TELECOM ARGENTINA SA",
+   "owner_name": "Heine Martin Andres",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-13",
+   "shares": 7000.0,
+   "price": 2.6661,
+   "value": 18662.7,
+   "shares_after": 41500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2118333/0001104659-26-115671.txt",
+   "price_at_trade": 12.37,
+   "price_now": 13.04,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "TEO",
+   "company_name": "TELECOM ARGENTINA SA",
+   "owner_name": "Heine Martin Andres",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-13",
+   "shares": 7000.0,
+   "price": 2.6661,
+   "value": 18662.7,
+   "shares_after": 41500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/932470/0001104659-26-115671.txt",
+   "price_at_trade": 12.37,
+   "price_now": 13.04,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

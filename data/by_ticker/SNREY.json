@@ -1,0 +1,51 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SNREY",
+ "company": {},
+ "price_now": null,
+ "price_date": null,
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Thomas H. Kean, Jr.",
+   "state_district": "NJ07",
+   "reported_date": "2026-01-16",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033821.pdf",
+   "owner": "self",
+   "asset": "SUNRISE COMMS AG ADR A",
+   "asset_type": "ST",
+   "ticker": "SNREY",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-12-02",
+   "notified_date": "2026-01-16",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "K000398",
+   "party": "Republican",
+   "state": "NJ",
+   "company_name": "SUNRISE COMMS AG ADR A",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
+   "days_to_disclose": 45,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

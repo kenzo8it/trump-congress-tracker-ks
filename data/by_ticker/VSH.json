@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "VSH",
+ "company": {
+  "name": "VISHAY INTERTECHNOLOGY INC",
+  "cik": 103730,
+  "sic": 3670,
+  "industry": "Electronic Components & Accessories",
+  "sector": "Technology"
+ },
+ "price_now": 29.88,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "VSH",
+   "company_name": "VISHAY INTERTECHNOLOGY INC",
+   "owner_name": "Zilberman Raanan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 16575.0,
+   "price": 35.8188,
+   "value": 593696.61,
+   "shares_after": 31937.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/103730/0001192482-26-000457.txt",
+   "price_at_trade": 38.18,
+   "price_now": 29.88,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -21.7
+  },
+  {
+   "ticker": "VSH",
+   "company_name": "VISHAY INTERTECHNOLOGY INC",
+   "owner_name": "Zilberman Raanan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 16575.0,
+   "price": 35.8188,
+   "value": 593696.61,
+   "shares_after": 31937.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1699101/0001192482-26-000457.txt",
+   "price_at_trade": 38.18,
+   "price_now": 29.88,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -21.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

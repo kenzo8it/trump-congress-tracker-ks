@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ZDGE",
+ "company": {
+  "name": "Zedge, Inc.",
+  "cik": 1667313,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 2.78,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ZDGE",
+   "company_name": "Zedge, Inc.",
+   "owner_name": "JONAS HOWARD S",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-25",
+   "reported_date": "2026-09-29",
+   "shares": 2218430.0,
+   "price": null,
+   "value": null,
+   "shares_after": 2218430.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1034247/0001193125-26-407951.txt",
+   "price_at_trade": 3.0,
+   "price_now": 2.78,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -7.3
+  },
+  {
+   "ticker": "ZDGE",
+   "company_name": "Zedge, Inc.",
+   "owner_name": "JONAS HOWARD S",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-25",
+   "reported_date": "2026-09-29",
+   "shares": 2218430.0,
+   "price": null,
+   "value": null,
+   "shares_after": 2218430.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1667313/0001193125-26-407951.txt",
+   "price_at_trade": 3.0,
+   "price_now": 2.78,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -7.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

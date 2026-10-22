@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SHMD",
+ "company": {
+  "name": "SCHMID Group N.V.",
+  "cik": 1987240,
+  "sic": 3590,
+  "industry": "Misc Industrial & Commercial Machinery & Equipment",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 3.11,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SHMD",
+   "company_name": "SCHMID Group N.V.",
+   "owner_name": "Schuetz Arthur Josef Hermann",
+   "owner_title": "CFO Schmid Group N.V.",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 11394.0,
+   "price": 4.51,
+   "value": 51386.94,
+   "shares_after": 42118.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1987240/0002125667-26-000004.txt",
+   "price_at_trade": 4.86,
+   "price_now": 3.11,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -36.0
+  },
+  {
+   "ticker": "SHMD",
+   "company_name": "SCHMID Group N.V.",
+   "owner_name": "Schuetz Arthur Josef Hermann",
+   "owner_title": "CFO Schmid Group N.V.",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 11394.0,
+   "price": 4.51,
+   "value": 51386.94,
+   "shares_after": 42118.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2125667/0002125667-26-000004.txt",
+   "price_at_trade": 4.86,
+   "price_now": 3.11,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -36.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

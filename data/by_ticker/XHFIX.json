@@ -1,0 +1,59 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "XHFIX",
+ "company": {},
+ "price_now": null,
+ "price_date": null,
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "XHFIX",
+   "company_name": "Hartford Schroders Private Opportunities Fund",
+   "owner_name": "Hartford Funds Management Co LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 262428.0,
+   "price": 16.63,
+   "value": 4364177.64,
+   "shares_after": 1069720.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1546587/0001104659-26-112756.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  },
+  {
+   "ticker": "XHFIX",
+   "company_name": "Hartford Schroders Private Opportunities Fund",
+   "owner_name": "Hartford Funds Management Co LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 262428.0,
+   "price": 16.63,
+   "value": 4364177.64,
+   "shares_after": 1069720.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1903070/0001104659-26-112756.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

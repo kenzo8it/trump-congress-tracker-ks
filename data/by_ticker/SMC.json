@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SMC",
+ "company": {
+  "name": "Summit Midstream Corp",
+  "cik": 2024218,
+  "sic": 4922,
+  "industry": "Natural Gas Transmission",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 30.64,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SMC",
+   "company_name": "Summit Midstream Corp",
+   "owner_name": "Johnston James David",
+   "owner_title": "Executive VP, GC, CCO and Secy",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 2600.0,
+   "price": 30.51,
+   "value": 79326.0,
+   "shares_after": 72757.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1823482/0002024218-26-000091.txt",
+   "price_at_trade": 30.63,
+   "price_now": 30.64,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SMC",
+   "company_name": "Summit Midstream Corp",
+   "owner_name": "Johnston James David",
+   "owner_title": "Executive VP, GC, CCO and Secy",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 2600.0,
+   "price": 30.51,
+   "value": 79326.0,
+   "shares_after": 72757.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2024218/0002024218-26-000091.txt",
+   "price_at_trade": 30.63,
+   "price_now": 30.64,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

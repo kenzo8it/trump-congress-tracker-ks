@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "DNA",
+ "company": {
+  "name": "Ginkgo Bioworks Holdings, Inc.",
+  "cik": 1830214,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 10.01,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "DNA",
+   "company_name": "Ginkgo Bioworks Holdings, Inc.",
+   "owner_name": "Coen Steven P.",
+   "owner_title": "See remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-07",
+   "shares": 2403.0,
+   "price": 15.0,
+   "value": 36045.0,
+   "shares_after": 49448.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1830214/0001628280-26-065349.txt",
+   "price_at_trade": 14.98,
+   "price_now": 10.01,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -33.2
+  },
+  {
+   "ticker": "DNA",
+   "company_name": "Ginkgo Bioworks Holdings, Inc.",
+   "owner_name": "Coen Steven P.",
+   "owner_title": "See remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-07",
+   "shares": 2403.0,
+   "price": 15.0,
+   "value": 36045.0,
+   "shares_after": 49448.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1977441/0001628280-26-065349.txt",
+   "price_at_trade": 14.98,
+   "price_now": 10.01,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -33.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

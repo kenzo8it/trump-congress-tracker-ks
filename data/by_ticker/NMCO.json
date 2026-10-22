@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NMCO",
+ "company": {
+  "name": "Nuveen Municipal Credit Opportunities Fund",
+  "cik": 1774342,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 8.74,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "NMCO",
+   "company_name": "Nuveen Municipal Credit Opportunities Fund",
+   "owner_name": "Hamilton Michael S.",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-09",
+   "shares": 3000.0,
+   "price": 8.702,
+   "value": 26106.0,
+   "shares_after": 3000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1508889/0001225208-26-008363.txt",
+   "price_at_trade": 8.7,
+   "price_now": 8.74,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "NMCO",
+   "company_name": "Nuveen Municipal Credit Opportunities Fund",
+   "owner_name": "Hamilton Michael S.",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-09",
+   "shares": 3000.0,
+   "price": 8.702,
+   "value": 26106.0,
+   "shares_after": 3000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1774342/0001225208-26-008363.txt",
+   "price_at_trade": 8.7,
+   "price_now": 8.74,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,78 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "KMX",
+ "company": {
+  "name": "CARMAX INC",
+  "cik": 1170010,
+  "sic": 5500,
+  "industry": "Retail-Auto Dealers & Gasoline Stations",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 53.82,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-09-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
+   "owner": "self",
+   "asset": "CarMax Inc",
+   "asset_type": "ST",
+   "ticker": "KMX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-08-19",
+   "notified_date": "2026-09-04",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "CARMAX INC",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "price_at_trade": 58.95,
+   "price_now": 53.82,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -8.7,
+   "days_to_disclose": 22,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "ticker": "KMX",
+   "est_shares": 135.7,
+   "avg_price": 58.95,
+   "price_now": 53.82,
+   "est_position_value": 7304,
+   "total_return_pct": -8.7,
+   "total_return_usd": -696,
+   "first_buy": "2026-08-19",
+   "last_trade": "2026-08-19"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

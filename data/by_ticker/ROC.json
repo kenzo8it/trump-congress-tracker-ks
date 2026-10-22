@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ROC",
+ "company": {
+  "name": "Rank One Computing Corp",
+  "cik": 2077709,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 3.6,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ROC",
+   "company_name": "Rank One Computing Corp",
+   "owner_name": "Klum Scott Jeffrey",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-02",
+   "shares": 1200000.0,
+   "price": 3.42,
+   "value": 4104000.0,
+   "shares_after": 1752560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2077709/0001213900-26-106370.txt",
+   "price_at_trade": 4.0,
+   "price_now": 3.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -10.0
+  },
+  {
+   "ticker": "ROC",
+   "company_name": "Rank One Computing Corp",
+   "owner_name": "Klum Scott Jeffrey",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-02",
+   "shares": 1200000.0,
+   "price": 3.42,
+   "value": 4104000.0,
+   "shares_after": 1752560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2108264/0001213900-26-106370.txt",
+   "price_at_trade": 4.0,
+   "price_now": 3.6,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -10.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

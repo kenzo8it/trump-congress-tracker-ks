@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "UPWK",
+ "company": {
+  "name": "UPWORK, INC",
+  "cik": 1627475,
+  "sic": 7374,
+  "industry": "Services-Computer Processing & Data Preparation",
+  "sector": "Technology"
+ },
+ "price_now": 8.75,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "UPWK",
+   "company_name": "UPWORK, INC",
+   "owner_name": "Kappus Anthony Ray",
+   "owner_title": "GM & Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 559.0,
+   "price": 8.4293,
+   "value": 4711.98,
+   "shares_after": 77196.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1627475/0001860481-26-000019.txt",
+   "price_at_trade": 8.52,
+   "price_now": 8.75,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.7
+  },
+  {
+   "ticker": "UPWK",
+   "company_name": "UPWORK, INC",
+   "owner_name": "Kappus Anthony Ray",
+   "owner_title": "GM & Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 559.0,
+   "price": 8.4293,
+   "value": 4711.98,
+   "shares_after": 77196.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1860481/0001860481-26-000019.txt",
+   "price_at_trade": 8.52,
+   "price_now": 8.75,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

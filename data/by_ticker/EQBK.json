@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "EQBK",
+ "company": {
+  "name": "EQUITY BANCSHARES INC",
+  "cik": 1227500,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 47.54,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "EQBK",
+   "company_name": "EQUITY BANCSHARES INC",
+   "owner_name": "Borck Leon",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-19",
+   "shares": 380.0,
+   "price": 48.78,
+   "value": 18536.4,
+   "shares_after": 96320.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1227500/0001886793-26-000004.txt",
+   "price_at_trade": 47.23,
+   "price_now": 47.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "EQBK",
+   "company_name": "EQUITY BANCSHARES INC",
+   "owner_name": "Borck Leon",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-19",
+   "shares": 380.0,
+   "price": 48.78,
+   "value": 18536.4,
+   "shares_after": 96320.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1886793/0001886793-26-000004.txt",
+   "price_at_trade": 47.23,
+   "price_now": 47.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

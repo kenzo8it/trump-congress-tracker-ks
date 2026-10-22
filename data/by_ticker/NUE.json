@@ -1,0 +1,74 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NUE",
+ "company": {
+  "name": "NUCOR CORP",
+  "cik": 73309,
+  "sic": 3312,
+  "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "sector": "Materials & Mining"
+ },
+ "price_now": 261.5,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Julia Letlow",
+   "state_district": "LA05",
+   "reported_date": "2026-01-13",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf",
+   "owner": "self",
+   "asset": "Nucor Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "NUE",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2024-10-23",
+   "notified_date": "2025-08-11",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "L000595",
+   "party": "Republican",
+   "state": "LA",
+   "company_name": "NUCOR CORP",
+   "sector": "Materials & Mining",
+   "committee_overlap": [],
+   "price_at_trade": 137.59,
+   "price_now": 261.5,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 90.1,
+   "days_to_disclose": 447,
+   "late_filing": true
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Julia Letlow",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "LA",
+   "committee_overlap": [],
+   "ticker": "NUE",
+   "est_shares": 58.1,
+   "avg_price": 137.59,
+   "price_now": 261.5,
+   "est_position_value": 15206,
+   "total_return_pct": 90.1,
+   "total_return_usd": 7205,
+   "first_buy": "2024-10-23",
+   "last_trade": "2024-10-23"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

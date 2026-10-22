@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "FG",
+ "company": {
+  "name": "F&G Annuities & Life, Inc.",
+  "cik": 1934850,
+  "sic": 6311,
+  "industry": "Life Insurance",
+  "sector": "Financials"
+ },
+ "price_now": 20.37,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FG",
+   "company_name": "F&G Annuities & Life, Inc.",
+   "owner_name": "Murphy Conor",
+   "owner_title": "CEO and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-02",
+   "shares": 231.303,
+   "price": 21.68,
+   "value": 5014.65,
+   "shares_after": 196991.016,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1716520/0001934850-26-000091.txt",
+   "price_at_trade": 21.68,
+   "price_now": 20.37,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
+  },
+  {
+   "ticker": "FG",
+   "company_name": "F&G Annuities & Life, Inc.",
+   "owner_name": "Murphy Conor",
+   "owner_title": "CEO and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-02",
+   "shares": 231.303,
+   "price": 21.68,
+   "value": 5014.65,
+   "shares_after": 196991.016,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1934850/0001934850-26-000091.txt",
+   "price_at_trade": 21.68,
+   "price_now": 20.37,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

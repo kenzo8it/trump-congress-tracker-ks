@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 320,
-  "recent_congress_trades": 320,
-  "members_with_positions": 13,
-  "insider_trades": 104,
+  "congress_trades": 5555,
+  "recent_congress_trades": 641,
+  "members_with_positions": 45,
+  "insider_trades": 14113,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 200,
-  "tickers": 234
+  "contracts": 207,
+  "tickers": 1760
  },
  "unparsed_filings": [
   {
@@ -86,6 +86,676 @@
    "filed": "2026-09-23",
    "year": 2026,
    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116342.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116331",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-09-11",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116328",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-09-04",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116326",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-09-02",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116311",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-08-20",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116311.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116308",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-08-18",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116292",
+   "first": "Tracey Robert",
+   "last": "Mann",
+   "state_district": "KS01",
+   "filed": "2026-08-13",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116290",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2026-08-12",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116290.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116267",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-08-07",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116256",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-08-03",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116256.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116257",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-08-03",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116257.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116258",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-08-03",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116260",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-07-24",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116249",
+   "first": "Tom",
+   "last": "Cole",
+   "state_district": "OK04",
+   "filed": "2026-07-21",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116249.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116217",
+   "first": "Nicole",
+   "last": "Malliotakis",
+   "state_district": "NY11",
+   "filed": "2026-07-14",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116218",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-07-14",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116218.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116212",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2026-07-08",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116212.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116211",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-07-08",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116211.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116206",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-07-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116206.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116197",
+   "first": "Keith Alan",
+   "last": "Self",
+   "state_district": "TX03",
+   "filed": "2026-06-30",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116141",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-06-10",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116141.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116146",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-06-10",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116146.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116142",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-06-09",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116142.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115901",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-06-04",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115901.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115821",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2026-05-12",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115821.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115822",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-05-11",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115808",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-05-08",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115808.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115809",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115809.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115811",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115811.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115812",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115812.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115813",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115813.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115814",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115814.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115815",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-05-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115815.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115816",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-05-05",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115816.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115820",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-05-04",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115820.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115762",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-04-21",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115762.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115728",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-04-08",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115728.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115726",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-04-07",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115726.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115704",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2026-03-20",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115704.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115711",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-03-20",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115711.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221359",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-03-10",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221359.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221358",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-03-09",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221360",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-03-09",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221360.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221332",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-02-13",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221332.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221326",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-02-11",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221326.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221321",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2026-02-09",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221321.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221322",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-02-06",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221310",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2026-01-16",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221310.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221302",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2026-01-15",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221302.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221297",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2026-01-09",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221297.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221287",
+   "first": "Nicole",
+   "last": "Malliotakis",
+   "state_district": "NY11",
+   "filed": "2026-01-07",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221287.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221285",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2026-01-06",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221285.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221276",
+   "first": "Nicole",
+   "last": "Malliotakis",
+   "state_district": "NY11",
+   "filed": "2025-12-19",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221276.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221270",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2025-12-11",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221270.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221263",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2025-12-09",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221263.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221264",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2025-12-08",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221264.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221237",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "state_district": "TN03",
+   "filed": "2025-11-14",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221237.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221238",
+   "first": "Adrian",
+   "last": "Smith",
+   "state_district": "NE03",
+   "filed": "2025-11-14",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221228",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2025-11-10",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221228.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221233",
+   "first": "Tony",
+   "last": "Wied",
+   "state_district": "WI08",
+   "filed": "2025-11-10",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221233.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221231",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2025-11-06",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221231.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221223",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2025-11-05",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221223.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "8221212",
+   "first": "Lisa",
+   "last": "McClain",
+   "state_district": "MI09",
+   "filed": "2025-10-23",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115689",
+   "first": "Harold Dallas",
+   "last": "Rogers",
+   "state_district": "KY05",
+   "filed": "2025-10-16",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115689.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115686",
+   "first": "Keith Alan",
+   "last": "Self",
+   "state_district": "TX03",
+   "filed": "2025-10-14",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115686.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115684",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2025-10-10",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115684.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115679",
+   "first": "Rohit",
+   "last": "Khanna",
+   "state_district": "CA17",
+   "filed": "2025-10-03",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9115662",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "state_district": "TX10",
+   "filed": "2025-09-25",
+   "year": 2025,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115662.pdf",
    "reason": "scanned paper filing"
   }
  ],

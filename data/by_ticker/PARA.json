@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "PARA",
+ "company": {
+  "name": "Banzai International, Inc.",
+  "cik": 1826011,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 0.51,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PARA",
+   "company_name": "Banzai International, Inc.",
+   "owner_name": "Davy Joseph P.",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-28",
+   "reported_date": "2026-09-30",
+   "shares": 115965.0,
+   "price": null,
+   "value": null,
+   "shares_after": 149821.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1826011/0001493152-26-045031.txt",
+   "price_at_trade": 0.7,
+   "price_now": 0.51,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -27.6
+  },
+  {
+   "ticker": "PARA",
+   "company_name": "Banzai International, Inc.",
+   "owner_name": "Davy Joseph P.",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-28",
+   "reported_date": "2026-09-30",
+   "shares": 115965.0,
+   "price": null,
+   "value": null,
+   "shares_after": 149821.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2003684/0001493152-26-045031.txt",
+   "price_at_trade": 0.7,
+   "price_now": 0.51,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -27.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

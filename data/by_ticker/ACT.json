@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ACT",
+ "company": {
+  "name": "Enact Holdings, Inc.",
+  "cik": 1823529,
+  "sic": 6411,
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials"
+ },
+ "price_now": 45.65,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ACT",
+   "company_name": "Enact Holdings, Inc.",
+   "owner_name": "Genworth Holdings, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 762894.0,
+   "price": 48.6528,
+   "value": 37116929.2,
+   "shares_after": 109628073.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1572983/0001572983-26-000021.txt",
+   "price_at_trade": 43.26,
+   "price_now": 45.65,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "ACT",
+   "company_name": "Enact Holdings, Inc.",
+   "owner_name": "Genworth Holdings, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 762894.0,
+   "price": 48.6528,
+   "value": 37116929.2,
+   "shares_after": 109628073.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1823529/0001572983-26-000021.txt",
+   "price_at_trade": 43.26,
+   "price_now": 45.65,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

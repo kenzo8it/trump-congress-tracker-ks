@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "STAG",
  "company": {
   "name": "STAG Industrial, Inc.",
@@ -8,11 +8,11 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 36.35,
- "price_date": "2026-10-21",
+ "price_now": 36.59,
+ "price_date": "2026-10-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 37.1,
-   "price_now": 36.35,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -2.0,
+   "price_now": 36.59,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -1.4,
    "days_to_disclose": 25,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "STAG",
    "est_shares": 215.6,
    "avg_price": 37.1,
-   "price_now": 36.35,
-   "est_position_value": 7839,
-   "total_return_pct": -2.0,
-   "total_return_usd": -162,
+   "price_now": 36.59,
+   "est_position_value": 7891,
+   "total_return_pct": -1.4,
+   "total_return_usd": -110,
    "first_buy": "2026-09-17",
    "last_trade": "2026-09-17"
   }

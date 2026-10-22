@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "LUCK",
+ "company": {
+  "name": "Lucky Strike Entertainment Corp",
+  "cik": 1840572,
+  "sic": 7900,
+  "industry": "Services-Amusement & Recreation Services",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 4.69,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LUCK",
+   "company_name": "Lucky Strike Entertainment Corp",
+   "owner_name": "Lavan Robert M.",
+   "owner_title": "President and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 387.116,
+   "price": 5.475,
+   "value": 2119.46,
+   "shares_after": 81571.3952,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1733907/0001628280-26-063239.txt",
+   "price_at_trade": 5.32,
+   "price_now": 4.69,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -11.8
+  },
+  {
+   "ticker": "LUCK",
+   "company_name": "Lucky Strike Entertainment Corp",
+   "owner_name": "Lavan Robert M.",
+   "owner_title": "President and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-23",
+   "shares": 387.116,
+   "price": 5.475,
+   "value": 2119.46,
+   "shares_after": 81571.3952,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840572/0001628280-26-063239.txt",
+   "price_at_trade": 5.32,
+   "price_now": 4.69,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -11.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

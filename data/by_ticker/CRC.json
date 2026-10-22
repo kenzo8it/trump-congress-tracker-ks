@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "CRC",
+ "company": {
+  "name": "California Resources Corp",
+  "cik": 1609253,
+  "sic": 1311,
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 53.54,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CRC",
+   "company_name": "California Resources Corp",
+   "owner_name": "Bys Jay A.",
+   "owner_title": "EVP & Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 11907.0,
+   "price": 54.0,
+   "value": 642978.0,
+   "shares_after": 123703.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609253/0001609253-26-000140.txt",
+   "price_at_trade": 53.52,
+   "price_now": 53.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CRC",
+   "company_name": "California Resources Corp",
+   "owner_name": "Bys Jay A.",
+   "owner_title": "EVP & Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 11907.0,
+   "price": 54.0,
+   "value": 642978.0,
+   "shares_after": 123703.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1860787/0001609253-26-000140.txt",
+   "price_at_trade": 53.52,
+   "price_now": 53.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

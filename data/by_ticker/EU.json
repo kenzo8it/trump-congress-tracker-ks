@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "EU",
+ "company": {
+  "name": "enCore Energy Corp.",
+  "cik": 1500881,
+  "sic": 1090,
+  "industry": "Miscellaneous Metal Ores",
+  "sector": "Materials & Mining"
+ },
+ "price_now": 0.8,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "EU",
+   "company_name": "enCore Energy Corp.",
+   "owner_name": "Hoxie-Key Susan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-13",
+   "shares": 30648.0,
+   "price": 0.94,
+   "value": 28809.12,
+   "shares_after": 60918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1500881/0001193125-26-420444.txt",
+   "price_at_trade": 0.92,
+   "price_now": 0.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.0
+  },
+  {
+   "ticker": "EU",
+   "company_name": "enCore Energy Corp.",
+   "owner_name": "Hoxie-Key Susan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-13",
+   "shares": 30648.0,
+   "price": 0.94,
+   "value": 28809.12,
+   "shares_after": 60918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1992071/0001193125-26-420444.txt",
+   "price_at_trade": 0.92,
+   "price_now": 0.8,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

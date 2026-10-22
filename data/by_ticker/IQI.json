@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "IQI",
+ "company": {
+  "name": "Invesco Quality Municipal Income Trust",
+  "cik": 885125,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 8.98,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "IQI",
+   "company_name": "Invesco Quality Municipal Income Trust",
+   "owner_name": "O'Reilly Timothy M",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 6281.567,
+   "price": 8.8728,
+   "value": 55735.09,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1676421/0001676421-26-000006.txt",
+   "price_at_trade": 8.88,
+   "price_now": 8.98,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "IQI",
+   "company_name": "Invesco Quality Municipal Income Trust",
+   "owner_name": "O'Reilly Timothy M",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-10-02",
+   "reported_date": "2026-10-06",
+   "shares": 6281.567,
+   "price": 8.8728,
+   "value": 55735.09,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/885125/0001676421-26-000006.txt",
+   "price_at_trade": 8.88,
+   "price_now": 8.98,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

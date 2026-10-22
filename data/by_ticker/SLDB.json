@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SLDB",
+ "company": {
+  "name": "Solid Biosciences Inc.",
+  "cik": 1707502,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 6.41,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SLDB",
+   "company_name": "Solid Biosciences Inc.",
+   "owner_name": "Brooks Gabriel",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 4374.0,
+   "price": 5.62,
+   "value": 24581.88,
+   "shares_after": 97241.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1707502/0001193125-26-426668.txt",
+   "price_at_trade": 5.92,
+   "price_now": 6.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.3
+  },
+  {
+   "ticker": "SLDB",
+   "company_name": "Solid Biosciences Inc.",
+   "owner_name": "Brooks Gabriel",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 4374.0,
+   "price": 5.62,
+   "value": 24581.88,
+   "shares_after": 97241.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1997809/0001193125-26-426668.txt",
+   "price_at_trade": 5.92,
+   "price_now": 6.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

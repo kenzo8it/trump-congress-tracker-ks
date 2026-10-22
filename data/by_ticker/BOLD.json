@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "BOLD",
  "company": {
   "name": "Boundless Bio, Inc.",
@@ -8,11 +8,11 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 2.45,
+ "price_now": 2.44,
  "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1178579/0001178579-26-000019.txt",
    "price_at_trade": 2.43,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 0.8
+   "total_return_pct": 0.4
   },
   {
    "ticker": "BOLD",
@@ -54,9 +54,28 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1232621/0001178579-26-000019.txt",
    "price_at_trade": 2.43,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 0.8
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "BOLD",
+   "company_name": "Boundless Bio, Inc.",
+   "owner_name": "TANG KEVIN",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-20",
+   "shares": 220.0,
+   "price": 2.37,
+   "value": 521.4,
+   "shares_after": 2990109.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782303/0001178579-26-000019.txt",
+   "price_at_trade": 2.43,
+   "price_now": 2.44,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "BOLD",
@@ -73,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1178579/0001178579-26-000019.txt",
    "price_at_trade": 2.31,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 6.1
+   "total_return_pct": 5.6
   },
   {
    "ticker": "BOLD",
@@ -92,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1178579/0001178579-26-000019.txt",
    "price_at_trade": 2.31,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 6.1
+   "total_return_pct": 5.6
   },
   {
    "ticker": "BOLD",
@@ -111,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1232621/0001178579-26-000019.txt",
    "price_at_trade": 2.31,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 6.1
+   "total_return_pct": 5.6
   },
   {
    "ticker": "BOLD",
@@ -130,9 +149,47 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1232621/0001178579-26-000019.txt",
    "price_at_trade": 2.31,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 6.1
+   "total_return_pct": 5.6
+  },
+  {
+   "ticker": "BOLD",
+   "company_name": "Boundless Bio, Inc.",
+   "owner_name": "TANG KEVIN",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 12790.0,
+   "price": 2.34,
+   "value": 29928.6,
+   "shares_after": 2971610.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782303/0001178579-26-000019.txt",
+   "price_at_trade": 2.31,
+   "price_now": 2.44,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.6
+  },
+  {
+   "ticker": "BOLD",
+   "company_name": "Boundless Bio, Inc.",
+   "owner_name": "TANG KEVIN",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-20",
+   "shares": 18279.0,
+   "price": 2.33,
+   "value": 42590.07,
+   "shares_after": 2989889.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782303/0001178579-26-000019.txt",
+   "price_at_trade": 2.31,
+   "price_now": 2.44,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "BOLD",
@@ -149,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1178579/0001178579-26-000019.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 4.7
+   "total_return_pct": 4.3
   },
   {
    "ticker": "BOLD",
@@ -168,9 +225,28 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1232621/0001178579-26-000019.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.45,
+   "price_now": 2.44,
    "price_now_date": "2026-10-21",
-   "total_return_pct": 4.7
+   "total_return_pct": 4.3
+  },
+  {
+   "ticker": "BOLD",
+   "company_name": "Boundless Bio, Inc.",
+   "owner_name": "TANG KEVIN",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-20",
+   "shares": 118185.0,
+   "price": 2.34,
+   "value": 276552.9,
+   "shares_after": 2958820.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782303/0001178579-26-000019.txt",
+   "price_at_trade": 2.34,
+   "price_now": 2.44,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 4.3
   }
  ],
  "trump_trades": [],

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "GSHD",
+ "company": {
+  "name": "Goosehead Insurance, Inc.",
+  "cik": 1726978,
+  "sic": 6411,
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials"
+ },
+ "price_now": 45.32,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "GSHD",
+   "company_name": "Goosehead Insurance, Inc.",
+   "owner_name": "Durable Capital Partners LP",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-24",
+   "shares": 150000.0,
+   "price": 47.32,
+   "value": 7098000.0,
+   "shares_after": 2720260.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1726978/0001193125-26-401141.txt",
+   "price_at_trade": 45.76,
+   "price_now": 45.32,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "GSHD",
+   "company_name": "Goosehead Insurance, Inc.",
+   "owner_name": "Durable Capital Partners LP",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-24",
+   "shares": 150000.0,
+   "price": 47.32,
+   "value": 7098000.0,
+   "shares_after": 2720260.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1798849/0001193125-26-401141.txt",
+   "price_at_trade": 45.76,
+   "price_now": 45.32,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

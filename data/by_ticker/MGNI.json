@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "MGNI",
+ "company": {
+  "name": "MAGNITE, INC.",
+  "cik": 1595974,
+  "sic": 7370,
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Technology"
+ },
+ "price_now": 23.62,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "MGNI",
+   "company_name": "MAGNITE, INC.",
+   "owner_name": "Caine Paul",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 12500.0,
+   "price": 25.29,
+   "value": 316125.0,
+   "shares_after": 124901.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1411765/0001411765-26-000011.txt",
+   "price_at_trade": 25.08,
+   "price_now": 23.62,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.8
+  },
+  {
+   "ticker": "MGNI",
+   "company_name": "MAGNITE, INC.",
+   "owner_name": "Caine Paul",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-14",
+   "shares": 12500.0,
+   "price": 25.29,
+   "value": 316125.0,
+   "shares_after": 124901.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1595974/0001411765-26-000011.txt",
+   "price_at_trade": 25.08,
+   "price_now": 23.62,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "AMFN",
+ "company": {
+  "name": "American Fusion, Inc.",
+  "cik": 96664,
+  "sic": 4911,
+  "industry": "Electric Services",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 0.06,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "AMFN",
+   "company_name": "American Fusion, Inc.",
+   "owner_name": "Rossa Alexander William",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-29",
+   "shares": 842775.0,
+   "price": 0.102,
+   "value": 85963.05,
+   "shares_after": 3000000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2157492/0001079973-26-001308.txt",
+   "price_at_trade": 0.09,
+   "price_now": 0.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -29.4
+  },
+  {
+   "ticker": "AMFN",
+   "company_name": "American Fusion, Inc.",
+   "owner_name": "Rossa Alexander William",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-09-22",
+   "reported_date": "2026-09-29",
+   "shares": 842775.0,
+   "price": 0.102,
+   "value": 85963.05,
+   "shares_after": 3000000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96664/0001079973-26-001308.txt",
+   "price_at_trade": 0.09,
+   "price_now": 0.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -29.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

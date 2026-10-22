@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "MGRC",
+ "company": {
+  "name": "MCGRATH RENTCORP",
+  "cik": 752714,
+  "sic": 7359,
+  "industry": "Services-Equipment Rental & Leasing, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 114.27,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "MGRC",
+   "company_name": "MCGRATH RENTCORP",
+   "owner_name": "HANNA JOSEPH F",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 7500.0,
+   "price": 115.0433,
+   "value": 862824.75,
+   "shares_after": 144049.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1226137/0001226137-26-000006.txt",
+   "price_at_trade": 114.49,
+   "price_now": 114.27,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "MGRC",
+   "company_name": "MCGRATH RENTCORP",
+   "owner_name": "HANNA JOSEPH F",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 7500.0,
+   "price": 115.0433,
+   "value": 862824.75,
+   "shares_after": 144049.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001226137-26-000006.txt",
+   "price_at_trade": 114.49,
+   "price_now": 114.27,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

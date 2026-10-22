@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "VLRS",
+ "company": {
+  "name": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",
+  "cik": 1520504,
+  "sic": 4512,
+  "industry": "Air Transportation, Scheduled",
+  "sector": "Transport & Autos"
+ },
+ "price_now": 5.66,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Debbie Wasserman Schultz",
+   "state_district": "FL25",
+   "reported_date": "2025-10-06",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032087.pdf",
+   "owner": "child",
+   "asset": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten",
+   "asset_type": "ST",
+   "ticker": "VLRS",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-09-29",
+   "notified_date": "2025-09-30",
+   "size_lower": 1118,
+   "size_upper": 1118,
+   "size_mid": 1118.0,
+   "bioguide": "W000797",
+   "party": "Democrat",
+   "state": "FL",
+   "company_name": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",
+   "sector": "Transport & Autos",
+   "committee_overlap": [],
+   "price_at_trade": 6.82,
+   "price_now": 5.66,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -17.0,
+   "days_to_disclose": 7,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,68 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NBGIX",
+ "company": {},
+ "price_now": 59.48,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Lucy McBath",
+   "state_district": "GA06",
+   "reported_date": "2025-09-17",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030699.pdf",
+   "owner": "self",
+   "asset": "Neuberger Berman Genesis Institutional",
+   "asset_type": "OT",
+   "ticker": "NBGIX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2023-03-15",
+   "notified_date": "2023-04-10",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "M001208",
+   "party": "Democrat",
+   "state": "GA",
+   "company_name": "Neuberger Berman Genesis Institutional",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": 45.64,
+   "price_now": 59.48,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 30.3,
+   "days_to_disclose": 917,
+   "late_filing": true
+  }
+ ],
+ "congress_holders": [
+  {
+   "name": "Lucy McBath",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "NBGIX",
+   "est_shares": 175.3,
+   "avg_price": 45.64,
+   "price_now": 59.48,
+   "est_position_value": 10427,
+   "total_return_pct": 30.3,
+   "total_return_usd": 2426,
+   "first_buy": "2023-03-15",
+   "last_trade": "2023-03-15"
+  }
+ ],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

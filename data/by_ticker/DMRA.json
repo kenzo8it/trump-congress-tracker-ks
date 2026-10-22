@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "DMRA",
+ "company": {
+  "name": "Damora Therapeutics, Inc.",
+  "cik": 1800315,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 21.53,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "DMRA",
+   "company_name": "Damora Therapeutics, Inc.",
+   "owner_name": "Jarrett Jennifer",
+   "owner_title": "Director, Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-25",
+   "reported_date": "2026-09-28",
+   "shares": 12500.0,
+   "price": 20.23,
+   "value": 252875.0,
+   "shares_after": 512500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1671311/0001193125-26-403355.txt",
+   "price_at_trade": 20.66,
+   "price_now": 21.53,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 4.2
+  },
+  {
+   "ticker": "DMRA",
+   "company_name": "Damora Therapeutics, Inc.",
+   "owner_name": "Jarrett Jennifer",
+   "owner_title": "Director, Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-25",
+   "reported_date": "2026-09-28",
+   "shares": 12500.0,
+   "price": 20.23,
+   "value": 252875.0,
+   "shares_after": 512500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1800315/0001193125-26-403355.txt",
+   "price_at_trade": 20.66,
+   "price_now": 21.53,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 4.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

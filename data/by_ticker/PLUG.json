@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "PLUG",
+ "company": {
+  "name": "PLUG POWER INC",
+  "cik": 1093691,
+  "sic": 3620,
+  "industry": "Electrical Industrial Apparatus",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 1.41,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PLUG",
+   "company_name": "PLUG POWER INC",
+   "owner_name": "Haycraft Benjamin",
+   "owner_title": "CSO & GM EMEA",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-19",
+   "shares": 9375.0,
+   "price": 1.41,
+   "value": 13218.75,
+   "shares_after": 91874.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1093691/0001104659-26-116909.txt",
+   "price_at_trade": 1.49,
+   "price_now": 1.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.4
+  },
+  {
+   "ticker": "PLUG",
+   "company_name": "PLUG POWER INC",
+   "owner_name": "Haycraft Benjamin",
+   "owner_title": "CSO & GM EMEA",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-19",
+   "shares": 9375.0,
+   "price": 1.41,
+   "value": 13218.75,
+   "shares_after": 91874.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2085249/0001104659-26-116909.txt",
+   "price_at_trade": 1.49,
+   "price_now": 1.41,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

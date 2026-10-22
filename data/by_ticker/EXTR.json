@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "EXTR",
+ "company": {
+  "name": "EXTREME NETWORKS INC",
+  "cik": 1078271,
+  "sic": 3576,
+  "industry": "Computer Communications Equipment",
+  "sector": "Technology"
+ },
+ "price_now": 22.54,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "EXTR",
+   "company_name": "EXTREME NETWORKS INC",
+   "owner_name": "MEYERCORD EDWARD",
+   "owner_title": "Director, PRESIDENT AND CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 50000.0,
+   "price": 21.7717,
+   "value": 1088585.0,
+   "shares_after": 1710097.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1078271/0001437749-26-031878.txt",
+   "price_at_trade": 21.97,
+   "price_now": 22.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "EXTR",
+   "company_name": "EXTREME NETWORKS INC",
+   "owner_name": "MEYERCORD EDWARD",
+   "owner_title": "Director, PRESIDENT AND CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-02",
+   "shares": 50000.0,
+   "price": 21.7717,
+   "value": 1088585.0,
+   "shares_after": 1710097.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1179945/0001437749-26-031878.txt",
+   "price_at_trade": 21.97,
+   "price_now": 22.54,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

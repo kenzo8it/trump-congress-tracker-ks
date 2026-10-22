@@ -1,0 +1,118 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "J000307",
+  "name": "John James",
+  "first": "John",
+  "last": "James",
+  "nickname": null,
+  "chamber": "House",
+  "state": "MI",
+  "district": 10,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSIF",
+    "name": "House Committee on Energy and Commerce",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSIF03",
+    "name": "House Committee on Energy and Commerce — Energy",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSIF17",
+    "name": "House Committee on Energy and Commerce — Commerce, Manufacturing, and Trade",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   },
+   {
+    "code": "HSIF14",
+    "name": "House Committee on Energy and Commerce — Health",
+    "parent": "HSIF",
+    "title": null,
+    "sectors": [
+     "Energy & Utilities",
+     "Healthcare",
+     "Technology",
+     "Telecom"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "SPCX",
+   "est_shares": 201.9,
+   "avg_price": 160.95,
+   "price_now": 147.79,
+   "est_position_value": 29843,
+   "total_return_pct": -8.2,
+   "total_return_usd": -2657,
+   "first_buy": "2026-06-12",
+   "last_trade": "2026-06-12"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "John James",
+   "state_district": "MI10",
+   "reported_date": "2026-07-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf",
+   "owner": "spouse",
+   "asset": "Space Exploration Technologies Corp.",
+   "asset_type": "OT",
+   "ticker": "SPCX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-06-12",
+   "notified_date": "2026-06-12",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "J000307",
+   "party": "Republican",
+   "state": "MI",
+   "company_name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "price_at_trade": 160.95,
+   "price_now": 147.79,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -8.2,
+   "days_to_disclose": 30,
+   "late_filing": false
+  }
+ ]
+}

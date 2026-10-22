@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "BYDDF",
+ "company": {
+  "name": "BYD CO LTD",
+  "cik": 1445162,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 9.12,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2025-12-15",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033619.pdf",
+   "owner": "self",
+   "asset": "BYD Company Ltd H Shares",
+   "asset_type": "ST",
+   "ticker": "BYDDF",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2025-11-12",
+   "notified_date": "2025-12-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "BYD CO LTD",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": 12.84,
+   "price_now": 9.12,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -29.0,
+   "days_to_disclose": 33,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

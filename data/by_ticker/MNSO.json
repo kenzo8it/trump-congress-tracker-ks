@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "MNSO",
+ "company": {
+  "name": "MINISO Group Holding Ltd",
+  "cik": 1815846,
+  "sic": 5331,
+  "industry": "Retail-Variety Stores",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 9.86,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "MNSO",
+   "company_name": "MINISO Group Holding Ltd",
+   "owner_name": "Zhang Jingjing Eason",
+   "owner_title": "VP and Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-29",
+   "reported_date": "2026-09-30",
+   "shares": 150600.0,
+   "price": 2.2583,
+   "value": 340099.98,
+   "shares_after": 394474.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1815846/0001104659-26-112076.txt",
+   "price_at_trade": 9.22,
+   "price_now": 9.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.9
+  },
+  {
+   "ticker": "MNSO",
+   "company_name": "MINISO Group Holding Ltd",
+   "owner_name": "Zhang Jingjing Eason",
+   "owner_title": "VP and Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-09-29",
+   "reported_date": "2026-09-30",
+   "shares": 150600.0,
+   "price": 2.2583,
+   "value": 340099.98,
+   "shares_after": 394474.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2111254/0001104659-26-112076.txt",
+   "price_at_trade": 9.22,
+   "price_now": 9.86,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 6.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

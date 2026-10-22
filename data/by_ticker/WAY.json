@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "WAY",
+ "company": {
+  "name": "Waystar Holding Corp.",
+  "cik": 1990354,
+  "sic": 7373,
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Technology"
+ },
+ "price_now": 28.84,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "WAY",
+   "company_name": "Waystar Holding Corp.",
+   "owner_name": "Hawkins Matthew J.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-06",
+   "reported_date": "2026-10-07",
+   "shares": 82500.0,
+   "price": 26.2287,
+   "value": 2163867.75,
+   "shares_after": 1804794.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1990354/0001998256-26-000015.txt",
+   "price_at_trade": 26.4,
+   "price_now": 28.84,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 9.2
+  },
+  {
+   "ticker": "WAY",
+   "company_name": "Waystar Holding Corp.",
+   "owner_name": "Hawkins Matthew J.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-06",
+   "reported_date": "2026-10-07",
+   "shares": 82500.0,
+   "price": 26.2287,
+   "value": 2163867.75,
+   "shares_after": 1804794.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1998256/0001998256-26-000015.txt",
+   "price_at_trade": 26.4,
+   "price_now": 28.84,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 9.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

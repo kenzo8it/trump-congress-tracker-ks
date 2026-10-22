@@ -1,0 +1,163 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "S001214",
+  "name": "W. Gregory Steube",
+  "first": "W.",
+  "last": "Steube",
+  "nickname": null,
+  "chamber": "House",
+  "state": "FL",
+  "district": 17,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSWM",
+    "name": "House Committee on Ways and Means",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HLIG",
+    "name": "House Permanent Select Committee on Intelligence",
+    "parent": "HLIG",
+    "title": null,
+    "sectors": [
+     "Defense & Aerospace",
+     "Technology"
+    ]
+   },
+   {
+    "code": "HSWM04",
+    "name": "House Committee on Ways and Means — Trade",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HSWM02",
+    "name": "House Committee on Ways and Means — Health",
+    "parent": "HSWM",
+    "title": null,
+    "sectors": [
+     "Healthcare",
+     "Financials"
+    ]
+   },
+   {
+    "code": "HLIG04",
+    "name": "House Permanent Select Committee on Intelligence — Defense Intelligence and Overhead Architecture",
+    "parent": "HLIG",
+    "title": null,
+    "sectors": [
+     "Defense & Aerospace",
+     "Technology"
+    ]
+   },
+   {
+    "code": "HLIG02",
+    "name": "House Permanent Select Committee on Intelligence — National Security Agency and Cyber",
+    "parent": "HLIG",
+    "title": null,
+    "sectors": [
+     "Defense & Aerospace",
+     "Technology"
+    ]
+   },
+   {
+    "code": "HLIG11",
+    "name": "House Permanent Select Committee on Intelligence — Open Source Intelligence",
+    "parent": "HLIG",
+    "title": null,
+    "sectors": [
+     "Defense & Aerospace",
+     "Technology"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "IONQ",
+   "est_shares": 247.1,
+   "avg_price": 32.38,
+   "price_now": 31.26,
+   "est_position_value": 7724,
+   "total_return_pct": -3.5,
+   "total_return_usd": -277,
+   "first_buy": "2026-03-18",
+   "last_trade": "2026-03-18"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "W. Gregory Steube",
+   "state_district": "FL17",
+   "reported_date": "2026-04-14",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+   "owner": "spouse",
+   "asset": "IonQ, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "IONQ",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-03-18",
+   "notified_date": "2026-04-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "S001214",
+   "party": "Republican",
+   "state": "FL",
+   "company_name": "IonQ, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Permanent Select Committee on Intelligence"
+   ],
+   "price_at_trade": 32.38,
+   "price_now": 31.26,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -3.5,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "W. Gregory Steube",
+   "state_district": "FL17",
+   "reported_date": "2026-04-14",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+   "owner": "spouse",
+   "asset": "MARRIOTT INTL INC NEW SER LL NOTE 5.45000% 09/15/2026 (571903BM4)",
+   "asset_type": "CS",
+   "ticker": null,
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-08",
+   "notified_date": "2026-04-14",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "S001214",
+   "party": "Republican",
+   "state": "FL",
+   "days_to_disclose": 6,
+   "late_filing": false
+  }
+ ]
+}

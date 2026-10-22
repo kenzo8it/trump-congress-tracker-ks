@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "SWX",
+ "company": {
+  "name": "Southwest Gas Holdings, Inc.",
+  "cik": 1692115,
+  "sic": 4923,
+  "industry": "Natural Gas Transmisison & Distribution",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 88.42,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SWX",
+   "company_name": "Southwest Gas Holdings, Inc.",
+   "owner_name": "Williams Julie M.",
+   "owner_title": "SVP/Cont. Improvement and Opt.",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-28",
+   "reported_date": "2026-09-29",
+   "shares": 2500.0,
+   "price": 81.8074,
+   "value": 204518.5,
+   "shares_after": 26449.801,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1692115/0001932678-26-000002.txt",
+   "price_at_trade": 81.87,
+   "price_now": 88.42,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.0
+  },
+  {
+   "ticker": "SWX",
+   "company_name": "Southwest Gas Holdings, Inc.",
+   "owner_name": "Williams Julie M.",
+   "owner_title": "SVP/Cont. Improvement and Opt.",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-28",
+   "reported_date": "2026-09-29",
+   "shares": 2500.0,
+   "price": 81.8074,
+   "value": 204518.5,
+   "shares_after": 26449.801,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1932678/0001932678-26-000002.txt",
+   "price_at_trade": 81.87,
+   "price_now": 88.42,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

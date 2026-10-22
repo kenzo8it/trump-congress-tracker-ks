@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "BXMT",
+ "company": {
+  "name": "BLACKSTONE MORTGAGE TRUST, INC.",
+  "cik": 1061630,
+  "sic": 6798,
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate"
+ },
+ "price_now": 10.2,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BXMT",
+   "company_name": "BLACKSTONE MORTGAGE TRUST, INC.",
+   "owner_name": "Pena Fernando Austin",
+   "owner_title": "Director, President",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 1725.0,
+   "price": 11.6472,
+   "value": 20091.42,
+   "shares_after": 70047.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1061630/0001061630-26-000079.txt",
+   "price_at_trade": 11.45,
+   "price_now": 10.2,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -10.9
+  },
+  {
+   "ticker": "BXMT",
+   "company_name": "BLACKSTONE MORTGAGE TRUST, INC.",
+   "owner_name": "Pena Fernando Austin",
+   "owner_title": "Director, President",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-30",
+   "reported_date": "2026-10-01",
+   "shares": 1725.0,
+   "price": 11.6472,
+   "value": 20091.42,
+   "shares_after": 70047.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2089544/0001061630-26-000079.txt",
+   "price_at_trade": 11.45,
+   "price_now": 10.2,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -10.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

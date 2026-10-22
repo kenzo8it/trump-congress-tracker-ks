@@ -1,0 +1,57 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "ARCC",
+ "company": {
+  "name": "ARES CAPITAL CORP",
+  "cik": 1287750,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 18.51,
+ "price_date": "2026-10-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Pete Sessions",
+   "state_district": "TX17",
+   "reported_date": "2026-07-24",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf",
+   "owner": "spouse",
+   "asset": "Ares Capital Corporation - Closed End Fund",
+   "asset_type": "ST",
+   "ticker": "ARCC",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-07-24",
+   "notified_date": "2026-07-24",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "S000250",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "ARES CAPITAL CORP",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": 18.32,
+   "price_now": 18.51,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 1.0,
+   "days_to_disclose": 0,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,0 +1,159 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "member": {
+  "bioguide": "T000480",
+  "name": "William R. Timmons IV",
+  "first": "William",
+  "last": "Timmons",
+  "nickname": null,
+  "chamber": "House",
+  "state": "SC",
+  "district": 4,
+  "party": "Republican",
+  "committees": [
+   {
+    "code": "HSGO",
+    "name": "House Committee on Oversight and Government Reform",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSBA",
+    "name": "House Committee on Financial Services",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSGO06",
+    "name": "House Committee on Oversight and Government Reform — Military and Foreign Affairs",
+    "parent": "HSGO",
+    "title": "Chairman",
+    "sectors": []
+   },
+   {
+    "code": "HSBA21",
+    "name": "House Committee on Financial Services — Digital Assets, Financial Technology, and Artificial Intelligence",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSBA20",
+    "name": "House Committee on Financial Services — Financial Institutions",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   },
+   {
+    "code": "HSGO16",
+    "name": "House Committee on Oversight and Government Reform — Delivering on Government Efficiency",
+    "parent": "HSGO",
+    "title": null,
+    "sectors": []
+   },
+   {
+    "code": "HSBA04",
+    "name": "House Committee on Financial Services — Housing and Insurance",
+    "parent": "HSBA",
+    "title": null,
+    "sectors": [
+     "Financials",
+     "Real Estate"
+    ]
+   }
+  ]
+ },
+ "positions": [
+  {
+   "ticker": "SPCX",
+   "est_shares": 779.2,
+   "avg_price": 192.5,
+   "price_now": 147.79,
+   "est_position_value": 115162,
+   "total_return_pct": -23.2,
+   "total_return_usd": -34839,
+   "first_buy": "2026-06-15",
+   "last_trade": "2026-06-15"
+  }
+ ],
+ "trades": [
+  {
+   "chamber": "House",
+   "politician_name": "William R. Timmons IV",
+   "state_district": "SC04",
+   "reported_date": "2026-07-19",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf",
+   "owner": "self",
+   "asset": "SpaceX",
+   "asset_type": "OT",
+   "ticker": "SPCX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-06-15",
+   "notified_date": "2026-06-17",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "T000480",
+   "party": "Republican",
+   "state": "SC",
+   "company_name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 192.5,
+   "price_now": 147.79,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -23.2,
+   "days_to_disclose": 34,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "William R. Timmons IV",
+   "state_district": "SC04",
+   "reported_date": "2026-07-19",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035042.pdf",
+   "owner": "self",
+   "asset": "SpaceX",
+   "asset_type": "OT",
+   "ticker": "SPCX",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-06-15",
+   "notified_date": "2026-06-22",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "T000480",
+   "party": "Republican",
+   "state": "SC",
+   "company_name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 192.5,
+   "price_now": 147.79,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -23.2,
+   "days_to_disclose": 34,
+   "late_filing": false
+  }
+ ]
+}

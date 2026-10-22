@@ -1,0 +1,51 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "NSA",
+ "company": {},
+ "price_now": null,
+ "price_date": null,
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-09-04",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf",
+   "owner": "self",
+   "asset": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
+   "asset_type": "ST",
+   "ticker": "NSA",
+   "trade_type": "EXCHANGE",
+   "partial": false,
+   "traded_date": "2026-07-23",
+   "notified_date": "2026-08-14",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
+   "days_to_disclose": 43,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

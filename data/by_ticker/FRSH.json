@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "FRSH",
+ "company": {
+  "name": "Freshworks Inc.",
+  "cik": 1544522,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 14.82,
+ "price_date": "2026-10-21",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FRSH",
+   "company_name": "Freshworks Inc.",
+   "owner_name": "Lawrence Philippa",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-05",
+   "shares": 3492.0,
+   "price": 12.98,
+   "value": 45326.16,
+   "shares_after": 379639.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1544522/0001544522-26-000162.txt",
+   "price_at_trade": 13.22,
+   "price_now": 14.82,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 12.1
+  },
+  {
+   "ticker": "FRSH",
+   "company_name": "Freshworks Inc.",
+   "owner_name": "Lawrence Philippa",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-05",
+   "shares": 3492.0,
+   "price": 12.98,
+   "value": 45326.16,
+   "shares_after": 379639.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2033454/0001544522-26-000162.txt",
+   "price_at_trade": 13.22,
+   "price_now": 14.82,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 12.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

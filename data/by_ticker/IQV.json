@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:50+00:00",
+ "updated": "2026-10-22T01:36+00:00",
  "ticker": "IQV",
  "company": {
   "name": "IQVIA HOLDINGS INC.",
@@ -8,11 +8,11 @@
   "industry": "Services-Commercial Physical & Biological Research",
   "sector": "Healthcare"
  },
- "price_now": 274.6,
- "price_date": "2026-10-21",
+ "price_now": 267.85,
+ "price_date": "2026-10-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
-  "positions": "Positions are rebuilt from the last 30 days of disclosed trades only, so older holdings are missing.",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
   "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
@@ -44,9 +44,9 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 265.67,
-   "price_now": 274.6,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.4,
+   "price_now": 267.85,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 0.8,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 259.21,
-   "price_now": 274.6,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 5.9,
+   "price_now": 267.85,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 3.3,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -108,10 +108,42 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 271.62,
-   "price_now": 274.6,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 1.1,
+   "price_now": 267.85,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": -1.4,
    "days_to_disclose": 22,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-04-03",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034262.pdf",
+   "owner": "joint",
+   "asset": "IQVIA Holdings, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "IQV",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-03-16",
+   "notified_date": "2026-03-31",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "IQVIA HOLDINGS INC.",
+   "sector": "Healthcare",
+   "committee_overlap": [
+    "House Committee on Ways and Means"
+   ],
+   "price_at_trade": 164.89,
+   "price_now": 267.85,
+   "price_now_date": "2026-10-20",
+   "total_return_pct": 62.4,
+   "days_to_disclose": 18,
    "late_filing": false
   }
  ],

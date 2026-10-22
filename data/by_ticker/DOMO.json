@@ -1,0 +1,59 @@
+{
+ "updated": "2026-10-22T01:36+00:00",
+ "ticker": "DOMO",
+ "company": {},
+ "price_now": 3.24,
+ "price_date": "2026-10-01",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "DOMO",
+   "company_name": "Huckleberry.ai, Inc.",
+   "owner_name": "Jolley David R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-06",
+   "shares": 12845.0,
+   "price": 3.1968,
+   "value": 41062.9,
+   "shares_after": 269116.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1505952/0001628280-26-065279.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.24,
+   "price_now_date": "2026-10-01",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "DOMO",
+   "company_name": "Huckleberry.ai, Inc.",
+   "owner_name": "Jolley David R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-05",
+   "reported_date": "2026-10-06",
+   "shares": 12845.0,
+   "price": 3.1968,
+   "value": 41062.9,
+   "shares_after": 269116.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1972400/0001628280-26-065279.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.24,
+   "price_now_date": "2026-10-01",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
