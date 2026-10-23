@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "VLN",
  "company": {
   "name": "Valens Semiconductor Ltd.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "VLN",
+   "company_name": "Valens Semiconductor Ltd.",
+   "owner_name": "Rozenberg Haine Yael",
+   "owner_title": "VP Finance",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1458.0,
+   "price": 1.6212,
+   "value": 2363.71,
+   "shares_after": 135859.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1863006/0001976408-26-000898.txt",
+   "price_at_trade": 1.57,
+   "price_now": 1.61,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "VLN",
+   "company_name": "Valens Semiconductor Ltd.",
+   "owner_name": "Rozenberg Haine Yael",
+   "owner_title": "VP Finance",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1458.0,
+   "price": 1.6212,
+   "value": 2363.71,
+   "shares_after": 135859.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991398/0001976408-26-000898.txt",
+   "price_at_trade": 1.57,
+   "price_now": 1.61,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 2.5
+  },
   {
    "ticker": "VLN",
    "company_name": "Valens Semiconductor Ltd.",

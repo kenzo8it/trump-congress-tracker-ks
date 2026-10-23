@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "SYNA",
  "company": {
   "name": "SYNAPTICS Inc",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SYNA",
+   "company_name": "SYNAPTICS Inc",
+   "owner_name": "Patel Rahul G.",
+   "owner_title": "Director, See remarks below",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 4302.0,
+   "price": 117.55,
+   "value": 505700.1,
+   "shares_after": 177236.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1785783/0001785783-26-000019.txt",
+   "price_at_trade": 117.48,
+   "price_now": 117.5,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SYNA",
+   "company_name": "SYNAPTICS Inc",
+   "owner_name": "Patel Rahul G.",
+   "owner_title": "Director, See remarks below",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 4302.0,
+   "price": 117.55,
+   "value": 505700.1,
+   "shares_after": 177236.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/817720/0001785783-26-000019.txt",
+   "price_at_trade": 117.48,
+   "price_now": 117.5,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "SYNA",
    "company_name": "SYNAPTICS Inc",

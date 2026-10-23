@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "THLEF",
  "company": {},
- "price_now": 262.93,
- "price_date": "2026-10-20",
+ "price_now": 260.0,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -36,9 +36,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 265.61,
-   "price_now": 262.93,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -1.0,
+   "price_now": 260.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.1,
    "days_to_disclose": 28,
    "late_filing": false
   }
@@ -53,10 +53,10 @@
    "ticker": "THLEF",
    "est_shares": 30.1,
    "avg_price": 265.61,
-   "price_now": 262.93,
-   "est_position_value": 7920,
-   "total_return_pct": -1.0,
-   "total_return_usd": -81,
+   "price_now": 260.0,
+   "est_position_value": 7832,
+   "total_return_pct": -2.1,
+   "total_return_usd": -169,
    "first_buy": "2026-05-11",
    "last_trade": "2026-05-11"
   }

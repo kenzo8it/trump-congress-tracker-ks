@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "ARM",
  "company": {
   "name": "ARM HOLDINGS PLC /UK",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 221.06,
- "price_date": "2026-10-20",
+ "price_now": 226.59,
+ "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 136.14,
-   "price_now": 221.06,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 62.4,
+   "price_now": 226.59,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 66.4,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -72,54 +72,15 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 132.34,
-   "price_now": 221.06,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 67.0,
+   "price_now": 226.59,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 71.2,
    "days_to_disclose": 43,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "ARM",
-   "company_name": "ARM HOLDINGS PLC /UK",
-   "owner_name": "Child Jason",
-   "owner_title": "Chief Financial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-21",
-   "reported_date": "2026-09-23",
-   "shares": 10400.0,
-   "price": 300.0,
-   "value": 3120000.0,
-   "shares_after": 153442.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1533913/0001973239-26-000136.txt",
-   "price_at_trade": 322.9,
-   "price_now": 221.06,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -31.5
-  },
-  {
-   "ticker": "ARM",
-   "company_name": "ARM HOLDINGS PLC /UK",
-   "owner_name": "Child Jason",
-   "owner_title": "Chief Financial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-21",
-   "reported_date": "2026-09-23",
-   "shares": 10400.0,
-   "price": 300.0,
-   "value": 3120000.0,
-   "shares_after": 153442.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1973239/0001973239-26-000136.txt",
-   "price_at_trade": 322.9,
-   "price_now": 221.06,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -31.5
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

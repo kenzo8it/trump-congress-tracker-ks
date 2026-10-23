@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "ORIC",
  "company": {
   "name": "Oric Pharmaceuticals, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ORIC",
+   "company_name": "Oric Pharmaceuticals, Inc.",
+   "owner_name": "Piscitelli Dominic",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 14000.0,
+   "price": 13.5279,
+   "value": 189390.6,
+   "shares_after": 69828.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1695028/0001695028-26-000012.txt",
+   "price_at_trade": 13.78,
+   "price_now": 13.85,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "ORIC",
+   "company_name": "Oric Pharmaceuticals, Inc.",
+   "owner_name": "Piscitelli Dominic",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 14000.0,
+   "price": 13.5279,
+   "value": 189390.6,
+   "shares_after": 69828.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1796280/0001695028-26-000012.txt",
+   "price_at_trade": 13.78,
+   "price_now": 13.85,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "ORIC",
    "company_name": "Oric Pharmaceuticals, Inc.",

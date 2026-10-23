@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "IOT",
  "company": {
   "name": "Samsara Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "IOT",
+   "company_name": "Samsara Inc.",
+   "owner_name": "Kirchhoff Benjamin Louis",
+   "owner_title": "CHIEF ACCOUNTING OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 770.0,
+   "price": 39.79,
+   "value": 30638.3,
+   "shares_after": 148151.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1642896/0002074298-26-000020.txt",
+   "price_at_trade": 40.3,
+   "price_now": 43.24,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 7.3
+  },
+  {
+   "ticker": "IOT",
+   "company_name": "Samsara Inc.",
+   "owner_name": "Kirchhoff Benjamin Louis",
+   "owner_title": "CHIEF ACCOUNTING OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 770.0,
+   "price": 39.79,
+   "value": 30638.3,
+   "shares_after": 148151.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2074298/0002074298-26-000020.txt",
+   "price_at_trade": 40.3,
+   "price_now": 43.24,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 7.3
+  },
   {
    "ticker": "IOT",
    "company_name": "Samsara Inc.",

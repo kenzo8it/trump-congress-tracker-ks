@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "CRDO",
  "company": {
   "name": "Credo Technology Group Holding Ltd",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 171.51,
- "price_date": "2026-10-20",
+ "price_now": 182.28,
+ "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 241.91,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -29.1,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -24.6,
    "days_to_disclose": 64,
    "late_filing": true
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 271.95,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -36.9,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -33.0,
    "days_to_disclose": 2,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 153.22,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 11.9,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 19.0,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 166.62,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 2.9,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 9.4,
    "days_to_disclose": 19,
    "late_filing": false
   }
@@ -149,10 +149,10 @@
    "ticker": "CRDO",
    "est_shares": 37.7,
    "avg_price": 159.64,
-   "price_now": 171.51,
-   "est_position_value": 6473,
-   "total_return_pct": 7.4,
-   "total_return_usd": 448,
+   "price_now": 182.28,
+   "est_position_value": 6879,
+   "total_return_pct": 14.2,
+   "total_return_usd": 854,
    "first_buy": "2025-10-30",
    "last_trade": "2026-07-02"
   }
@@ -161,6 +161,424 @@
   {
    "ticker": "CRDO",
    "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 769.0,
+   "price": 170.389,
+   "value": 131029.14,
+   "shares_after": 1600061.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 568.0,
+   "price": 171.4955,
+   "value": 97409.44,
+   "shares_after": 1599493.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 2694.0,
+   "price": 172.54,
+   "value": 464822.76,
+   "shares_after": 1596799.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 3186.0,
+   "price": 173.3701,
+   "value": 552357.14,
+   "shares_after": 1593613.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 2592.0,
+   "price": 174.4961,
+   "value": 452293.89,
+   "shares_after": 1591021.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1624.0,
+   "price": 175.364,
+   "value": 284791.14,
+   "shares_after": 1589397.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1490.0,
+   "price": 176.3567,
+   "value": 262771.48,
+   "shares_after": 1587907.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1232.0,
+   "price": 177.4407,
+   "value": 218606.94,
+   "shares_after": 1586675.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1109.0,
+   "price": 178.3675,
+   "value": 197809.56,
+   "shares_after": 1585566.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 478.0,
+   "price": 179.3483,
+   "value": 85728.49,
+   "shares_after": 1585088.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 924.0,
+   "price": 180.396,
+   "value": 166685.9,
+   "shares_after": 1584164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 769.0,
+   "price": 170.389,
+   "value": 131029.14,
+   "shares_after": 1600061.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 568.0,
+   "price": 171.4955,
+   "value": 97409.44,
+   "shares_after": 1599493.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 2694.0,
+   "price": 172.54,
+   "value": 464822.76,
+   "shares_after": 1596799.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 3186.0,
+   "price": 173.3701,
+   "value": 552357.14,
+   "shares_after": 1593613.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 2592.0,
+   "price": 174.4961,
+   "value": 452293.89,
+   "shares_after": 1591021.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1624.0,
+   "price": 175.364,
+   "value": 284791.14,
+   "shares_after": 1589397.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1490.0,
+   "price": 176.3567,
+   "value": 262771.48,
+   "shares_after": 1587907.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1232.0,
+   "price": 177.4407,
+   "value": 218606.94,
+   "shares_after": 1586675.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1109.0,
+   "price": 178.3675,
+   "value": 197809.56,
+   "shares_after": 1585566.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 478.0,
+   "price": 179.3483,
+   "value": 85728.49,
+   "shares_after": 1585088.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
+   "owner_name": "Brennan William Joseph",
+   "owner_title": "Director, Pres & Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 924.0,
+   "price": 180.396,
+   "value": 166685.9,
+   "shares_after": 1584164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1896237/0001628280-26-066716.txt",
+   "price_at_trade": 172.81,
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "CRDO",
+   "company_name": "Credo Technology Group Holding Ltd",
    "owner_name": "Cheng Chi Fung",
    "owner_title": "Director, Chief Technology Officer",
    "trade_type": "SELL",
@@ -173,9 +591,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -192,9 +610,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -211,9 +629,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -230,9 +648,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -249,9 +667,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -268,9 +686,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -287,9 +705,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -306,9 +724,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -325,9 +743,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -344,9 +762,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -363,9 +781,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -382,9 +800,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -401,9 +819,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -420,9 +838,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -439,9 +857,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -458,9 +876,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -477,9 +895,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -496,9 +914,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -515,9 +933,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -534,9 +952,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -553,9 +971,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -572,9 +990,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -591,9 +1009,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -610,9 +1028,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -629,9 +1047,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -648,9 +1066,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -667,9 +1085,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -686,9 +1104,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 198.31,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -13.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "CRDO",
@@ -705,9 +1123,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1134282/0001628280-26-065882.txt",
    "price_at_trade": 200.84,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -14.6
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "CRDO",
@@ -724,9 +1142,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065881.txt",
    "price_at_trade": 200.84,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -14.6
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "CRDO",
@@ -743,9 +1161,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065882.txt",
    "price_at_trade": 200.84,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -14.6
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "CRDO",
@@ -762,9 +1180,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065881.txt",
    "price_at_trade": 200.84,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -14.6
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "CRDO",
@@ -781,9 +1199,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -800,9 +1218,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -819,9 +1237,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -838,9 +1256,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -857,9 +1275,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -876,9 +1294,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896217/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -895,9 +1313,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896217/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -914,9 +1332,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896217/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -933,9 +1351,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896217/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -952,9 +1370,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896217/0001628280-26-065684.txt",
    "price_at_trade": 211.86,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -19.0
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -14.0
   },
   {
    "ticker": "CRDO",
@@ -971,9 +1389,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -990,9 +1408,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1009,9 +1427,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1028,9 +1446,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1047,9 +1465,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1066,9 +1484,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1085,9 +1503,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1104,9 +1522,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1123,9 +1541,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1142,9 +1560,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1161,9 +1579,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1180,9 +1598,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1199,9 +1617,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1218,9 +1636,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1237,9 +1655,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1256,9 +1674,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1275,9 +1693,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1294,9 +1712,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1313,9 +1731,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1332,9 +1750,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1351,9 +1769,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1370,9 +1788,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1389,9 +1807,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1408,9 +1826,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1427,9 +1845,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1446,9 +1864,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-065346.txt",
    "price_at_trade": 220.83,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -22.3
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -17.5
   },
   {
    "ticker": "CRDO",
@@ -1465,9 +1883,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1622943/0001628280-26-064939.txt",
    "price_at_trade": 210.17,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.4
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.3
   },
   {
    "ticker": "CRDO",
@@ -1484,9 +1902,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064939.txt",
    "price_at_trade": 210.17,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.4
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.3
   },
   {
    "ticker": "CRDO",
@@ -1503,9 +1921,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064627.txt",
    "price_at_trade": 210.17,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.4
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.3
   },
   {
    "ticker": "CRDO",
@@ -1522,9 +1940,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-064627.txt",
    "price_at_trade": 210.17,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.4
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.3
   },
   {
    "ticker": "CRDO",
@@ -1541,9 +1959,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1560,9 +1978,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1579,9 +1997,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1598,9 +2016,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1617,9 +2035,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1636,9 +2054,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1655,9 +2073,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1674,9 +2092,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1693,9 +2111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1712,9 +2130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1731,9 +2149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1750,9 +2168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1769,9 +2187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1788,9 +2206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1807,9 +2225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1826,9 +2244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1845,9 +2263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1864,9 +2282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-064300.txt",
    "price_at_trade": 192.35,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -10.8
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "CRDO",
@@ -1883,9 +2301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1902,9 +2320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1921,9 +2339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1940,9 +2358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1959,9 +2377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1978,9 +2396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -1997,9 +2415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2016,9 +2434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2035,9 +2453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2054,9 +2472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2073,9 +2491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2092,9 +2510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896205/0001628280-26-063815.txt",
    "price_at_trade": 210.97,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -18.7
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "CRDO",
@@ -2111,9 +2529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2130,9 +2548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2149,9 +2567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2168,9 +2586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2187,9 +2605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2206,9 +2624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2225,9 +2643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2244,9 +2662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2263,9 +2681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2282,9 +2700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2301,9 +2719,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2320,9 +2738,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2339,9 +2757,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "CRDO",
@@ -2358,47 +2776,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896170/0001628280-26-063555.txt",
    "price_at_trade": 193.87,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -11.5
-  },
-  {
-   "ticker": "CRDO",
-   "company_name": "Credo Technology Group Holding Ltd",
-   "owner_name": "Laufman James",
-   "owner_title": "Chief Legal Officer, Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-21",
-   "reported_date": "2026-09-23",
-   "shares": 5000.0,
-   "price": 185.0,
-   "value": 925000.0,
-   "shares_after": 169223.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1622943/0001628280-26-063214.txt",
-   "price_at_trade": 187.27,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -8.4
-  },
-  {
-   "ticker": "CRDO",
-   "company_name": "Credo Technology Group Holding Ltd",
-   "owner_name": "Laufman James",
-   "owner_title": "Chief Legal Officer, Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-21",
-   "reported_date": "2026-09-23",
-   "shares": 5000.0,
-   "price": 185.0,
-   "value": 925000.0,
-   "shares_after": 169223.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1807794/0001628280-26-063214.txt",
-   "price_at_trade": 187.27,
-   "price_now": 171.51,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -8.4
+   "price_now": 182.28,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -6.0
   }
  ],
  "trump_trades": [],

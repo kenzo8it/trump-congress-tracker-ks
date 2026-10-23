@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "SO",
  "company": {
   "name": "SOUTHERN CO",
@@ -8,8 +8,8 @@
   "industry": "Electric Services",
   "sector": "Energy & Utilities"
  },
- "price_now": 90.71,
- "price_date": "2026-10-20",
+ "price_now": 90.39,
+ "price_date": "2026-10-21",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 86.9,
-   "price_now": 90.71,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 4.4,
+   "price_now": 90.39,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 4.0,
    "days_to_disclose": 45,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 90.72,
-   "price_now": 90.71,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": -0.0,
+   "price_now": 90.39,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -0.4,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -95,10 +95,10 @@
    "ticker": "SO",
    "est_shares": 92.1,
    "avg_price": 86.9,
-   "price_now": 90.71,
-   "est_position_value": 8351,
-   "total_return_pct": 4.4,
-   "total_return_usd": 351,
+   "price_now": 90.39,
+   "est_position_value": 8322,
+   "total_return_pct": 4.0,
+   "total_return_usd": 321,
    "first_buy": "2025-12-02",
    "last_trade": "2025-12-02"
   }
@@ -119,9 +119,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2082705/0001193125-26-410627.txt",
    "price_at_trade": 83.47,
-   "price_now": 90.71,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 8.7
+   "price_now": 90.39,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "SO",
@@ -138,9 +138,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/92122/0001193125-26-410627.txt",
    "price_at_trade": 83.47,
-   "price_now": 90.71,
-   "price_now_date": "2026-10-20",
-   "total_return_pct": 8.7
+   "price_now": 90.39,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 8.3
   }
  ],
  "trump_trades": [],

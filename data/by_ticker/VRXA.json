@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "VRXA",
  "company": {
   "name": "Veraxa Biotech AG - Post de-SPAC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "VRXA",
+   "company_name": "Veraxa Biotech AG - Post de-SPAC",
+   "owner_name": "Ziegler Christoph Samuel",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 30000.0,
+   "price": 1.09,
+   "value": 32700.0,
+   "shares_after": 37932.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2079109/0001829126-26-011387.txt",
+   "price_at_trade": 1.01,
+   "price_now": 1.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.0
+  },
+  {
+   "ticker": "VRXA",
+   "company_name": "Veraxa Biotech AG - Post de-SPAC",
+   "owner_name": "Ziegler Christoph Samuel",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 30000.0,
+   "price": 1.09,
+   "value": 32700.0,
+   "shares_after": 37932.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2123272/0001829126-26-011387.txt",
+   "price_at_trade": 1.01,
+   "price_now": 1.06,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 5.0
+  },
   {
    "ticker": "VRXA",
    "company_name": "Veraxa Biotech AG",

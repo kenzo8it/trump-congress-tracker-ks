@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "LEO",
  "company": {
   "name": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": "Other"
  },
- "price_now": 5.68,
- "price_date": "2026-10-21",
+ "price_now": 5.7,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Saba Capital Management, L.P.",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 7724.0,
+   "price": 5.72,
+   "value": 44181.28,
+   "shares_after": 6436358.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000369.txt",
+   "price_at_trade": 5.73,
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "LEO",
+   "company_name": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 7724.0,
+   "price": 5.72,
+   "value": 44181.28,
+   "shares_after": 6436358.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/818972/0001510281-26-000369.txt",
+   "price_at_trade": 5.73,
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "LEO",
+   "company_name": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-10-19",
    "reported_date": "2026-10-20",
    "shares": 15246.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000365.txt",
    "price_at_trade": 5.67,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.2
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "LEO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818972/0001510281-26-000365.txt",
    "price_at_trade": 5.67,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.2
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "LEO",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000365.txt",
    "price_at_trade": 5.65,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.5
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "LEO",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000365.txt",
    "price_at_trade": 5.65,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.5
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "LEO",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818972/0001510281-26-000365.txt",
    "price_at_trade": 5.65,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.5
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "LEO",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818972/0001510281-26-000365.txt",
    "price_at_trade": 5.65,
-   "price_now": 5.68,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 0.5
+   "price_now": 5.7,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   }
  ],
  "trump_trades": [],

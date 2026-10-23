@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-23T00:56+00:00",
+ "ticker": "CRF",
+ "company": {
+  "name": "CORNERSTONE TOTAL RETURN FUND INC",
+  "cik": 33934,
+  "sic": null,
+  "industry": "",
+  "sector": null
+ },
+ "price_now": 5.88,
+ "price_date": "2026-10-22",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CRF",
+   "company_name": "CORNERSTONE TOTAL RETURN FUND INC",
+   "owner_name": "Bradshaw Joshua",
+   "owner_title": "Director, Vice Chairman and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 20000.0,
+   "price": 5.88,
+   "value": 117600.0,
+   "shares_after": 20484.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1892951/0001398344-26-018542.txt",
+   "price_at_trade": 5.87,
+   "price_now": 5.88,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "CRF",
+   "company_name": "CORNERSTONE TOTAL RETURN FUND INC",
+   "owner_name": "Bradshaw Joshua",
+   "owner_title": "Director, Vice Chairman and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 20000.0,
+   "price": 5.88,
+   "value": 117600.0,
+   "shares_after": 20484.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/33934/0001398344-26-018542.txt",
+   "price_at_trade": 5.87,
+   "price_now": 5.88,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

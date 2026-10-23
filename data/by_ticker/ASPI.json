@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "ASPI",
  "company": {
   "name": "ASP Isotopes Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ASPI",
+   "company_name": "ASP Isotopes Inc.",
+   "owner_name": "Kiessling Heather",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16-05:00",
+   "reported_date": "2026-10-21",
+   "shares": 21830.0,
+   "price": 2.19,
+   "value": 47807.7,
+   "shares_after": 1504422.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1921865/0001477932-26-006387.txt",
+   "price_at_trade": 2.14,
+   "price_now": 2.17,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.4
+  },
+  {
+   "ticker": "ASPI",
+   "company_name": "ASP Isotopes Inc.",
+   "owner_name": "Kiessling Heather",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-16-05:00",
+   "reported_date": "2026-10-21",
+   "shares": 21830.0,
+   "price": 2.19,
+   "value": 47807.7,
+   "shares_after": 1504422.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2026548/0001477932-26-006387.txt",
+   "price_at_trade": 2.14,
+   "price_now": 2.17,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": 1.4
+  },
   {
    "ticker": "ASPI",
    "company_name": "ASP Isotopes Inc.",

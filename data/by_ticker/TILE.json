@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:36+00:00",
+ "updated": "2026-10-23T00:56+00:00",
  "ticker": "TILE",
  "company": {
   "name": "INTERFACE INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TILE",
+   "company_name": "INTERFACE INC",
+   "owner_name": "HENDRIX DANIEL T",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 4000.0,
+   "price": 35.39,
+   "value": 141560.0,
+   "shares_after": 80147.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1094629/0001094629-26-000004.txt",
+   "price_at_trade": 35.64,
+   "price_now": 35.07,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "TILE",
+   "company_name": "INTERFACE INC",
+   "owner_name": "HENDRIX DANIEL T",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 4000.0,
+   "price": 35.39,
+   "value": 141560.0,
+   "shares_after": 80147.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001094629-26-000004.txt",
+   "price_at_trade": 35.64,
+   "price_now": 35.07,
+   "price_now_date": "2026-10-21",
+   "total_return_pct": -1.6
+  },
   {
    "ticker": "TILE",
    "company_name": "INTERFACE INC",
