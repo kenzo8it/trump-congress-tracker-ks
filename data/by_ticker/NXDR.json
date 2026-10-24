@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "NXDR",
  "company": {
   "name": "Nextdoor Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 2.63,
- "price_date": "2026-10-21",
+ "price_now": 2.51,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NXDR",
+   "company_name": "Nextdoor Holdings, Inc.",
+   "owner_name": "Kiernan Michael",
+   "owner_title": "Chief Revenue Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 50000.0,
+   "price": 2.5434,
+   "value": 127170.0,
+   "shares_after": 455917.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1846069/0001846069-26-000191.txt",
+   "price_at_trade": 2.56,
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "NXDR",
+   "company_name": "Nextdoor Holdings, Inc.",
+   "owner_name": "Kiernan Michael",
+   "owner_title": "Chief Revenue Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 50000.0,
+   "price": 2.5434,
+   "value": 127170.0,
+   "shares_after": 455917.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2059765/0001846069-26-000191.txt",
+   "price_at_trade": 2.56,
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.0
+  },
   {
    "ticker": "NXDR",
    "company_name": "Nextdoor Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1846069/0001846069-26-000187.txt",
    "price_at_trade": 2.46,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.9
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "NXDR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1846069/0001846069-26-000188.txt",
    "price_at_trade": 2.46,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.9
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "NXDR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022306/0001846069-26-000188.txt",
    "price_at_trade": 2.46,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.9
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "NXDR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2083093/0001846069-26-000187.txt",
    "price_at_trade": 2.46,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.9
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "NXDR",
@@ -111,8 +149,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1846069/0002083093-26-000008.txt",
    "price_at_trade": null,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
    "total_return_pct": null
   },
   {
@@ -130,46 +168,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2083093/0002083093-26-000008.txt",
    "price_at_trade": null,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": null
-  },
-  {
-   "ticker": "NXDR",
-   "company_name": "Nextdoor Holdings, Inc.",
-   "owner_name": "Kiernan Michael",
-   "owner_title": "Chief Revenue Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 50000.0,
-   "price": 2.5401,
-   "value": 127005.0,
-   "shares_after": 458602.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1846069/0002059765-26-000005.txt",
-   "price_at_trade": null,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": null
-  },
-  {
-   "ticker": "NXDR",
-   "company_name": "Nextdoor Holdings, Inc.",
-   "owner_name": "Kiernan Michael",
-   "owner_title": "Chief Revenue Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 50000.0,
-   "price": 2.5401,
-   "value": 127005.0,
-   "shares_after": 458602.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2059765/0002059765-26-000005.txt",
-   "price_at_trade": null,
-   "price_now": 2.63,
-   "price_now_date": "2026-10-21",
+   "price_now": 2.51,
+   "price_now_date": "2026-10-22",
    "total_return_pct": null
   }
  ],

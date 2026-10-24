@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "WDC",
  "company": {
   "name": "WESTERN DIGITAL CORP",
@@ -8,8 +8,8 @@
   "industry": "Computer Storage Devices",
   "sector": "Technology"
  },
- "price_now": 378.51,
- "price_date": "2026-10-21",
+ "price_now": 354.19,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 441.36,
-   "price_now": 378.51,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -14.2,
+   "price_now": 354.19,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -19.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,15 +72,54 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 477.07,
-   "price_now": 378.51,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -20.7,
+   "price_now": 354.19,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -25.8,
    "days_to_disclose": 49,
    "late_filing": true
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "WDC",
+   "company_name": "WESTERN DIGITAL CORP",
+   "owner_name": "Tregillis Cynthia L",
+   "owner_title": "Chief Legal Officer & Corp Sec",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 807.0,
+   "price": 380.0,
+   "value": 306660.0,
+   "shares_after": 108927.657,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/106040/0001266824-26-000217.txt",
+   "price_at_trade": 378.51,
+   "price_now": 354.19,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -6.4
+  },
+  {
+   "ticker": "WDC",
+   "company_name": "WESTERN DIGITAL CORP",
+   "owner_name": "Tregillis Cynthia L",
+   "owner_title": "Chief Legal Officer & Corp Sec",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 807.0,
+   "price": 380.0,
+   "value": 306660.0,
+   "shares_after": 108927.657,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2057088/0001266824-26-000217.txt",
+   "price_at_trade": 378.51,
+   "price_now": 354.19,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -6.4
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

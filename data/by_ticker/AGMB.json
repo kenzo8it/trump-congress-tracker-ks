@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "AGMB",
  "company": {
   "name": "AgomAb Therapeutics NV",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 9.11,
- "price_date": "2026-10-21",
+ "price_now": 9.26,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Epstein David R",
    "owner_title": "Director",
    "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 5000.0,
+   "price": 8.86,
+   "value": 44300.0,
+   "shares_after": 20000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1445826/0001445826-26-000015.txt",
+   "price_at_trade": 9.11,
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "AGMB",
+   "company_name": "AgomAb Therapeutics NV",
+   "owner_name": "Epstein David R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 5000.0,
+   "price": 8.9,
+   "value": 44500.0,
+   "shares_after": 25000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1445826/0001445826-26-000015.txt",
+   "price_at_trade": 9.11,
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "AGMB",
+   "company_name": "AgomAb Therapeutics NV",
+   "owner_name": "Epstein David R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 5000.0,
+   "price": 8.86,
+   "value": 44300.0,
+   "shares_after": 20000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0001445826-26-000015.txt",
+   "price_at_trade": 9.11,
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "AGMB",
+   "company_name": "AgomAb Therapeutics NV",
+   "owner_name": "Epstein David R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 5000.0,
+   "price": 8.9,
+   "value": 44500.0,
+   "shares_after": 25000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0001445826-26-000015.txt",
+   "price_at_trade": 9.11,
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "AGMB",
+   "company_name": "AgomAb Therapeutics NV",
+   "owner_name": "Epstein David R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
    "traded_date": "2026-10-08",
    "reported_date": "2026-10-09",
    "shares": 5000.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1445826/0001445826-26-000014.txt",
    "price_at_trade": 9.22,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -1.2
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "AGMB",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0001445826-26-000014.txt",
    "price_at_trade": 9.22,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -1.2
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "AGMB",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1445826/0001445826-26-000013.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0001445826-26-000013.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0002120886-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2119332/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2119332/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2119332/0002119332-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2120886/0002120886-26-000001.txt",
    "price_at_trade": 8.84,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.1
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "AGMB",
@@ -263,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1445826/0001445826-26-000013.txt",
    "price_at_trade": 8.69,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.8
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "AGMB",
@@ -282,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0001445826-26-000013.txt",
    "price_at_trade": 8.69,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.8
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "AGMB",
@@ -301,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020932/0002120886-26-000001.txt",
    "price_at_trade": 8.69,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.8
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "AGMB",
@@ -320,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2120886/0002120886-26-000001.txt",
    "price_at_trade": 8.69,
-   "price_now": 9.11,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.8
+   "price_now": 9.26,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   }
  ],
  "trump_trades": [],

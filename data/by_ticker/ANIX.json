@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "ANIX",
  "company": {
   "name": "Anixa Biosciences Inc",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 2.71,
- "price_date": "2026-10-21",
+ "price_now": 2.78,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ANIX",
+   "company_name": "Anixa Biosciences Inc",
+   "owner_name": "KUMAR AMIT",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-22",
+   "shares": 8000.0,
+   "price": 2.72,
+   "value": 21760.0,
+   "shares_after": 680000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1191905/0001493152-26-048144.txt",
+   "price_at_trade": 2.78,
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ANIX",
+   "company_name": "Anixa Biosciences Inc",
+   "owner_name": "KUMAR AMIT",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-22",
+   "shares": 8000.0,
+   "price": 2.72,
+   "value": 21760.0,
+   "shares_after": 680000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/715446/0001493152-26-048144.txt",
+   "price_at_trade": 2.78,
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "ANIX",
    "company_name": "Anixa Biosciences Inc",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1689394/0001493152-26-045053.txt",
    "price_at_trade": 2.93,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -7.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ANIX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715446/0001493152-26-045053.txt",
    "price_at_trade": 2.93,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -7.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ANIX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1191905/0001493152-26-044458.txt",
    "price_at_trade": 2.78,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -2.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "ANIX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1683567/0001493152-26-044457.txt",
    "price_at_trade": 2.78,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -2.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "ANIX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715446/0001493152-26-044457.txt",
    "price_at_trade": 2.78,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -2.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "ANIX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715446/0001493152-26-044458.txt",
    "price_at_trade": 2.78,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -2.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "ANIX",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1499254/0001493152-26-044250.txt",
    "price_at_trade": 2.75,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -1.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "ANIX",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715446/0001493152-26-044250.txt",
    "price_at_trade": 2.75,
-   "price_now": 2.71,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -1.5
+   "price_now": 2.78,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "SEIC",
  "company": {
   "name": "SEI INVESTMENTS CO",
@@ -8,8 +8,8 @@
   "industry": "Security Brokers, Dealers & Flotation Companies",
   "sector": "Financials"
  },
- "price_now": 108.43,
- "price_date": "2026-10-21",
+ "price_now": 104.5,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059374/0000929638-26-003767.txt",
    "price_at_trade": 102.66,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 5.6
+   "price_now": 104.5,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "SEIC",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/350894/0000929638-26-003767.txt",
    "price_at_trade": 102.66,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 5.6
+   "price_now": 104.5,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "SEIC",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059374/0000929638-26-003767.txt",
    "price_at_trade": 103.35,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.9
+   "price_now": 104.5,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "SEIC",
@@ -92,47 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/350894/0000929638-26-003767.txt",
    "price_at_trade": 103.35,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.9
-  },
-  {
-   "ticker": "SEIC",
-   "company_name": "SEI INVESTMENTS CO",
-   "owner_name": "LANE MICHAEL",
-   "owner_title": "Executive Vice President",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 2400.0,
-   "price": 102.78,
-   "value": 246672.0,
-   "shares_after": 39581.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2037087/0000929638-26-003634.txt",
-   "price_at_trade": 103.76,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.5
-  },
-  {
-   "ticker": "SEIC",
-   "company_name": "SEI INVESTMENTS CO",
-   "owner_name": "LANE MICHAEL",
-   "owner_title": "Executive Vice President",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 2400.0,
-   "price": 102.78,
-   "value": 246672.0,
-   "shares_after": 39581.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/350894/0000929638-26-003634.txt",
-   "price_at_trade": 103.76,
-   "price_now": 108.43,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 4.5
+   "price_now": 104.5,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.1
   }
  ],
  "trump_trades": [],

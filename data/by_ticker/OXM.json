@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "OXM",
  "company": {
   "name": "OXFORD INDUSTRIES INC",
@@ -8,8 +8,8 @@
   "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
   "sector": "Retail & Consumer"
  },
- "price_now": 26.05,
- "price_date": "2026-10-21",
+ "price_now": 28.35,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,54 +44,15 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 24.38,
-   "price_now": 26.05,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.8,
+   "price_now": 28.35,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 16.3,
    "days_to_disclose": 13,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "OXM",
-   "company_name": "OXFORD INDUSTRIES INC",
-   "owner_name": "Chubb Thomas Caldecot III",
-   "owner_title": "Director, CEO and President",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-24",
-   "shares": 2500.0,
-   "price": 26.1499,
-   "value": 65374.75,
-   "shares_after": 36200.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1296939/0000075288-26-000095.txt",
-   "price_at_trade": 25.42,
-   "price_now": 26.05,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 2.5
-  },
-  {
-   "ticker": "OXM",
-   "company_name": "OXFORD INDUSTRIES INC",
-   "owner_name": "Chubb Thomas Caldecot III",
-   "owner_title": "Director, CEO and President",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-24",
-   "shares": 2500.0,
-   "price": 26.1499,
-   "value": 65374.75,
-   "shares_after": 36200.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/75288/0000075288-26-000095.txt",
-   "price_at_trade": 25.42,
-   "price_now": 26.05,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 2.5
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

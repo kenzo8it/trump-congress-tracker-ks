@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "PRCH",
  "company": {
   "name": "Porch Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Accident & Health Insurance",
   "sector": "Financials"
  },
- "price_now": 18.59,
- "price_date": "2026-10-21",
+ "price_now": 17.94,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Neagle Matthew",
    "owner_title": "Chief Operating Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 31250.0,
+   "price": 18.0149,
+   "value": 562965.62,
+   "shares_after": 1793006.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000050.txt",
+   "price_at_trade": 18.18,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.3
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Reierson Amanda L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 7418.0,
+   "price": 17.9835,
+   "value": 133401.6,
+   "shares_after": 113261.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001950180-26-000010.txt",
+   "price_at_trade": 18.18,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.3
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Neagle Matthew",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 31250.0,
+   "price": 18.0149,
+   "value": 562965.62,
+   "shares_after": 1793006.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000050.txt",
+   "price_at_trade": 18.18,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.3
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Reierson Amanda L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 7418.0,
+   "price": 17.9835,
+   "value": 133401.6,
+   "shares_after": 113261.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1950180/0001950180-26-000010.txt",
+   "price_at_trade": 18.18,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.3
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Neagle Matthew",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-10-16",
    "reported_date": "2026-10-20",
    "shares": 40625.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000048.txt",
    "price_at_trade": 17.5,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.2
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PRCH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001950180-26-000008.txt",
    "price_at_trade": 17.5,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.2
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PRCH",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000048.txt",
    "price_at_trade": 17.5,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.2
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PRCH",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950180/0001950180-26-000008.txt",
    "price_at_trade": 17.5,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.2
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PRCH",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1515184/0001515184-26-000041.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001515184-26-000041.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000046.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000046.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -187,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001950180-26-000006.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001954327-26-000051.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001954327-26-000051.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000046.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -263,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000046.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -282,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950180/0001950180-26-000006.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -301,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1954327/0001954327-26-000051.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -320,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1954327/0001954327-26-000051.txt",
    "price_at_trade": 17.17,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.3
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.5
   },
   {
    "ticker": "PRCH",
@@ -339,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1515184/0001515184-26-000041.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "PRCH",
@@ -358,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001515184-26-000041.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "PRCH",
@@ -377,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000046.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "PRCH",
@@ -396,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001954327-26-000051.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "PRCH",
@@ -415,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000046.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "PRCH",
@@ -434,8 +510,46 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1954327/0001954327-26-000051.txt",
    "price_at_trade": 17.35,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 3.4
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Neagle Matthew",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 35031.0,
+   "price": 16.6137,
+   "value": 581994.52,
+   "shares_after": 1905674.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000044.txt",
+   "price_at_trade": 16.75,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.1
+  },
+  {
+   "ticker": "PRCH",
+   "company_name": "Porch Group, Inc.",
+   "owner_name": "Neagle Matthew",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-01",
+   "reported_date": "2026-10-05",
+   "shares": 5594.0,
+   "price": 17.1662,
+   "value": 96027.72,
+   "shares_after": 1900080.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000044.txt",
+   "price_at_trade": 16.75,
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
    "total_return_pct": 7.1
   },
   {
@@ -451,49 +565,11 @@
    "value": 581994.52,
    "shares_after": 1905674.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000044.txt",
-   "price_at_trade": 16.75,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.0
-  },
-  {
-   "ticker": "PRCH",
-   "company_name": "Porch Group, Inc.",
-   "owner_name": "Neagle Matthew",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 5594.0,
-   "price": 17.1662,
-   "value": 96027.72,
-   "shares_after": 1900080.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001837336-26-000044.txt",
-   "price_at_trade": 16.75,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.0
-  },
-  {
-   "ticker": "PRCH",
-   "company_name": "Porch Group, Inc.",
-   "owner_name": "Neagle Matthew",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 35031.0,
-   "price": 16.6137,
-   "value": 581994.52,
-   "shares_after": 1905674.0,
-   "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000044.txt",
    "price_at_trade": 16.75,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.0
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "PRCH",
@@ -510,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837336/0001837336-26-000044.txt",
    "price_at_trade": 16.75,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.0
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "PRCH",
@@ -529,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1515184/0001515184-26-000041.txt",
    "price_at_trade": 16.44,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 13.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "PRCH",
@@ -548,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784535/0001515184-26-000041.txt",
    "price_at_trade": 16.44,
-   "price_now": 18.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 13.1
+   "price_now": 17.94,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.1
   }
  ],
  "trump_trades": [],

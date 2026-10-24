@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -15,20 +15,9 @@
    "chamber": "House",
    "state": "NY",
    "positions": 1,
-   "est_portfolio_value": 13983,
-   "total_return_pct": 74.8,
-   "total_return_usd": 5982
-  },
-  {
-   "bioguide": "L000595",
-   "name": "Julia Letlow",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "LA",
-   "positions": 68,
-   "est_portfolio_value": 813699,
-   "total_return_pct": 43.7,
-   "total_return_usd": 247264
+   "est_portfolio_value": 13939,
+   "total_return_pct": 74.2,
+   "total_return_usd": 5939
   },
   {
    "bioguide": "C001055",
@@ -37,31 +26,20 @@
    "chamber": "House",
    "state": "HI",
    "positions": 1,
-   "est_portfolio_value": 114436,
-   "total_return_pct": 43.0,
-   "total_return_usd": 34431
+   "est_portfolio_value": 115843,
+   "total_return_pct": 44.8,
+   "total_return_usd": 35838
   },
   {
-   "bioguide": "M001217",
-   "name": "Jared Moskowitz",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 28,
-   "est_portfolio_value": 853448,
-   "total_return_pct": 33.7,
-   "total_return_usd": 215076
-  },
-  {
-   "bioguide": "W000798",
-   "name": "Tim Walberg",
+   "bioguide": "L000595",
+   "name": "Julia Letlow",
    "party": "Republican",
    "chamber": "House",
-   "state": "MI",
-   "positions": 12,
-   "est_portfolio_value": 410902,
-   "total_return_pct": 33.1,
-   "total_return_usd": 102233
+   "state": "LA",
+   "positions": 68,
+   "est_portfolio_value": 800662,
+   "total_return_pct": 41.3,
+   "total_return_usd": 234220
   },
   {
    "bioguide": "L000566",
@@ -70,31 +48,31 @@
    "chamber": "House",
    "state": "OH",
    "positions": 1,
-   "est_portfolio_value": 84507,
-   "total_return_pct": 31.0,
-   "total_return_usd": 20004
+   "est_portfolio_value": 86163,
+   "total_return_pct": 33.6,
+   "total_return_usd": 21661
   },
   {
-   "bioguide": "G000591",
-   "name": "Michael Guest",
+   "bioguide": "W000798",
+   "name": "Tim Walberg",
    "party": "Republican",
    "chamber": "House",
-   "state": "MS",
-   "positions": 1,
-   "est_portfolio_value": 10020,
-   "total_return_pct": 25.2,
-   "total_return_usd": 2019
+   "state": "MI",
+   "positions": 12,
+   "est_portfolio_value": 407502,
+   "total_return_pct": 32.0,
+   "total_return_usd": 98831
   },
   {
-   "bioguide": "E000296",
-   "name": "Dwight Evans",
+   "bioguide": "M001217",
+   "name": "Jared Moskowitz",
    "party": "Democrat",
    "chamber": "House",
-   "state": "PA",
-   "positions": 1,
-   "est_portfolio_value": 9952,
-   "total_return_pct": 24.4,
-   "total_return_usd": 1951
+   "state": "FL",
+   "positions": 28,
+   "est_portfolio_value": 833297,
+   "total_return_pct": 30.5,
+   "total_return_usd": 194919
   },
   {
    "bioguide": "D000032",
@@ -103,20 +81,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 14,
-   "est_portfolio_value": 279992,
-   "total_return_pct": 23.8,
-   "total_return_usd": 53859
-  },
-  {
-   "bioguide": "M001136",
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "positions": 62,
-   "est_portfolio_value": 278618,
-   "total_return_pct": 20.1,
-   "total_return_usd": 46713
+   "est_portfolio_value": 278865,
+   "total_return_pct": 23.3,
+   "total_return_usd": 52731
   },
   {
    "bioguide": "F000472",
@@ -125,20 +92,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 6,
-   "est_portfolio_value": 275996,
-   "total_return_pct": 20.0,
-   "total_return_usd": 45990
-  },
-  {
-   "bioguide": "G000583",
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "positions": 37,
-   "est_portfolio_value": 1855691,
-   "total_return_pct": 18.7,
-   "total_return_usd": 292115
+   "est_portfolio_value": 281267,
+   "total_return_pct": 22.3,
+   "total_return_usd": 51260
   },
   {
    "bioguide": "S001212",
@@ -147,31 +103,42 @@
    "chamber": "House",
    "state": "MN",
    "positions": 1,
-   "est_portfolio_value": 37963,
-   "total_return_pct": 16.8,
-   "total_return_usd": 5462
+   "est_portfolio_value": 39124,
+   "total_return_pct": 20.4,
+   "total_return_usd": 6623
   },
   {
-   "bioguide": "B001325",
-   "name": "Sheri Biggs",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "SC",
-   "positions": 1,
-   "est_portfolio_value": 202028,
-   "total_return_pct": 15.4,
-   "total_return_usd": 27027
-  },
-  {
-   "bioguide": "P000197",
-   "name": "Nancy Pelosi",
+   "bioguide": "E000296",
+   "name": "Dwight Evans",
    "party": "Democrat",
    "chamber": "House",
-   "state": "CA",
-   "positions": 7,
-   "est_portfolio_value": 16773280,
-   "total_return_pct": 13.5,
-   "total_return_usd": 1998273
+   "state": "PA",
+   "positions": 1,
+   "est_portfolio_value": 9514,
+   "total_return_pct": 18.9,
+   "total_return_usd": 1514
+  },
+  {
+   "bioguide": "M001136",
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "positions": 62,
+   "est_portfolio_value": 270008,
+   "total_return_pct": 16.4,
+   "total_return_usd": 38104
+  },
+  {
+   "bioguide": "G000583",
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "positions": 37,
+   "est_portfolio_value": 1816914,
+   "total_return_pct": 16.2,
+   "total_return_usd": 253350
   },
   {
    "bioguide": "F000485",
@@ -180,9 +147,20 @@
    "chamber": "House",
    "state": "GA",
    "positions": 29,
-   "est_portfolio_value": 418804,
-   "total_return_pct": 13.3,
-   "total_return_usd": 49289
+   "est_portfolio_value": 422581,
+   "total_return_pct": 14.4,
+   "total_return_usd": 53060
+  },
+  {
+   "bioguide": "G000591",
+   "name": "Michael Guest",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MS",
+   "positions": 1,
+   "est_portfolio_value": 9119,
+   "total_return_pct": 14.0,
+   "total_return_usd": 1118
   },
   {
    "bioguide": "P000048",
@@ -191,31 +169,20 @@
    "chamber": "House",
    "state": "TX",
    "positions": 5,
-   "est_portfolio_value": 181409,
-   "total_return_pct": 11.6,
-   "total_return_usd": 18906
+   "est_portfolio_value": 181721,
+   "total_return_pct": 11.8,
+   "total_return_usd": 19218
   },
   {
-   "bioguide": "F000110",
-   "name": "Cleo Fields",
-   "party": "Democrat",
+   "bioguide": "B001325",
+   "name": "Sheri Biggs",
+   "party": "Republican",
    "chamber": "House",
-   "state": "LA",
-   "positions": 20,
-   "est_portfolio_value": 5634856,
-   "total_return_pct": 10.3,
-   "total_return_usd": 525316
-  },
-  {
-   "bioguide": "C001123",
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "positions": 265,
-   "est_portfolio_value": 5643109,
-   "total_return_pct": 10.3,
-   "total_return_usd": 524973
+   "state": "SC",
+   "positions": 1,
+   "est_portfolio_value": 194511,
+   "total_return_pct": 11.1,
+   "total_return_usd": 19510
   },
   {
    "bioguide": "M001208",
@@ -224,53 +191,20 @@
    "chamber": "House",
    "state": "GA",
    "positions": 20,
-   "est_portfolio_value": 127086,
-   "total_return_pct": 8.5,
-   "total_return_usd": 9940
+   "est_portfolio_value": 128641,
+   "total_return_pct": 9.8,
+   "total_return_usd": 11494
   },
   {
-   "bioguide": "J000309",
-   "name": "Jonathan L. Jackson",
+   "bioguide": "C001123",
+   "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
-   "state": "IL",
-   "positions": 15,
-   "est_portfolio_value": 553641,
-   "total_return_pct": 7.4,
-   "total_return_usd": 38026
-  },
-  {
-   "bioguide": "T000490",
-   "name": "David J. Taylor",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "OH",
-   "positions": 22,
-   "est_portfolio_value": 648039,
-   "total_return_pct": 7.1,
-   "total_return_usd": 43177
-  },
-  {
-   "bioguide": "S000168",
-   "name": "Maria Elvira Salazar",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 36,
-   "est_portfolio_value": 1012786,
-   "total_return_pct": 6.4,
-   "total_return_usd": 61342
-  },
-  {
-   "bioguide": "L000560",
-   "name": "Rick Larsen",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "WA",
-   "positions": 13,
-   "est_portfolio_value": 110455,
-   "total_return_pct": 6.2,
-   "total_return_usd": 6448
+   "state": "CA",
+   "positions": 265,
+   "est_portfolio_value": 5586939,
+   "total_return_pct": 9.2,
+   "total_return_usd": 468812
   },
   {
    "bioguide": "D000399",
@@ -279,9 +213,20 @@
    "chamber": "House",
    "state": "TX",
    "positions": 6,
-   "est_portfolio_value": 185850,
-   "total_return_pct": 5.6,
-   "total_return_usd": 9840
+   "est_portfolio_value": 191785,
+   "total_return_pct": 9.0,
+   "total_return_usd": 15775
+  },
+  {
+   "bioguide": "T000490",
+   "name": "David J. Taylor",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 22,
+   "est_portfolio_value": 656620,
+   "total_return_pct": 8.6,
+   "total_return_usd": 51756
   },
   {
    "bioguide": "H001082",
@@ -290,9 +235,20 @@
    "chamber": "House",
    "state": "OK",
    "positions": 1,
-   "est_portfolio_value": 8413,
-   "total_return_pct": 5.1,
-   "total_return_usd": 412
+   "est_portfolio_value": 8654,
+   "total_return_pct": 8.2,
+   "total_return_usd": 654
+  },
+  {
+   "bioguide": "F000110",
+   "name": "Cleo Fields",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "LA",
+   "positions": 20,
+   "est_portfolio_value": 5518548,
+   "total_return_pct": 7.3,
+   "total_return_usd": 377007
   },
   {
    "bioguide": "W000816",
@@ -301,9 +257,53 @@
    "chamber": "House",
    "state": "TX",
    "positions": 2,
-   "est_portfolio_value": 16805,
-   "total_return_pct": 5.0,
-   "total_return_usd": 805
+   "est_portfolio_value": 16974,
+   "total_return_pct": 6.1,
+   "total_return_usd": 974
+  },
+  {
+   "bioguide": "S000168",
+   "name": "Maria Elvira Salazar",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 36,
+   "est_portfolio_value": 1008629,
+   "total_return_pct": 6.0,
+   "total_return_usd": 57185
+  },
+  {
+   "bioguide": "L000560",
+   "name": "Rick Larsen",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "WA",
+   "positions": 13,
+   "est_portfolio_value": 110155,
+   "total_return_pct": 5.9,
+   "total_return_usd": 6146
+  },
+  {
+   "bioguide": "J000309",
+   "name": "Jonathan L. Jackson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "IL",
+   "positions": 15,
+   "est_portfolio_value": 543626,
+   "total_return_pct": 5.4,
+   "total_return_usd": 28014
+  },
+  {
+   "bioguide": "P000197",
+   "name": "Nancy Pelosi",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "positions": 7,
+   "est_portfolio_value": 15526330,
+   "total_return_pct": 5.1,
+   "total_return_usd": 751323
   },
   {
    "bioguide": "K000398",
@@ -311,32 +311,10 @@
    "party": "Republican",
    "chamber": "House",
    "state": "NJ",
-   "positions": 14,
-   "est_portfolio_value": 185870,
-   "total_return_pct": 4.8,
-   "total_return_usd": 8544
-  },
-  {
-   "bioguide": "M001239",
-   "name": "John J. McGuire III",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "VA",
-   "positions": 6,
-   "est_portfolio_value": 59418,
-   "total_return_pct": 4.0,
-   "total_return_usd": 2277
-  },
-  {
-   "bioguide": "A000372",
-   "name": "Rick W. Allen",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "positions": 6,
-   "est_portfolio_value": 97940,
-   "total_return_pct": 1.5,
-   "total_return_usd": 1436
+   "positions": 13,
+   "est_portfolio_value": 166945,
+   "total_return_pct": 3.4,
+   "total_return_usd": 5476
   },
   {
    "bioguide": "J000310",
@@ -345,42 +323,20 @@
    "chamber": "House",
    "state": "TX",
    "positions": 9,
-   "est_portfolio_value": 33512,
-   "total_return_pct": -0.3,
-   "total_return_usd": -85
-  },
-  {
-   "bioguide": "S001214",
-   "name": "W. Gregory Steube",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 1,
-   "est_portfolio_value": 7976,
-   "total_return_pct": -0.3,
-   "total_return_usd": -25
-  },
-  {
-   "bioguide": "R000619",
-   "name": "Michael A. Rulli",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "OH",
-   "positions": 9,
-   "est_portfolio_value": 72376,
-   "total_return_pct": -0.6,
-   "total_return_usd": -402
-  },
-  {
-   "bioguide": "J000307",
-   "name": "John James",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "positions": 1,
-   "est_portfolio_value": 32169,
+   "est_portfolio_value": 33260,
    "total_return_pct": -1.0,
-   "total_return_usd": -331
+   "total_return_usd": -336
+  },
+  {
+   "bioguide": "A000372",
+   "name": "Rick W. Allen",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "positions": 6,
+   "est_portfolio_value": 95404,
+   "total_return_pct": -1.1,
+   "total_return_usd": -1102
   },
   {
    "bioguide": "N000189",
@@ -389,9 +345,42 @@
    "chamber": "House",
    "state": "WA",
    "positions": 22,
-   "est_portfolio_value": 167291,
-   "total_return_pct": -2.4,
-   "total_return_usd": -4048
+   "est_portfolio_value": 168889,
+   "total_return_pct": -1.4,
+   "total_return_usd": -2450
+  },
+  {
+   "bioguide": "M001239",
+   "name": "John J. McGuire III",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "VA",
+   "positions": 6,
+   "est_portfolio_value": 56357,
+   "total_return_pct": -1.4,
+   "total_return_usd": -784
+  },
+  {
+   "bioguide": "S001214",
+   "name": "W. Gregory Steube",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 1,
+   "est_portfolio_value": 7699,
+   "total_return_pct": -3.8,
+   "total_return_usd": -301
+  },
+  {
+   "bioguide": "R000619",
+   "name": "Michael A. Rulli",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 9,
+   "est_portfolio_value": 69755,
+   "total_return_pct": -4.1,
+   "total_return_usd": -3020
   },
   {
    "bioguide": "C001068",
@@ -400,20 +389,9 @@
    "chamber": "House",
    "state": "TN",
    "positions": 2,
-   "est_portfolio_value": 14967,
-   "total_return_pct": -6.5,
-   "total_return_usd": -1035
-  },
-  {
-   "bioguide": "M001232",
-   "name": "April McClain Delaney",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "MD",
-   "positions": 3,
-   "est_portfolio_value": 71425,
-   "total_return_pct": -7.8,
-   "total_return_usd": -6024
+   "est_portfolio_value": 14998,
+   "total_return_pct": -6.3,
+   "total_return_usd": -1004
   },
   {
    "bioguide": "F000450",
@@ -422,9 +400,20 @@
    "chamber": "House",
    "state": "NC",
    "positions": 1,
-   "est_portfolio_value": 7345,
-   "total_return_pct": -8.2,
-   "total_return_usd": -656
+   "est_portfolio_value": 7480,
+   "total_return_pct": -6.5,
+   "total_return_usd": -521
+  },
+  {
+   "bioguide": "M001232",
+   "name": "April McClain Delaney",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "MD",
+   "positions": 3,
+   "est_portfolio_value": 71508,
+   "total_return_pct": -7.7,
+   "total_return_usd": -5941
   },
   {
    "bioguide": "D000624",
@@ -433,9 +422,20 @@
    "chamber": "House",
    "state": "MI",
    "positions": 1,
-   "est_portfolio_value": 7245,
-   "total_return_pct": -9.4,
-   "total_return_usd": -755
+   "est_portfolio_value": 7241,
+   "total_return_pct": -9.5,
+   "total_return_usd": -760
+  },
+  {
+   "bioguide": "J000307",
+   "name": "John James",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "positions": 1,
+   "est_portfolio_value": 29229,
+   "total_return_pct": -10.1,
+   "total_return_usd": -3271
   },
   {
    "bioguide": "M001236",
@@ -444,31 +444,9 @@
    "chamber": "House",
    "state": "NC",
    "positions": 11,
-   "est_portfolio_value": 278190,
-   "total_return_pct": -16.6,
-   "total_return_usd": -55453
-  },
-  {
-   "bioguide": "T000480",
-   "name": "William R. Timmons IV",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "SC",
-   "positions": 1,
-   "est_portfolio_value": 124138,
-   "total_return_pct": -17.2,
-   "total_return_usd": -25863
-  },
-  {
-   "bioguide": "M001204",
-   "name": "Daniel Meuser",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "PA",
-   "positions": 1,
-   "est_portfolio_value": 26897,
-   "total_return_pct": -17.2,
-   "total_return_usd": -5604
+   "est_portfolio_value": 285471,
+   "total_return_pct": -14.4,
+   "total_return_usd": -48168
   },
   {
    "bioguide": "H001094",
@@ -477,20 +455,9 @@
    "chamber": "House",
    "state": "OR",
    "positions": 3,
-   "est_portfolio_value": 6965,
-   "total_return_pct": -22.2,
-   "total_return_usd": -1991
-  },
-  {
-   "bioguide": "G000603",
-   "name": "Brandon Gill",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "TX",
-   "positions": 1,
-   "est_portfolio_value": 24778,
-   "total_return_pct": -23.8,
-   "total_return_usd": -7722
+   "est_portfolio_value": 7317,
+   "total_return_pct": -18.3,
+   "total_return_usd": -1640
   },
   {
    "bioguide": "L000597",
@@ -499,9 +466,42 @@
    "chamber": "House",
    "state": "FL",
    "positions": 1,
-   "est_portfolio_value": 24360,
-   "total_return_pct": -25.0,
-   "total_return_usd": -8140
+   "est_portfolio_value": 25089,
+   "total_return_pct": -22.8,
+   "total_return_usd": -7411
+  },
+  {
+   "bioguide": "T000480",
+   "name": "William R. Timmons IV",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "SC",
+   "positions": 1,
+   "est_portfolio_value": 112793,
+   "total_return_pct": -24.8,
+   "total_return_usd": -37208
+  },
+  {
+   "bioguide": "M001204",
+   "name": "Daniel Meuser",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "PA",
+   "positions": 1,
+   "est_portfolio_value": 24439,
+   "total_return_pct": -24.8,
+   "total_return_usd": -8062
+  },
+  {
+   "bioguide": "G000603",
+   "name": "Brandon Gill",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "TX",
+   "positions": 1,
+   "est_portfolio_value": 23856,
+   "total_return_pct": -26.6,
+   "total_return_usd": -8644
   }
  ]
 }

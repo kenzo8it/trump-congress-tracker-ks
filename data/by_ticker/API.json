@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "API",
  "company": {
   "name": "Agora, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 4.49,
- "price_date": "2026-10-21",
+ "price_now": 4.39,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,158 @@
    "owner_name": "Zhao Bin",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-22",
+   "shares": 8989.0,
+   "price": 4.3989,
+   "value": 39541.71,
+   "shares_after": 2204735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-429245.txt",
+   "price_at_trade": 4.39,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-22",
+   "shares": 8989.0,
+   "price": 4.3989,
+   "value": 39541.71,
+   "shares_after": 2204735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-429245.txt",
+   "price_at_trade": 4.39,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 9513.0,
+   "price": 4.4551,
+   "value": 42381.37,
+   "shares_after": 2195746.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-429245.txt",
+   "price_at_trade": 4.49,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 9513.0,
+   "price": 4.4551,
+   "value": 42381.37,
+   "shares_after": 2195746.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-429245.txt",
+   "price_at_trade": 4.49,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 9794.0,
+   "price": 4.3551,
+   "value": 42653.85,
+   "shares_after": 2186233.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-429245.txt",
+   "price_at_trade": 4.4,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 9794.0,
+   "price": 4.3551,
+   "value": 42653.85,
+   "shares_after": 2186233.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-429245.txt",
+   "price_at_trade": 4.4,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-22",
+   "shares": 9971.0,
+   "price": 4.3855,
+   "value": 43727.82,
+   "shares_after": 2176439.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-429245.txt",
+   "price_at_trade": 4.37,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-22",
+   "shares": 9971.0,
+   "price": 4.3855,
+   "value": 43727.82,
+   "shares_after": 2176439.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-429245.txt",
+   "price_at_trade": 4.37,
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "API",
+   "company_name": "Agora, Inc.",
+   "owner_name": "Zhao Bin",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
    "traded_date": "2026-10-16",
    "reported_date": "2026-10-19",
    "shares": 8800.0,
@@ -35,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-424723.txt",
    "price_at_trade": 4.35,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "API",
@@ -54,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-424723.txt",
    "price_at_trade": 4.35,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "API",
@@ -73,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-424723.txt",
    "price_at_trade": 4.5,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -0.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "API",
@@ -92,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-424723.txt",
    "price_at_trade": 4.5,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -0.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "API",
@@ -111,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-422252.txt",
    "price_at_trade": 4.32,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.9
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "API",
@@ -130,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-422252.txt",
    "price_at_trade": 4.32,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.9
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "API",
@@ -149,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-422252.txt",
    "price_at_trade": 4.42,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 1.6
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "API",
@@ -168,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-422252.txt",
    "price_at_trade": 4.42,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 1.6
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "API",
@@ -187,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-422252.txt",
    "price_at_trade": 4.11,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 9.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "API",
@@ -206,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-422252.txt",
    "price_at_trade": 4.11,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 9.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "API",
@@ -225,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.08,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.6
   },
   {
    "ticker": "API",
@@ -244,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.08,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.6
   },
   {
    "ticker": "API",
@@ -263,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.04,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.1
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 8.7
   },
   {
    "ticker": "API",
@@ -282,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.04,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 11.1
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 8.7
   },
   {
    "ticker": "API",
@@ -301,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -320,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -339,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.12,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 9.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "API",
@@ -358,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.12,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 9.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "API",
@@ -377,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -396,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -415,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.08,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.6
   },
   {
    "ticker": "API",
@@ -434,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.08,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.0
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 7.6
   },
   {
    "ticker": "API",
@@ -453,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.14,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.5
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "API",
@@ -472,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.14,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.5
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "API",
@@ -491,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.18,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.4
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "API",
@@ -510,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.18,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.4
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "API",
@@ -529,9 +681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -548,9 +700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -567,9 +719,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -586,9 +738,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.15,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 8.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "API",
@@ -605,9 +757,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.21,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.7
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "API",
@@ -624,9 +776,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.21,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 6.7
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "API",
@@ -643,9 +795,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.27,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 5.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "API",
@@ -662,9 +814,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.27,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 5.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "API",
@@ -681,9 +833,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.33,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.7
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "API",
@@ -700,9 +852,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.33,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.7
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "API",
@@ -719,9 +871,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.39,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 2.3
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "API",
@@ -738,9 +890,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.39,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 2.3
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "API",
@@ -757,9 +909,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.32,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.8
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "API",
@@ -776,9 +928,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.32,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 3.8
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "API",
@@ -795,9 +947,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.0,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 12.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.7
   },
   {
    "ticker": "API",
@@ -814,9 +966,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.0,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 12.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.7
   },
   {
    "ticker": "API",
@@ -833,9 +985,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.05,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.9
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 8.4
   },
   {
    "ticker": "API",
@@ -852,9 +1004,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.05,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 10.9
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 8.4
   },
   {
    "ticker": "API",
@@ -871,9 +1023,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802883/0001193125-26-419691.txt",
    "price_at_trade": 4.0,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 12.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.7
   },
   {
    "ticker": "API",
@@ -890,9 +1042,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843236/0001193125-26-419691.txt",
    "price_at_trade": 4.0,
-   "price_now": 4.49,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 12.2
+   "price_now": 4.39,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 9.7
   }
  ],
  "trump_trades": [],

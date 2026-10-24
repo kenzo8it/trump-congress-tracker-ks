@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "SOFI",
  "company": {
   "name": "SoFi Technologies, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 14.9,
- "price_date": "2026-10-21",
+ "price_now": 14.77,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -19,7 +19,46 @@
  },
  "congress_trades": [],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "SOFI",
+   "company_name": "SoFi Technologies, Inc.",
+   "owner_name": "Keough Kelli",
+   "owner_title": "EVP, GBUL, SIPS",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 10203.0,
+   "price": 14.7226,
+   "value": 150214.69,
+   "shares_after": 397870.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818874/0002032458-26-000030.txt",
+   "price_at_trade": 14.68,
+   "price_now": 14.77,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "SOFI",
+   "company_name": "SoFi Technologies, Inc.",
+   "owner_name": "Keough Kelli",
+   "owner_title": "EVP, GBUL, SIPS",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 10203.0,
+   "price": 14.7226,
+   "value": 150214.69,
+   "shares_after": 397870.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2032458/0002032458-26-000030.txt",
+   "price_at_trade": 14.68,
+   "price_now": 14.77,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 0.6
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [
   {
@@ -29,9 +68,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 14.9,
-   "price_now_date": "2026-10-21",
-   "return_since_involvement_pct": -38.8,
+   "price_now": 14.77,
+   "price_now_date": "2026-10-22",
+   "return_since_involvement_pct": -39.4,
    "price_at_involvement": 24.36
   }
  ],

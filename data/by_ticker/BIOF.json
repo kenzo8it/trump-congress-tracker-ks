@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "BIOF",
  "company": {
   "name": "BLUE BIOFUELS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Industrial Organic Chemicals",
   "sector": "Materials & Mining"
  },
- "price_now": 0.09,
- "price_date": "2026-10-22",
+ "price_now": 0.1,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Kneppers Chris J",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 125510.0,
+   "price": 0.1,
+   "value": 12551.0,
+   "shares_after": 19747167.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1549145/0001493152-26-048157.txt",
+   "price_at_trade": 0.1,
+   "price_now": 0.1,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "BIOF",
+   "company_name": "BLUE BIOFUELS, INC.",
+   "owner_name": "Kneppers Chris J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 125510.0,
+   "price": 0.1,
+   "value": 12551.0,
+   "shares_after": 19747167.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1926933/0001493152-26-048157.txt",
+   "price_at_trade": 0.1,
+   "price_now": 0.1,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "BIOF",
+   "company_name": "BLUE BIOFUELS, INC.",
+   "owner_name": "Kneppers Chris J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-10-13",
    "reported_date": "2026-10-15",
    "shares": 100000.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1549145/0001493152-26-047204.txt",
    "price_at_trade": 0.1,
-   "price_now": 0.09,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -6.9
+   "price_now": 0.1,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "BIOF",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1926933/0001493152-26-047204.txt",
    "price_at_trade": 0.1,
-   "price_now": 0.09,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -6.9
+   "price_now": 0.1,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

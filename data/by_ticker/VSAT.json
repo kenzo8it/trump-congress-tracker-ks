@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "VSAT",
  "company": {
   "name": "VIASAT INC",
@@ -8,8 +8,8 @@
   "industry": "Communications Services, NEC",
   "sector": "Telecom"
  },
- "price_now": 62.59,
- "price_date": "2026-10-21",
+ "price_now": 59.0,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 71.65,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -12.6,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -17.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 67.37,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -7.1,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -12.4,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 44.23,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 41.5,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 33.4,
    "days_to_disclose": 32,
    "late_filing": false
   }
@@ -119,10 +119,10 @@
    "ticker": "VSAT",
    "est_shares": 530.2,
    "avg_price": 44.23,
-   "price_now": 62.59,
-   "est_position_value": 33184,
-   "total_return_pct": 41.5,
-   "total_return_usd": 9734,
+   "price_now": 59.0,
+   "est_position_value": 31280,
+   "total_return_pct": 33.4,
+   "total_return_usd": 7831,
    "first_buy": "2026-01-22",
    "last_trade": "2026-09-28"
   }
@@ -131,6 +131,82 @@
   {
    "ticker": "VSAT",
    "company_name": "VIASAT INC",
+   "owner_name": "Chase Garrett L.",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 3000.0,
+   "price": 58.6703,
+   "value": 176010.9,
+   "shares_after": 48534.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1832377/0001193125-26-428940.txt",
+   "price_at_trade": 60.17,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "VSAT",
+   "company_name": "VIASAT INC",
+   "owner_name": "Chase Garrett L.",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 1000.0,
+   "price": 59.419,
+   "value": 59419.0,
+   "shares_after": 47534.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1832377/0001193125-26-428940.txt",
+   "price_at_trade": 60.17,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "VSAT",
+   "company_name": "VIASAT INC",
+   "owner_name": "Chase Garrett L.",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 3000.0,
+   "price": 58.6703,
+   "value": 176010.9,
+   "shares_after": 48534.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-428940.txt",
+   "price_at_trade": 60.17,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "VSAT",
+   "company_name": "VIASAT INC",
+   "owner_name": "Chase Garrett L.",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-22",
+   "shares": 1000.0,
+   "price": 59.419,
+   "value": 59419.0,
+   "shares_after": 47534.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-428940.txt",
+   "price_at_trade": 60.17,
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "VSAT",
+   "company_name": "VIASAT INC",
    "owner_name": "Miller Craig Andrew",
    "owner_title": "SVP, Pres Viasat Government",
    "trade_type": "SELL",
@@ -143,9 +219,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1864468/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -162,9 +238,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1864468/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -181,9 +257,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1864468/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -200,9 +276,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -219,9 +295,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -238,9 +314,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-420461.txt",
    "price_at_trade": 72.01,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -13.1
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -18.1
   },
   {
    "ticker": "VSAT",
@@ -257,9 +333,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1992819/0001193125-26-414124.txt",
    "price_at_trade": 70.35,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -11.0
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -16.1
   },
   {
    "ticker": "VSAT",
@@ -276,9 +352,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/797721/0001193125-26-414124.txt",
    "price_at_trade": 70.35,
-   "price_now": 62.59,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -11.0
+   "price_now": 59.0,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -16.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "ALLY",
  "company": {
   "name": "Ally Financial Inc.",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 38.69,
- "price_date": "2026-10-21",
+ "price_now": 39.31,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,15 +44,54 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 41.23,
-   "price_now": 38.69,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -6.2,
+   "price_now": 39.31,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -4.7,
    "days_to_disclose": 40,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ALLY",
+   "company_name": "Ally Financial Inc.",
+   "owner_name": "Patterson Kathleen L.",
+   "owner_title": "Chief HR & Corp Citizenship",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 12831.0,
+   "price": 38.6473,
+   "value": 495883.51,
+   "shares_after": 67781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2047749/0002047749-26-000006.txt",
+   "price_at_trade": 38.69,
+   "price_now": 39.31,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "ALLY",
+   "company_name": "Ally Financial Inc.",
+   "owner_name": "Patterson Kathleen L.",
+   "owner_title": "Chief HR & Corp Citizenship",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 12831.0,
+   "price": 38.6473,
+   "value": 495883.51,
+   "shares_after": 67781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40729/0002047749-26-000006.txt",
+   "price_at_trade": 38.69,
+   "price_now": 39.31,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 1.6
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

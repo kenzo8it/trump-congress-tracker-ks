@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "PRGS",
  "company": {
   "name": "PROGRESS SOFTWARE CORP /MA",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 43.72,
- "price_date": "2026-10-21",
+ "price_now": 45.98,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 46.27,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -5.5,
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -0.6,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 33.61,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 30.1,
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 36.8,
    "days_to_disclose": 18,
    "late_filing": false
   }
@@ -84,6 +84,44 @@
   {
    "ticker": "PRGS",
    "company_name": "PROGRESS SOFTWARE CORP /MA",
+   "owner_name": "Jarrett Loren",
+   "owner_title": "EVP/GM Digital Experience",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 2086.0,
+   "price": 43.47,
+   "value": 90678.42,
+   "shares_after": 10815.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1750308/0000876167-26-000131.txt",
+   "price_at_trade": 43.72,
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.2
+  },
+  {
+   "ticker": "PRGS",
+   "company_name": "PROGRESS SOFTWARE CORP /MA",
+   "owner_name": "Jarrett Loren",
+   "owner_title": "EVP/GM Digital Experience",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-22",
+   "shares": 2086.0,
+   "price": 43.47,
+   "value": 90678.42,
+   "shares_after": 10815.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/876167/0000876167-26-000131.txt",
+   "price_at_trade": 43.72,
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 5.2
+  },
+  {
+   "ticker": "PRGS",
+   "company_name": "PROGRESS SOFTWARE CORP /MA",
    "owner_name": "FOLGER ANTHONY",
    "owner_title": "Chief Financial Officer",
    "trade_type": "SELL",
@@ -96,9 +134,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1566737/0000876167-26-000129.txt",
    "price_at_trade": 40.84,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "PRGS",
@@ -115,9 +153,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1566737/0000876167-26-000129.txt",
    "price_at_trade": 40.84,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "PRGS",
@@ -134,9 +172,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/876167/0000876167-26-000129.txt",
    "price_at_trade": 40.84,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "PRGS",
@@ -153,9 +191,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/876167/0000876167-26-000129.txt",
    "price_at_trade": 40.84,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 7.1
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "PRGS",
@@ -172,9 +210,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1948524/0000876167-26-000127.txt",
    "price_at_trade": 37.22,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 17.5
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 23.5
   },
   {
    "ticker": "PRGS",
@@ -191,9 +229,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/876167/0000876167-26-000127.txt",
    "price_at_trade": 37.22,
-   "price_now": 43.72,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": 17.5
+   "price_now": 45.98,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": 23.5
   }
  ],
  "trump_trades": [],

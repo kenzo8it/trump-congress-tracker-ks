@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:56+00:00",
+ "updated": "2026-10-24T00:55+00:00",
  "ticker": "BFLY",
  "company": {
   "name": "Butterfly Network, Inc.",
@@ -8,8 +8,8 @@
   "industry": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 7.1,
- "price_date": "2026-10-21",
+ "price_now": 6.81,
+ "price_date": "2026-10-22",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1258790/0002064832-26-000329.txt",
    "price_at_trade": 8.7,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -18.4
+   "price_now": 6.81,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -21.7
   },
   {
    "ticker": "BFLY",
@@ -54,9 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000329.txt",
    "price_at_trade": 8.7,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -18.4
+   "price_now": 6.81,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -21.7
   },
   {
    "ticker": "BFLY",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000327.txt",
    "price_at_trade": 8.95,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -20.7
+   "price_now": 6.81,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -23.9
   },
   {
    "ticker": "BFLY",
@@ -92,85 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080055/0002064832-26-000327.txt",
    "price_at_trade": 8.95,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -20.7
-  },
-  {
-   "ticker": "BFLY",
-   "company_name": "Butterfly Network, Inc.",
-   "owner_name": "DEVIVO JOSEPH",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-24",
-   "shares": 3169.0,
-   "price": 10.021,
-   "value": 31756.55,
-   "shares_after": 7347720.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1258790/0002064832-26-000325.txt",
-   "price_at_trade": 9.2,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -22.8
-  },
-  {
-   "ticker": "BFLY",
-   "company_name": "Butterfly Network, Inc.",
-   "owner_name": "DEVIVO JOSEPH",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-24",
-   "shares": 3169.0,
-   "price": 10.021,
-   "value": 31756.55,
-   "shares_after": 7347720.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000325.txt",
-   "price_at_trade": 9.2,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -22.8
-  },
-  {
-   "ticker": "BFLY",
-   "company_name": "Butterfly Network, Inc.",
-   "owner_name": "DEVIVO JOSEPH",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 2811.0,
-   "price": 10.0,
-   "value": 28110.0,
-   "shares_after": 7350889.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1258790/0002064832-26-000325.txt",
-   "price_at_trade": 9.93,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -28.5
-  },
-  {
-   "ticker": "BFLY",
-   "company_name": "Butterfly Network, Inc.",
-   "owner_name": "DEVIVO JOSEPH",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-22",
-   "reported_date": "2026-09-24",
-   "shares": 2811.0,
-   "price": 10.0,
-   "value": 28110.0,
-   "shares_after": 7350889.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000325.txt",
-   "price_at_trade": 9.93,
-   "price_now": 7.1,
-   "price_now_date": "2026-10-21",
-   "total_return_pct": -28.5
+   "price_now": 6.81,
+   "price_now_date": "2026-10-22",
+   "total_return_pct": -23.9
   }
  ],
  "trump_trades": [],
