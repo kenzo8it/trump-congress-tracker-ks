@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "GPOR",
  "company": {
   "name": "GULFPORT ENERGY CORP",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 160.5,
- "price_date": "2026-10-22",
+ "price_now": 166.18,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,54 +42,15 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 174.05,
-   "price_now": 160.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -7.8,
+   "price_now": 166.18,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -4.5,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "GPOR",
-   "company_name": "GULFPORT ENERGY CORP",
-   "owner_name": "Cutt Timothy J.",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 2500.0,
-   "price": 158.98,
-   "value": 397450.0,
-   "shares_after": 27013.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1678505/0001678505-26-000010.txt",
-   "price_at_trade": 161.91,
-   "price_now": 160.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.9
-  },
-  {
-   "ticker": "GPOR",
-   "company_name": "GULFPORT ENERGY CORP",
-   "owner_name": "Cutt Timothy J.",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 2500.0,
-   "price": 158.98,
-   "value": 397450.0,
-   "shares_after": 27013.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/874499/0001678505-26-000010.txt",
-   "price_at_trade": 161.91,
-   "price_now": 160.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.9
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

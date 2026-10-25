@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "CRL",
  "company": {
   "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Commercial Physical & Biological Research",
   "sector": "Healthcare"
  },
- "price_now": 339.66,
- "price_date": "2026-10-22",
+ "price_now": 345.37,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Parisotto Shannon M",
    "owner_title": "CEVP, Disc & Safety Assessment",
    "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2156.0,
+   "price": 344.41,
+   "value": 742547.96,
+   "shares_after": 4807.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1100682/0001100682-26-000151.txt",
+   "price_at_trade": 344.87,
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "CRL",
+   "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "owner_name": "Parisotto Shannon M",
+   "owner_title": "CEVP, Disc & Safety Assessment",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2156.0,
+   "price": 344.41,
+   "value": 742547.96,
+   "shares_after": 4807.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1952784/0001100682-26-000151.txt",
+   "price_at_trade": 344.87,
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "CRL",
+   "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "owner_name": "Parisotto Shannon M",
+   "owner_title": "CEVP, Disc & Safety Assessment",
+   "trade_type": "SELL",
    "traded_date": "2026-10-05",
    "reported_date": "2026-10-07",
    "shares": 981.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1100682/0001952784-26-000003.txt",
    "price_at_trade": 310.77,
-   "price_now": 339.66,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 9.3
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "CRL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1952784/0001952784-26-000003.txt",
    "price_at_trade": 310.77,
-   "price_now": 339.66,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 9.3
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "CRL",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1100682/0001100682-26-000144.txt",
    "price_at_trade": 295.01,
-   "price_now": 339.66,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 15.1
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.1
   },
   {
    "ticker": "CRL",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1434369/0001100682-26-000144.txt",
    "price_at_trade": 295.01,
-   "price_now": 339.66,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 15.1
+   "price_now": 345.37,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.1
   }
  ],
  "trump_trades": [],

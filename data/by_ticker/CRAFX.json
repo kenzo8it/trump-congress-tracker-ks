@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "CRAFX",
  "company": {},
- "price_now": 10.29,
- "price_date": "2026-10-22",
+ "price_now": 10.4,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -17,6 +17,44 @@
   {
    "ticker": "CRAFX",
    "company_name": "Cascade Real Assets Fund",
+   "owner_name": "Worley Matthew Eugene",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 41909.531,
+   "price": 10.29,
+   "value": 431249.07,
+   "shares_after": 41909.531,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2090481/0001213900-26-111971.txt",
+   "price_at_trade": 10.29,
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "CRAFX",
+   "company_name": "Cascade Real Assets Fund",
+   "owner_name": "Worley Matthew Eugene",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 41909.531,
+   "price": 10.29,
+   "value": 431249.07,
+   "shares_after": 41909.531,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2114459/0001213900-26-111971.txt",
+   "price_at_trade": 10.29,
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "CRAFX",
+   "company_name": "Cascade Real Assets Fund",
    "owner_name": "Williams Paul Jay",
    "owner_title": "Director",
    "trade_type": "BUY",
@@ -29,9 +67,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1862539/0001213900-26-104418.txt",
    "price_at_trade": 10.0,
-   "price_now": 10.29,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.9
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.0
   },
   {
    "ticker": "CRAFX",
@@ -48,9 +86,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1862539/0001213900-26-104418.txt",
    "price_at_trade": 10.0,
-   "price_now": 10.29,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.9
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.0
   },
   {
    "ticker": "CRAFX",
@@ -67,9 +105,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2114459/0001213900-26-104418.txt",
    "price_at_trade": 10.0,
-   "price_now": 10.29,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.9
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.0
   },
   {
    "ticker": "CRAFX",
@@ -86,9 +124,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2114459/0001213900-26-104418.txt",
    "price_at_trade": 10.0,
-   "price_now": 10.29,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.9
+   "price_now": 10.4,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.0
   }
  ],
  "trump_trades": [],

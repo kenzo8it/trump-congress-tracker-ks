@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-25T00:34+00:00",
+ "ticker": "HSTM",
+ "company": {
+  "name": "HEALTHSTREAM INC",
+  "cik": 1095565,
+  "sic": 7370,
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Technology"
+ },
+ "price_now": 35.16,
+ "price_date": "2026-10-23",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "HSTM",
+   "company_name": "HEALTHSTREAM INC",
+   "owner_name": "REBROVICK LINDA",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-23",
+   "shares": 12000.0,
+   "price": 35.0,
+   "value": 420000.0,
+   "shares_after": 39329.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1095565/0001437749-26-033424.txt",
+   "price_at_trade": 35.16,
+   "price_now": 35.16,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "HSTM",
+   "company_name": "HEALTHSTREAM INC",
+   "owner_name": "REBROVICK LINDA",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-23",
+   "shares": 12000.0,
+   "price": 35.0,
+   "value": 420000.0,
+   "shares_after": 39329.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1217283/0001437749-26-033424.txt",
+   "price_at_trade": 35.16,
+   "price_now": 35.16,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

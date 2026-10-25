@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-25T00:34+00:00",
+ "ticker": "THFF",
+ "company": {
+  "name": "FIRST FINANCIAL CORP /IN/",
+  "cik": 714562,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 76.67,
+ "price_date": "2026-10-23",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "THFF",
+   "company_name": "FIRST FINANCIAL CORP /IN/",
+   "owner_name": "McDonald James O",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-23",
+   "shares": 86.61,
+   "price": 73.576,
+   "value": 6372.42,
+   "shares_after": 11927.95,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1836969/0001836969-26-000004.txt",
+   "price_at_trade": 74.15,
+   "price_now": 76.67,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.4
+  },
+  {
+   "ticker": "THFF",
+   "company_name": "FIRST FINANCIAL CORP /IN/",
+   "owner_name": "McDonald James O",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-16",
+   "reported_date": "2026-10-23",
+   "shares": 86.61,
+   "price": 73.576,
+   "value": 6372.42,
+   "shares_after": 11927.95,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/714562/0001836969-26-000004.txt",
+   "price_at_trade": 74.15,
+   "price_now": 76.67,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

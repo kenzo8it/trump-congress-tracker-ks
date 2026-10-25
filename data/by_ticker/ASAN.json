@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "ASAN",
  "company": {
   "name": "Asana, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 11.5,
- "price_date": "2026-10-22",
+ "price_now": 12.02,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Rogers Daniel Mark",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 19676.0,
+   "price": 11.5164,
+   "value": 226596.69,
+   "shares_after": 1437022.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477720/0002075006-26-000010.txt",
+   "price_at_trade": 11.5,
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "ASAN",
+   "company_name": "Asana, Inc.",
+   "owner_name": "Rogers Daniel Mark",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 19676.0,
+   "price": 11.5164,
+   "value": 226596.69,
+   "shares_after": 1437022.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2075006/0002075006-26-000010.txt",
+   "price_at_trade": 11.5,
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "ASAN",
+   "company_name": "Asana, Inc.",
+   "owner_name": "Rogers Daniel Mark",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-10-09",
    "reported_date": "2026-10-13",
    "shares": 18021.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477720/0001477720-26-000070.txt",
    "price_at_trade": 10.07,
-   "price_now": 11.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 14.2
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 19.4
   },
   {
    "ticker": "ASAN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2075006/0001477720-26-000070.txt",
    "price_at_trade": 10.07,
-   "price_now": 11.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 14.2
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 19.4
   },
   {
    "ticker": "ASAN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477720/0002099916-26-000014.txt",
    "price_at_trade": 8.43,
-   "price_now": 11.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 36.4
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 42.6
   },
   {
    "ticker": "ASAN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2099916/0002099916-26-000014.txt",
    "price_at_trade": 8.43,
-   "price_now": 11.5,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 36.4
+   "price_now": 12.02,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 42.6
   }
  ],
  "trump_trades": [],

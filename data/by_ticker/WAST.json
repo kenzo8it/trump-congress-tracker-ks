@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-25T00:34+00:00",
+ "ticker": "WAST",
+ "company": {
+  "name": "WASTE ENERGY CORP.",
+  "cik": 1515139,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 0.0,
+ "price_date": "2026-10-23",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "WAST",
+   "company_name": "WASTE ENERGY CORP.",
+   "owner_name": "GALLAGHER SCOTT",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 219286.0,
+   "price": 0.001,
+   "value": 219.29,
+   "shares_after": 9500000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1166846/0001493152-26-048187.txt",
+   "price_at_trade": 0.0,
+   "price_now": 0.0,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 100.0
+  },
+  {
+   "ticker": "WAST",
+   "company_name": "WASTE ENERGY CORP.",
+   "owner_name": "GALLAGHER SCOTT",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 219286.0,
+   "price": 0.001,
+   "value": 219.29,
+   "shares_after": 9500000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1515139/0001493152-26-048187.txt",
+   "price_at_trade": 0.0,
+   "price_now": 0.0,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 100.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

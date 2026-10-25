@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "IBTA",
  "company": {
   "name": "Ibotta, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Advertising",
   "sector": "Retail & Consumer"
  },
- "price_now": 48.9,
- "price_date": "2026-10-22",
+ "price_now": 48.61,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,576 @@
   {
    "ticker": "IBTA",
    "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 3695.0,
+   "price": 49.9739,
+   "value": 184653.56,
+   "shares_after": 431233.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067065.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 3484.0,
+   "price": 49.9587,
+   "value": 174056.11,
+   "shares_after": 226383.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067065.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Daspit Marisa",
+   "owner_title": "CHIEF PEOPLE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 499.0,
+   "price": 50.154,
+   "value": 25026.85,
+   "shares_after": 116505.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067069.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 3695.0,
+   "price": 49.9739,
+   "value": 184653.56,
+   "shares_after": 431233.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-067065.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 3484.0,
+   "price": 49.9587,
+   "value": 174056.11,
+   "shares_after": 226383.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-067065.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Daspit Marisa",
+   "owner_title": "CHIEF PEOPLE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 499.0,
+   "price": 50.154,
+   "value": 25026.85,
+   "shares_after": 116505.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017890/0001628280-26-067069.txt",
+   "price_at_trade": 48.9,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 8764.0,
+   "price": 49.9204,
+   "value": 437502.39,
+   "shares_after": 434928.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067065.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 9075.0,
+   "price": 49.9134,
+   "value": 452964.11,
+   "shares_after": 229867.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067065.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Daspit Marisa",
+   "owner_title": "CHIEF PEOPLE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 247.0,
+   "price": 50.0,
+   "value": 12350.0,
+   "shares_after": 117004.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067069.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 6911.0,
+   "price": 48.4332,
+   "value": 334721.85,
+   "shares_after": 853728.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 29595.0,
+   "price": 49.642,
+   "value": 1469154.99,
+   "shares_after": 824133.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 247.0,
+   "price": 50.0415,
+   "value": 12360.25,
+   "shares_after": 823886.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 1227.0,
+   "price": 48.427,
+   "value": 59419.93,
+   "shares_after": 5346.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 5303.0,
+   "price": 49.6415,
+   "value": 263248.87,
+   "shares_after": 43.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 43.0,
+   "price": 50.0414,
+   "value": 2151.78,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 1299.0,
+   "price": 48.4667,
+   "value": 62958.24,
+   "shares_after": 5274.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 5231.0,
+   "price": 49.6484,
+   "value": 259710.78,
+   "shares_after": 43.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 43.0,
+   "price": 50.0414,
+   "value": 2151.78,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 8764.0,
+   "price": 49.9204,
+   "value": 437502.39,
+   "shares_after": 434928.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-067065.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Swanson Luke Roy",
+   "owner_title": "CHIEF TECHNOLOGY OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 9075.0,
+   "price": 49.9134,
+   "value": 452964.11,
+   "shares_after": 229867.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-067065.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 6911.0,
+   "price": 48.4332,
+   "value": 334721.85,
+   "shares_after": 853728.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 29595.0,
+   "price": 49.642,
+   "value": 1469154.99,
+   "shares_after": 824133.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 247.0,
+   "price": 50.0415,
+   "value": 12360.25,
+   "shares_after": 823886.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 1227.0,
+   "price": 48.427,
+   "value": 59419.93,
+   "shares_after": 5346.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 5303.0,
+   "price": 49.6415,
+   "value": 263248.87,
+   "shares_after": 43.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 43.0,
+   "price": 50.0414,
+   "value": 2151.78,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 1299.0,
+   "price": 48.4667,
+   "value": 62958.24,
+   "shares_after": 5274.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 5231.0,
+   "price": 49.6484,
+   "value": 259710.78,
+   "shares_after": 43.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Leach Bryan",
+   "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 43.0,
+   "price": 50.0414,
+   "value": 2151.78,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-067077.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
+   "owner_name": "Daspit Marisa",
+   "owner_title": "CHIEF PEOPLE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 247.0,
+   "price": 50.0,
+   "value": 12350.0,
+   "shares_after": 117004.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017890/0001628280-26-067069.txt",
+   "price_at_trade": 48.98,
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IBTA",
+   "company_name": "Ibotta, Inc.",
    "owner_name": "Leach Bryan",
    "owner_title": "Director, CEO AND PRESIDENT, 10% owner",
    "trade_type": "SELL",
@@ -35,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -54,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -73,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -92,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -111,9 +681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -130,9 +700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -149,9 +719,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -168,9 +738,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -187,9 +757,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -206,9 +776,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -225,9 +795,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -244,9 +814,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 48.13,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 1.6
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "IBTA",
@@ -263,9 +833,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -282,9 +852,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -301,9 +871,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -320,9 +890,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -339,9 +909,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -358,9 +928,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -377,9 +947,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -396,9 +966,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -415,9 +985,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -434,9 +1004,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -453,9 +1023,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -472,9 +1042,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-066730.txt",
    "price_at_trade": 47.24,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "IBTA",
@@ -491,9 +1061,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065342.txt",
    "price_at_trade": 40.96,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 19.4
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 18.7
   },
   {
    "ticker": "IBTA",
@@ -510,9 +1080,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-065342.txt",
    "price_at_trade": 40.96,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 19.4
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 18.7
   },
   {
    "ticker": "IBTA",
@@ -529,9 +1099,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065342.txt",
    "price_at_trade": 41.35,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 18.3
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.6
   },
   {
    "ticker": "IBTA",
@@ -548,9 +1118,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065342.txt",
    "price_at_trade": 41.35,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 18.3
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.6
   },
   {
    "ticker": "IBTA",
@@ -567,9 +1137,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-065342.txt",
    "price_at_trade": 41.35,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 18.3
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.6
   },
   {
    "ticker": "IBTA",
@@ -586,9 +1156,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875168/0001628280-26-065342.txt",
    "price_at_trade": 41.35,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 18.3
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 17.6
   },
   {
    "ticker": "IBTA",
@@ -605,9 +1175,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -624,9 +1194,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -643,9 +1213,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -662,9 +1232,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538379/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -681,9 +1251,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -700,9 +1270,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -719,9 +1289,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   },
   {
    "ticker": "IBTA",
@@ -738,9 +1308,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1873513/0001628280-26-065003.txt",
    "price_at_trade": 39.92,
-   "price_now": 48.9,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 22.5
+   "price_now": 48.61,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 21.8
   }
  ],
  "trump_trades": [],

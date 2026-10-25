@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "MASS",
  "company": {
   "name": "908 Devices Inc.",
@@ -8,8 +8,8 @@
   "industry": "Laboratory Analytical Instruments",
   "sector": "Technology"
  },
- "price_now": 11.35,
- "price_date": "2026-10-22",
+ "price_now": 11.49,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1555279/0001836988-26-000027.txt",
    "price_at_trade": 11.78,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.7
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "MASS",
@@ -54,9 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1836988/0001836988-26-000027.txt",
    "price_at_trade": 11.78,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.7
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "MASS",
@@ -73,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1431531/0001431531-26-000009.txt",
    "price_at_trade": 12.33,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -7.9
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "MASS",
@@ -92,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1555279/0001431531-26-000009.txt",
    "price_at_trade": 12.33,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -7.9
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "MASS",
@@ -111,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535264/0001535264-26-000054.txt",
    "price_at_trade": 11.85,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -4.2
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -3.0
   },
   {
    "ticker": "MASS",
@@ -130,85 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1555279/0001535264-26-000054.txt",
    "price_at_trade": 11.85,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -4.2
-  },
-  {
-   "ticker": "MASS",
-   "company_name": "908 Devices Inc.",
-   "owner_name": "AWM Investment Company, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 24000.0,
-   "price": 11.3594,
-   "value": 272625.6,
-   "shares_after": 4754773.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535264/0001535264-26-000053.txt",
-   "price_at_trade": 11.52,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.5
-  },
-  {
-   "ticker": "MASS",
-   "company_name": "908 Devices Inc.",
-   "owner_name": "AWM Investment Company, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 24000.0,
-   "price": 11.3594,
-   "value": 272625.6,
-   "shares_after": 4754773.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1555279/0001535264-26-000053.txt",
-   "price_at_trade": 11.52,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.5
-  },
-  {
-   "ticker": "MASS",
-   "company_name": "908 Devices Inc.",
-   "owner_name": "AWM Investment Company, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1000.0,
-   "price": 11.25,
-   "value": 11250.0,
-   "shares_after": 4755773.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535264/0001535264-26-000053.txt",
-   "price_at_trade": 10.94,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.7
-  },
-  {
-   "ticker": "MASS",
-   "company_name": "908 Devices Inc.",
-   "owner_name": "AWM Investment Company, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1000.0,
-   "price": 11.25,
-   "value": 11250.0,
-   "shares_after": 4755773.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1555279/0001535264-26-000053.txt",
-   "price_at_trade": 10.94,
-   "price_now": 11.35,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.7
+   "price_now": 11.49,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -3.0
   }
  ],
  "trump_trades": [],

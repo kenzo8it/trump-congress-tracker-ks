@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-25T00:34+00:00",
+ "ticker": "ALLO",
+ "company": {
+  "name": "Allogene Therapeutics, Inc.",
+  "cik": 1737287,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 1.25,
+ "price_date": "2026-10-23",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ALLO",
+   "company_name": "Allogene Therapeutics, Inc.",
+   "owner_name": "Parker Geoffrey M.",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 36342.0,
+   "price": 1.34,
+   "value": 48698.28,
+   "shares_after": 1045877.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1491874/0001491874-26-000005.txt",
+   "price_at_trade": 1.33,
+   "price_now": 1.25,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -6.0
+  },
+  {
+   "ticker": "ALLO",
+   "company_name": "Allogene Therapeutics, Inc.",
+   "owner_name": "Parker Geoffrey M.",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 36342.0,
+   "price": 1.34,
+   "value": 48698.28,
+   "shares_after": 1045877.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1737287/0001491874-26-000005.txt",
+   "price_at_trade": 1.33,
+   "price_now": 1.25,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -6.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

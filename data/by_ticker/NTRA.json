@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "NTRA",
  "company": {
   "name": "Natera, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 401.37,
- "price_date": "2026-10-22",
+ "price_now": 403.95,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 179.19,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 124.0,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 125.4,
    "days_to_disclose": 23,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "NTRA",
    "est_shares": 44.6,
    "avg_price": 179.19,
-   "price_now": 401.37,
-   "est_position_value": 17920,
-   "total_return_pct": 124.0,
-   "total_return_usd": 9920,
+   "price_now": 403.95,
+   "est_position_value": 18036,
+   "total_return_pct": 125.4,
+   "total_return_usd": 10035,
    "first_buy": "2025-09-22",
    "last_trade": "2025-09-22"
   }
@@ -74,6 +74,310 @@
    "owner_name": "Sheena Jonathan",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 200.0,
+   "price": 406.5,
+   "value": 81300.0,
+   "shares_after": 221114.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 962.0,
+   "price": 408.2584,
+   "value": 392744.58,
+   "shares_after": 220152.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 627.0,
+   "price": 409.8932,
+   "value": 257003.04,
+   "shares_after": 219525.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 605.0,
+   "price": 411.3175,
+   "value": 248847.09,
+   "shares_after": 218920.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 211.0,
+   "price": 412.1991,
+   "value": 86974.01,
+   "shares_after": 218709.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 125.0,
+   "price": 413.0476,
+   "value": 51630.95,
+   "shares_after": 218584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 255.0,
+   "price": 415.6659,
+   "value": 105994.8,
+   "shares_after": 218329.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 165.0,
+   "price": 416.6736,
+   "value": 68751.14,
+   "shares_after": 218164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 200.0,
+   "price": 406.5,
+   "value": 81300.0,
+   "shares_after": 221114.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 962.0,
+   "price": 408.2584,
+   "value": 392744.58,
+   "shares_after": 220152.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 627.0,
+   "price": 409.8932,
+   "value": 257003.04,
+   "shares_after": 219525.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 605.0,
+   "price": 411.3175,
+   "value": 248847.09,
+   "shares_after": 218920.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 211.0,
+   "price": 412.1991,
+   "value": 86974.01,
+   "shares_after": 218709.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 125.0,
+   "price": 413.0476,
+   "value": 51630.95,
+   "shares_after": 218584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 255.0,
+   "price": 415.6659,
+   "value": 105994.8,
+   "shares_after": 218329.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 165.0,
+   "price": 416.6736,
+   "value": 68751.14,
+   "shares_after": 218164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000035.txt",
+   "price_at_trade": 413.38,
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "NTRA",
+   "company_name": "Natera, Inc.",
+   "owner_name": "Sheena Jonathan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-10-16",
    "reported_date": "2026-10-20",
    "shares": 215.0,
@@ -83,9 +387,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -102,9 +406,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -121,9 +425,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -140,9 +444,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -159,9 +463,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -178,9 +482,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -197,9 +501,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -216,9 +520,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -235,9 +539,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -254,9 +558,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -273,9 +577,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -292,9 +596,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -311,9 +615,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -330,9 +634,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -349,9 +653,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -368,9 +672,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -387,9 +691,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -406,9 +710,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -425,9 +729,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -444,9 +748,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -463,9 +767,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -482,9 +786,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -501,9 +805,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -520,9 +824,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000034.txt",
    "price_at_trade": 393.44,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.0
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "NTRA",
@@ -539,9 +843,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -558,9 +862,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -577,9 +881,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -596,9 +900,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -615,9 +919,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -634,9 +938,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -653,9 +957,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -672,9 +976,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -691,9 +995,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -710,9 +1014,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -729,9 +1033,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -748,9 +1052,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -767,9 +1071,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -786,9 +1090,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -805,9 +1109,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -824,9 +1128,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -843,9 +1147,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -862,9 +1166,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -881,9 +1185,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -900,9 +1204,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -919,9 +1223,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -938,9 +1242,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -957,9 +1261,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -976,9 +1280,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -995,9 +1299,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1014,9 +1318,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1033,9 +1337,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1052,9 +1356,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1071,9 +1375,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1090,9 +1394,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1109,9 +1413,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1128,9 +1432,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1147,9 +1451,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1166,9 +1470,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1185,9 +1489,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1204,9 +1508,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1223,9 +1527,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1242,9 +1546,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646382/0001646382-26-000023.txt",
    "price_at_trade": 404.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.8
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "NTRA",
@@ -1261,9 +1565,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001711968-26-000023.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1280,9 +1584,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1299,9 +1603,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1318,9 +1622,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1337,9 +1641,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711968/0001711968-26-000023.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1356,9 +1660,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010019/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1375,9 +1679,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010019/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "NTRA",
@@ -1394,465 +1698,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010019/0002010019-26-000030.txt",
    "price_at_trade": 408.47,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 400.0,
-   "price": 385.1025,
-   "value": 154041.0,
-   "shares_after": 17632.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2175.0,
-   "price": 386.7144,
-   "value": 841103.82,
-   "shares_after": 15457.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2734.0,
-   "price": 387.6545,
-   "value": 1059847.4,
-   "shares_after": 12723.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1293.0,
-   "price": 388.7071,
-   "value": 502598.28,
-   "shares_after": 11430.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2320.0,
-   "price": 389.685,
-   "value": 904069.2,
-   "shares_after": 9110.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 110.0,
-   "price": 390.42,
-   "value": 42946.2,
-   "shares_after": 9000.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 390.0,
-   "price": 385.2906,
-   "value": 150263.33,
-   "shares_after": 17642.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2300.0,
-   "price": 386.6396,
-   "value": 889271.08,
-   "shares_after": 15342.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2846.0,
-   "price": 387.7351,
-   "value": 1103494.09,
-   "shares_after": 12496.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1341.0,
-   "price": 388.7637,
-   "value": 521332.12,
-   "shares_after": 11155.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1935.0,
-   "price": 389.7108,
-   "value": 754090.4,
-   "shares_after": 9220.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 220.0,
-   "price": 390.525,
-   "value": 85915.5,
-   "shares_after": 9000.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1604821/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 400.0,
-   "price": 385.1025,
-   "value": 154041.0,
-   "shares_after": 17632.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2175.0,
-   "price": 386.7144,
-   "value": 841103.82,
-   "shares_after": 15457.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2734.0,
-   "price": 387.6545,
-   "value": 1059847.4,
-   "shares_after": 12723.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1293.0,
-   "price": 388.7071,
-   "value": 502598.28,
-   "shares_after": 11430.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2320.0,
-   "price": 389.685,
-   "value": 904069.2,
-   "shares_after": 9110.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 110.0,
-   "price": 390.42,
-   "value": 42946.2,
-   "shares_after": 9000.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 390.0,
-   "price": 385.2906,
-   "value": 150263.33,
-   "shares_after": 17642.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2300.0,
-   "price": 386.6396,
-   "value": 889271.08,
-   "shares_after": 15342.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 2846.0,
-   "price": 387.7351,
-   "value": 1103494.09,
-   "shares_after": 12496.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1341.0,
-   "price": 388.7637,
-   "value": 521332.12,
-   "shares_after": 11155.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 1935.0,
-   "price": 389.7108,
-   "value": 754090.4,
-   "shares_after": 9220.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
-  },
-  {
-   "ticker": "NTRA",
-   "company_name": "Natera, Inc.",
-   "owner_name": "Sheena Jonathan",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-23",
-   "reported_date": "2026-09-25",
-   "shares": 220.0,
-   "price": 390.525,
-   "value": 85915.5,
-   "shares_after": 9000.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1646649/0001646649-26-000033.txt",
-   "price_at_trade": 390.79,
-   "price_now": 401.37,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.7
+   "price_now": 403.95,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "RAPP",
  "company": {
   "name": "Rapport Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 26.53,
- "price_date": "2026-10-22",
+ "price_now": 25.93,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RAPP",
+   "company_name": "Rapport Therapeutics, Inc.",
+   "owner_name": "Sanchez Ramiro",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-23",
+   "shares": 3600.0,
+   "price": 27.3549,
+   "value": 98477.64,
+   "shares_after": 3600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1830326/0001193125-26-430397.txt",
+   "price_at_trade": 25.93,
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "RAPP",
+   "company_name": "Rapport Therapeutics, Inc.",
+   "owner_name": "Sanchez Ramiro",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-23",
+   "shares": 3600.0,
+   "price": 27.3549,
+   "value": 98477.64,
+   "shares_after": 3600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-430397.txt",
+   "price_at_trade": 25.93,
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "RAPP",
    "company_name": "Rapport Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1180432/0001193125-26-429071.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1180432/0001193125-26-429071.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237564/0001193125-26-429073.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1446372/0001193125-26-429075.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-429071.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-429071.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-429073.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-429074.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-429075.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "RAPP",
@@ -206,9 +244,47 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2042847/0001193125-26-429074.txt",
    "price_at_trade": 26.53,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 0.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "RAPP",
+   "company_name": "Rapport Therapeutics, Inc.",
+   "owner_name": "Ceesay Abraham",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2210.0,
+   "price": 29.1618,
+   "value": 64447.58,
+   "shares_after": 450035.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1722140/0001193125-26-430504.txt",
+   "price_at_trade": 25.06,
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.5
+  },
+  {
+   "ticker": "RAPP",
+   "company_name": "Rapport Therapeutics, Inc.",
+   "owner_name": "Ceesay Abraham",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2210.0,
+   "price": 29.1618,
+   "value": 64447.58,
+   "shares_after": 450035.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-430504.txt",
+   "price_at_trade": 25.06,
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "RAPP",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579829/0001193125-26-428018.txt",
    "price_at_trade": 25.06,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 5.9
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "RAPP",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-428018.txt",
    "price_at_trade": 25.06,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 5.9
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "RAPP",
@@ -263,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722140/0001193125-26-417919.txt",
    "price_at_trade": 30.86,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -16.0
   },
   {
    "ticker": "RAPP",
@@ -282,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-417919.txt",
    "price_at_trade": 30.86,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -16.0
   },
   {
    "ticker": "RAPP",
@@ -301,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722140/0001193125-26-417919.txt",
    "price_at_trade": 31.15,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.8
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -16.8
   },
   {
    "ticker": "RAPP",
@@ -320,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-417919.txt",
    "price_at_trade": 31.15,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.8
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -16.8
   },
   {
    "ticker": "RAPP",
@@ -339,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1839046/0001193125-26-410734.txt",
    "price_at_trade": 33.6,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -21.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -22.8
   },
   {
    "ticker": "RAPP",
@@ -358,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1839046/0001193125-26-410734.txt",
    "price_at_trade": 33.6,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -21.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -22.8
   },
   {
    "ticker": "RAPP",
@@ -377,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-410734.txt",
    "price_at_trade": 33.6,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -21.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -22.8
   },
   {
    "ticker": "RAPP",
@@ -396,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012593/0001193125-26-410734.txt",
    "price_at_trade": 33.6,
-   "price_now": 26.53,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -21.0
+   "price_now": 25.93,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -22.8
   }
  ],
  "trump_trades": [],

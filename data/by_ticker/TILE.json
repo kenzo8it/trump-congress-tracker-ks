@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "TILE",
  "company": {
   "name": "INTERFACE INC",
@@ -8,8 +8,8 @@
   "industry": "Carpets & Rugs",
   "sector": "Retail & Consumer"
  },
- "price_now": 36.51,
- "price_date": "2026-10-22",
+ "price_now": 36.42,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094629/0001094629-26-000004.txt",
    "price_at_trade": 35.64,
-   "price_now": 36.51,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.4
+   "price_now": 36.42,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TILE",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001094629-26-000004.txt",
    "price_at_trade": 35.64,
-   "price_now": 36.51,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 2.4
-  },
-  {
-   "ticker": "TILE",
-   "company_name": "INTERFACE INC",
-   "owner_name": "Hurd Laurel",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 7000.0,
-   "price": 34.99,
-   "value": 244930.0,
-   "shares_after": 499978.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1768695/0001768695-26-000006.txt",
-   "price_at_trade": 35.19,
-   "price_now": 36.51,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.8
-  },
-  {
-   "ticker": "TILE",
-   "company_name": "INTERFACE INC",
-   "owner_name": "Hurd Laurel",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-24",
-   "reported_date": "2026-09-25",
-   "shares": 7000.0,
-   "price": 34.99,
-   "value": 244930.0,
-   "shares_after": 499978.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001768695-26-000006.txt",
-   "price_at_trade": 35.19,
-   "price_now": 36.51,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 3.8
+   "price_now": 36.42,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

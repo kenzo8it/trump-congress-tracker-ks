@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "UXIN",
  "company": {
   "name": "Uxin Ltd",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 0.87,
- "price_date": "2026-10-22",
+ "price_now": 0.85,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Dai Kun",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 7000.0,
+   "price": 0.8901,
+   "value": 6230.7,
+   "shares_after": 117231.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-048181.txt",
+   "price_at_trade": 0.87,
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "UXIN",
+   "company_name": "Uxin Ltd",
+   "owner_name": "Dai Kun",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 7000.0,
+   "price": 0.8901,
+   "value": 6230.7,
+   "shares_after": 117231.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-048181.txt",
+   "price_at_trade": 0.87,
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "UXIN",
+   "company_name": "Uxin Ltd",
+   "owner_name": "Dai Kun",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
    "traded_date": "2026-10-21",
    "reported_date": "2026-10-22",
    "shares": 4002.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-048021.txt",
    "price_at_trade": 0.92,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -5.9
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "UXIN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-048021.txt",
    "price_at_trade": 0.92,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -5.9
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "UXIN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-047849.txt",
    "price_at_trade": 0.94,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -7.7
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -9.4
   },
   {
    "ticker": "UXIN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-047849.txt",
    "price_at_trade": 0.94,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -7.7
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -9.4
   },
   {
    "ticker": "UXIN",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-047696.txt",
    "price_at_trade": 0.93,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -6.8
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "UXIN",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-047696.txt",
    "price_at_trade": 0.93,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -6.8
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "UXIN",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-047506.txt",
    "price_at_trade": 1.01,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.2
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "UXIN",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-047506.txt",
    "price_at_trade": 1.01,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -14.2
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "UXIN",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-047334.txt",
    "price_at_trade": 1.04,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -16.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -18.2
   },
   {
    "ticker": "UXIN",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-047334.txt",
    "price_at_trade": 1.04,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -16.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -18.2
   },
   {
    "ticker": "UXIN",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-047147.txt",
    "price_at_trade": 1.03,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -15.8
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -17.4
   },
   {
    "ticker": "UXIN",
@@ -244,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-047147.txt",
    "price_at_trade": 1.03,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -15.8
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -17.4
   },
   {
    "ticker": "UXIN",
@@ -263,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-046736.txt",
    "price_at_trade": 1.13,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -23.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.7
   },
   {
    "ticker": "UXIN",
@@ -282,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-046736.txt",
    "price_at_trade": 1.13,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -23.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.7
   },
   {
    "ticker": "UXIN",
@@ -301,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-046736.txt",
    "price_at_trade": 1.13,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -23.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.7
   },
   {
    "ticker": "UXIN",
@@ -320,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-046736.txt",
    "price_at_trade": 1.13,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -23.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.7
   },
   {
    "ticker": "UXIN",
@@ -339,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-046445.txt",
    "price_at_trade": 1.12,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -22.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.0
   },
   {
    "ticker": "UXIN",
@@ -358,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-046445.txt",
    "price_at_trade": 1.12,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -22.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -24.0
   },
   {
    "ticker": "UXIN",
@@ -377,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-046274.txt",
    "price_at_trade": 1.21,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -28.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -29.7
   },
   {
    "ticker": "UXIN",
@@ -396,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-046274.txt",
    "price_at_trade": 1.21,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -28.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -29.7
   },
   {
    "ticker": "UXIN",
@@ -415,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-046079.txt",
    "price_at_trade": 1.25,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -30.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -31.9
   },
   {
    "ticker": "UXIN",
@@ -434,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-046079.txt",
    "price_at_trade": 1.25,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -30.6
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -31.9
   },
   {
    "ticker": "UXIN",
@@ -453,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-045879.txt",
    "price_at_trade": 1.26,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -31.5
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -32.7
   },
   {
    "ticker": "UXIN",
@@ -472,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-045879.txt",
    "price_at_trade": 1.26,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -31.5
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -32.7
   },
   {
    "ticker": "UXIN",
@@ -491,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-045702.txt",
    "price_at_trade": 1.27,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -32.0
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -33.3
   },
   {
    "ticker": "UXIN",
@@ -510,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-045702.txt",
    "price_at_trade": 1.27,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -32.0
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -33.3
   },
   {
    "ticker": "UXIN",
@@ -529,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-045430.txt",
    "price_at_trade": 1.37,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -36.7
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "UXIN",
@@ -548,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-045430.txt",
    "price_at_trade": 1.37,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -36.7
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "UXIN",
@@ -567,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-045255.txt",
    "price_at_trade": 1.32,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -34.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -35.5
   },
   {
    "ticker": "UXIN",
@@ -586,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-045255.txt",
    "price_at_trade": 1.32,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -34.3
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -35.5
   },
   {
    "ticker": "UXIN",
@@ -605,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1729173/0001493152-26-045051.txt",
    "price_at_trade": 1.23,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -29.5
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -30.8
   },
   {
    "ticker": "UXIN",
@@ -624,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1764279/0001493152-26-045051.txt",
    "price_at_trade": 1.23,
-   "price_now": 0.87,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -29.5
+   "price_now": 0.85,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -30.8
   }
  ],
  "trump_trades": [],

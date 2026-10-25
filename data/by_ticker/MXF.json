@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "MXF",
  "company": {
   "name": "MEXICO FUND INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MXF",
+   "company_name": "MEXICO EQUITY & INCOME FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 2000.0,
+   "price": 20.14,
+   "value": 40280.0,
+   "shares_after": 2424660.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000376.txt",
+   "price_at_trade": 20.18,
+   "price_now": 20.29,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "MXF",
+   "company_name": "MEXICO EQUITY & INCOME FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 2000.0,
+   "price": 20.14,
+   "value": 40280.0,
+   "shares_after": 2424660.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/863900/0001510281-26-000376.txt",
+   "price_at_trade": 20.18,
+   "price_now": 20.29,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "MXF",
    "company_name": "MEXICO EQUITY & INCOME FUND INC",

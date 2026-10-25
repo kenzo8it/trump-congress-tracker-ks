@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "CX",
  "company": {
   "name": "CEMEX SAB DE CV",
@@ -8,8 +8,8 @@
   "industry": "Cement, Hydraulic",
   "sector": "Other"
  },
- "price_now": 10.11,
- "price_date": "2026-10-22",
+ "price_now": 10.2,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 6.01,
-   "price_now": 10.11,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 68.3,
+   "price_now": 10.2,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 69.8,
    "days_to_disclose": 201,
    "late_filing": true
   }
@@ -66,9 +66,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1076378/0002092936-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.11,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 6.3
+   "price_now": 10.2,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 7.3
   },
   {
    "ticker": "CX",
@@ -85,47 +85,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2092936/0002092936-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.11,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 6.3
-  },
-  {
-   "ticker": "CX",
-   "company_name": "CEMEX SAB DE CV",
-   "owner_name": "Zambrano Lozano Rogelio",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-25",
-   "reported_date": "2026-09-25",
-   "shares": 400800.0,
-   "price": 17.2812,
-   "value": 6926304.96,
-   "shares_after": 10000000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1076378/0002035244-26-000009.txt",
-   "price_at_trade": 9.71,
-   "price_now": 10.11,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 4.1
-  },
-  {
-   "ticker": "CX",
-   "company_name": "CEMEX SAB DE CV",
-   "owner_name": "Zambrano Lozano Rogelio",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-25",
-   "reported_date": "2026-09-25",
-   "shares": 400800.0,
-   "price": 17.2812,
-   "value": 6926304.96,
-   "shares_after": 10000000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2035244/0002035244-26-000009.txt",
-   "price_at_trade": 9.71,
-   "price_now": 10.11,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": 4.1
+   "price_now": 10.2,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 7.3
   }
  ],
  "trump_trades": [],

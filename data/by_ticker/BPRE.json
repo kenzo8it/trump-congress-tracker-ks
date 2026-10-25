@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "BPRE",
  "company": {
   "name": "Bluerock Private Real Estate Fund",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BPRE",
+   "company_name": "Bluerock Private Real Estate Fund",
+   "owner_name": "Ruddy Jordan B.",
+   "owner_title": "President",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2040.0,
+   "price": 12.2484,
+   "value": 24986.74,
+   "shares_after": 19232.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551047/0001398344-26-018733.txt",
+   "price_at_trade": 12.3,
+   "price_now": 12.45,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "BPRE",
+   "company_name": "Bluerock Private Real Estate Fund",
+   "owner_name": "Ruddy Jordan B.",
+   "owner_title": "President",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-21",
+   "reported_date": "2026-10-23",
+   "shares": 2040.0,
+   "price": 12.2484,
+   "value": 24986.74,
+   "shares_after": 19232.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1575426/0001398344-26-018733.txt",
+   "price_at_trade": 12.3,
+   "price_now": 12.45,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 1.2
+  },
   {
    "ticker": "BPRE",
    "company_name": "Bluerock Private Real Estate Fund",

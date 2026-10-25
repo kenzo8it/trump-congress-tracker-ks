@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:55+00:00",
+ "updated": "2026-10-25T00:34+00:00",
  "ticker": "SNX",
  "company": {
   "name": "TD SYNNEX CORP",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
   "sector": "Other"
  },
- "price_now": 247.08,
- "price_date": "2026-10-22",
+ "price_now": 247.34,
+ "price_date": "2026-10-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,120 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 2450.0,
+   "price": 240.93,
+   "value": 590278.5,
+   "shares_after": 13037.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 1243.0,
+   "price": 241.14,
+   "value": 299737.02,
+   "shares_after": 11794.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 82.0,
+   "price": 241.2,
+   "value": 19778.4,
+   "shares_after": 11712.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 2450.0,
+   "price": 240.93,
+   "value": 590278.5,
+   "shares_after": 13037.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2051665/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 1243.0,
+   "price": 241.14,
+   "value": 299737.02,
+   "shares_after": 11794.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2051665/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SNX",
+   "company_name": "TD SYNNEX CORP",
+   "owner_name": "Dhanji Alim",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-23",
+   "shares": 82.0,
+   "price": 241.2,
+   "value": 19778.4,
+   "shares_after": 11712.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2051665/0001177394-26-000138.txt",
+   "price_at_trade": 247.08,
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": 0.1
+  },
   {
    "ticker": "SNX",
    "company_name": "TD SYNNEX CORP",
@@ -35,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000136.txt",
    "price_at_trade": 251.14,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.6
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SNX",
@@ -54,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000136.txt",
    "price_at_trade": 251.14,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -1.6
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SNX",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2051704/0001177394-26-000134.txt",
    "price_at_trade": 248.21,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -0.5
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "SNX",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -320,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -339,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -358,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -377,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -396,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -415,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1177394/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -434,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -453,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -472,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -491,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -510,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -529,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SNX",
@@ -548,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1270710/0001177394-26-000117.txt",
    "price_at_trade": 254.66,
-   "price_now": 247.08,
-   "price_now_date": "2026-10-22",
-   "total_return_pct": -3.0
+   "price_now": 247.34,
+   "price_now_date": "2026-10-23",
+   "total_return_pct": -2.9
   }
  ],
  "trump_trades": [],
