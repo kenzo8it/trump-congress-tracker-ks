@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:34+00:00",
+ "updated": "2026-10-27T01:42+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -72,10 +72,10 @@
    "ticker": "MCK",
    "est_shares": 13.8,
    "avg_price": 581.03,
-   "price_now": 1000.77,
-   "est_position_value": 13780,
-   "total_return_pct": 72.2,
-   "total_return_usd": 5780,
+   "price_now": 992.87,
+   "est_position_value": 13671,
+   "total_return_pct": 70.9,
+   "total_return_usd": 5671,
    "first_buy": "2025-01-07",
    "last_trade": "2025-01-07"
   }
@@ -105,9 +105,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 581.03,
-   "price_now": 1000.77,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 72.2,
+   "price_now": 992.87,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 70.9,
    "days_to_disclose": 547,
    "late_filing": true
   }

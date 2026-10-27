@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:34+00:00",
+ "updated": "2026-10-27T01:42+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -88,10 +88,10 @@
    "ticker": "MPWR",
    "est_shares": 7.8,
    "avg_price": 1024.71,
-   "price_now": 1140.12,
-   "est_position_value": 8902,
-   "total_return_pct": 11.3,
-   "total_return_usd": 901,
+   "price_now": 1167.27,
+   "est_position_value": 9114,
+   "total_return_pct": 13.9,
+   "total_return_usd": 1113,
    "first_buy": "2025-10-20",
    "last_trade": "2025-10-20"
   }
@@ -121,9 +121,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 132.01,
-   "price_now": 172.01,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 30.3,
+   "price_now": 171.05,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 29.6,
    "days_to_disclose": 241,
    "late_filing": true
   },
@@ -181,9 +181,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 78.77,
-   "price_now": 114.24,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 45.0,
+   "price_now": 112.94,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 43.4,
    "days_to_disclose": 241,
    "late_filing": true
   },
@@ -271,9 +271,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 89.58,
-   "price_now": 158.13,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 76.5,
+   "price_now": 156.15,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 74.3,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -303,9 +303,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 42.28,
-   "price_now": 64.05,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 51.5,
+   "price_now": 64.18,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 51.8,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -333,9 +333,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 67.45,
-   "price_now": 84.48,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 25.2,
+   "price_now": 83.46,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 23.7,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -363,9 +363,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 52.43,
-   "price_now": 52.75,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 0.6,
+   "price_now": 52.5,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 0.1,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -395,9 +395,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 1024.71,
-   "price_now": 1140.12,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 11.3,
+   "price_now": 1167.27,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 13.9,
    "days_to_disclose": 30,
    "late_filing": false
   }

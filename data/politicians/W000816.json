@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:34+00:00",
+ "updated": "2026-10-27T01:42+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -61,6 +61,17 @@
  },
  "positions": [
   {
+   "ticker": "RTX",
+   "est_shares": 43.6,
+   "avg_price": 183.69,
+   "price_now": 197.48,
+   "est_position_value": 8601,
+   "total_return_pct": 7.5,
+   "total_return_usd": 601,
+   "first_buy": "2025-12-22",
+   "last_trade": "2025-12-22"
+  },
+  {
    "ticker": "JPM",
    "est_shares": 25.2,
    "avg_price": 316.98,
@@ -68,17 +79,6 @@
    "est_position_value": 8369,
    "total_return_pct": 4.6,
    "total_return_usd": 369,
-   "first_buy": "2025-12-22",
-   "last_trade": "2025-12-22"
-  },
-  {
-   "ticker": "RTX",
-   "est_shares": 43.6,
-   "avg_price": 183.69,
-   "price_now": 191.01,
-   "est_position_value": 8319,
-   "total_return_pct": 4.0,
-   "total_return_usd": 319,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   }
@@ -138,9 +138,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 145.97,
-   "price_now": 205.75,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 41.0,
+   "price_now": 207.13,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 41.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -200,9 +200,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 183.69,
-   "price_now": 191.01,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 4.0,
+   "price_now": 197.48,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 7.5,
    "days_to_disclose": 24,
    "late_filing": false
   }

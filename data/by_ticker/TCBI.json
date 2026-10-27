@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:34+00:00",
+ "updated": "2026-10-27T01:42+00:00",
  "ticker": "TCBI",
  "company": {
   "name": "TEXAS CAPITAL BANCSHARES INC/TX",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 101.99,
- "price_date": "2026-10-23",
+ "price_now": 101.61,
+ "price_date": "2026-10-26",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 103.05,
-   "price_now": 101.99,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": -1.0,
+   "price_now": 101.61,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": -1.4,
    "days_to_disclose": 2,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 99.09,
-   "price_now": 101.99,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": 2.9,
+   "price_now": 101.61,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 2.5,
    "days_to_disclose": 10,
    "late_filing": false
   }
@@ -89,10 +89,10 @@
    "ticker": "TCBI",
    "est_shares": 158.4,
    "avg_price": 101.03,
-   "price_now": 101.99,
-   "est_position_value": 16153,
-   "total_return_pct": 0.9,
-   "total_return_usd": 152,
+   "price_now": 101.61,
+   "est_position_value": 16093,
+   "total_return_pct": 0.6,
+   "total_return_usd": 92,
    "first_buy": "2026-05-29",
    "last_trade": "2026-06-30"
   }
