@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "CRL",
  "company": {
   "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CRL",
+   "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "owner_name": "FOSTER JAMES C",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 24042.0,
+   "price": 350.0,
+   "value": 8414700.0,
+   "shares_after": 31596.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1100682/0001100682-26-000153.txt",
+   "price_at_trade": 339.66,
+   "price_now": 357.27,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 5.2
+  },
+  {
+   "ticker": "CRL",
+   "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "owner_name": "FOSTER JAMES C",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 24042.0,
+   "price": 350.0,
+   "value": 8414700.0,
+   "shares_after": 31596.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141722/0001100682-26-000153.txt",
+   "price_at_trade": 339.66,
+   "price_now": 357.27,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 5.2
+  },
   {
    "ticker": "CRL",
    "company_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",

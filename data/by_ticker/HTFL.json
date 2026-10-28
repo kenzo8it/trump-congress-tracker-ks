@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "HTFL",
  "company": {
   "name": "Heartflow, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Rogers Campbell",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 23933.0,
+   "price": 55.01,
+   "value": 1316554.33,
+   "shares_after": 73453.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1464521/0001464521-26-000156.txt",
+   "price_at_trade": 55.43,
+   "price_now": 57.01,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 2.8
+  },
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Rogers Campbell",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 23933.0,
+   "price": 55.01,
+   "value": 1316554.33,
+   "shares_after": 73453.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1585724/0001464521-26-000156.txt",
+   "price_at_trade": 55.43,
+   "price_now": 57.01,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 2.8
+  },
   {
    "ticker": "HTFL",
    "company_name": "Heartflow, Inc.",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "RMD",
  "company": {
   "name": "RESMED INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RMD",
+   "company_name": "RESMED INC",
+   "owner_name": "Rider Michael J",
+   "owner_title": "Global General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-26",
+   "shares": 400.0,
+   "price": 255.0,
+   "value": 102000.0,
+   "shares_after": 12318.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1982205/0000943819-26-000086.txt",
+   "price_at_trade": 252.86,
+   "price_now": 253.2,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "RMD",
+   "company_name": "RESMED INC",
+   "owner_name": "Rider Michael J",
+   "owner_title": "Global General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-26",
+   "shares": 400.0,
+   "price": 255.0,
+   "value": 102000.0,
+   "shares_after": 12318.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943819/0000943819-26-000086.txt",
+   "price_at_trade": 252.86,
+   "price_now": 253.2,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 0.1
+  },
   {
    "ticker": "RMD",
    "company_name": "RESMED INC",

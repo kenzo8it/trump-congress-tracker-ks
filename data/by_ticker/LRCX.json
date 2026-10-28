@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "LRCX",
  "company": {
   "name": "LAM RESEARCH CORP",
@@ -511,7 +511,46 @@
    "last_trade": "2026-02-03"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "LRCX",
+   "company_name": "LAM RESEARCH CORP",
+   "owner_name": "ARCHER TIMOTHY",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-26",
+   "shares": 31400.0,
+   "price": 227.02,
+   "value": 7128428.0,
+   "shares_after": 1075966.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1343600/0001343600-26-000015.txt",
+   "price_at_trade": 230.1,
+   "price_now": 237.5,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 3.2
+  },
+  {
+   "ticker": "LRCX",
+   "company_name": "LAM RESEARCH CORP",
+   "owner_name": "ARCHER TIMOTHY",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-26",
+   "shares": 31400.0,
+   "price": 227.02,
+   "value": 7128428.0,
+   "shares_after": 1075966.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/707549/0001343600-26-000015.txt",
+   "price_at_trade": 230.1,
+   "price_now": 237.5,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 3.2
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

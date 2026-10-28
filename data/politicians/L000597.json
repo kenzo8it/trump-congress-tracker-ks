@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -112,12 +112,12 @@
  "positions": [
   {
    "ticker": "NOKBF",
-   "est_shares": 3037.4,
-   "avg_price": 10.7,
-   "price_now": 8.23,
-   "est_position_value": 24998,
-   "total_return_pct": -23.1,
-   "total_return_usd": -7502,
+   "est_shares": 3048.8,
+   "avg_price": 10.66,
+   "price_now": 8.9,
+   "est_position_value": 27135,
+   "total_return_pct": -16.5,
+   "total_return_usd": -5366,
    "first_buy": "2026-09-18",
    "last_trade": "2026-09-18"
   }
@@ -147,8 +147,8 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 62.01,
-   "price_now": 50.56,
-   "price_now_date": "2026-10-23",
+   "price_now": 50.52,
+   "price_now_date": "2026-10-26",
    "total_return_pct": -18.5,
    "days_to_disclose": 53,
    "late_filing": true
@@ -179,10 +179,10 @@
     "House Committee on Energy and Commerce",
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": 10.7,
-   "price_now": 8.23,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": -23.1,
+   "price_at_trade": 10.66,
+   "price_now": 8.9,
+   "price_now_date": "2026-10-27",
+   "total_return_pct": -16.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -210,8 +210,8 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 51.94,
-   "price_now": 50.56,
-   "price_now_date": "2026-10-23",
+   "price_now": 50.52,
+   "price_now_date": "2026-10-26",
    "total_return_pct": -2.7,
    "days_to_disclose": 47,
    "late_filing": true
@@ -240,9 +240,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 350.76,
-   "price_now": 285.64,
-   "price_now_date": "2026-10-23",
-   "total_return_pct": -18.6,
+   "price_now": 288.43,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": -17.8,
    "days_to_disclose": 33,
    "late_filing": false
   },

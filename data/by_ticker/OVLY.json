@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "OVLY",
  "company": {
   "name": "Oak Valley Bancorp",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 34.03,
- "price_date": "2026-10-26",
+ "price_now": 34.29,
+ "price_date": "2026-10-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OVLY",
+   "company_name": "Oak Valley Bancorp",
+   "owner_name": "Barton Don",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-26",
+   "shares": 375.0,
+   "price": 34.0,
+   "value": 12750.0,
+   "shares_after": 28850.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1431567/0001437749-26-033533.txt",
+   "price_at_trade": 34.03,
+   "price_now": 34.29,
+   "price_now_date": "2026-10-27",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "OVLY",
+   "company_name": "Oak Valley Bancorp",
+   "owner_name": "Barton Don",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-26",
+   "shares": 375.0,
+   "price": 34.0,
+   "value": 12750.0,
+   "shares_after": 28850.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1442259/0001437749-26-033533.txt",
+   "price_at_trade": 34.03,
+   "price_now": 34.29,
+   "price_now_date": "2026-10-27",
+   "total_return_pct": 0.8
+  },
   {
    "ticker": "OVLY",
    "company_name": "Oak Valley Bancorp",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1431567/0001437749-26-031435.txt",
    "price_at_trade": 34.28,
-   "price_now": 34.03,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
+   "price_now": 34.29,
+   "price_now_date": "2026-10-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "OVLY",
@@ -54,47 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538662/0001437749-26-031435.txt",
    "price_at_trade": 34.28,
-   "price_now": 34.03,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
-  },
-  {
-   "ticker": "OVLY",
-   "company_name": "Oak Valley Bancorp",
-   "owner_name": "Barton Don",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-28",
-   "reported_date": "2026-09-28",
-   "shares": 375.0,
-   "price": 34.03,
-   "value": 12761.25,
-   "shares_after": 29225.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1431567/0001437749-26-031409.txt",
-   "price_at_trade": 34.28,
-   "price_now": 34.03,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
-  },
-  {
-   "ticker": "OVLY",
-   "company_name": "Oak Valley Bancorp",
-   "owner_name": "Barton Don",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-28",
-   "reported_date": "2026-09-28",
-   "shares": 375.0,
-   "price": 34.03,
-   "value": 12761.25,
-   "shares_after": 29225.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1442259/0001437749-26-031409.txt",
-   "price_at_trade": 34.28,
-   "price_now": 34.03,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
+   "price_now": 34.29,
+   "price_now_date": "2026-10-27",
+   "total_return_pct": 0.0
   }
  ],
  "trump_trades": [],

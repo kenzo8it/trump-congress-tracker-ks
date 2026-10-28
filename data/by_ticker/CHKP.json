@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:42+00:00",
+ "updated": "2026-10-28T01:34+00:00",
  "ticker": "CHKP",
  "company": {
   "name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
@@ -84,7 +84,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "CHKP",
+   "company_name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+   "owner_name": "Kremer Nataly",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 3185.0,
+   "price": 150.0801,
+   "value": 478005.12,
+   "shares_after": 19347.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1015922/0001178913-26-004848.txt",
+   "price_at_trade": 151.98,
+   "price_now": 159.63,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 5.0
+  },
+  {
+   "ticker": "CHKP",
+   "company_name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+   "owner_name": "Kremer Nataly",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-22",
+   "reported_date": "2026-10-26",
+   "shares": 3185.0,
+   "price": 150.0801,
+   "value": 478005.12,
+   "shares_after": 19347.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1978684/0001178913-26-004848.txt",
+   "price_at_trade": 151.98,
+   "price_now": 159.63,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": 5.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

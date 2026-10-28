@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-28T01:34+00:00",
+ "ticker": "EXOZ",
+ "company": {
+  "name": "EXOZYMES INC.",
+  "cik": 2010788,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 3.75,
+ "price_date": "2026-10-26",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "EXOZ",
+   "company_name": "EXOZYMES INC.",
+   "owner_name": "Perriman Damien Alan",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-26",
+   "shares": 3729.0,
+   "price": 5.2096,
+   "value": 19426.6,
+   "shares_after": 28692.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010788/0001493152-26-048493.txt",
+   "price_at_trade": 5.05,
+   "price_now": 3.75,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": -25.7
+  },
+  {
+   "ticker": "EXOZ",
+   "company_name": "EXOZYMES INC.",
+   "owner_name": "Perriman Damien Alan",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-12",
+   "reported_date": "2026-10-26",
+   "shares": 3729.0,
+   "price": 5.2096,
+   "value": 19426.6,
+   "shares_after": 28692.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2096714/0001493152-26-048493.txt",
+   "price_at_trade": 5.05,
+   "price_now": 3.75,
+   "price_now_date": "2026-10-26",
+   "total_return_pct": -25.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
