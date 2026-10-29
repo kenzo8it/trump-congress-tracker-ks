@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "PEBO",
  "company": {
   "name": "PEOPLES BANCORP INC",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 38.48,
- "price_date": "2026-10-26",
+ "price_now": 38.39,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Smith Dwight Eric",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 300.0,
+   "price": 38.655,
+   "value": 11596.5,
+   "shares_after": 10556.1792,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1335265/0000318300-26-000238.txt",
+   "price_at_trade": 38.48,
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Smith Dwight Eric",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 300.0,
+   "price": 38.655,
+   "value": 11596.5,
+   "shares_after": 10556.1792,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318300/0000318300-26-000238.txt",
+   "price_at_trade": 38.48,
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Augenstein Mark",
+   "owner_title": "EVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 2000.0,
+   "price": 37.88,
+   "value": 75760.0,
+   "shares_after": 24884.5606,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1823146/0000318300-26-000237.txt",
+   "price_at_trade": 38.2,
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Augenstein Mark",
+   "owner_title": "EVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 2000.0,
+   "price": 37.88,
+   "value": 75760.0,
+   "shares_after": 24884.5606,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318300/0000318300-26-000237.txt",
+   "price_at_trade": 38.2,
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "PEBO",
    "company_name": "PEOPLES BANCORP INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1622494/0000318300-26-000233.txt",
    "price_at_trade": 38.19,
-   "price_now": 38.48,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 0.8
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "PEBO",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/318300/0000318300-26-000233.txt",
    "price_at_trade": 38.19,
-   "price_now": 38.48,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 0.8
+   "price_now": 38.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   }
  ],
  "trump_trades": [],

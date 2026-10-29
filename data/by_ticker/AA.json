@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "AA",
  "company": {
   "name": "Alcoa Corp",
@@ -8,8 +8,8 @@
   "industry": "Primary Production of  Aluminum",
   "sector": "Materials & Mining"
  },
- "price_now": 38.7,
- "price_date": "2026-10-26",
+ "price_now": 40.21,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,10 +41,10 @@
    "company_name": "Alcoa Corp",
    "sector": "Materials & Mining",
    "committee_overlap": [],
-   "price_at_trade": 41.04,
-   "price_now": 38.7,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -5.7,
+   "price_at_trade": 40.93,
+   "price_now": 40.21,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.8,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -57,12 +57,12 @@
    "state": "LA",
    "committee_overlap": [],
    "ticker": "AA",
-   "est_shares": 194.9,
-   "avg_price": 41.04,
-   "price_now": 38.7,
-   "est_position_value": 7544,
-   "total_return_pct": -5.7,
-   "total_return_usd": -456,
+   "est_shares": 195.5,
+   "avg_price": 40.93,
+   "price_now": 40.21,
+   "est_position_value": 7860,
+   "total_return_pct": -1.8,
+   "total_return_usd": -141,
    "first_buy": "2024-10-23",
    "last_trade": "2024-10-23"
   }

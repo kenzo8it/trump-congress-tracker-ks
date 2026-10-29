@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-29T02:01+00:00",
+ "ticker": "TIPT",
+ "company": {
+  "name": "TIPTREE INC.",
+  "cik": 1393726,
+  "sic": 6331,
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials"
+ },
+ "price_now": 17.21,
+ "price_date": "2026-10-28",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "TIPT",
+   "company_name": "TIPTREE INC.",
+   "owner_name": "Barnes Michael Gene",
+   "owner_title": "Director, Chairman and CEO, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 30930.0,
+   "price": 16.24,
+   "value": 502303.2,
+   "shares_after": 10116358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393726/0001498811-26-000002.txt",
+   "price_at_trade": 16.29,
+   "price_now": 17.21,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 5.6
+  },
+  {
+   "ticker": "TIPT",
+   "company_name": "TIPTREE INC.",
+   "owner_name": "Barnes Michael Gene",
+   "owner_title": "Director, Chairman and CEO, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 30930.0,
+   "price": 16.24,
+   "value": 502303.2,
+   "shares_after": 10116358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1498811/0001498811-26-000002.txt",
+   "price_at_trade": 16.29,
+   "price_now": 17.21,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 5.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

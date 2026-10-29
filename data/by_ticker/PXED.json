@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "PXED",
  "company": {
   "name": "Phoenix Education Partners, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Educational Services",
   "sector": "Other"
  },
- "price_now": 24.48,
- "price_date": "2026-10-27",
+ "price_now": 24.31,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Woods John Terrence",
    "owner_title": "Chief Academic Off. & Provost",
    "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 400.0,
+   "price": 25.04,
+   "value": 10016.0,
+   "shares_after": 62682.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600222/0000950142-26-002867.txt",
+   "price_at_trade": 24.82,
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "PXED",
+   "company_name": "Phoenix Education Partners, Inc.",
+   "owner_name": "Woods John Terrence",
+   "owner_title": "Chief Academic Off. & Provost",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 400.0,
+   "price": 25.04,
+   "value": 10016.0,
+   "shares_after": 62682.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2085188/0000950142-26-002867.txt",
+   "price_at_trade": 24.82,
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "PXED",
+   "company_name": "Phoenix Education Partners, Inc.",
+   "owner_name": "Woods John Terrence",
+   "owner_title": "Chief Academic Off. & Provost",
+   "trade_type": "SELL",
    "traded_date": "2026-10-12",
    "reported_date": "2026-10-13",
    "shares": 850.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1600222/0000950142-26-002742.txt",
    "price_at_trade": 24.35,
-   "price_now": 24.48,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": 0.5
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "PXED",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2085188/0000950142-26-002742.txt",
    "price_at_trade": 24.35,
-   "price_now": 24.48,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": 0.5
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "PXED",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1600222/0000950142-26-002742.txt",
    "price_at_trade": 26.01,
-   "price_now": 24.48,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": -5.9
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "PXED",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2085188/0000950142-26-002742.txt",
    "price_at_trade": 26.01,
-   "price_now": 24.48,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": -5.9
+   "price_now": 24.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -6.5
   }
  ],
  "trump_trades": [],

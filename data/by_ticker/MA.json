@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "MA",
  "company": {
   "name": "Mastercard Inc",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 613.5,
- "price_date": "2026-10-26",
+ "price_now": 610.31,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Pete Sessions",
+   "state_district": "TX17",
+   "reported_date": "2026-10-27",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+   "owner": "spouse",
+   "asset": "Mastercard Incorporated Common Stock",
+   "asset_type": "ST",
+   "ticker": "MA",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-02",
+   "notified_date": "2026-10-05",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "S000250",
+   "party": "Republican",
+   "state": "TX",
+   "company_name": "Mastercard Inc",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 551.42,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 10.7,
+   "days_to_disclose": 25,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -44,9 +74,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 489.52,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 25.3,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 24.7,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -76,9 +106,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 524.21,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.0,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 16.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -108,9 +138,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 557.39,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 10.1,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 9.5,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -138,9 +168,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 565.58,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 8.5,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 7.9,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -157,10 +187,10 @@
    "ticker": "MA",
    "est_shares": 13.3,
    "avg_price": 540.29,
-   "price_now": 613.5,
-   "est_position_value": 8142,
-   "total_return_pct": 13.5,
-   "total_return_usd": 972,
+   "price_now": 610.31,
+   "est_position_value": 8100,
+   "total_return_pct": 13.0,
+   "total_return_usd": 929,
    "first_buy": "2025-10-17",
    "last_trade": "2026-06-05"
   }
@@ -181,9 +211,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/0001141391-26-000118.txt",
    "price_at_trade": 617.42,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.6
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "MA",
@@ -200,9 +230,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1923565/0001141391-26-000118.txt",
    "price_at_trade": 617.42,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.6
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "MA",
@@ -219,9 +249,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/0001141391-26-000116.txt",
    "price_at_trade": 595.09,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 3.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "MA",
@@ -238,9 +268,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1184231/0001141391-26-000116.txt",
    "price_at_trade": 595.09,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 3.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "MA",
@@ -257,9 +287,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/0001141391-26-000116.txt",
    "price_at_trade": 589.14,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 4.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "MA",
@@ -276,9 +306,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/0001141391-26-000116.txt",
    "price_at_trade": 589.14,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 4.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "MA",
@@ -295,9 +325,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1184231/0001141391-26-000116.txt",
    "price_at_trade": 589.14,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 4.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "MA",
@@ -314,9 +344,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1184231/0001141391-26-000116.txt",
    "price_at_trade": 589.14,
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 4.1
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.6
   }
  ],
  "trump_trades": [],
@@ -328,9 +358,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 613.5,
-   "price_now_date": "2026-10-26",
-   "return_since_involvement_pct": 13.4,
+   "price_now": 610.31,
+   "price_now_date": "2026-10-28",
+   "return_since_involvement_pct": 12.8,
    "price_at_involvement": 541.07
   }
  ],

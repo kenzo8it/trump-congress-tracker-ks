@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "ZIP",
  "company": {
   "name": "ZIPRECRUITER, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 4.52,
- "price_date": "2026-10-26",
+ "price_now": 4.31,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ZIP",
+   "company_name": "ZIPRECRUITER, INC.",
+   "owner_name": "SAKAMOTO RYAN T.",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 2978.0,
+   "price": 4.535,
+   "value": 13505.23,
+   "shares_after": 123699.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859442-26-000014.txt",
+   "price_at_trade": 4.52,
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "ZIP",
+   "company_name": "ZIPRECRUITER, INC.",
+   "owner_name": "SAKAMOTO RYAN T.",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 2978.0,
+   "price": 4.535,
+   "value": 13505.23,
+   "shares_after": 123699.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1859442/0001859442-26-000014.txt",
+   "price_at_trade": 4.52,
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -4.6
+  },
   {
    "ticker": "ZIP",
    "company_name": "ZIPRECRUITER, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001861460-26-000010.txt",
    "price_at_trade": 4.55,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ZIP",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1861460/0001861460-26-000010.txt",
    "price_at_trade": 4.55,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.7
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ZIP",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859448-26-000016.txt",
    "price_at_trade": 3.61,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 25.2
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 19.4
   },
   {
    "ticker": "ZIP",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859448/0001859448-26-000016.txt",
    "price_at_trade": 3.61,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 25.2
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 19.4
   },
   {
    "ticker": "ZIP",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859448-26-000016.txt",
    "price_at_trade": 3.55,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 27.3
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 21.4
   },
   {
    "ticker": "ZIP",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859448/0001859448-26-000016.txt",
    "price_at_trade": 3.55,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 27.3
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 21.4
   },
   {
    "ticker": "ZIP",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859448-26-000016.txt",
    "price_at_trade": 3.56,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 27.0
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 21.1
   },
   {
    "ticker": "ZIP",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859448/0001859448-26-000016.txt",
    "price_at_trade": 3.56,
-   "price_now": 4.52,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 27.0
+   "price_now": 4.31,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 21.1
   }
  ],
  "trump_trades": [],

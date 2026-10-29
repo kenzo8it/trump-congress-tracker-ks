@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -86,10 +86,10 @@
    "ticker": "SPCX",
    "est_shares": 779.2,
    "avg_price": 192.5,
-   "price_now": 146.9,
-   "est_position_value": 114468,
-   "total_return_pct": -23.7,
-   "total_return_usd": -35533,
+   "price_now": 145.23,
+   "est_position_value": 113167,
+   "total_return_pct": -24.6,
+   "total_return_usd": -36834,
    "first_buy": "2026-06-15",
    "last_trade": "2026-06-15"
   }
@@ -119,9 +119,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 192.5,
-   "price_now": 146.9,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -23.7,
+   "price_now": 145.23,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -24.6,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -149,9 +149,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 192.5,
-   "price_now": 146.9,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -23.7,
+   "price_now": 145.23,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -24.6,
    "days_to_disclose": 34,
    "late_filing": false
   }

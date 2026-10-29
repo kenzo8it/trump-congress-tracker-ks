@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "STC",
  "company": {
   "name": "STEWART INFORMATION SERVICES CORP",
@@ -8,8 +8,8 @@
   "industry": "Title Insurance",
   "sector": "Financials"
  },
- "price_now": 42.96,
- "price_date": "2026-10-26",
+ "price_now": 44.3,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "STC",
+   "company_name": "STEWART INFORMATION SERVICES CORP",
+   "owner_name": "EPPINGER FREDERICK H",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 3000.0,
+   "price": 44.45,
+   "value": 133350.0,
+   "shares_after": 173675.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1261155/0001628280-26-067616.txt",
+   "price_at_trade": 42.96,
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.1
+  },
+  {
+   "ticker": "STC",
+   "company_name": "STEWART INFORMATION SERVICES CORP",
+   "owner_name": "EPPINGER FREDERICK H",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 3000.0,
+   "price": 44.45,
+   "value": 133350.0,
+   "shares_after": 173675.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067616.txt",
+   "price_at_trade": 42.96,
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.1
+  },
+  {
+   "ticker": "STC",
+   "company_name": "STEWART INFORMATION SERVICES CORP",
+   "owner_name": "Matz Deborah Jane",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 1000.0,
+   "price": 43.91,
+   "value": 43910.0,
+   "shares_after": 1000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1814738/0001628280-26-067619.txt",
+   "price_at_trade": 44.07,
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "STC",
+   "company_name": "STEWART INFORMATION SERVICES CORP",
+   "owner_name": "Matz Deborah Jane",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 1000.0,
+   "price": 43.91,
+   "value": 43910.0,
+   "shares_after": 1000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067619.txt",
+   "price_at_trade": 44.07,
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "STC",
    "company_name": "STEWART INFORMATION SERVICES CORP",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341775/0001628280-26-067360.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1356389/0001628280-26-067363.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1356389/0001628280-26-067363.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1815639/0001628280-26-067362.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067360.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067362.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067363.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "STC",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/94344/0001628280-26-067363.txt",
    "price_at_trade": 44.07,
-   "price_now": 42.96,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -2.5
+   "price_now": 44.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 0.5
   }
  ],
  "trump_trades": [],

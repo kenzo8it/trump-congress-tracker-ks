@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "PLD",
  "company": {
   "name": "Prologis, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 126.31,
- "price_date": "2026-10-26",
+ "price_now": 125.22,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 126.09,
-   "price_now": 126.31,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 0.2,
+   "price_now": 125.22,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.7,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 139.4,
-   "price_now": 126.31,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -9.4,
+   "price_now": 125.22,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -10.2,
    "days_to_disclose": 8,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 127.43,
-   "price_now": 126.31,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -0.9,
+   "price_now": 125.22,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.7,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 130.16,
-   "price_now": 126.31,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -3.0,
+   "price_now": 125.22,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -3.8,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -149,10 +149,10 @@
    "ticker": "PLD",
    "est_shares": 5.4,
    "avg_price": 127.43,
-   "price_now": 126.31,
-   "est_position_value": 681,
-   "total_return_pct": -0.9,
-   "total_return_usd": -6,
+   "price_now": 125.22,
+   "est_position_value": 675,
+   "total_return_pct": -1.7,
+   "total_return_usd": -12,
    "first_buy": "2026-01-29",
    "last_trade": "2026-02-26"
   }

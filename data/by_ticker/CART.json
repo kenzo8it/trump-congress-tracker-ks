@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "CART",
  "company": {
   "name": "Maplebear Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 60.88,
- "price_date": "2026-10-26",
+ "price_now": 58.42,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,53 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 42.41,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 43.6,
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 37.8,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CART",
+   "company_name": "Maplebear Inc.",
+   "owner_name": "Rogers Chris",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 24665.0,
+   "price": 60.0,
+   "value": 1479900.0,
+   "shares_after": 867911.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0002082930-26-000020.txt",
+   "price_at_trade": 60.88,
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "CART",
+   "company_name": "Maplebear Inc.",
+   "owner_name": "Rogers Chris",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 24665.0,
+   "price": 60.0,
+   "value": 1479900.0,
+   "shares_after": 867911.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2082930/0002082930-26-000020.txt",
+   "price_at_trade": 60.88,
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -4.0
+  },
   {
    "ticker": "CART",
    "company_name": "Maplebear Inc.",
@@ -66,9 +104,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0002022050-26-000011.txt",
    "price_at_trade": 56.44,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 7.9
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "CART",
@@ -85,9 +123,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0002082930-26-000018.txt",
    "price_at_trade": 56.44,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 7.9
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "CART",
@@ -104,9 +142,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022050/0002022050-26-000011.txt",
    "price_at_trade": 56.44,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 7.9
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "CART",
@@ -123,9 +161,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2082930/0002082930-26-000018.txt",
    "price_at_trade": 56.44,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 7.9
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "CART",
@@ -142,9 +180,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0001990106-26-000026.txt",
    "price_at_trade": 51.68,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.8
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "CART",
@@ -161,9 +199,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0001990106-26-000026.txt",
    "price_at_trade": 51.68,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.8
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "CART",
@@ -180,9 +218,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1990106/0001990106-26-000026.txt",
    "price_at_trade": 51.68,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.8
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "CART",
@@ -199,9 +237,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1990106/0001990106-26-000026.txt",
    "price_at_trade": 51.68,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.8
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "CART",
@@ -218,9 +256,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0001651687-26-000021.txt",
    "price_at_trade": 51.13,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 19.1
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 14.3
   },
   {
    "ticker": "CART",
@@ -237,9 +275,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1651687/0001651687-26-000021.txt",
    "price_at_trade": 51.13,
-   "price_now": 60.88,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 19.1
+   "price_now": 58.42,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 14.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -93,10 +93,10 @@
    "ticker": "KRP",
    "est_shares": 2400.3,
    "avg_price": 13.54,
-   "price_now": 16.86,
-   "est_position_value": 40470,
-   "total_return_pct": 24.5,
-   "total_return_usd": 7969,
+   "price_now": 16.97,
+   "est_position_value": 40734,
+   "total_return_pct": 25.3,
+   "total_return_usd": 8233,
    "first_buy": "2026-03-13",
    "last_trade": "2026-03-13"
   },
@@ -104,10 +104,10 @@
    "ticker": "DMLP",
    "est_shares": 1285.1,
    "avg_price": 25.29,
-   "price_now": 30.58,
-   "est_position_value": 39299,
-   "total_return_pct": 20.9,
-   "total_return_usd": 6798,
+   "price_now": 30.69,
+   "est_position_value": 39440,
+   "total_return_pct": 21.4,
+   "total_return_usd": 6940,
    "first_buy": "2026-03-13",
    "last_trade": "2026-03-13"
   },
@@ -115,10 +115,10 @@
    "ticker": "BRK.B",
    "est_shares": 66.3,
    "avg_price": 490.03,
-   "price_now": 548.56,
-   "est_position_value": 36382,
-   "total_return_pct": 11.9,
-   "total_return_usd": 3882,
+   "price_now": 540.34,
+   "est_position_value": 35837,
+   "total_return_pct": 10.3,
+   "total_return_usd": 3337,
    "first_buy": "2026-03-13",
    "last_trade": "2026-03-13"
   },
@@ -126,10 +126,10 @@
    "ticker": "VNOM",
    "est_shares": 756.9,
    "avg_price": 42.94,
-   "price_now": 47.16,
-   "est_position_value": 35695,
-   "total_return_pct": 9.8,
-   "total_return_usd": 3194,
+   "price_now": 46.46,
+   "est_position_value": 35165,
+   "total_return_pct": 8.2,
+   "total_return_usd": 2664,
    "first_buy": "2026-03-13",
    "last_trade": "2026-03-13"
   },
@@ -137,10 +137,10 @@
    "ticker": "EPD",
    "est_shares": 904.6,
    "avg_price": 35.93,
-   "price_now": 37.0,
-   "est_position_value": 33468,
-   "total_return_pct": 3.0,
-   "total_return_usd": 968,
+   "price_now": 38.06,
+   "est_position_value": 34427,
+   "total_return_pct": 5.9,
+   "total_return_usd": 1927,
    "first_buy": "2026-03-13",
    "last_trade": "2026-03-13"
   }
@@ -172,9 +172,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 147.76,
-   "price_now": 102.18,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -30.8,
+   "price_now": 105.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -28.7,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -204,9 +204,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 147.76,
-   "price_now": 102.18,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -30.8,
+   "price_now": 105.39,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -28.7,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -324,9 +324,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 490.03,
-   "price_now": 548.56,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 11.9,
+   "price_now": 540.34,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 10.3,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -356,9 +356,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 25.29,
-   "price_now": 30.58,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 20.9,
+   "price_now": 30.69,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 21.4,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -388,9 +388,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 35.93,
-   "price_now": 37.0,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 3.0,
+   "price_now": 38.06,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 5.9,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -420,9 +420,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 13.54,
-   "price_now": 16.86,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 24.5,
+   "price_now": 16.97,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 25.3,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -452,9 +452,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 42.94,
-   "price_now": 47.16,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 9.8,
+   "price_now": 46.46,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 8.2,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -478,11 +478,9 @@
    "bioguide": "P000048",
    "party": "Republican",
    "state": "TX",
-   "company_name": "Warner Bros. Discovery, Inc.",
-   "sector": "Telecom",
-   "committee_overlap": [
-    "House Committee on Energy and Commerce"
-   ],
+   "company_name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+   "sector": null,
+   "committee_overlap": [],
    "price_at_trade": null,
    "price_now": 30.95,
    "price_now_date": "2026-10-05",
@@ -514,9 +512,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 51.79,
-   "price_now": 39.94,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -22.9,
+   "price_now": 39.3,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -24.1,
    "days_to_disclose": 30,
    "late_filing": false
   },
@@ -546,9 +544,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 20.16,
-   "price_now": 27.42,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 36.0,
+   "price_now": 27.32,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 35.5,
    "days_to_disclose": 29,
    "late_filing": false
   },
@@ -578,9 +576,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 95.79,
-   "price_now": 89.13,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": -7.0,
+   "price_now": 90.86,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -5.1,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -608,9 +606,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 84.78,
-   "price_now": 99.57,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.4,
+   "price_now": 101.07,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 19.2,
    "days_to_disclose": 35,
    "late_filing": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "EOG",
  "company": {
   "name": "EOG RESOURCES INC",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 163.68,
- "price_date": "2026-10-26",
+ "price_now": 160.92,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 110.27,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 48.4,
+   "price_now": 160.92,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 45.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 101.68,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 61.0,
+   "price_now": 160.92,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 58.3,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 99.45,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 64.6,
+   "price_now": 160.92,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 61.8,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -136,9 +136,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 105.87,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 54.6,
+   "price_now": 160.92,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": 52.0,
    "days_to_disclose": 28,
    "late_filing": false
   }
@@ -153,54 +153,15 @@
    "ticker": "EOG",
    "est_shares": 294.7,
    "avg_price": 110.27,
-   "price_now": 163.68,
-   "est_position_value": 48242,
-   "total_return_pct": 48.4,
-   "total_return_usd": 15742,
+   "price_now": 160.92,
+   "est_position_value": 47429,
+   "total_return_pct": 45.9,
+   "total_return_usd": 14928,
    "first_buy": "2026-02-10",
    "last_trade": "2026-02-10"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "EOG",
-   "company_name": "EOG RESOURCES INC",
-   "owner_name": "Leitzell Jeffrey R.",
-   "owner_title": "EVP & COO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-25",
-   "reported_date": "2026-09-29",
-   "shares": 9039.0,
-   "price": 140.61,
-   "value": 1270973.79,
-   "shares_after": 90790.031,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1862479/0000821189-26-000199.txt",
-   "price_at_trade": 139.41,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.4
-  },
-  {
-   "ticker": "EOG",
-   "company_name": "EOG RESOURCES INC",
-   "owner_name": "Leitzell Jeffrey R.",
-   "owner_title": "EVP & COO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-25",
-   "reported_date": "2026-09-29",
-   "shares": 9039.0,
-   "price": 140.61,
-   "value": 1270973.79,
-   "shares_after": 90790.031,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/821189/0000821189-26-000199.txt",
-   "price_at_trade": 139.41,
-   "price_now": 163.68,
-   "price_now_date": "2026-10-26",
-   "total_return_pct": 17.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

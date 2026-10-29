@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:34+00:00",
+ "updated": "2026-10-29T02:01+00:00",
  "ticker": "PDI",
  "company": {
   "name": "PIMCO Dynamic Income Fund",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 14.07,
- "price_date": "2026-10-27",
+ "price_now": 14.1,
+ "price_date": "2026-10-28",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PDI",
+   "company_name": "PIMCO Dynamic Income Fund",
+   "owner_name": "Morris Sonya",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 5700.0,
+   "price": 14.32,
+   "value": 81624.0,
+   "shares_after": 11400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510599/0002084606-26-000017.txt",
+   "price_at_trade": 14.31,
+   "price_now": 14.1,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "PDI",
+   "company_name": "PIMCO Dynamic Income Fund",
+   "owner_name": "Morris Sonya",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-23",
+   "reported_date": "2026-10-27",
+   "shares": 5700.0,
+   "price": 14.32,
+   "value": 81624.0,
+   "shares_after": 11400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2084606/0002084606-26-000017.txt",
+   "price_at_trade": 14.31,
+   "price_now": 14.1,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -1.5
+  },
   {
    "ticker": "PDI",
    "company_name": "PIMCO Dynamic Income Fund",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1201917/0001201917-26-000004.txt",
    "price_at_trade": 14.18,
-   "price_now": 14.07,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": -0.8
+   "price_now": 14.1,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.6
   },
   {
    "ticker": "PDI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510599/0001201917-26-000004.txt",
    "price_at_trade": 14.18,
-   "price_now": 14.07,
-   "price_now_date": "2026-10-27",
-   "total_return_pct": -0.8
+   "price_now": 14.1,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.6
   }
  ],
  "trump_trades": [],

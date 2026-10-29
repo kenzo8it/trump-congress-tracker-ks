@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-29T02:01+00:00",
+ "ticker": "CNOB",
+ "company": {
+  "name": "ConnectOne Bancorp, Inc.",
+  "cik": 712771,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 32.57,
+ "price_date": "2026-10-28",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CNOB",
+   "company_name": "ConnectOne Bancorp, Inc.",
+   "owner_name": "Magennis Elizabeth",
+   "owner_title": "Director, Bank President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 6900.0,
+   "price": 32.672,
+   "value": 225436.8,
+   "shares_after": 137383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1568272/0001619964-26-000037.txt",
+   "price_at_trade": 32.84,
+   "price_now": 32.57,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "CNOB",
+   "company_name": "ConnectOne Bancorp, Inc.",
+   "owner_name": "Magennis Elizabeth",
+   "owner_title": "Director, Bank President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-27",
+   "shares": 6900.0,
+   "price": 32.672,
+   "value": 225436.8,
+   "shares_after": 137383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/712771/0001619964-26-000037.txt",
+   "price_at_trade": 32.84,
+   "price_now": 32.57,
+   "price_now_date": "2026-10-28",
+   "total_return_pct": -0.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
