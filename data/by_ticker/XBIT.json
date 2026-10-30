@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "XBIT",
+ "company": {
+  "name": "XBiotech Inc.",
+  "cik": 1626878,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 1.94,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "XBIT",
+   "company_name": "XBiotech Inc.",
+   "owner_name": "SIMARD JOHN",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 368524.0,
+   "price": 1.93,
+   "value": 711251.32,
+   "shares_after": 4191690.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1626878/0001193125-26-435894.txt",
+   "price_at_trade": 1.85,
+   "price_now": 1.94,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "XBIT",
+   "company_name": "XBiotech Inc.",
+   "owner_name": "SIMARD JOHN",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 368524.0,
+   "price": 1.93,
+   "value": 711251.32,
+   "shares_after": 4191690.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1639078/0001193125-26-435894.txt",
+   "price_at_trade": 1.85,
+   "price_now": 1.94,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 4.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

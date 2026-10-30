@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "ACTU",
+ "company": {
+  "name": "ACTUATE THERAPEUTICS, INC.",
+  "cik": 1652935,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 0.37,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ACTU",
+   "company_name": "ACTUATE THERAPEUTICS, INC.",
+   "owner_name": "SCHMITT DANIEL M",
+   "owner_title": "Director, President, CEO and Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 140844.0,
+   "price": 0.355,
+   "value": 49999.62,
+   "shares_after": 442560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1318470/0001683168-26-008147.txt",
+   "price_at_trade": 0.38,
+   "price_now": 0.37,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "ACTU",
+   "company_name": "ACTUATE THERAPEUTICS, INC.",
+   "owner_name": "SCHMITT DANIEL M",
+   "owner_title": "Director, President, CEO and Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 140844.0,
+   "price": 0.355,
+   "value": 49999.62,
+   "shares_after": 442560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1652935/0001683168-26-008147.txt",
+   "price_at_trade": 0.38,
+   "price_now": 0.37,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -3.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "BBNX",
  "company": {
   "name": "Beta Bionics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 17.85,
- "price_date": "2026-10-28",
+ "price_now": 17.58,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Mensinger Mike",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 2650.0,
+   "price": 22.0,
+   "value": 58300.0,
+   "shares_after": 174740.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048500-26-000015.txt",
+   "price_at_trade": 21.39,
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -17.8
+  },
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Mensinger Mike",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 2650.0,
+   "price": 22.0,
+   "value": 58300.0,
+   "shares_after": 174740.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2048500/0002048500-26-000015.txt",
+   "price_at_trade": 21.39,
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -17.8
+  },
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Hopman Mark",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 821.0,
+   "price": 20.0,
+   "value": 16420.0,
+   "shares_after": 54513.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000023.txt",
+   "price_at_trade": 20.51,
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -14.3
+  },
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Hopman Mark",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 821.0,
+   "price": 20.0,
+   "value": 16420.0,
+   "shares_after": 54513.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000023.txt",
+   "price_at_trade": 20.51,
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -14.3
+  },
   {
    "ticker": "BBNX",
    "company_name": "Beta Bionics, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000021.txt",
    "price_at_trade": 16.87,
-   "price_now": 17.85,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 5.8
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 4.2
   },
   {
    "ticker": "BBNX",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000021.txt",
    "price_at_trade": 16.87,
-   "price_now": 17.85,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 5.8
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 4.2
   },
   {
    "ticker": "BBNX",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000018.txt",
    "price_at_trade": 18.87,
-   "price_now": 17.85,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -5.4
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "BBNX",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000018.txt",
    "price_at_trade": 18.87,
-   "price_now": 17.85,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -5.4
+   "price_now": 17.58,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -6.8
   }
  ],
  "trump_trades": [],

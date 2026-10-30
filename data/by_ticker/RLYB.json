@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "RLYB",
+ "company": {
+  "name": "Rallybio Corp",
+  "cik": 1739410,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 15.41,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "RLYB",
+   "company_name": "Rallybio Corp",
+   "owner_name": "Lieber Jonathan I",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 599.0,
+   "price": 16.04,
+   "value": 9607.96,
+   "shares_after": 15551.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1350090/0001193125-26-436314.txt",
+   "price_at_trade": 15.93,
+   "price_now": 15.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -3.3
+  },
+  {
+   "ticker": "RLYB",
+   "company_name": "Rallybio Corp",
+   "owner_name": "Lieber Jonathan I",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 599.0,
+   "price": 16.04,
+   "value": 9607.96,
+   "shares_after": 15551.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1739410/0001193125-26-436314.txt",
+   "price_at_trade": 15.93,
+   "price_now": 15.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -3.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

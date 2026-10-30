@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "UTMD",
+ "company": {
+  "name": "UTAH MEDICAL PRODUCTS INC",
+  "cik": 706698,
+  "sic": 3841,
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Healthcare"
+ },
+ "price_now": 66.8,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "UTMD",
+   "company_name": "UTAH MEDICAL PRODUCTS INC",
+   "owner_name": "CORNWELL KEVIN L",
+   "owner_title": "Director, Chairman, CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-29",
+   "shares": 1000.0,
+   "price": 66.75,
+   "value": 66750.0,
+   "shares_after": 189472.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1199423/0001733614-26-000005.txt",
+   "price_at_trade": 66.8,
+   "price_now": 66.8,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "UTMD",
+   "company_name": "UTAH MEDICAL PRODUCTS INC",
+   "owner_name": "CORNWELL KEVIN L",
+   "owner_title": "Director, Chairman, CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-29",
+   "shares": 1000.0,
+   "price": 66.75,
+   "value": 66750.0,
+   "shares_after": 189472.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/706698/0001733614-26-000005.txt",
+   "price_at_trade": 66.8,
+   "price_now": 66.8,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

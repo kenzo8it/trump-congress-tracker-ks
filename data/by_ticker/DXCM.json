@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "DXCM",
  "company": {
   "name": "DEXCOM INC",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 78.62,
- "price_date": "2026-10-28",
+ "price_now": 79.93,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DXCM",
+   "company_name": "DEXCOM INC",
+   "owner_name": "Stern Sadie",
+   "owner_title": "EVP Chief People & Culture Off",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 2565.0,
+   "price": 78.62,
+   "value": 201660.3,
+   "shares_after": 120913.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1093557/0001093557-26-000187.txt",
+   "price_at_trade": 78.56,
+   "price_now": 79.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.7
+  },
+  {
+   "ticker": "DXCM",
+   "company_name": "DEXCOM INC",
+   "owner_name": "Stern Sadie",
+   "owner_title": "EVP Chief People & Culture Off",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 2565.0,
+   "price": 78.62,
+   "value": 201660.3,
+   "shares_after": 120913.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1797971/0001093557-26-000187.txt",
+   "price_at_trade": 78.56,
+   "price_now": 79.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.7
+  },
   {
    "ticker": "DXCM",
    "company_name": "DEXCOM INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1093557/0001093557-26-000183.txt",
    "price_at_trade": 87.71,
-   "price_now": 78.62,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -10.4
+   "price_now": 79.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "DXCM",
@@ -54,47 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1899922/0001093557-26-000183.txt",
    "price_at_trade": 87.71,
-   "price_now": 78.62,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -10.4
-  },
-  {
-   "ticker": "DXCM",
-   "company_name": "DEXCOM INC",
-   "owner_name": "Stern Sadie",
-   "owner_title": "EVP Chief People & Culture Off",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-28",
-   "reported_date": "2026-09-30",
-   "shares": 2565.0,
-   "price": 86.15,
-   "value": 220974.75,
-   "shares_after": 123478.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1093557/0001093557-26-000181.txt",
-   "price_at_trade": 86.68,
-   "price_now": 78.62,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -9.3
-  },
-  {
-   "ticker": "DXCM",
-   "company_name": "DEXCOM INC",
-   "owner_name": "Stern Sadie",
-   "owner_title": "EVP Chief People & Culture Off",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-28",
-   "reported_date": "2026-09-30",
-   "shares": 2565.0,
-   "price": 86.15,
-   "value": 220974.75,
-   "shares_after": 123478.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1797971/0001093557-26-000181.txt",
-   "price_at_trade": 86.68,
-   "price_now": 78.62,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -9.3
+   "price_now": 79.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -8.9
   }
  ],
  "trump_trades": [],

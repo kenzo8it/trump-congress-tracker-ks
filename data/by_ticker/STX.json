@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "STX",
  "company": {
   "name": "Seagate Technology Holdings plc",
@@ -8,8 +8,8 @@
   "industry": "Computer Storage Devices",
   "sector": "Technology"
  },
- "price_now": 697.97,
- "price_date": "2026-10-28",
+ "price_now": null,
+ "price_date": null,
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-10-28",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+   "owner": "self",
+   "asset": "Seagate Technology Holdings PLC - Ordinary Shares",
+   "asset_type": "ST",
+   "ticker": "STX",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-10-23",
+   "notified_date": "2026-10-27",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "Seagate Technology Holdings plc",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
+   "days_to_disclose": 5,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Lisa C. McClain",
@@ -41,10 +71,10 @@
    "company_name": "Seagate Technology Holdings plc",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 922.34,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -24.3,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -71,10 +101,10 @@
    "company_name": "Seagate Technology Holdings plc",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 771.19,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -9.5,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -103,10 +133,10 @@
    "committee_overlap": [
     "House Committee on Homeland Security"
    ],
-   "price_at_trade": 290.29,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 140.4,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -135,10 +165,10 @@
    "committee_overlap": [
     "House Committee on Homeland Security"
    ],
-   "price_at_trade": 261.02,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 167.4,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -165,10 +195,10 @@
    "company_name": "Seagate Technology Holdings plc",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 221.69,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 214.8,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -195,32 +225,15 @@
    "company_name": "Seagate Technology Holdings plc",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 187.54,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 272.2,
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
    "days_to_disclose": 44,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "STX",
-   "est_shares": 138.1,
-   "avg_price": 187.54,
-   "price_now": 697.97,
-   "est_position_value": 96363,
-   "total_return_pct": 272.2,
-   "total_return_usd": 70471,
-   "first_buy": "2025-09-08",
-   "last_trade": "2026-09-30"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "STX",
@@ -236,10 +249,10 @@
    "shares_after": 1036.75,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000265.txt",
-   "price_at_trade": 630.49,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.7
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -255,10 +268,10 @@
    "shares_after": 1036.75,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000265.txt",
-   "price_at_trade": 630.49,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.7
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -274,10 +287,10 @@
    "shares_after": 391748.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -293,10 +306,10 @@
    "shares_after": 391231.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -312,10 +325,10 @@
    "shares_after": 390791.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -331,10 +344,10 @@
    "shares_after": 390407.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -350,10 +363,10 @@
    "shares_after": 389711.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -369,10 +382,10 @@
    "shares_after": 389231.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -388,10 +401,10 @@
    "shares_after": 388751.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -407,10 +420,10 @@
    "shares_after": 388150.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -426,10 +439,10 @@
    "shares_after": 387590.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -445,10 +458,10 @@
    "shares_after": 386563.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -464,10 +477,10 @@
    "shares_after": 386256.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -483,10 +496,10 @@
    "shares_after": 385416.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -502,10 +515,10 @@
    "shares_after": 384270.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -521,10 +534,10 @@
    "shares_after": 383574.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -540,10 +553,10 @@
    "shares_after": 382670.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -559,10 +572,10 @@
    "shares_after": 381710.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -578,10 +591,10 @@
    "shares_after": 381230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -597,10 +610,10 @@
    "shares_after": 380830.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -616,10 +629,10 @@
    "shares_after": 379910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -635,10 +648,10 @@
    "shares_after": 379070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -654,10 +667,10 @@
    "shares_after": 378440.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -673,10 +686,10 @@
    "shares_after": 377510.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -692,10 +705,10 @@
    "shares_after": 376710.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -711,10 +724,10 @@
    "shares_after": 375950.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -730,10 +743,10 @@
    "shares_after": 375310.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -749,10 +762,10 @@
    "shares_after": 374230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -768,10 +781,10 @@
    "shares_after": 373750.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -787,10 +800,10 @@
    "shares_after": 373110.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -806,10 +819,10 @@
    "shares_after": 372750.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -825,10 +838,10 @@
    "shares_after": 371895.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -844,10 +857,10 @@
    "shares_after": 370230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -863,10 +876,10 @@
    "shares_after": 368910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -882,10 +895,10 @@
    "shares_after": 368070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -901,10 +914,10 @@
    "shares_after": 367248.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -920,10 +933,10 @@
    "shares_after": 366608.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -939,10 +952,10 @@
    "shares_after": 365849.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -958,10 +971,10 @@
    "shares_after": 365270.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -977,10 +990,10 @@
    "shares_after": 364630.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -996,10 +1009,10 @@
    "shares_after": 363910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1015,10 +1028,10 @@
    "shares_after": 363830.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1034,10 +1047,10 @@
    "shares_after": 363790.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1053,10 +1066,10 @@
    "shares_after": 363510.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1072,10 +1085,10 @@
    "shares_after": 363070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1091,10 +1104,10 @@
    "shares_after": 362108.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1110,10 +1123,10 @@
    "shares_after": 391748.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1129,10 +1142,10 @@
    "shares_after": 391231.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1148,10 +1161,10 @@
    "shares_after": 390791.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1167,10 +1180,10 @@
    "shares_after": 390407.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1186,10 +1199,10 @@
    "shares_after": 389711.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1205,10 +1218,10 @@
    "shares_after": 389231.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1224,10 +1237,10 @@
    "shares_after": 388751.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1243,10 +1256,10 @@
    "shares_after": 388150.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1262,10 +1275,10 @@
    "shares_after": 387590.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1281,10 +1294,10 @@
    "shares_after": 386563.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1300,10 +1313,10 @@
    "shares_after": 386256.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1319,10 +1332,10 @@
    "shares_after": 385416.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1338,10 +1351,10 @@
    "shares_after": 384270.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1357,10 +1370,10 @@
    "shares_after": 383574.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1376,10 +1389,10 @@
    "shares_after": 382670.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1395,10 +1408,10 @@
    "shares_after": 381710.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1414,10 +1427,10 @@
    "shares_after": 381230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1433,10 +1446,10 @@
    "shares_after": 380830.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1452,10 +1465,10 @@
    "shares_after": 379910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1471,10 +1484,10 @@
    "shares_after": 379070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1490,10 +1503,10 @@
    "shares_after": 378440.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1509,10 +1522,10 @@
    "shares_after": 377510.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1528,10 +1541,10 @@
    "shares_after": 376710.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1547,10 +1560,10 @@
    "shares_after": 375950.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1566,10 +1579,10 @@
    "shares_after": 375310.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1585,10 +1598,10 @@
    "shares_after": 374230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1604,10 +1617,10 @@
    "shares_after": 373750.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1623,10 +1636,10 @@
    "shares_after": 373110.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000261.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1642,10 +1655,10 @@
    "shares_after": 372750.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1661,10 +1674,10 @@
    "shares_after": 371895.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1680,10 +1693,10 @@
    "shares_after": 370230.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1699,10 +1712,10 @@
    "shares_after": 368910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1718,10 +1731,10 @@
    "shares_after": 368070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1737,10 +1750,10 @@
    "shares_after": 367248.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1756,10 +1769,10 @@
    "shares_after": 366608.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1775,10 +1788,10 @@
    "shares_after": 365849.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1794,10 +1807,10 @@
    "shares_after": 365270.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1813,10 +1826,10 @@
    "shares_after": 364630.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1832,10 +1845,10 @@
    "shares_after": 363910.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1851,10 +1864,10 @@
    "shares_after": 363830.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1870,10 +1883,10 @@
    "shares_after": 363790.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1889,10 +1902,10 @@
    "shares_after": 363510.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1908,10 +1921,10 @@
    "shares_after": 363070.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   },
   {
    "ticker": "STX",
@@ -1927,10 +1940,10 @@
    "shares_after": 362108.25,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388390/0001137789-26-000262.txt",
-   "price_at_trade": 945.57,
-   "price_now": 697.97,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -26.2
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
   }
  ],
  "trump_trades": [],

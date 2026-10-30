@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "OVLY",
  "company": {
   "name": "Oak Valley Bancorp",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 34.22,
- "price_date": "2026-10-28",
+ "price_now": 34.48,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OVLY",
+   "company_name": "Oak Valley Bancorp",
+   "owner_name": "Leonard Daniel J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 125.0,
+   "price": 34.37,
+   "value": 4296.25,
+   "shares_after": 62912.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1431567/0001437749-26-033873.txt",
+   "price_at_trade": 34.22,
+   "price_now": 34.48,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "OVLY",
+   "company_name": "Oak Valley Bancorp",
+   "owner_name": "Leonard Daniel J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 125.0,
+   "price": 34.37,
+   "value": 4296.25,
+   "shares_after": 62912.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1538662/0001437749-26-033873.txt",
+   "price_at_trade": 34.22,
+   "price_now": 34.48,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.8
+  },
   {
    "ticker": "OVLY",
    "company_name": "Oak Valley Bancorp",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1431567/0001437749-26-033533.txt",
    "price_at_trade": 34.03,
-   "price_now": 34.22,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 0.6
+   "price_now": 34.48,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "OVLY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1442259/0001437749-26-033533.txt",
    "price_at_trade": 34.03,
-   "price_now": 34.22,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 0.6
+   "price_now": 34.48,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.3
   }
  ],
  "trump_trades": [],

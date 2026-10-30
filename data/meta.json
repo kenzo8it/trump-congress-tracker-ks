@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,16 +8,46 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5542,
-  "recent_congress_trades": 673,
+  "congress_trades": 5545,
+  "recent_congress_trades": 676,
   "members_with_positions": 45,
-  "insider_trades": 14678,
+  "insider_trades": 14401,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 192,
-  "tickers": 1710
+  "contracts": 181,
+  "tickers": 1727
  },
  "unparsed_filings": [
+  {
+   "doc_id": "9116389",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-27",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116390",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-27",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+   "reason": "scanned paper filing"
+  },
+  {
+   "doc_id": "9116391",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "state_district": "TN01",
+   "filed": "2026-10-27",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+   "reason": "scanned paper filing"
+  },
   {
    "doc_id": "9116378",
    "first": "Michael T.",

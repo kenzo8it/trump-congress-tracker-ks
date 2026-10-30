@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "BRCC",
  "company": {
   "name": "BRC Inc.",
@@ -8,8 +8,8 @@
   "industry": "Beverages",
   "sector": "Agriculture & Food"
  },
- "price_now": 12.15,
- "price_date": "2026-10-28",
+ "price_now": 12.99,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,120 @@
    "owner_name": "Hafer Evan",
    "owner_title": "Director, Founder, 10% owner",
    "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.7786,
+   "value": 141343.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-068249.txt",
+   "price_at_trade": 12.15,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.9
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.7786,
+   "value": 141343.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-068249.txt",
+   "price_at_trade": 12.15,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.9
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.7786,
+   "value": 141343.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-068249.txt",
+   "price_at_trade": 12.15,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.9
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.3736,
+   "value": 136483.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-068249.txt",
+   "price_at_trade": 11.6,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.0
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.3736,
+   "value": 136483.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-068249.txt",
+   "price_at_trade": 11.6,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.0
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 12000.0,
+   "price": 11.3736,
+   "value": 136483.2,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-068249.txt",
+   "price_at_trade": 11.6,
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.0
+  },
+  {
+   "ticker": "BRCC",
+   "company_name": "BRC Inc.",
+   "owner_name": "Hafer Evan",
+   "owner_title": "Director, Founder, 10% owner",
+   "trade_type": "SELL",
    "traded_date": "2026-10-20",
    "reported_date": "2026-10-20",
    "shares": 5572.0,
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-066546.txt",
    "price_at_trade": 10.58,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 14.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 22.8
   },
   {
    "ticker": "BRCC",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-066546.txt",
    "price_at_trade": 10.58,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 14.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 22.8
   },
   {
    "ticker": "BRCC",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-066546.txt",
    "price_at_trade": 10.58,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 14.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 22.8
   },
   {
    "ticker": "BRCC",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-066546.txt",
    "price_at_trade": 10.09,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.4
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 28.7
   },
   {
    "ticker": "BRCC",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-066546.txt",
    "price_at_trade": 10.09,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.4
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 28.7
   },
   {
    "ticker": "BRCC",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-066546.txt",
    "price_at_trade": 10.09,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.4
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 28.7
   },
   {
    "ticker": "BRCC",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-066036.txt",
    "price_at_trade": 10.52,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 15.5
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 23.5
   },
   {
    "ticker": "BRCC",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-066036.txt",
    "price_at_trade": 10.52,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 15.5
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 23.5
   },
   {
    "ticker": "BRCC",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-066036.txt",
    "price_at_trade": 10.52,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 15.5
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 23.5
   },
   {
    "ticker": "BRCC",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-066036.txt",
    "price_at_trade": 10.47,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 16.0
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "BRCC",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-066036.txt",
    "price_at_trade": 10.47,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 16.0
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "BRCC",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-066036.txt",
    "price_at_trade": 10.47,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 16.0
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "BRCC",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891101/0001628280-26-066036.txt",
    "price_at_trade": 10.06,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 29.1
   },
   {
    "ticker": "BRCC",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1908407/0001628280-26-066036.txt",
    "price_at_trade": 10.06,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 29.1
   },
   {
    "ticker": "BRCC",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1909006/0001628280-26-066036.txt",
    "price_at_trade": 10.06,
-   "price_now": 12.15,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 20.8
+   "price_now": 12.99,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 29.1
   }
  ],
  "trump_trades": [],

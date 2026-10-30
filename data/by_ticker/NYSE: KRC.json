@@ -1,0 +1,59 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "NYSE: KRC",
+ "company": {},
+ "price_now": null,
+ "price_date": null,
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "NYSE: KRC",
+   "company_name": "KILROY REALTY CORP",
+   "owner_name": "Paratte A. Robert",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 17163.0,
+   "price": 36.4477,
+   "value": 625551.88,
+   "shares_after": 101530.7101,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1025996/0001628280-26-067986.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  },
+  {
+   "ticker": "NYSE: KRC",
+   "company_name": "KILROY REALTY CORP",
+   "owner_name": "Paratte A. Robert",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 17163.0,
+   "price": 36.4477,
+   "value": 625551.88,
+   "shares_after": 101530.7101,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600298/0001628280-26-067986.txt",
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "BCDA",
  "company": {
   "name": "BioCardia, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 0.95,
- "price_date": "2026-10-28",
+ "price_now": 0.93,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1647542/0001437749-26-033030.txt",
    "price_at_trade": 0.92,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 3.3
+   "price_now": 0.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "BCDA",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/925741/0001437749-26-033030.txt",
    "price_at_trade": 0.92,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 3.3
+   "price_now": 0.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "BCDA",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1647542/0001437749-26-033030.txt",
    "price_at_trade": 0.94,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.1
+   "price_now": 0.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BCDA",
@@ -92,47 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/925741/0001437749-26-033030.txt",
    "price_at_trade": 0.94,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.1
-  },
-  {
-   "ticker": "BCDA",
-   "company_name": "BioCardia, Inc.",
-   "owner_name": "Altman Peter",
-   "owner_title": "Director, President and CEO",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-29",
-   "reported_date": "2026-09-30",
-   "shares": 1000.0,
-   "price": 1.03,
-   "value": 1030.0,
-   "shares_after": 384885.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1647542/0001437749-26-031638.txt",
-   "price_at_trade": 1.03,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -7.8
-  },
-  {
-   "ticker": "BCDA",
-   "company_name": "BioCardia, Inc.",
-   "owner_name": "Altman Peter",
-   "owner_title": "Director, President and CEO",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-29",
-   "reported_date": "2026-09-30",
-   "shares": 1000.0,
-   "price": 1.03,
-   "value": 1030.0,
-   "shares_after": 384885.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/925741/0001437749-26-031638.txt",
-   "price_at_trade": 1.03,
-   "price_now": 0.95,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -7.8
+   "price_now": 0.93,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -1.1
   }
  ],
  "trump_trades": [],

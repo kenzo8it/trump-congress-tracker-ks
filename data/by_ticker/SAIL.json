@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "SAIL",
  "company": {
   "name": "SailPoint, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 22.28,
- "price_date": "2026-10-28",
+ "price_now": 22.0,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 14.77,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 50.8,
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 49.0,
    "days_to_disclose": 45,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 15.22,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 46.4,
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 44.5,
    "days_to_disclose": 21,
    "late_filing": false
   }
@@ -91,10 +91,10 @@
    "ticker": "SAIL",
    "est_shares": 541.7,
    "avg_price": 14.77,
-   "price_now": 22.28,
-   "est_position_value": 12068,
-   "total_return_pct": 50.8,
-   "total_return_usd": 4068,
+   "price_now": 22.0,
+   "est_position_value": 11917,
+   "total_return_pct": 49.0,
+   "total_return_usd": 3916,
    "first_buy": "2026-07-21",
    "last_trade": "2026-07-21"
   },
@@ -109,15 +109,53 @@
    "ticker": "SAIL",
    "est_shares": 525.7,
    "avg_price": 15.22,
-   "price_now": 22.28,
-   "est_position_value": 11712,
-   "total_return_pct": 46.4,
-   "total_return_usd": 3711,
+   "price_now": 22.0,
+   "est_position_value": 11564,
+   "total_return_pct": 44.5,
+   "total_return_usd": 3564,
    "first_buy": "2026-07-20",
    "last_trade": "2026-07-20"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "SAIL",
+   "company_name": "SailPoint, Inc.",
+   "owner_name": "HAGAN JAMES MALCOLM",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 4205.0,
+   "price": 22.5,
+   "value": 94612.5,
+   "shares_after": 94125.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1877170/0001877170-26-000004.txt",
+   "price_at_trade": 22.39,
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "SAIL",
+   "company_name": "SailPoint, Inc.",
+   "owner_name": "HAGAN JAMES MALCOLM",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 4205.0,
+   "price": 22.5,
+   "value": 94612.5,
+   "shares_after": 94125.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001877170-26-000004.txt",
+   "price_at_trade": 22.39,
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -1.7
+  },
   {
    "ticker": "SAIL",
    "company_name": "SailPoint, Inc.",
@@ -133,9 +171,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1917246/0001917246-26-000014.txt",
    "price_at_trade": 20.02,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.3
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "SAIL",
@@ -152,9 +190,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001917246-26-000014.txt",
    "price_at_trade": 20.02,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.3
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "SAIL",
@@ -171,9 +209,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1279714/0001279714-26-000031.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -190,9 +228,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1279714/0001279714-26-000031.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -209,9 +247,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722498/0001722498-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -228,9 +266,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722498/0001722498-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -247,9 +285,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786883/0001786883-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -266,9 +304,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786883/0001786883-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -285,9 +323,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1820482/0001820482-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -304,9 +342,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1820482/0001820482-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -323,9 +361,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1917246/0001917246-26-000012.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -342,9 +380,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1917246/0001917246-26-000012.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -361,9 +399,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001279714-26-000031.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -380,9 +418,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001279714-26-000031.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -399,9 +437,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001722498-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -418,9 +456,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001722498-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -437,9 +475,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001786883-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -456,9 +494,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001786883-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -475,9 +513,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001820482-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -494,9 +532,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001820482-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -513,9 +551,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001917246-26-000012.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -532,9 +570,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001917246-26-000012.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -551,9 +589,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002052444-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -570,9 +608,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002052444-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -589,9 +627,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002058357-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -608,9 +646,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002058357-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -627,9 +665,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2052444/0002052444-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -646,9 +684,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2052444/0002052444-26-000034.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -665,9 +703,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2058357/0002058357-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -684,9 +722,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2058357/0002058357-26-000033.txt",
    "price_at_trade": 19.58,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 13.8
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 12.4
   },
   {
    "ticker": "SAIL",
@@ -703,9 +741,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1279714/0001279714-26-000031.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -722,9 +760,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1279714/0001279714-26-000031.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -741,9 +779,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722498/0001722498-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -760,9 +798,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722498/0001722498-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -779,9 +817,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786883/0001786883-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -798,9 +836,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786883/0001786883-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -817,9 +855,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1820482/0001820482-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -836,9 +874,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1820482/0001820482-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -855,9 +893,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1917246/0001917246-26-000012.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -874,9 +912,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1917246/0001917246-26-000012.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -893,9 +931,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001279714-26-000031.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -912,9 +950,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001279714-26-000031.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -931,9 +969,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001722498-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -950,9 +988,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001722498-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -969,9 +1007,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001786883-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -988,9 +1026,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001786883-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1007,9 +1045,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001820482-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1026,9 +1064,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001820482-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1045,9 +1083,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001917246-26-000012.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1064,9 +1102,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0001917246-26-000012.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1083,9 +1121,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002052444-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1102,9 +1140,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002052444-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1121,9 +1159,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002058357-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1140,9 +1178,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030781/0002058357-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1159,9 +1197,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2052444/0002052444-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1178,9 +1216,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2052444/0002052444-26-000034.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1197,9 +1235,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2058357/0002058357-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "SAIL",
@@ -1216,9 +1254,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2058357/0002058357-26-000033.txt",
    "price_at_trade": 19.91,
-   "price_now": 22.28,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 11.9
+   "price_now": 22.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.5
   }
  ],
  "trump_trades": [],

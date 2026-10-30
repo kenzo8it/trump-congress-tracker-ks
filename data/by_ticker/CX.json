@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "CX",
  "company": {
   "name": "CEMEX SAB DE CV",
@@ -8,8 +8,8 @@
   "industry": "Cement, Hydraulic",
   "sector": "Other"
  },
- "price_now": 10.52,
- "price_date": "2026-10-28",
+ "price_now": 10.83,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,54 +42,15 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 6.01,
-   "price_now": 10.52,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 75.2,
+   "price_now": 10.83,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 80.3,
    "days_to_disclose": 201,
    "late_filing": true
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "CX",
-   "company_name": "CEMEX SAB DE CV",
-   "owner_name": "Doehner Cobian Mauricio",
-   "owner_title": "EVP Corporate Affairs",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-09-30",
-   "shares": 927900.0,
-   "price": 9.5705,
-   "value": 8880466.95,
-   "shares_after": 584930.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1076378/0002092936-26-000006.txt",
-   "price_at_trade": 9.51,
-   "price_now": 10.52,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.6
-  },
-  {
-   "ticker": "CX",
-   "company_name": "CEMEX SAB DE CV",
-   "owner_name": "Doehner Cobian Mauricio",
-   "owner_title": "EVP Corporate Affairs",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-09-30",
-   "shares": 927900.0,
-   "price": 9.5705,
-   "value": 8880466.95,
-   "shares_after": 584930.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2092936/0002092936-26-000006.txt",
-   "price_at_trade": 9.51,
-   "price_now": 10.52,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

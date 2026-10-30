@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "ISRG",
  "company": {
   "name": "INTUITIVE SURGICAL INC",
@@ -8,8 +8,8 @@
   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
   "sector": "Healthcare"
  },
- "price_now": 444.18,
- "price_date": "2026-10-28",
+ "price_now": 448.76,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 504.22,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -11.9,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -11.0,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 555.92,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -20.1,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -19.3,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 546.77,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -18.8,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -17.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 441.18,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 0.7,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.7,
    "days_to_disclose": 42,
    "late_filing": false
   }
@@ -149,15 +149,129 @@
    "ticker": "ISRG",
    "est_shares": 44.9,
    "avg_price": 534.66,
-   "price_now": 444.18,
-   "est_position_value": 19940,
-   "total_return_pct": -16.9,
-   "total_return_usd": -4062,
+   "price_now": 448.76,
+   "est_position_value": 20145,
+   "total_return_pct": -16.1,
+   "total_return_usd": -3856,
    "first_buy": "2025-11-18",
    "last_trade": "2026-01-30"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 441.6,
+   "value": 26937.6,
+   "shares_after": 581.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
+   "price_at_trade": 444.18,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 441.6,
+   "value": 26937.6,
+   "shares_after": 581.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
+   "price_at_trade": 444.18,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 451.63,
+   "value": 27549.43,
+   "shares_after": 642.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
+   "price_at_trade": 445.88,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 451.63,
+   "value": 27549.43,
+   "shares_after": 642.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
+   "price_at_trade": 445.88,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 451.75,
+   "value": 27556.75,
+   "shares_after": 703.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
+   "price_at_trade": 451.63,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 61.0,
+   "price": 451.75,
+   "value": 27556.75,
+   "shares_after": 703.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
+   "price_at_trade": 451.63,
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.6
+  },
   {
    "ticker": "ISRG",
    "company_name": "INTUITIVE SURGICAL INC",
@@ -173,9 +287,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001274559-26-000007.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -192,9 +306,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001277620-26-000009.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -211,9 +325,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001280628-26-000016.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -230,9 +344,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001897970-26-000010.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -249,9 +363,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1274559/0001274559-26-000007.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -268,9 +382,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1277620/0001277620-26-000009.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -287,9 +401,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1280628/0001280628-26-000016.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "ISRG",
@@ -306,9 +420,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897970/0001897970-26-000010.txt",
    "price_at_trade": 452.29,
-   "price_now": 444.18,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -1.8
+   "price_now": 448.76,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -0.8
   }
  ],
  "trump_trades": [],

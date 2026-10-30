@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "WS",
  "company": {
   "name": "Worthington Steel, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
   "sector": "Materials & Mining"
  },
- "price_now": 42.35,
- "price_date": "2026-10-28",
+ "price_now": 42.09,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-427832.txt",
    "price_at_trade": 41.66,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "WS",
@@ -54,9 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-427832.txt",
    "price_at_trade": 41.66,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "WS",
@@ -73,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048670/0001193125-26-427832.txt",
    "price_at_trade": 41.66,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "WS",
@@ -92,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048670/0001193125-26-427832.txt",
    "price_at_trade": 41.66,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "WS",
@@ -111,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-425263.txt",
    "price_at_trade": 39.68,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 6.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "WS",
@@ -130,9 +130,47 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048670/0001193125-26-425263.txt",
    "price_at_trade": 39.68,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 6.7
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.1
+  },
+  {
+   "ticker": "WS",
+   "company_name": "Worthington Steel, Inc.",
+   "owner_name": "Ganem George John III",
+   "owner_title": "CEO Americas Kloeckner Metals",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-28",
+   "shares": 800.0,
+   "price": 39.365,
+   "value": 31492.0,
+   "shares_after": 800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-436256.txt",
+   "price_at_trade": 39.3,
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 7.1
+  },
+  {
+   "ticker": "WS",
+   "company_name": "Worthington Steel, Inc.",
+   "owner_name": "Ganem George John III",
+   "owner_title": "CEO Americas Kloeckner Metals",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-15",
+   "reported_date": "2026-10-28",
+   "shares": 800.0,
+   "price": 39.365,
+   "value": 31492.0,
+   "shares_after": 800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2139609/0001193125-26-436256.txt",
+   "price_at_trade": 39.3,
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "WS",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-425263.txt",
    "price_at_trade": 39.3,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 7.8
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "WS",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048670/0001193125-26-425263.txt",
    "price_at_trade": 39.3,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 7.8
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "WS",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/0001193125-26-418005.txt",
    "price_at_trade": 38.19,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.9
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.2
   },
   {
    "ticker": "WS",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048670/0001193125-26-418005.txt",
    "price_at_trade": 38.19,
-   "price_now": 42.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 10.9
+   "price_now": 42.09,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 10.2
   }
  ],
  "trump_trades": [],

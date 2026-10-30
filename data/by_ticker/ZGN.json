@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "ZGN",
+ "company": {
+  "name": "Ermenegildo Zegna N.V.",
+  "cik": 1877787,
+  "sic": 2300,
+  "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 13.41,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ZGN",
+   "company_name": "Ermenegildo Zegna N.V.",
+   "owner_name": "Norsa Michele",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 8000.0,
+   "price": 13.29,
+   "value": 106320.0,
+   "shares_after": 158348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1877787/0002116289-26-000011.txt",
+   "price_at_trade": 13.37,
+   "price_now": 13.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "ZGN",
+   "company_name": "Ermenegildo Zegna N.V.",
+   "owner_name": "Norsa Michele",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-29",
+   "shares": 8000.0,
+   "price": 13.29,
+   "value": 106320.0,
+   "shares_after": 158348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2116289/0002116289-26-000011.txt",
+   "price_at_trade": 13.37,
+   "price_now": 13.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

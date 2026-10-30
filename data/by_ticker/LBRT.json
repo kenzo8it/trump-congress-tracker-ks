@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "LBRT",
  "company": {
   "name": "Liberty Energy Inc.",
@@ -8,8 +8,8 @@
   "industry": "Oil & Gas Field Services, NEC",
   "sector": "Energy & Utilities"
  },
- "price_now": 17.61,
- "price_date": "2026-10-28",
+ "price_now": 17.41,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LBRT",
+   "company_name": "Liberty Energy Inc.",
+   "owner_name": "Babcock Ken",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 14500.0,
+   "price": 15.4,
+   "value": 223300.0,
+   "shares_after": 83258.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1694028/0001628280-26-067906.txt",
+   "price_at_trade": 16.07,
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 8.3
+  },
+  {
+   "ticker": "LBRT",
+   "company_name": "Liberty Energy Inc.",
+   "owner_name": "Babcock Ken",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 14500.0,
+   "price": 15.4,
+   "value": 223300.0,
+   "shares_after": 83258.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705702/0001628280-26-067906.txt",
+   "price_at_trade": 16.07,
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 8.3
+  },
   {
    "ticker": "LBRT",
    "company_name": "Liberty Energy Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1694028/0001628280-26-065353.txt",
    "price_at_trade": 20.12,
-   "price_now": 17.61,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -12.5
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -13.5
   },
   {
    "ticker": "LBRT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705066/0001628280-26-065353.txt",
    "price_at_trade": 20.12,
-   "price_now": 17.61,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -12.5
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -13.5
   },
   {
    "ticker": "LBRT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1694028/0001628280-26-064994.txt",
    "price_at_trade": 18.47,
-   "price_now": 17.61,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -4.7
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "LBRT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705066/0001628280-26-064994.txt",
    "price_at_trade": 18.47,
-   "price_now": 17.61,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -4.7
+   "price_now": 17.41,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],

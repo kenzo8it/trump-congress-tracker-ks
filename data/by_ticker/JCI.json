@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "JCI",
  "company": {
   "name": "Johnson Controls International plc",
@@ -8,8 +8,8 @@
   "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
   "sector": "Construction & Industrials"
  },
- "price_now": 157.35,
- "price_date": "2026-10-28",
+ "price_now": 158.27,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 107.73,
-   "price_now": 157.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 46.1,
+   "price_now": 158.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 46.9,
    "days_to_disclose": 103,
    "late_filing": true
   },
@@ -72,9 +72,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 110.77,
-   "price_now": 157.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 42.1,
+   "price_now": 158.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 42.9,
    "days_to_disclose": 172,
    "late_filing": true
   },
@@ -102,15 +102,54 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 81.51,
-   "price_now": 157.35,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 93.0,
+   "price_now": 158.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 94.2,
    "days_to_disclose": 300,
    "late_filing": true
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "JCI",
+   "company_name": "Johnson Controls International plc",
+   "owner_name": "Tinggren Juergen",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 4000.0,
+   "price": 159.19,
+   "value": 636760.0,
+   "shares_after": 27235.57,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600714/0000833444-26-000103.txt",
+   "price_at_trade": 157.35,
+   "price_now": 158.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "JCI",
+   "company_name": "Johnson Controls International plc",
+   "owner_name": "Tinggren Juergen",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-29",
+   "shares": 4000.0,
+   "price": 159.19,
+   "value": 636760.0,
+   "shares_after": 27235.57,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/833444/0000833444-26-000103.txt",
+   "price_at_trade": 157.35,
+   "price_now": 158.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.6
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

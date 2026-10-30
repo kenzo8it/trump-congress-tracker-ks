@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "LARK",
+ "company": {
+  "name": "LANDMARK BANCORP INC",
+  "cik": 1141688,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 32.27,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "LEWIS JIM",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 183.0,
+   "price": 32.4,
+   "value": 5929.2,
+   "shares_after": 153308.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049135.txt",
+   "price_at_trade": 32.12,
+   "price_now": 32.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "LEWIS JIM",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-27",
+   "reported_date": "2026-10-28",
+   "shares": 183.0,
+   "price": 32.4,
+   "value": 5929.2,
+   "shares_after": 153308.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260150/0001493152-26-049135.txt",
+   "price_at_trade": 32.12,
+   "price_now": 32.27,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

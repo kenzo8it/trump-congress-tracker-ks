@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "LONA",
+ "company": {
+  "name": "LeonaBio, Inc.",
+  "cik": 1620463,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 4.91,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LONA",
+   "company_name": "LeonaBio, Inc.",
+   "owner_name": "Portman David J.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 3149470.0,
+   "price": 3149.47,
+   "value": 9919161280.9,
+   "shares_after": 3149470.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1620463/0002126186-26-000002.txt",
+   "price_at_trade": 4.76,
+   "price_now": 4.91,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 3.2
+  },
+  {
+   "ticker": "LONA",
+   "company_name": "LeonaBio, Inc.",
+   "owner_name": "Portman David J.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 3149470.0,
+   "price": 3149.47,
+   "value": 9919161280.9,
+   "shares_after": 3149470.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2126186/0002126186-26-000002.txt",
+   "price_at_trade": 4.76,
+   "price_now": 4.91,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 3.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

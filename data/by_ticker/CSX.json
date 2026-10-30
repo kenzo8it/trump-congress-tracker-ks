@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "CSX",
  "company": {
   "name": "CSX CORP",
@@ -8,8 +8,8 @@
   "industry": "Railroads, Line-Haul Operating",
   "sector": "Transport & Autos"
  },
- "price_now": 51.98,
- "price_date": "2026-10-28",
+ "price_now": 52.24,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 50.51,
-   "price_now": 51.98,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 2.9,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 3.4,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 51.4,
-   "price_now": 51.98,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 1.1,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.6,
    "days_to_disclose": 29,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 49.28,
-   "price_now": 51.98,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 5.5,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 6.0,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 35.23,
-   "price_now": 51.98,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 47.6,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 48.3,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -164,15 +164,54 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 33.64,
-   "price_now": 51.98,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 54.5,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 55.3,
    "days_to_disclose": 17,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "CSX",
+   "company_name": "CSX CORP",
+   "owner_name": "ZILLMER JOHN J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 19500.0,
+   "price": 51.24,
+   "value": 999180.0,
+   "shares_after": 334214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1188262/0001193125-26-436168.txt",
+   "price_at_trade": 51.31,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "CSX",
+   "company_name": "CSX CORP",
+   "owner_name": "ZILLMER JOHN J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 19500.0,
+   "price": 51.24,
+   "value": 999180.0,
+   "shares_after": 334214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/277948/0001193125-26-436168.txt",
+   "price_at_trade": 51.31,
+   "price_now": 52.24,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 1.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

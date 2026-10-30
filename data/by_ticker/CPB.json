@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "CPB",
  "company": {
   "name": "CAMPBELL'S Co",
@@ -8,8 +8,8 @@
   "industry": "Food and Kindred Products",
   "sector": "Agriculture & Food"
  },
- "price_now": 20.59,
- "price_date": "2026-10-28",
+ "price_now": 21.0,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 19.43,
-   "price_now": 20.59,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 6.0,
+   "price_now": 21.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 8.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 26.37,
-   "price_now": 20.59,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -21.9,
+   "price_now": 21.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -20.4,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 26.86,
-   "price_now": 20.59,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -23.3,
+   "price_now": 21.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -21.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 29.16,
-   "price_now": 20.59,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -29.4,
+   "price_now": 21.0,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -28.0,
    "days_to_disclose": 27,
    "late_filing": false
   }
@@ -149,10 +149,10 @@
    "ticker": "CPB",
    "est_shares": 3255.9,
    "avg_price": 25.49,
-   "price_now": 20.59,
-   "est_position_value": 67039,
-   "total_return_pct": -19.2,
-   "total_return_usd": -15962,
+   "price_now": 21.0,
+   "est_position_value": 68374,
+   "total_return_pct": -17.6,
+   "total_return_usd": -14627,
    "first_buy": "2025-11-18",
    "last_trade": "2026-05-15"
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "CBKM",
  "company": {
   "name": "CONSUMERS BANCORP INC /OH/",
@@ -9,7 +9,7 @@
   "sector": "Financials"
  },
  "price_now": 31.9,
- "price_date": "2026-10-28",
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CBKM",
+   "company_name": "CONSUMERS BANCORP INC /OH/",
+   "owner_name": "WILLIAMS DEREK G",
+   "owner_title": "SVP, Retail Operations & Sales",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-28",
+   "shares": 100.0,
+   "price": 31.71,
+   "value": 3171.0,
+   "shares_after": 14603.8135,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1006830/0001437749-26-033807.txt",
+   "price_at_trade": 31.9,
+   "price_now": 31.9,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CBKM",
+   "company_name": "CONSUMERS BANCORP INC /OH/",
+   "owner_name": "WILLIAMS DEREK G",
+   "owner_title": "SVP, Retail Operations & Sales",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-28",
+   "shares": 100.0,
+   "price": 31.71,
+   "value": 3171.0,
+   "shares_after": 14603.8135,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1341113/0001437749-26-033807.txt",
+   "price_at_trade": 31.9,
+   "price_now": 31.9,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "CBKM",
    "company_name": "CONSUMERS BANCORP INC /OH/",
@@ -36,7 +74,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1006830/0001437749-26-033633.txt",
    "price_at_trade": 31.5,
    "price_now": 31.9,
-   "price_now_date": "2026-10-28",
+   "price_now_date": "2026-10-29",
    "total_return_pct": 1.3
   },
   {
@@ -55,7 +93,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1401124/0001437749-26-033633.txt",
    "price_at_trade": 31.5,
    "price_now": 31.9,
-   "price_now_date": "2026-10-28",
+   "price_now_date": "2026-10-29",
    "total_return_pct": 1.3
   }
  ],

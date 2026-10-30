@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:01+00:00",
+ "updated": "2026-10-30T02:15+00:00",
  "ticker": "APO",
  "company": {
   "name": "Apollo Global Management, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 113.45,
- "price_date": "2026-10-28",
+ "price_now": 118.56,
+ "price_date": "2026-10-29",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 113.86,
-   "price_now": 113.45,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -0.4,
+   "price_now": 118.56,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 4.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 103.56,
-   "price_now": 113.45,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": 9.5,
+   "price_now": 118.56,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 14.5,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 128.4,
-   "price_now": 113.45,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -11.6,
+   "price_now": 118.56,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -7.7,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 122.78,
-   "price_now": 113.45,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -7.6,
+   "price_now": 118.56,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -3.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -164,9 +164,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 142.53,
-   "price_now": 113.45,
-   "price_now_date": "2026-10-28",
-   "total_return_pct": -20.4,
+   "price_now": 118.56,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": -16.8,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -181,10 +181,10 @@
    "ticker": "APO",
    "est_shares": 70.3,
    "avg_price": 113.86,
-   "price_now": 113.45,
-   "est_position_value": 7972,
-   "total_return_pct": -0.4,
-   "total_return_usd": -29,
+   "price_now": 118.56,
+   "est_position_value": 8331,
+   "total_return_pct": 4.1,
+   "total_return_usd": 330,
    "first_buy": "2025-11-18",
    "last_trade": "2026-04-14"
   }

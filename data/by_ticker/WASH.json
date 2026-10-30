@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-30T02:15+00:00",
+ "ticker": "WASH",
+ "company": {
+  "name": "WASHINGTON TRUST BANCORP INC",
+  "cik": 737468,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 39.3,
+ "price_date": "2026-10-29",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "WASH",
+   "company_name": "WASHINGTON TRUST BANCORP INC",
+   "owner_name": "Santos Edwin J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 1200.0,
+   "price": 39.25,
+   "value": 47100.0,
+   "shares_after": 9110.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1548238/0000737468-26-000122.txt",
+   "price_at_trade": 39.17,
+   "price_now": 39.3,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "WASH",
+   "company_name": "WASHINGTON TRUST BANCORP INC",
+   "owner_name": "Santos Edwin J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-28",
+   "shares": 1200.0,
+   "price": 39.25,
+   "value": 47100.0,
+   "shares_after": 9110.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/737468/0000737468-26-000122.txt",
+   "price_at_trade": 39.17,
+   "price_now": 39.3,
+   "price_now_date": "2026-10-29",
+   "total_return_pct": 0.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
