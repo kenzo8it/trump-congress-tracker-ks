@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "PODC",
  "company": {
   "name": "PodcastOne, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 2.59,
- "price_date": "2026-10-29",
+ "price_now": 2.39,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022711/0001213900-26-109198.txt",
    "price_at_trade": 2.19,
-   "price_now": 2.59,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 18.3
+   "price_now": 2.39,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "PODC",
@@ -54,47 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1940177/0001213900-26-109198.txt",
    "price_at_trade": 2.19,
-   "price_now": 2.59,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 18.3
-  },
-  {
-   "ticker": "PODC",
-   "company_name": "PodcastOne, Inc.",
-   "owner_name": "MERRIMAN D JONATHAN",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 7000.0,
-   "price": 2.21,
-   "value": 15470.0,
-   "shares_after": 386132.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1022711/0001213900-26-105925.txt",
-   "price_at_trade": 2.31,
-   "price_now": 2.59,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 12.1
-  },
-  {
-   "ticker": "PODC",
-   "company_name": "PodcastOne, Inc.",
-   "owner_name": "MERRIMAN D JONATHAN",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 7000.0,
-   "price": 2.21,
-   "value": 15470.0,
-   "shares_after": 386132.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1940177/0001213900-26-105925.txt",
-   "price_at_trade": 2.31,
-   "price_now": 2.59,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 12.1
+   "price_now": 2.39,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 9.1
   }
  ],
  "trump_trades": [],

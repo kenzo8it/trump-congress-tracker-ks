@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "SO",
  "company": {
   "name": "SOUTHERN CO",
@@ -8,8 +8,8 @@
   "industry": "Electric Services",
   "sector": "Energy & Utilities"
  },
- "price_now": 92.99,
- "price_date": "2026-10-29",
+ "price_now": 93.71,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 86.9,
-   "price_now": 92.99,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 7.0,
+   "price_now": 93.71,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.8,
    "days_to_disclose": 45,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 90.72,
-   "price_now": 92.99,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 2.5,
+   "price_now": 93.71,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 3.3,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -95,54 +95,15 @@
    "ticker": "SO",
    "est_shares": 92.1,
    "avg_price": 86.9,
-   "price_now": 92.99,
-   "est_position_value": 8561,
-   "total_return_pct": 7.0,
-   "total_return_usd": 561,
+   "price_now": 93.71,
+   "est_position_value": 8627,
+   "total_return_pct": 7.8,
+   "total_return_usd": 627,
    "first_buy": "2025-12-02",
    "last_trade": "2025-12-02"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "SO",
-   "company_name": "SOUTHERN CO",
-   "owner_name": "Kim Matthew M.",
-   "owner_title": "Comptroller",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-01",
-   "shares": 100.0,
-   "price": 82.73,
-   "value": 8273.0,
-   "shares_after": 4888.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2082705/0001193125-26-410627.txt",
-   "price_at_trade": 83.47,
-   "price_now": 92.99,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 11.4
-  },
-  {
-   "ticker": "SO",
-   "company_name": "SOUTHERN CO",
-   "owner_name": "Kim Matthew M.",
-   "owner_title": "Comptroller",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-01",
-   "shares": 100.0,
-   "price": 82.73,
-   "value": 8273.0,
-   "shares_after": 4888.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/92122/0001193125-26-410627.txt",
-   "price_at_trade": 83.47,
-   "price_now": 92.99,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 11.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

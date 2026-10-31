@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "DKS",
  "company": {
   "name": "DICK'S SPORTING GOODS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Miscellaneous Shopping Goods Stores",
   "sector": "Retail & Consumer"
  },
- "price_now": 142.0,
- "price_date": "2026-10-29",
+ "price_now": 143.84,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 215.52,
-   "price_now": 142.0,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -34.1,
+   "price_now": 143.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -33.3,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 214.84,
-   "price_now": 142.0,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -33.9,
+   "price_now": 143.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -33.0,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -102,54 +102,15 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 214.84,
-   "price_now": 142.0,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -33.9,
+   "price_now": 143.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -33.0,
    "days_to_disclose": 22,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "DKS",
-   "company_name": "DICK'S SPORTING GOODS, INC.",
-   "owner_name": "Barnes Matthew",
-   "owner_title": "President - Foot Locker Intl",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 3665.0,
-   "price": 136.3899,
-   "value": 499868.98,
-   "shares_after": 11965.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1089063/0002100573-26-000006.txt",
-   "price_at_trade": 134.29,
-   "price_now": 142.0,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 5.7
-  },
-  {
-   "ticker": "DKS",
-   "company_name": "DICK'S SPORTING GOODS, INC.",
-   "owner_name": "Barnes Matthew",
-   "owner_title": "President - Foot Locker Intl",
-   "trade_type": "BUY",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 3665.0,
-   "price": 136.3899,
-   "value": 499868.98,
-   "shares_after": 11965.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2100573/0002100573-26-000006.txt",
-   "price_at_trade": 134.29,
-   "price_now": 142.0,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 5.7
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

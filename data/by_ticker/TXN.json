@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "TXN",
  "company": {
   "name": "TEXAS INSTRUMENTS INC",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": null,
- "price_date": null,
+ "price_now": 300.84,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,10 +41,10 @@
    "company_name": "TEXAS INSTRUMENTS INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 279.29,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.7,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -73,10 +73,10 @@
    "committee_overlap": [
     "House Committee on Energy and Commerce"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 215.6,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 39.5,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -103,10 +103,10 @@
    "company_name": "TEXAS INSTRUMENTS INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 187.93,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 60.1,
    "days_to_disclose": 16,
    "late_filing": false
   },
@@ -135,10 +135,10 @@
    "committee_overlap": [
     "House Committee on Homeland Security"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 172.43,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 74.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -167,10 +167,10 @@
    "committee_overlap": [
     "House Committee on Energy and Commerce"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 161.82,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 85.9,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -199,10 +199,10 @@
    "committee_overlap": [
     "House Committee on Homeland Security"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 158.77,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 89.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -231,10 +231,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 166.55,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 80.6,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -263,10 +263,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 166.55,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 80.6,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -295,10 +295,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 166.55,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 80.6,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -328,15 +328,34 @@
     "House Committee on Homeland Security",
     "House Committee on Science, Space, and Technology"
    ],
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null,
+   "price_at_trade": 173.55,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 73.3,
    "days_to_disclose": 200,
    "late_filing": true
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Thomas H. Kean, Jr.",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "NJ",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "ticker": "TXN",
+   "est_shares": 86.5,
+   "avg_price": 184.88,
+   "price_now": 300.84,
+   "est_position_value": 26037,
+   "total_return_pct": 62.7,
+   "total_return_usd": 10036,
+   "first_buy": "2025-11-26",
+   "last_trade": "2026-04-14"
+  }
+ ],
  "insider_trades": [
   {
    "ticker": "TXN",
@@ -352,10 +371,10 @@
    "shares_after": 34487.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1182591/0000097476-26-000174.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -371,10 +390,10 @@
    "shares_after": 11691.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216484/0000097476-26-000176.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -390,10 +409,10 @@
    "shares_after": 11341.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216484/0000097476-26-000176.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -409,10 +428,10 @@
    "shares_after": 22077.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216931/0000097476-26-000172.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -428,10 +447,10 @@
    "shares_after": 21600.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216931/0000097476-26-000172.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -447,10 +466,10 @@
    "shares_after": 22077.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000172.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -466,10 +485,10 @@
    "shares_after": 21600.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000172.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -485,10 +504,10 @@
    "shares_after": 34487.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000174.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -504,10 +523,10 @@
    "shares_after": 11691.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000176.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "TXN",
@@ -523,10 +542,10 @@
    "shares_after": 11341.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000176.txt",
-   "price_at_trade": null,
-   "price_now": null,
-   "price_now_date": null,
-   "total_return_pct": null
+   "price_at_trade": 307.41,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.1
   }
  ],
  "trump_trades": [],

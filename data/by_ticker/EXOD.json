@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "EXOD",
  "company": {
   "name": "Exodus Movement, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 5.64,
- "price_date": "2026-10-29",
+ "price_now": 5.15,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821534/0001628280-26-065229.txt",
    "price_at_trade": 7.33,
-   "price_now": 5.64,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -23.1
+   "price_now": 5.15,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -29.7
   },
   {
    "ticker": "EXOD",
@@ -54,47 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1966811/0001628280-26-065229.txt",
    "price_at_trade": 7.33,
-   "price_now": 5.64,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -23.1
-  },
-  {
-   "ticker": "EXOD",
-   "company_name": "Exodus Movement, Inc.",
-   "owner_name": "Knight Margaret",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-01",
-   "shares": 135.0,
-   "price": 7.08,
-   "value": 955.8,
-   "shares_after": 12293.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1821534/0001628280-26-064150.txt",
-   "price_at_trade": 6.9,
-   "price_now": 5.64,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -18.3
-  },
-  {
-   "ticker": "EXOD",
-   "company_name": "Exodus Movement, Inc.",
-   "owner_name": "Knight Margaret",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-01",
-   "shares": 135.0,
-   "price": 7.08,
-   "value": 955.8,
-   "shares_after": 12293.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2022093/0001628280-26-064150.txt",
-   "price_at_trade": 6.9,
-   "price_now": 5.64,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -18.3
+   "price_now": 5.15,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -29.7
   }
  ],
  "trump_trades": [],

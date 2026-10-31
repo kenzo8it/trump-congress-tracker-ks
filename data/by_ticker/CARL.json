@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "CARL",
  "company": {
   "name": "CARLSMED, INC.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 15.77,
- "price_date": "2026-10-29",
+ "price_now": 14.95,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1794546/0001193125-26-415735.txt",
    "price_at_trade": 15.3,
-   "price_now": 15.77,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 3.1
+   "price_now": 14.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "CARL",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2147819/0001193125-26-415735.txt",
    "price_at_trade": 15.3,
-   "price_now": 15.77,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 3.1
-  },
-  {
-   "ticker": "CARL",
-   "company_name": "CARLSMED, INC.",
-   "owner_name": "Bertolini Jeffrey",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 243.0,
-   "price": 13.99,
-   "value": 3399.57,
-   "shares_after": 22489.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1794546/0001193125-26-410891.txt",
-   "price_at_trade": 14.07,
-   "price_now": 15.77,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 12.1
-  },
-  {
-   "ticker": "CARL",
-   "company_name": "CARLSMED, INC.",
-   "owner_name": "Bertolini Jeffrey",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-01",
-   "shares": 243.0,
-   "price": 13.99,
-   "value": 3399.57,
-   "shares_after": 22489.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2147819/0001193125-26-410891.txt",
-   "price_at_trade": 14.07,
-   "price_now": 15.77,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 12.1
+   "price_now": 14.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "EQIX",
  "company": {
   "name": "EQUINIX INC",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 1036.67,
- "price_date": "2026-10-29",
+ "price_now": 1013.7,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 1037.66,
-   "price_now": 1036.67,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -0.1,
+   "price_now": 1013.7,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -2.3,
    "days_to_disclose": 26,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 766.48,
-   "price_now": 1036.67,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 35.3,
+   "price_now": 1013.7,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 32.3,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 786.45,
-   "price_now": 1036.67,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 31.8,
+   "price_now": 1013.7,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 28.9,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -132,9 +132,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 786.45,
-   "price_now": 1036.67,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 31.8,
+   "price_now": 1013.7,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 28.9,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -149,10 +149,10 @@
    "ticker": "EQIX",
    "est_shares": 7.7,
    "avg_price": 1037.66,
-   "price_now": 1036.67,
-   "est_position_value": 7993,
-   "total_return_pct": -0.1,
-   "total_return_usd": -8,
+   "price_now": 1013.7,
+   "est_position_value": 7816,
+   "total_return_pct": -2.3,
+   "total_return_usd": -185,
    "first_buy": "2026-08-07",
    "last_trade": "2026-08-07"
   }

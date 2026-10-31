@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "INSW",
  "company": {
   "name": "International Seaways, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Water Transportation",
   "sector": "Transport & Autos"
  },
- "price_now": 113.6,
- "price_date": "2026-10-29",
+ "price_now": 111.95,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1349704/0001679049-26-000163.txt",
    "price_at_trade": 113.11,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 0.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "INSW",
@@ -54,9 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0001679049-26-000163.txt",
    "price_at_trade": 113.11,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 0.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "INSW",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
    "price_at_trade": 118.74,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -4.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "INSW",
@@ -92,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
    "price_at_trade": 118.74,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -4.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "INSW",
@@ -111,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
    "price_at_trade": 118.74,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -4.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "INSW",
@@ -130,8 +130,331 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
    "price_at_trade": 118.74,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -5.7
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 37888.0,
+   "price": 121.991,
+   "value": 4621995.01,
+   "shares_after": 6566416.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 1029.0,
+   "price": 124.481,
+   "value": 128090.95,
+   "shares_after": 6565387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 37888.0,
+   "price": 121.991,
+   "value": 4621995.01,
+   "shares_after": 6566416.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 1029.0,
+   "price": 124.481,
+   "value": 128090.95,
+   "shares_after": 6565387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 37888.0,
+   "price": 121.991,
+   "value": 4621995.01,
+   "shares_after": 6566416.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 1029.0,
+   "price": 124.481,
+   "value": 128090.95,
+   "shares_after": 6565387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 37888.0,
+   "price": 121.991,
+   "value": 4621995.01,
+   "shares_after": 6566416.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-28",
+   "shares": 1029.0,
+   "price": 124.481,
+   "value": 128090.95,
+   "shares_after": 6565387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
+   "price_at_trade": 125.04,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.5
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-28",
+   "shares": 100000.0,
+   "price": 121.551,
+   "value": 12155100.0,
+   "shares_after": 6604304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
+   "price_at_trade": 119.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.6
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-28",
+   "shares": 100000.0,
+   "price": 121.551,
+   "value": 12155100.0,
+   "shares_after": 6604304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
+   "price_at_trade": 119.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.6
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-28",
+   "shares": 100000.0,
+   "price": 121.551,
+   "value": 12155100.0,
+   "shares_after": 6604304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
+   "price_at_trade": 119.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.6
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-09",
+   "reported_date": "2026-10-28",
+   "shares": 100000.0,
+   "price": 121.551,
+   "value": 12155100.0,
+   "shares_after": 6604304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
+   "price_at_trade": 119.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.6
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-16",
+   "shares": 200.0,
+   "price": 118.5,
+   "value": 23700.0,
+   "shares_after": 6704304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
+   "price_at_trade": 121.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -8.1
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-16",
+   "shares": 200.0,
+   "price": 118.5,
+   "value": 23700.0,
+   "shares_after": 6704304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
+   "price_at_trade": 121.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -8.1
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-16",
+   "shares": 200.0,
+   "price": 118.5,
+   "value": 23700.0,
+   "shares_after": 6704304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
+   "price_at_trade": 121.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -8.1
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-08",
+   "reported_date": "2026-10-16",
+   "shares": 200.0,
+   "price": 118.5,
+   "value": 23700.0,
+   "shares_after": 6704304.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
+   "price_at_trade": 121.82,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -8.1
+  },
+  {
+   "ticker": "INSW",
+   "company_name": "International Seaways, Inc.",
+   "owner_name": "Famatown Finance Ltd",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-07",
+   "reported_date": "2026-10-16",
+   "shares": 61216.0,
+   "price": 117.081,
+   "value": 7167230.5,
+   "shares_after": 6704504.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
+   "price_at_trade": 116.94,
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
    "total_return_pct": -4.3
   },
   {
@@ -140,329 +463,6 @@
    "owner_name": "Famatown Finance Ltd",
    "owner_title": "10% owner",
    "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 37888.0,
-   "price": 121.991,
-   "value": 4621995.01,
-   "shares_after": 6566416.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 1029.0,
-   "price": 124.481,
-   "value": 128090.95,
-   "shares_after": 6565387.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 37888.0,
-   "price": 121.991,
-   "value": 4621995.01,
-   "shares_after": 6566416.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 1029.0,
-   "price": 124.481,
-   "value": 128090.95,
-   "shares_after": 6565387.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 37888.0,
-   "price": 121.991,
-   "value": 4621995.01,
-   "shares_after": 6566416.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 1029.0,
-   "price": 124.481,
-   "value": 128090.95,
-   "shares_after": 6565387.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 37888.0,
-   "price": 121.991,
-   "value": 4621995.01,
-   "shares_after": 6566416.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-28",
-   "shares": 1029.0,
-   "price": 124.481,
-   "value": 128090.95,
-   "shares_after": 6565387.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
-   "price_at_trade": 125.04,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -9.1
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-09",
-   "reported_date": "2026-10-28",
-   "shares": 100000.0,
-   "price": 121.551,
-   "value": 12155100.0,
-   "shares_after": 6604304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007290.txt",
-   "price_at_trade": 119.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -5.2
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-09",
-   "reported_date": "2026-10-28",
-   "shares": 100000.0,
-   "price": 121.551,
-   "value": 12155100.0,
-   "shares_after": 6604304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007290.txt",
-   "price_at_trade": 119.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -5.2
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-09",
-   "reported_date": "2026-10-28",
-   "shares": 100000.0,
-   "price": 121.551,
-   "value": 12155100.0,
-   "shares_after": 6604304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007290.txt",
-   "price_at_trade": 119.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -5.2
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-09",
-   "reported_date": "2026-10-28",
-   "shares": 100000.0,
-   "price": 121.551,
-   "value": 12155100.0,
-   "shares_after": 6604304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007290.txt",
-   "price_at_trade": 119.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -5.2
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-16",
-   "shares": 200.0,
-   "price": 118.5,
-   "value": 23700.0,
-   "shares_after": 6704304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
-   "price_at_trade": 121.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -6.7
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-16",
-   "shares": 200.0,
-   "price": 118.5,
-   "value": 23700.0,
-   "shares_after": 6704304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
-   "price_at_trade": 121.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -6.7
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-16",
-   "shares": 200.0,
-   "price": 118.5,
-   "value": 23700.0,
-   "shares_after": 6704304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
-   "price_at_trade": 121.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -6.7
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-16",
-   "shares": 200.0,
-   "price": 118.5,
-   "value": 23700.0,
-   "shares_after": 6704304.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
-   "price_at_trade": 121.82,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -6.7
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-07",
-   "reported_date": "2026-10-16",
-   "shares": 61216.0,
-   "price": 117.081,
-   "value": 7167230.5,
-   "shares_after": 6704504.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
-   "price_at_trade": 116.94,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.9
-  },
-  {
-   "ticker": "INSW",
-   "company_name": "International Seaways, Inc.",
-   "owner_name": "Famatown Finance Ltd",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
    "traded_date": "2026-10-07",
    "reported_date": "2026-10-16",
    "shares": 61216.0,
@@ -472,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 116.94,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "INSW",
@@ -491,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 116.94,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "INSW",
@@ -510,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 116.94,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "INSW",
@@ -529,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 116.46,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.5
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "INSW",
@@ -548,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 116.46,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.5
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "INSW",
@@ -567,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 116.46,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.5
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "INSW",
@@ -586,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 116.46,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.5
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "INSW",
@@ -605,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 116.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.6
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "INSW",
@@ -624,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 116.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.6
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "INSW",
@@ -643,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 116.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.6
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "INSW",
@@ -662,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 116.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.6
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "INSW",
@@ -681,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 103.95,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 9.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "INSW",
@@ -700,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 103.95,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 9.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "INSW",
@@ -719,9 +719,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 103.95,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 9.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "INSW",
@@ -738,9 +738,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 103.95,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 9.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "INSW",
@@ -757,9 +757,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 109.1,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 4.1
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "INSW",
@@ -776,9 +776,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 109.1,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 4.1
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "INSW",
@@ -795,9 +795,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 109.1,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 4.1
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "INSW",
@@ -814,9 +814,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 109.1,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 4.1
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "INSW",
@@ -833,9 +833,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 111.15,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 2.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "INSW",
@@ -852,9 +852,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 111.15,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 2.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "INSW",
@@ -871,9 +871,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 111.15,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 2.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "INSW",
@@ -890,9 +890,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 111.15,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 2.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "INSW",
@@ -909,9 +909,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 84.62,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 34.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 32.3
   },
   {
    "ticker": "INSW",
@@ -928,9 +928,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 84.62,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 34.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 32.3
   },
   {
    "ticker": "INSW",
@@ -947,9 +947,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 84.62,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 34.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 32.3
   },
   {
    "ticker": "INSW",
@@ -966,9 +966,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 84.62,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 34.2
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 32.3
   },
   {
    "ticker": "INSW",
@@ -985,9 +985,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 80.67,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 40.8
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 38.8
   },
   {
    "ticker": "INSW",
@@ -1004,9 +1004,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 80.67,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 40.8
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 38.8
   },
   {
    "ticker": "INSW",
@@ -1023,9 +1023,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 80.67,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 40.8
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 38.8
   },
   {
    "ticker": "INSW",
@@ -1042,9 +1042,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 80.67,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 40.8
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 38.8
   },
   {
    "ticker": "INSW",
@@ -1061,9 +1061,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 82.39,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 37.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 35.9
   },
   {
    "ticker": "INSW",
@@ -1080,9 +1080,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 82.39,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 37.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 35.9
   },
   {
    "ticker": "INSW",
@@ -1099,9 +1099,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 82.39,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 37.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 35.9
   },
   {
    "ticker": "INSW",
@@ -1118,9 +1118,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 82.39,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 37.9
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 35.9
   },
   {
    "ticker": "INSW",
@@ -1137,9 +1137,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 77.13,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 47.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 45.1
   },
   {
    "ticker": "INSW",
@@ -1156,9 +1156,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 77.13,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 47.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 45.1
   },
   {
    "ticker": "INSW",
@@ -1175,9 +1175,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 77.13,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 47.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 45.1
   },
   {
    "ticker": "INSW",
@@ -1194,9 +1194,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 77.13,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 47.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 45.1
   },
   {
    "ticker": "INSW",
@@ -1213,9 +1213,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 79.22,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 43.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 41.3
   },
   {
    "ticker": "INSW",
@@ -1232,9 +1232,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 79.22,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 43.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 41.3
   },
   {
    "ticker": "INSW",
@@ -1251,9 +1251,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 79.22,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 43.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 41.3
   },
   {
    "ticker": "INSW",
@@ -1270,9 +1270,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 79.22,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 43.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 41.3
   },
   {
    "ticker": "INSW",
@@ -1289,9 +1289,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 76.56,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 48.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "INSW",
@@ -1308,9 +1308,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 76.56,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 48.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "INSW",
@@ -1327,9 +1327,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 76.56,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 48.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "INSW",
@@ -1346,9 +1346,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 76.56,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 48.4
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "INSW",
@@ -1365,9 +1365,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1386989/0000919574-26-007000.txt",
    "price_at_trade": 74.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 52.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 50.1
   },
   {
    "ticker": "INSW",
@@ -1384,9 +1384,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560220/0000919574-26-007000.txt",
    "price_at_trade": 74.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 52.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 50.1
   },
   {
    "ticker": "INSW",
@@ -1403,9 +1403,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679049/0000919574-26-007000.txt",
    "price_at_trade": 74.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 52.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 50.1
   },
   {
    "ticker": "INSW",
@@ -1422,9 +1422,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731638/0000919574-26-007000.txt",
    "price_at_trade": 74.6,
-   "price_now": 113.6,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 52.3
+   "price_now": 111.95,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 50.1
   }
  ],
  "trump_trades": [],

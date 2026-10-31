@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "ticker": "CINF",
  "company": {
   "name": "CINCINNATI FINANCIAL CORP",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 181.87,
- "price_date": "2026-10-29",
+ "price_now": 181.19,
+ "price_date": "2026-10-30",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 168.04,
-   "price_now": 181.87,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 8.2,
+   "price_now": 181.19,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 7.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 140.18,
-   "price_now": 181.87,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": 29.7,
+   "price_now": 181.19,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 29.3,
    "days_to_disclose": 201,
    "late_filing": true
   }
@@ -89,10 +89,10 @@
    "ticker": "CINF",
    "est_shares": 47.6,
    "avg_price": 168.04,
-   "price_now": 181.87,
-   "est_position_value": 8659,
-   "total_return_pct": 8.2,
-   "total_return_usd": 658,
+   "price_now": 181.19,
+   "est_position_value": 8627,
+   "total_return_pct": 7.8,
+   "total_return_usd": 626,
    "first_buy": "2026-09-18",
    "last_trade": "2026-09-18"
   }
@@ -112,8 +112,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 158.19,
    "price_basis": "price on trade date",
-   "price_now": 181.87,
-   "total_return_pct": 15.0
+   "price_now": 181.19,
+   "total_return_pct": 14.5
   }
  ],
  "trump_sponsor": [],

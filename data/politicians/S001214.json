@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:15+00:00",
+ "updated": "2026-10-31T01:47+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -95,10 +95,10 @@
    "ticker": "IONQ",
    "est_shares": 247.1,
    "avg_price": 32.38,
-   "price_now": 31.72,
-   "est_position_value": 7837,
-   "total_return_pct": -2.0,
-   "total_return_usd": -163,
+   "price_now": 30.04,
+   "est_position_value": 7422,
+   "total_return_pct": -7.2,
+   "total_return_usd": -578,
    "first_buy": "2026-03-18",
    "last_trade": "2026-03-18"
   }
@@ -130,9 +130,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 32.38,
-   "price_now": 31.72,
-   "price_now_date": "2026-10-29",
-   "total_return_pct": -2.0,
+   "price_now": 30.04,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -7.2,
    "days_to_disclose": 27,
    "late_filing": false
   },
