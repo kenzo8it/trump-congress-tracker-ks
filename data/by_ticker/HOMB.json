@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "HOMB",
  "company": {
   "name": "HOME BANCSHARES INC",
@@ -116,7 +116,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "HOMB",
+   "company_name": "HOME BANCSHARES INC",
+   "owner_name": "Allison John W II",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 13500.0,
+   "price": 30.058,
+   "value": 405783.0,
+   "shares_after": 636494.9955,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1331520/0002106640-26-000014.txt",
+   "price_at_trade": 30.09,
+   "price_now": 29.77,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.1
+  },
+  {
+   "ticker": "HOMB",
+   "company_name": "HOME BANCSHARES INC",
+   "owner_name": "Allison John W II",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 13500.0,
+   "price": 30.058,
+   "value": 405783.0,
+   "shares_after": 636494.9955,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2106640/0002106640-26-000014.txt",
+   "price_at_trade": 30.09,
+   "price_now": 29.77,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.1
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

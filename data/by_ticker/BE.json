@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "BE",
  "company": {
   "name": "Bloom Energy Corp",
@@ -323,46 +323,7 @@
    "last_trade": "2026-07-28"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "BE",
-   "company_name": "Bloom Energy Corp",
-   "owner_name": "Joshi Aman",
-   "owner_title": "Chief Commercial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 8437.0,
-   "price": 277.17,
-   "value": 2338483.29,
-   "shares_after": 147092.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1664703/0001193125-26-412560.txt",
-   "price_at_trade": 277.58,
-   "price_now": 203.17,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -26.8
-  },
-  {
-   "ticker": "BE",
-   "company_name": "Bloom Energy Corp",
-   "owner_name": "Joshi Aman",
-   "owner_title": "Chief Commercial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 8437.0,
-   "price": 277.17,
-   "value": 2338483.29,
-   "shares_after": 147092.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2007932/0001193125-26-412560.txt",
-   "price_at_trade": 277.58,
-   "price_now": 203.17,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -26.8
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

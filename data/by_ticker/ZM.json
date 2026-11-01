@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "ZM",
  "company": {
   "name": "Zoom Communications, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ZM",
+   "company_name": "Zoom Communications, Inc.",
+   "owner_name": "Subotovsky Santiago",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 1442.0,
+   "price": 100.1391,
+   "value": 144400.58,
+   "shares_after": 116512.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1585521/0001585521-26-000157.txt",
+   "price_at_trade": 100.26,
+   "price_now": 95.5,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.7
+  },
+  {
+   "ticker": "ZM",
+   "company_name": "Zoom Communications, Inc.",
+   "owner_name": "Subotovsky Santiago",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 1442.0,
+   "price": 100.1391,
+   "value": 144400.58,
+   "shares_after": 116512.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1773806/0001585521-26-000157.txt",
+   "price_at_trade": 100.26,
+   "price_now": 95.5,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.7
+  },
   {
    "ticker": "ZM",
    "company_name": "Zoom Communications, Inc.",

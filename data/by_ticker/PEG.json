@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "PEG",
  "company": {
   "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
@@ -227,46 +227,7 @@
    "last_trade": "2025-12-02"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "PEG",
-   "company_name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
-   "owner_name": "LaRossa Ralph A",
-   "owner_title": "Director, Chair, President and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 2083.0,
-   "price": 67.4848,
-   "value": 140570.84,
-   "shares_after": 279490.4593,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1377477/0001225208-26-008099.txt",
-   "price_at_trade": 67.89,
-   "price_now": 74.29,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 9.4
-  },
-  {
-   "ticker": "PEG",
-   "company_name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
-   "owner_name": "LaRossa Ralph A",
-   "owner_title": "Director, Chair, President and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 2083.0,
-   "price": 67.4848,
-   "value": 140570.84,
-   "shares_after": 279490.4593,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/788784/0001225208-26-008099.txt",
-   "price_at_trade": 67.89,
-   "price_now": 74.29,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 9.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

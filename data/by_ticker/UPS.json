@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "UPS",
  "company": {
   "name": "UNITED PARCEL SERVICE INC",
@@ -329,7 +329,46 @@
    "last_trade": "2025-10-09"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "UPS",
+   "company_name": "UNITED PARCEL SERVICE INC",
+   "owner_name": "Guffey Matthew W",
+   "owner_title": "Chief US Domestic Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 8317.9409,
+   "price": 105.39,
+   "value": 876627.79,
+   "shares_after": 270.7483,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1090727/0001225208-26-008572.txt",
+   "price_at_trade": 105.62,
+   "price_now": 108.25,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "UPS",
+   "company_name": "UNITED PARCEL SERVICE INC",
+   "owner_name": "Guffey Matthew W",
+   "owner_title": "Chief US Domestic Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 8317.9409,
+   "price": 105.39,
+   "value": 876627.79,
+   "shares_after": 270.7483,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2007208/0001225208-26-008572.txt",
+   "price_at_trade": 105.62,
+   "price_now": 108.25,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 2.5
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

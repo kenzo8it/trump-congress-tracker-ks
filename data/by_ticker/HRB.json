@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "HRB",
  "company": {
   "name": "H&R BLOCK INC",
@@ -50,46 +50,7 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "HRB",
-   "company_name": "H&R BLOCK INC",
-   "owner_name": "Darling Mark J.",
-   "owner_title": "Chief Retail Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-02",
-   "shares": 2700.0,
-   "price": 40.6862,
-   "value": 109852.74,
-   "shares_after": 21588.146,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/12659/0001225208-26-008114.txt",
-   "price_at_trade": 40.85,
-   "price_now": 51.31,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 25.6
-  },
-  {
-   "ticker": "HRB",
-   "company_name": "H&R BLOCK INC",
-   "owner_name": "Darling Mark J.",
-   "owner_title": "Chief Retail Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-02",
-   "shares": 2700.0,
-   "price": 40.6862,
-   "value": 109852.74,
-   "shares_after": 21588.146,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2103635/0001225208-26-008114.txt",
-   "price_at_trade": 40.85,
-   "price_now": 51.31,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 25.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

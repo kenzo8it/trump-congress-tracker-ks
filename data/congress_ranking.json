@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -61,7 +61,7 @@
    "positions": 12,
    "est_portfolio_value": 404824,
    "total_return_pct": 31.2,
-   "total_return_usd": 96154
+   "total_return_usd": 96153
   },
   {
    "bioguide": "M001217",
@@ -114,9 +114,9 @@
    "chamber": "House",
    "state": "NJ",
    "positions": 37,
-   "est_portfolio_value": 1818008,
+   "est_portfolio_value": 1818002,
    "total_return_pct": 16.3,
-   "total_return_usd": 254440
+   "total_return_usd": 254433
   },
   {
    "bioguide": "D000032",
@@ -191,9 +191,9 @@
    "chamber": "House",
    "state": "CA",
    "positions": 265,
-   "est_portfolio_value": 5614567,
+   "est_portfolio_value": 5614469,
    "total_return_pct": 9.7,
-   "total_return_usd": 496444
+   "total_return_usd": 496346
   },
   {
    "bioguide": "S001212",
@@ -361,17 +361,6 @@
    "total_return_usd": -816013
   },
   {
-   "bioguide": "M001232",
-   "name": "April McClain Delaney",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "MD",
-   "positions": 3,
-   "est_portfolio_value": 72280,
-   "total_return_pct": -6.7,
-   "total_return_usd": -5169
-  },
-  {
    "bioguide": "C001068",
    "name": "Steve Cohen",
    "party": "Democrat",
@@ -403,6 +392,17 @@
    "est_portfolio_value": 7416,
    "total_return_pct": -7.3,
    "total_return_usd": -585
+  },
+  {
+   "bioguide": "M001232",
+   "name": "April McClain Delaney",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "MD",
+   "positions": 3,
+   "est_portfolio_value": 71648,
+   "total_return_pct": -7.5,
+   "total_return_usd": -5801
   },
   {
    "bioguide": "D000624",
@@ -455,9 +455,9 @@
    "chamber": "House",
    "state": "OR",
    "positions": 3,
-   "est_portfolio_value": 7447,
+   "est_portfolio_value": 7448,
    "total_return_pct": -16.8,
-   "total_return_usd": -1509
+   "total_return_usd": -1508
   },
   {
    "bioguide": "L000597",
@@ -466,9 +466,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 1,
-   "est_portfolio_value": 26067,
-   "total_return_pct": -19.8,
-   "total_return_usd": -6433
+   "est_portfolio_value": 26128,
+   "total_return_pct": -19.6,
+   "total_return_usd": -6372
   },
   {
    "bioguide": "T000480",

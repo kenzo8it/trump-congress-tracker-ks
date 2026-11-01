@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "PEGA",
  "company": {
   "name": "PEGASYSTEMS INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PEGA",
+   "company_name": "PEGASYSTEMS INC",
+   "owner_name": "Akgonul Rifat Kerim",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 7084.0,
+   "price": 35.2201,
+   "value": 249499.19,
+   "shares_after": 97958.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/0001855325-26-000035.txt",
+   "price_at_trade": 35.37,
+   "price_now": 33.93,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.1
+  },
+  {
+   "ticker": "PEGA",
+   "company_name": "PEGASYSTEMS INC",
+   "owner_name": "Akgonul Rifat Kerim",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 7084.0,
+   "price": 35.2201,
+   "value": 249499.19,
+   "shares_after": 97958.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000035.txt",
+   "price_at_trade": 35.37,
+   "price_now": 33.93,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -4.1
+  },
   {
    "ticker": "PEGA",
    "company_name": "PEGASYSTEMS INC",

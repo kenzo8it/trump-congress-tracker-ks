@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "TXN",
  "company": {
   "name": "TEXAS INSTRUMENTS INC",
@@ -357,6 +357,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "TXN",
+   "company_name": "TEXAS INSTRUMENTS INC",
+   "owner_name": "KIRK RONALD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 6065.0,
+   "price": 310.39,
+   "value": 1882515.35,
+   "shares_after": 15462.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1186342/0000097476-26-000178.txt",
+   "price_at_trade": 311.42,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.4
+  },
+  {
+   "ticker": "TXN",
+   "company_name": "TEXAS INSTRUMENTS INC",
+   "owner_name": "KIRK RONALD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 6065.0,
+   "price": 310.39,
+   "value": 1882515.35,
+   "shares_after": 15462.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000178.txt",
+   "price_at_trade": 311.42,
+   "price_now": 300.84,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -3.4
+  },
   {
    "ticker": "TXN",
    "company_name": "TEXAS INSTRUMENTS INC",

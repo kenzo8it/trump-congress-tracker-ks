@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "WMB",
  "company": {
   "name": "WILLIAMS COMPANIES, INC.",
@@ -97,46 +97,7 @@
    "last_trade": "2026-02-10"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "WMB",
-   "company_name": "WILLIAMS COMPANIES, INC.",
-   "owner_name": "Wilson Terrance Lane",
-   "owner_title": "SVP & General Counsel",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 2000.0,
-   "price": 67.85,
-   "value": 135700.0,
-   "shares_after": 262259.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/107263/0001703388-26-000026.txt",
-   "price_at_trade": 69.22,
-   "price_now": 74.35,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 7.4
-  },
-  {
-   "ticker": "WMB",
-   "company_name": "WILLIAMS COMPANIES, INC.",
-   "owner_name": "Wilson Terrance Lane",
-   "owner_title": "SVP & General Counsel",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 2000.0,
-   "price": 67.85,
-   "value": 135700.0,
-   "shares_after": 262259.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1703388/0001703388-26-000026.txt",
-   "price_at_trade": 69.22,
-   "price_now": 74.35,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 7.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

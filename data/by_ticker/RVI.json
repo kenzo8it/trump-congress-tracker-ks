@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "RVI",
  "company": {
   "name": "Robinhood Ventures Fund I",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RVI",
+   "company_name": "Robinhood Ventures Fund I",
+   "owner_name": "Robinhood Markets, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 124319.0,
+   "price": 24.77,
+   "value": 3079381.63,
+   "shares_after": 12921815.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/0000950103-26-016560.txt",
+   "price_at_trade": 24.77,
+   "price_now": 22.24,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.2
+  },
+  {
+   "ticker": "RVI",
+   "company_name": "Robinhood Ventures Fund I",
+   "owner_name": "Robinhood Markets, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 124319.0,
+   "price": 24.77,
+   "value": 3079381.63,
+   "shares_after": 12921815.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2085091/0000950103-26-016560.txt",
+   "price_at_trade": 24.77,
+   "price_now": 22.24,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -10.2
+  },
   {
    "ticker": "RVI",
    "company_name": "Robinhood Ventures Fund I",

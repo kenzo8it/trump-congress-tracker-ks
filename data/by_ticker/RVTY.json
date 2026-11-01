@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "RVTY",
  "company": {
   "name": "REVVITY, INC.",
@@ -217,46 +217,7 @@
    "last_trade": "2026-09-09"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "RVTY",
-   "company_name": "REVVITY, INC.",
-   "owner_name": "Gonzales Anita",
-   "owner_title": "VP and CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 84.0,
-   "price": 155.48,
-   "value": 13060.32,
-   "shares_after": 7117.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1976445/0001193125-26-412237.txt",
-   "price_at_trade": 148.99,
-   "price_now": 157.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 5.4
-  },
-  {
-   "ticker": "RVTY",
-   "company_name": "REVVITY, INC.",
-   "owner_name": "Gonzales Anita",
-   "owner_title": "VP and CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 84.0,
-   "price": 155.48,
-   "value": 13060.32,
-   "shares_after": 7117.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/31791/0001193125-26-412237.txt",
-   "price_at_trade": 148.99,
-   "price_now": 157.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 5.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

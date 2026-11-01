@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "FITB",
  "company": {
   "name": "FIFTH THIRD BANCORP",
@@ -248,6 +248,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "FITB",
+   "company_name": "FIFTH THIRD BANCORP",
+   "owner_name": "Spence Timothy",
+   "owner_title": "Director, Chair, CEO & President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 8257.0,
+   "price": 54.5001,
+   "value": 450007.33,
+   "shares_after": 605989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1653466/0000035527-26-000235.txt",
+   "price_at_trade": 54.44,
+   "price_now": 53.87,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "FITB",
+   "company_name": "FIFTH THIRD BANCORP",
+   "owner_name": "Spence Timothy",
+   "owner_title": "Director, Chair, CEO & President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 8257.0,
+   "price": 54.5001,
+   "value": 450007.33,
+   "shares_after": 605989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/35527/0000035527-26-000235.txt",
+   "price_at_trade": 54.44,
+   "price_now": 53.87,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
+  },
   {
    "ticker": "FITB",
    "company_name": "FIFTH THIRD BANCORP",

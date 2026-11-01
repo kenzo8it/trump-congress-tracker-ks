@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "BSRR",
  "company": {
   "name": "SIERRA BANCORP",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BSRR",
+   "company_name": "SIERRA BANCORP",
+   "owner_name": "Treece Christopher G",
+   "owner_title": "EVP/Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 4000.0,
+   "price": 42.511,
+   "value": 170044.0,
+   "shares_after": 35095.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1130144/0001130144-26-000064.txt",
+   "price_at_trade": 42.43,
+   "price_now": 41.9,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "BSRR",
+   "company_name": "SIERRA BANCORP",
+   "owner_name": "Treece Christopher G",
+   "owner_title": "EVP/Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 4000.0,
+   "price": 42.511,
+   "value": 170044.0,
+   "shares_after": 35095.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1325532/0001130144-26-000064.txt",
+   "price_at_trade": 42.43,
+   "price_now": 41.9,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "BSRR",
    "company_name": "SIERRA BANCORP",

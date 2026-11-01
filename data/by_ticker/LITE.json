@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "LITE",
  "company": {
   "name": "Lumentum Holdings Inc.",
@@ -131,46 +131,7 @@
    "last_trade": "2026-05-22"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "LITE",
-   "company_name": "Lumentum Holdings Inc.",
-   "owner_name": "Ali Wajid",
-   "owner_title": "EVP & CHIEF FINANCIAL OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 24542.0,
-   "price": 1048.5,
-   "value": 25732287.0,
-   "shares_after": 75074.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1561100/0001561100-26-000008.txt",
-   "price_at_trade": 1045.78,
-   "price_now": 840.7,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -19.6
-  },
-  {
-   "ticker": "LITE",
-   "company_name": "Lumentum Holdings Inc.",
-   "owner_name": "Ali Wajid",
-   "owner_title": "EVP & CHIEF FINANCIAL OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 24542.0,
-   "price": 1048.5,
-   "value": 25732287.0,
-   "shares_after": 75074.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1633978/0001561100-26-000008.txt",
-   "price_at_trade": 1045.78,
-   "price_now": 840.7,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -19.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

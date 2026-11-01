@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "FSLR",
  "company": {
   "name": "FIRST SOLAR, INC.",
@@ -80,46 +80,7 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "FSLR",
-   "company_name": "FIRST SOLAR, INC.",
-   "owner_name": "Gloeckler Markus",
-   "owner_title": "Chief Technology Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 800.0,
-   "price": 174.0,
-   "value": 139200.0,
-   "shares_after": 5042.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1274494/0001274494-26-000186.txt",
-   "price_at_trade": 172.11,
-   "price_now": 174.4,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 1.3
-  },
-  {
-   "ticker": "FSLR",
-   "company_name": "FIRST SOLAR, INC.",
-   "owner_name": "Gloeckler Markus",
-   "owner_title": "Chief Technology Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 800.0,
-   "price": 174.0,
-   "value": 139200.0,
-   "shares_after": 5042.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1819680/0001274494-26-000186.txt",
-   "price_at_trade": 172.11,
-   "price_now": 174.4,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 1.3
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

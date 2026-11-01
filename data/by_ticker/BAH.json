@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "BAH",
  "company": {
   "name": "Booz Allen Hamilton Holding Corp",
@@ -67,7 +67,84 @@
    "last_trade": "2024-10-23"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "BAH",
+   "company_name": "Booz Allen Hamilton Holding Corp",
+   "owner_name": "Petty Joshua",
+   "owner_title": "EVP & General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 1500.0,
+   "price": 82.92,
+   "value": 124380.0,
+   "shares_after": 8538.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1443646/0002115826-26-000010.txt",
+   "price_at_trade": 83.48,
+   "price_now": 88.49,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 6.0
+  },
+  {
+   "ticker": "BAH",
+   "company_name": "Booz Allen Hamilton Holding Corp",
+   "owner_name": "Fitzgerald Buffum Shannon",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 2105.0,
+   "price": 82.9,
+   "value": 174504.5,
+   "shares_after": 5087.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1443646/0002132897-26-000008.txt",
+   "price_at_trade": 83.48,
+   "price_now": 88.49,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 6.0
+  },
+  {
+   "ticker": "BAH",
+   "company_name": "Booz Allen Hamilton Holding Corp",
+   "owner_name": "Petty Joshua",
+   "owner_title": "EVP & General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 1500.0,
+   "price": 82.92,
+   "value": 124380.0,
+   "shares_after": 8538.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2115826/0002115826-26-000010.txt",
+   "price_at_trade": 83.48,
+   "price_now": 88.49,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 6.0
+  },
+  {
+   "ticker": "BAH",
+   "company_name": "Booz Allen Hamilton Holding Corp",
+   "owner_name": "Fitzgerald Buffum Shannon",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 2105.0,
+   "price": 82.9,
+   "value": 174504.5,
+   "shares_after": 5087.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2132897/0002132897-26-000008.txt",
+   "price_at_trade": 83.48,
+   "price_now": 88.49,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 6.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [
   {

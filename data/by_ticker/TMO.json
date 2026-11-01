@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "TMO",
  "company": {
   "name": "THERMO FISHER SCIENTIFIC INC.",
@@ -355,7 +355,46 @@
    "last_trade": "2025-10-31"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "TMO",
+   "company_name": "THERMO FISHER SCIENTIFIC INC.",
+   "owner_name": "Britt Lisa P.",
+   "owner_title": "Sr. VP and Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 2831.0,
+   "price": 706.45,
+   "value": 1999959.95,
+   "shares_after": 11559.579,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1676320/0000097745-26-000182.txt",
+   "price_at_trade": 704.15,
+   "price_now": 697.0,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "TMO",
+   "company_name": "THERMO FISHER SCIENTIFIC INC.",
+   "owner_name": "Britt Lisa P.",
+   "owner_title": "Sr. VP and Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 2831.0,
+   "price": 706.45,
+   "value": 1999959.95,
+   "shares_after": 11559.579,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000182.txt",
+   "price_at_trade": 704.15,
+   "price_now": 697.0,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

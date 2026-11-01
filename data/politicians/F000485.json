@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -105,7 +105,7 @@
   {
    "ticker": "AMGN",
    "est_shares": 57.3,
-   "avg_price": 279.42,
+   "avg_price": 279.43,
    "price_now": 466.01,
    "est_position_value": 26686,
    "total_return_pct": 66.8,
@@ -600,7 +600,7 @@
    "company_name": "AMGEN INC",
    "sector": "Healthcare",
    "committee_overlap": [],
-   "price_at_trade": 283.88,
+   "price_at_trade": 283.89,
    "price_now": 466.01,
    "price_now_date": "2026-10-30",
    "total_return_pct": 64.2,

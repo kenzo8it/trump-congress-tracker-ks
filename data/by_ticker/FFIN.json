@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "FFIN",
  "company": {
   "name": "FIRST FINANCIAL BANKSHARES INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Denny Michael B.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 3245.0,
+   "price": 30.76,
+   "value": 99816.2,
+   "shares_after": 9745.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1774246/0001193125-26-441381.txt",
+   "price_at_trade": 30.75,
+   "price_now": 30.59,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Denny Michael B.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 3245.0,
+   "price": 30.76,
+   "value": 99816.2,
+   "shares_after": 9745.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36029/0001193125-26-441381.txt",
+   "price_at_trade": 30.75,
+   "price_now": 30.59,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.5
+  },
   {
    "ticker": "FFIN",
    "company_name": "FIRST FINANCIAL BANKSHARES INC",

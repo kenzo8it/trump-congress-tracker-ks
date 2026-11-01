@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "SNDK",
  "company": {
   "name": "Sandisk Corp",
@@ -253,46 +253,7 @@
    "last_trade": "2026-05-07"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "SNDK",
-   "company_name": "Sandisk Corp",
-   "owner_name": "Shek Bernard",
-   "owner_title": "Chief Legal Officer and Secty",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 600.0,
-   "price": 1734.94,
-   "value": 1040964.0,
-   "shares_after": 25588.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2023554/0001242648-26-000045.txt",
-   "price_at_trade": 1787.69,
-   "price_now": 1150.89,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -35.6
-  },
-  {
-   "ticker": "SNDK",
-   "company_name": "Sandisk Corp",
-   "owner_name": "Shek Bernard",
-   "owner_title": "Chief Legal Officer and Secty",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 600.0,
-   "price": 1734.94,
-   "value": 1040964.0,
-   "shares_after": 25588.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2060144/0001242648-26-000045.txt",
-   "price_at_trade": 1787.69,
-   "price_now": 1150.89,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -35.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

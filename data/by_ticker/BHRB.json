@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "BHRB",
  "company": {
   "name": "Burke & Herbert Financial Services Corp.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BHRB",
+   "company_name": "Burke & Herbert Financial Services Corp.",
+   "owner_name": "McLaughlin Shawn Patrick",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 500.0,
+   "price": 71.0,
+   "value": 35500.0,
+   "shares_after": 71500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001964493-26-000010.txt",
+   "price_at_trade": 71.08,
+   "price_now": 70.48,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "BHRB",
+   "company_name": "Burke & Herbert Financial Services Corp.",
+   "owner_name": "McLaughlin Shawn Patrick",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 500.0,
+   "price": 71.0,
+   "value": 35500.0,
+   "shares_after": 71500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1964493/0001964493-26-000010.txt",
+   "price_at_trade": 71.08,
+   "price_now": 70.48,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "BHRB",
    "company_name": "Burke & Herbert Financial Services Corp.",

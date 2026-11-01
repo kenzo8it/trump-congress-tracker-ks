@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "CTSH",
  "company": {
   "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
@@ -110,46 +110,7 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "CTSH",
-   "company_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-   "owner_name": "Kerdman Alina",
-   "owner_title": "SVP, Controller & CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-02",
-   "shares": 139.0,
-   "price": 56.88,
-   "value": 7906.32,
-   "shares_after": 1124.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1058290/0002075228-26-000030.txt",
-   "price_at_trade": 57.44,
-   "price_now": 65.11,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 13.4
-  },
-  {
-   "ticker": "CTSH",
-   "company_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-   "owner_name": "Kerdman Alina",
-   "owner_title": "SVP, Controller & CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-09-30",
-   "reported_date": "2026-10-02",
-   "shares": 139.0,
-   "price": 56.88,
-   "value": 7906.32,
-   "shares_after": 1124.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2075228/0002075228-26-000030.txt",
-   "price_at_trade": 57.44,
-   "price_now": 65.11,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 13.4
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

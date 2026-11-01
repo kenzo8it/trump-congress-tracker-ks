@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "V",
  "company": {
   "name": "VISA INC.",
@@ -655,46 +655,7 @@
    "last_trade": "2026-10-15"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "V",
-   "company_name": "VISA INC.",
-   "owner_name": "MCINERNEY RYAN",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 5875.0,
-   "price": 358.81,
-   "value": 2108008.75,
-   "shares_after": 15174.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000123.txt",
-   "price_at_trade": 359.85,
-   "price_now": 413.59,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 14.9
-  },
-  {
-   "ticker": "V",
-   "company_name": "VISA INC.",
-   "owner_name": "MCINERNEY RYAN",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-02",
-   "shares": 5875.0,
-   "price": 358.81,
-   "value": 2108008.75,
-   "shares_after": 15174.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1578261/0001403161-26-000123.txt",
-   "price_at_trade": 359.85,
-   "price_now": 413.59,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 14.9
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [
   {

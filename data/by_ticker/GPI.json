@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "GPI",
  "company": {
   "name": "GROUP 1 AUTOMOTIVE INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GPI",
+   "company_name": "GROUP 1 AUTOMOTIVE INC",
+   "owner_name": "MIZELL STEVEN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-10-30",
+   "shares": 550.0,
+   "price": 260.52,
+   "value": 143286.0,
+   "shares_after": 33.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1031203/0001031203-26-000149.txt",
+   "price_at_trade": 260.8,
+   "price_now": 260.8,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "GPI",
+   "company_name": "GROUP 1 AUTOMOTIVE INC",
+   "owner_name": "MIZELL STEVEN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-10-30",
+   "shares": 550.0,
+   "price": 260.52,
+   "value": 143286.0,
+   "shares_after": 33.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189403/0001031203-26-000149.txt",
+   "price_at_trade": 260.8,
+   "price_now": 260.8,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "GPI",
    "company_name": "GROUP 1 AUTOMOTIVE INC",

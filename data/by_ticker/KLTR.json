@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "KLTR",
  "company": {
   "name": "KALTURA INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KLTR",
+   "company_name": "KALTURA INC",
+   "owner_name": "Israeli Natan",
+   "owner_title": "Chief Customer Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-30",
+   "shares": 6.0,
+   "price": 1.5,
+   "value": 9.0,
+   "shares_after": 1809531.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1432133/0001628280-26-068545.txt",
+   "price_at_trade": 1.4,
+   "price_now": 1.45,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "KLTR",
+   "company_name": "KALTURA INC",
+   "owner_name": "Israeli Natan",
+   "owner_title": "Chief Customer Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-26",
+   "reported_date": "2026-10-30",
+   "shares": 6.0,
+   "price": 1.5,
+   "value": 9.0,
+   "shares_after": 1809531.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2011545/0001628280-26-068545.txt",
+   "price_at_trade": 1.4,
+   "price_now": 1.45,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 3.6
+  },
   {
    "ticker": "KLTR",
    "company_name": "KALTURA INC",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "NUE",
  "company": {
   "name": "NUCOR CORP",
@@ -67,7 +67,46 @@
    "last_trade": "2024-10-23"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "NUE",
+   "company_name": "NUCOR CORP",
+   "owner_name": "Hanners Noah C",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 5190.0,
+   "price": 275.0301,
+   "value": 1427406.22,
+   "shares_after": 44073.06,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1960914/0000073309-26-000133.txt",
+   "price_at_trade": 275.29,
+   "price_now": 273.87,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "NUE",
+   "company_name": "NUCOR CORP",
+   "owner_name": "Hanners Noah C",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 5190.0,
+   "price": 275.0301,
+   "value": 1427406.22,
+   "shares_after": 44073.06,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/73309/0000073309-26-000133.txt",
+   "price_at_trade": 275.29,
+   "price_now": 273.87,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.5
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

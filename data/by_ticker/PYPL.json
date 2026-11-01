@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "PYPL",
  "company": {
   "name": "PayPal Holdings, Inc.",
@@ -343,7 +343,46 @@
    "last_trade": "2026-03-13"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "PYPL",
+   "company_name": "PayPal Holdings, Inc.",
+   "owner_name": "Keller Frank",
+   "owner_title": "Pres., Checkout Sol. & PayPal",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 732.0,
+   "price": 55.37,
+   "value": 40530.84,
+   "shares_after": 41567.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/0002006416-26-000021.txt",
+   "price_at_trade": 56.55,
+   "price_now": 57.01,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "PYPL",
+   "company_name": "PayPal Holdings, Inc.",
+   "owner_name": "Keller Frank",
+   "owner_title": "Pres., Checkout Sol. & PayPal",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 732.0,
+   "price": 55.37,
+   "value": 40530.84,
+   "shares_after": 41567.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2006416/0002006416-26-000021.txt",
+   "price_at_trade": 56.55,
+   "price_now": 57.01,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

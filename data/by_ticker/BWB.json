@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-01T01:22+00:00",
+ "ticker": "BWB",
+ "company": {
+  "name": "Bridgewater Bancshares Inc",
+  "cik": 1341317,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 20.21,
+ "price_date": "2026-10-30",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BWB",
+   "company_name": "Bridgewater Bancshares Inc",
+   "owner_name": "Urness Todd B.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 10000.0,
+   "price": 20.3424,
+   "value": 203424.0,
+   "shares_after": 856722.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1341317/0001733123-26-000010.txt",
+   "price_at_trade": 20.34,
+   "price_now": 20.21,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "BWB",
+   "company_name": "Bridgewater Bancshares Inc",
+   "owner_name": "Urness Todd B.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 10000.0,
+   "price": 20.3424,
+   "value": 203424.0,
+   "shares_after": 856722.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1733123/0001733123-26-000010.txt",
+   "price_at_trade": 20.34,
+   "price_now": 20.21,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "BBT",
  "company": {
   "name": "Beacon Financial Corp",
@@ -53,6 +53,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BBT",
+   "company_name": "Beacon Financial Corp",
+   "owner_name": "Charnley Nina A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-10-30",
+   "shares": 350.0,
+   "price": 30.57,
+   "value": 10699.5,
+   "shares_after": 350.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1108134/0001628280-26-068526.txt",
+   "price_at_trade": 30.62,
+   "price_now": 30.62,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BBT",
+   "company_name": "Beacon Financial Corp",
+   "owner_name": "Charnley Nina A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-10-30",
+   "shares": 350.0,
+   "price": 30.57,
+   "value": 10699.5,
+   "shares_after": 350.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1901713/0001628280-26-068526.txt",
+   "price_at_trade": 30.62,
+   "price_now": 30.62,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "BBT",
    "company_name": "Beacon Financial Corp",

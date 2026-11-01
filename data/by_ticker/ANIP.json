@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "ANIP",
  "company": {
   "name": "ANI PHARMACEUTICALS INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ANIP",
+   "company_name": "ANI PHARMACEUTICALS INC",
+   "owner_name": "CAREY STEPHEN P.",
+   "owner_title": "SVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 2850.0,
+   "price": 72.87,
+   "value": 207679.5,
+   "shares_after": 166143.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1023024/0001674236-26-000026.txt",
+   "price_at_trade": 73.16,
+   "price_now": 72.0,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "ANIP",
+   "company_name": "ANI PHARMACEUTICALS INC",
+   "owner_name": "CAREY STEPHEN P.",
+   "owner_title": "SVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 2850.0,
+   "price": 72.87,
+   "value": 207679.5,
+   "shares_after": 166143.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1674236/0001674236-26-000026.txt",
+   "price_at_trade": 73.16,
+   "price_now": 72.0,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.6
+  },
   {
    "ticker": "ANIP",
    "company_name": "ANI PHARMACEUTICALS INC",

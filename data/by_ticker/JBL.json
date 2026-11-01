@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "JBL",
  "company": {
   "name": "JABIL INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "JBL",
+   "company_name": "JABIL INC",
+   "owner_name": "Crowley Matthew",
+   "owner_title": "EVP, Global Business Units",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 3922.0,
+   "price": 290.0,
+   "value": 1137380.0,
+   "shares_after": 63410.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2025072/0001225208-26-008571.txt",
+   "price_at_trade": 290.93,
+   "price_now": 272.72,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.3
+  },
+  {
+   "ticker": "JBL",
+   "company_name": "JABIL INC",
+   "owner_name": "Crowley Matthew",
+   "owner_title": "EVP, Global Business Units",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 3922.0,
+   "price": 290.0,
+   "value": 1137380.0,
+   "shares_after": 63410.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/898293/0001225208-26-008571.txt",
+   "price_at_trade": 290.93,
+   "price_now": 272.72,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -6.3
+  },
   {
    "ticker": "JBL",
    "company_name": "JABIL INC",

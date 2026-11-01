@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "ALKS",
  "company": {
   "name": "Alkermes plc.",
@@ -97,46 +97,7 @@
    "last_trade": "2026-09-29"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "ALKS",
-   "company_name": "Alkermes plc.",
-   "owner_name": "Gaffin David Joseph",
-   "owner_title": "EVP, CLO, Alkermes, Inc.",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-02",
-   "shares": 2034.0,
-   "price": 41.03,
-   "value": 83455.02,
-   "shares_after": 221388.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1520262/0001520262-26-000127.txt",
-   "price_at_trade": 41.75,
-   "price_now": 45.34,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 8.6
-  },
-  {
-   "ticker": "ALKS",
-   "company_name": "Alkermes plc.",
-   "owner_name": "Gaffin David Joseph",
-   "owner_title": "EVP, CLO, Alkermes, Inc.",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-02",
-   "shares": 2034.0,
-   "price": 41.03,
-   "value": 83455.02,
-   "shares_after": 221388.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1675905/0001520262-26-000127.txt",
-   "price_at_trade": 41.75,
-   "price_now": 45.34,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 8.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

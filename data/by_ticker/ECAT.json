@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "ECAT",
  "company": {
   "name": "BlackRock ESG Capital Allocation Term Trust",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ECAT",
+   "company_name": "BlackRock ESG Capital Allocation Term Trust",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 42966.0,
+   "price": 13.67,
+   "value": 587345.22,
+   "shares_after": 12264253.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000394.txt",
+   "price_at_trade": 13.64,
+   "price_now": 13.48,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "ECAT",
+   "company_name": "BlackRock ESG Capital Allocation Term Trust",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-10-30",
+   "shares": 42966.0,
+   "price": 13.67,
+   "value": 587345.22,
+   "shares_after": 12264253.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1864843/0001510281-26-000394.txt",
+   "price_at_trade": 13.64,
+   "price_now": 13.48,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "ECAT",
    "company_name": "BlackRock ESG Capital Allocation Term Trust",

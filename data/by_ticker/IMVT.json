@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:47+00:00",
+ "updated": "2026-11-01T01:22+00:00",
  "ticker": "IMVT",
  "company": {
   "name": "Immunovant, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "IMVT",
+   "company_name": "Immunovant, Inc.",
+   "owner_name": "Girao Tiago",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 6606.0,
+   "price": 28.5,
+   "value": 188271.0,
+   "shares_after": 234192.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618670/0001764013-26-000117.txt",
+   "price_at_trade": 29.42,
+   "price_now": 29.17,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "IMVT",
+   "company_name": "Immunovant, Inc.",
+   "owner_name": "Girao Tiago",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-28",
+   "reported_date": "2026-10-30",
+   "shares": 6606.0,
+   "price": 28.5,
+   "value": 188271.0,
+   "shares_after": 234192.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1764013/0001764013-26-000117.txt",
+   "price_at_trade": 29.42,
+   "price_now": 29.17,
+   "price_now_date": "2026-10-30",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "IMVT",
    "company_name": "Immunovant, Inc.",
