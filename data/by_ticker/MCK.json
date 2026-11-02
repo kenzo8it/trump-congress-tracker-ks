@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22+00:00",
+ "updated": "2026-11-02T01:43+00:00",
  "ticker": "MCK",
  "company": {
   "name": "MCKESSON CORP",
@@ -535,5 +535,17 @@
  ],
  "trump_trades": [],
  "trump_sponsor": [],
- "contracts": []
+ "contracts": [
+  {
+   "award_id": "36C24026K1012",
+   "recipient": "MCKESSON CORPORATION",
+   "ticker": "MCK",
+   "amount": 1465753427.88,
+   "agency": "Department of Veterans Affairs",
+   "sub_agency": "Department of Veterans Affairs",
+   "start_date": "2026-09-01",
+   "description": "EXPRESS REPORT: PHARMACEUTICAL PRIME VENDOR (PPV)FY2026 SEPTEMBER",
+   "source_url": "https://www.usaspending.gov/award/CONT_AWD_36C24026K1012_3600_36W79720D0001_3600"
+  }
+ ]
 }

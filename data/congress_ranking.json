@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22+00:00",
+ "updated": "2026-11-02T01:43+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -152,17 +152,6 @@
    "total_return_usd": 23395
   },
   {
-   "bioguide": "F000485",
-   "name": "Clay Fuller",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "positions": 29,
-   "est_portfolio_value": 417173,
-   "total_return_pct": 12.9,
-   "total_return_usd": 47656
-  },
-  {
    "bioguide": "M001208",
    "name": "Lucy McBath",
    "party": "Democrat",
@@ -205,6 +194,17 @@
    "est_portfolio_value": 35368,
    "total_return_pct": 8.8,
    "total_return_usd": 2868
+  },
+  {
+   "bioguide": "F000485",
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "positions": 22,
+   "est_portfolio_value": 312903,
+   "total_return_pct": 8.1,
+   "total_return_usd": 23393
   },
   {
    "bioguide": "W000816",

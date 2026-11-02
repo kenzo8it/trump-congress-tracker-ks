@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22+00:00",
+ "updated": "2026-11-02T01:43+00:00",
  "ticker": "BRK.B",
  "company": {
   "name": "BERKSHIRE HATHAWAY INC",
@@ -881,22 +881,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Clay Fuller",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "committee_overlap": [],
-   "ticker": "BRK.B",
-   "est_shares": 16.3,
-   "avg_price": 492.1,
-   "price_now": 542.49,
-   "est_position_value": 8820,
-   "total_return_pct": 10.2,
-   "total_return_usd": 819,
-   "first_buy": "2025-10-24",
-   "last_trade": "2025-10-24"
-  },
-  {
    "name": "Lucy McBath",
    "party": "Democrat",
    "chamber": "House",
@@ -911,6 +895,22 @@
    "total_return_usd": 1908,
    "first_buy": "2025-11-05",
    "last_trade": "2026-09-18"
+  },
+  {
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "BRK.B",
+   "est_shares": 16.3,
+   "avg_price": 492.1,
+   "price_now": 542.49,
+   "est_position_value": 8820,
+   "total_return_pct": 10.2,
+   "total_return_usd": 819,
+   "first_buy": "2025-10-24",
+   "last_trade": "2025-10-24"
   },
   {
    "name": "August Pfluger",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22+00:00",
+ "updated": "2026-11-02T01:43+00:00",
  "ticker": "ADP",
  "company": {
   "name": "AUTOMATIC DATA PROCESSING INC",
@@ -351,22 +351,6 @@
    "last_trade": "2026-06-16"
   },
   {
-   "name": "Clay Fuller",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "committee_overlap": [],
-   "ticker": "ADP",
-   "est_shares": 131.4,
-   "avg_price": 247.37,
-   "price_now": 293.84,
-   "est_position_value": 38606,
-   "total_return_pct": 18.8,
-   "total_return_usd": 6105,
-   "first_buy": "2025-11-12",
-   "last_trade": "2025-11-12"
-  },
-  {
    "name": "Lucy McBath",
    "party": "Democrat",
    "chamber": "House",
@@ -383,6 +367,22 @@
    "total_return_usd": 689,
    "first_buy": "2025-11-05",
    "last_trade": "2026-07-30"
+  },
+  {
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "ADP",
+   "est_shares": 131.4,
+   "avg_price": 247.37,
+   "price_now": 293.84,
+   "est_position_value": 38606,
+   "total_return_pct": 18.8,
+   "total_return_usd": 6105,
+   "first_buy": "2025-11-12",
+   "last_trade": "2025-11-12"
   }
  ],
  "insider_trades": [],

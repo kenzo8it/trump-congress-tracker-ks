@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22+00:00",
+ "updated": "2026-11-02T01:43+00:00",
  "ticker": "HD",
  "company": {
   "name": "HOME DEPOT, INC.",
@@ -1341,24 +1341,6 @@
    "last_trade": "2026-01-30"
   },
   {
-   "name": "Clay Fuller",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "committee_overlap": [
-    "House Committee on Small Business"
-   ],
-   "ticker": "HD",
-   "est_shares": 21.3,
-   "avg_price": 376.03,
-   "price_now": 329.2,
-   "est_position_value": 7004,
-   "total_return_pct": -12.5,
-   "total_return_usd": -996,
-   "first_buy": "2025-10-24",
-   "last_trade": "2025-10-24"
-  },
-  {
    "name": "Lucy McBath",
    "party": "Democrat",
    "chamber": "House",
@@ -1389,6 +1371,24 @@
    "total_return_usd": 2925,
    "first_buy": "2025-11-11",
    "last_trade": "2026-09-22"
+  },
+  {
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "ticker": "HD",
+   "est_shares": 21.3,
+   "avg_price": 376.03,
+   "price_now": 329.2,
+   "est_position_value": 7004,
+   "total_return_pct": -12.5,
+   "total_return_usd": -996,
+   "first_buy": "2025-10-24",
+   "last_trade": "2025-10-24"
   },
   {
    "name": "Jared Moskowitz",
