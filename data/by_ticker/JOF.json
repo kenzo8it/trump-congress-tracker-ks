@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "JOF",
  "company": {
   "name": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": "Other"
  },
- "price_now": 11.0,
- "price_date": "2026-10-30",
+ "price_now": 11.11,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Saba Capital Management, L.P.",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 58686.0,
+   "price": 10.98,
+   "value": 644372.28,
+   "shares_after": 2822112.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000402.txt",
+   "price_at_trade": 11.0,
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 58686.0,
+   "price": 10.98,
+   "value": 644372.28,
+   "shares_after": 2822112.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000402.txt",
+   "price_at_trade": 11.0,
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 5083.0,
+   "price": 11.31,
+   "value": 57488.73,
+   "shares_after": 2763426.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000402.txt",
+   "price_at_trade": 11.3,
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 5083.0,
+   "price": 11.31,
+   "value": 57488.73,
+   "shares_after": 2763426.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000402.txt",
+   "price_at_trade": 11.3,
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-10-28",
    "reported_date": "2026-10-29",
    "shares": 15967.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000391.txt",
    "price_at_trade": 11.39,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -3.4
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "JOF",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000391.txt",
    "price_at_trade": 11.39,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -3.4
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "JOF",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
    "price_at_trade": 11.92,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.7
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "JOF",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000363.txt",
    "price_at_trade": 11.92,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.7
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "JOF",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
    "price_at_trade": 11.89,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.5
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "JOF",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000363.txt",
    "price_at_trade": 11.89,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.5
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "JOF",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000353.txt",
    "price_at_trade": 12.1,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -9.1
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -8.2
   },
   {
    "ticker": "JOF",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000353.txt",
    "price_at_trade": 12.1,
-   "price_now": 11.0,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -9.1
+   "price_now": 11.11,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -8.2
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "RELL",
  "company": {
   "name": "RICHARDSON ELECTRONICS, LTD.",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Electronic Parts & Equipment, NEC",
   "sector": "Other"
  },
- "price_now": 19.74,
- "price_date": "2026-10-30",
+ "price_now": 19.5,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "Halverson Kenneth",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 1000.0,
+   "price": 21.19,
+   "value": 21190.0,
+   "shares_after": 9865.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1588888/0001193125-26-443094.txt",
+   "price_at_trade": 20.93,
+   "price_now": 19.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.8
+  },
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "Halverson Kenneth",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 1000.0,
+   "price": 21.19,
+   "value": 21190.0,
+   "shares_after": 9865.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-443094.txt",
+   "price_at_trade": 20.93,
+   "price_now": 19.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -6.8
+  },
   {
    "ticker": "RELL",
    "company_name": "RICHARDSON ELECTRONICS, LTD.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512170/0001193125-26-440960.txt",
    "price_at_trade": 21.1,
-   "price_now": 19.74,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -6.4
+   "price_now": 19.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "RELL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-440960.txt",
    "price_at_trade": 21.1,
-   "price_now": 19.74,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -6.4
+   "price_now": 19.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -7.6
   }
  ],
  "trump_trades": [],

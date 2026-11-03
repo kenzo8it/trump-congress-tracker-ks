@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "HONA",
  "company": {
   "name": "Honeywell Aerospace Inc.",
@@ -8,8 +8,8 @@
   "industry": "Aircraft Engines & Engine Parts",
   "sector": "Defense & Aerospace"
  },
- "price_now": 154.15,
- "price_date": "2026-10-30",
+ "price_now": 157.95,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Carol D. Miller",
+   "state_district": "WV01",
+   "reported_date": "2026-10-30",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
+   "owner": "spouse",
+   "asset": "Honeywell Aerospace Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "HONA",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-09-29",
+   "notified_date": "2026-10-29",
+   "size_lower": 710,
+   "size_upper": 710,
+   "size_mid": 710.0,
+   "bioguide": "M001205",
+   "party": "Republican",
+   "state": "WV",
+   "company_name": "Honeywell Aerospace Inc.",
+   "sector": "Defense & Aerospace",
+   "committee_overlap": [],
+   "price_at_trade": 155.44,
+   "price_now": 157.95,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 1.6,
+   "days_to_disclose": 31,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Maria Elvira Salazar",
@@ -44,9 +74,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 158.46,
-   "price_now": 154.15,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -2.7,
+   "price_now": 157.95,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -0.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -74,9 +104,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 170.37,
-   "price_now": 154.15,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -9.5,
+   "price_now": 157.95,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -7.3,
    "days_to_disclose": 13,
    "late_filing": false
   }

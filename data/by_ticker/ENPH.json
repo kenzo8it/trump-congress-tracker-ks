@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-03T03:43+00:00",
+ "ticker": "ENPH",
+ "company": {
+  "name": "Enphase Energy, Inc.",
+  "cik": 1463101,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 27.93,
+ "price_date": "2026-11-02",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ENPH",
+   "company_name": "Enphase Energy, Inc.",
+   "owner_name": "Kothandaraman Badrinarayanan",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-02",
+   "shares": 10000.0,
+   "price": 26.7514,
+   "value": 267514.0,
+   "shares_after": 1655632.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001543777-26-000006.txt",
+   "price_at_trade": 27.93,
+   "price_now": 27.93,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ENPH",
+   "company_name": "Enphase Energy, Inc.",
+   "owner_name": "Kothandaraman Badrinarayanan",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-02",
+   "shares": 10000.0,
+   "price": 26.7514,
+   "value": 267514.0,
+   "shares_after": 1655632.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1543777/0001543777-26-000006.txt",
+   "price_at_trade": 27.93,
+   "price_now": 27.93,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

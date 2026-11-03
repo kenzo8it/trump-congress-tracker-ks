@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "BRZE",
  "company": {
   "name": "Braze, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 45.75,
- "price_date": "2026-10-30",
+ "price_now": 45.67,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Hyman Jonathan",
    "owner_title": "Chief Technology Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 20000.0,
+   "price": 45.76,
+   "value": 915200.0,
+   "shares_after": 828219.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1676238/0001888935-26-000030.txt",
+   "price_at_trade": 45.8,
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "BRZE",
+   "company_name": "Braze, Inc.",
+   "owner_name": "Hyman Jonathan",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-02",
+   "shares": 20000.0,
+   "price": 45.76,
+   "value": 915200.0,
+   "shares_after": 828219.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1888935/0001888935-26-000030.txt",
+   "price_at_trade": 45.8,
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "BRZE",
+   "company_name": "Braze, Inc.",
+   "owner_name": "Hyman Jonathan",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-10-20",
    "reported_date": "2026-10-22",
    "shares": 285000.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1676238/0001888935-26-000028.txt",
    "price_at_trade": 45.57,
-   "price_now": 45.75,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 0.4
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "BRZE",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1888935/0001888935-26-000028.txt",
    "price_at_trade": 45.57,
-   "price_now": 45.75,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 0.4
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "BRZE",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1676238/0001888935-26-000028.txt",
    "price_at_trade": 30.38,
-   "price_now": 45.75,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 50.6
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 50.3
   },
   {
    "ticker": "BRZE",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1888935/0001888935-26-000028.txt",
    "price_at_trade": 30.38,
-   "price_now": 45.75,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": 50.6
+   "price_now": 45.67,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 50.3
   }
  ],
  "trump_trades": [],

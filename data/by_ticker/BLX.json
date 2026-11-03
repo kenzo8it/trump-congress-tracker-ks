@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-03T03:43+00:00",
+ "ticker": "BLX",
+ "company": {
+  "name": "BLADEX, INC.",
+  "cik": 890541,
+  "sic": 6029,
+  "industry": "Commercial Banks, NEC",
+  "sector": "Financials"
+ },
+ "price_now": 50.71,
+ "price_date": "2026-11-02",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BLX",
+   "company_name": "BLADEX, INC.",
+   "owner_name": "Diaz Adriana Lizzeth",
+   "owner_title": "Chief Audit Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 1792.0,
+   "price": 52.39,
+   "value": 93882.88,
+   "shares_after": 15090.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2121830/0000890541-26-000014.txt",
+   "price_at_trade": 48.94,
+   "price_now": 50.71,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "BLX",
+   "company_name": "BLADEX, INC.",
+   "owner_name": "Diaz Adriana Lizzeth",
+   "owner_title": "Chief Audit Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 1792.0,
+   "price": 52.39,
+   "value": 93882.88,
+   "shares_after": 15090.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/890541/0000890541-26-000014.txt",
+   "price_at_trade": 48.94,
+   "price_now": 50.71,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 3.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

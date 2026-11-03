@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "RSI",
  "company": {
   "name": "Rush Street Interactive, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Miscellaneous Amusement & Recreation",
   "sector": "Retail & Consumer"
  },
- "price_now": 12.12,
- "price_date": "2026-10-30",
+ "price_now": 11.4,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RSI",
+   "company_name": "Rush Street Interactive, Inc.",
+   "owner_name": "Winter Thomas",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-02",
+   "shares": 10000.0,
+   "price": 11.831,
+   "value": 118310.0,
+   "shares_after": 30497.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001836156-26-000008.txt",
+   "price_at_trade": 11.4,
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "RSI",
+   "company_name": "Rush Street Interactive, Inc.",
+   "owner_name": "Winter Thomas",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-02",
+   "shares": 10000.0,
+   "price": 11.831,
+   "value": 118310.0,
+   "shares_after": 30497.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1836156/0001836156-26-000008.txt",
+   "price_at_trade": 11.4,
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "RSI",
    "company_name": "Rush Street Interactive, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1588894/0001588894-26-000022.txt",
    "price_at_trade": 20.99,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -42.3
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -45.7
   },
   {
    "ticker": "RSI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001588894-26-000022.txt",
    "price_at_trade": 20.99,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -42.3
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -45.7
   },
   {
    "ticker": "RSI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001835040-26-000031.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834345/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834345/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834345/0001834345-26-000030.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   },
   {
    "ticker": "RSI",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835040/0001835040-26-000031.txt",
    "price_at_trade": 19.95,
-   "price_now": 12.12,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -39.2
+   "price_now": 11.4,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -42.9
   }
  ],
  "trump_trades": [],

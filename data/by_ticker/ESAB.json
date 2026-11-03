@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "ESAB",
  "company": {
   "name": "ESAB Corp",
@@ -8,8 +8,8 @@
   "industry": "General Industrial Machinery & Equipment, NEC",
   "sector": "Construction & Industrials"
  },
- "price_now": 69.76,
- "price_date": "2026-10-30",
+ "price_now": 76.3,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Thomas H. Kean, Jr.",
+   "state_district": "NJ07",
+   "reported_date": "2026-10-30",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+   "owner": "self",
+   "asset": "ESAB Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "ESAB",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-09-29",
+   "notified_date": "2026-10-01",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "K000398",
+   "party": "Republican",
+   "state": "NJ",
+   "company_name": "ESAB Corp",
+   "sector": "Construction & Industrials",
+   "committee_overlap": [],
+   "price_at_trade": 67.48,
+   "price_now": 76.3,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 13.1,
+   "days_to_disclose": 31,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Thomas H. Kean, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 93.85,
-   "price_now": 69.76,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -25.7,
+   "price_now": 76.3,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -18.7,
    "days_to_disclose": 42,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 96.55,
-   "price_now": 69.76,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -27.7,
+   "price_now": 76.3,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -21.0,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 101.97,
-   "price_now": 69.76,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -31.6,
+   "price_now": 76.3,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -25.2,
    "days_to_disclose": 23,
    "late_filing": false
   }
@@ -117,14 +147,14 @@
    "state": "NJ",
    "committee_overlap": [],
    "ticker": "ESAB",
-   "est_shares": 246.6,
-   "avg_price": 97.34,
-   "price_now": 69.76,
-   "est_position_value": 17201,
-   "total_return_pct": -28.3,
-   "total_return_usd": -6801,
+   "est_shares": 365.1,
+   "avg_price": 87.65,
+   "price_now": 76.3,
+   "est_position_value": 27860,
+   "total_return_pct": -12.9,
+   "total_return_usd": -4142,
    "first_buy": "2026-06-22",
-   "last_trade": "2026-07-07"
+   "last_trade": "2026-09-29"
   }
  ],
  "insider_trades": [],

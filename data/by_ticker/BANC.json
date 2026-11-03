@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-03T03:43+00:00",
+ "ticker": "BANC",
+ "company": {
+  "name": "BANC OF CALIFORNIA, INC.",
+  "cik": 1169770,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 18.5,
+ "price_date": "2026-11-02",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BANC",
+   "company_name": "BANC OF CALIFORNIA, INC.",
+   "owner_name": "WOLFF JARED M",
+   "owner_title": "Director, CHAIRMAN AND CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 5487.0,
+   "price": 18.18,
+   "value": 99753.66,
+   "shares_after": 333456.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1169770/0001200277-26-000006.txt",
+   "price_at_trade": 18.23,
+   "price_now": 18.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "BANC",
+   "company_name": "BANC OF CALIFORNIA, INC.",
+   "owner_name": "WOLFF JARED M",
+   "owner_title": "Director, CHAIRMAN AND CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 5487.0,
+   "price": 18.18,
+   "value": 99753.66,
+   "shares_after": 333456.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1200277/0001200277-26-000006.txt",
+   "price_at_trade": 18.23,
+   "price_now": 18.5,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 1.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

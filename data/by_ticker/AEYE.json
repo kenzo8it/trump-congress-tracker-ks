@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:43+00:00",
+ "updated": "2026-11-03T03:43+00:00",
  "ticker": "AEYE",
  "company": {
   "name": "AUDIOEYE INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 13.03,
- "price_date": "2026-10-30",
+ "price_now": 13.35,
+ "price_date": "2026-11-02",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "HAWKINS JAMES B",
    "owner_title": "Director",
    "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 4000.0,
+   "price": 13.15,
+   "value": 52600.0,
+   "shares_after": 225684.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0000898243-26-000027.txt",
+   "price_at_trade": 13.03,
+   "price_now": 13.35,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "HAWKINS JAMES B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-02",
+   "shares": 4000.0,
+   "price": 13.15,
+   "value": 52600.0,
+   "shares_after": 225684.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/898243/0000898243-26-000027.txt",
+   "price_at_trade": 13.03,
+   "price_now": 13.35,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "HAWKINS JAMES B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
    "traded_date": "2026-10-29",
    "reported_date": "2026-10-29",
    "shares": 3000.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0000898243-26-000025.txt",
    "price_at_trade": 14.12,
-   "price_now": 13.03,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.7
+   "price_now": 13.35,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -5.5
   },
   {
    "ticker": "AEYE",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/898243/0000898243-26-000025.txt",
    "price_at_trade": 14.12,
-   "price_now": 13.03,
-   "price_now_date": "2026-10-30",
-   "total_return_pct": -7.7
+   "price_now": 13.35,
+   "price_now_date": "2026-11-02",
+   "total_return_pct": -5.5
   }
  ],
  "trump_trades": [],
