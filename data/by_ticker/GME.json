@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "GME",
  "company": {
   "name": "GameStop Corp.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Computer & Computer Software Stores",
   "sector": "Retail & Consumer"
  },
- "price_now": 24.19,
- "price_date": "2026-11-02",
+ "price_now": 24.27,
+ "price_date": "2026-11-03",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0000921895-26-002784.txt",
    "price_at_trade": 27.22,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.8
   },
   {
    "ticker": "GME",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0000921895-26-002784.txt",
    "price_at_trade": 27.22,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.8
   },
   {
    "ticker": "GME",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1767470/0000921895-26-002784.txt",
    "price_at_trade": 27.22,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.8
   },
   {
    "ticker": "GME",
@@ -92,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1767470/0000921895-26-002784.txt",
    "price_at_trade": 27.22,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.8
   },
   {
    "ticker": "GME",
@@ -111,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0001990547-26-000025.txt",
    "price_at_trade": 27.23,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.2
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.9
   },
   {
    "ticker": "GME",
@@ -130,123 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1990547/0001990547-26-000025.txt",
    "price_at_trade": 27.23,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -11.2
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Robinson Mark Haymond",
-   "owner_title": "General Counsel and Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-05",
-   "shares": 3882.0,
-   "price": 25.418,
-   "value": 98672.68,
-   "shares_after": 93012.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0001981001-26-000027.txt",
-   "price_at_trade": 25.24,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -4.2
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Robinson Mark Haymond",
-   "owner_title": "General Counsel and Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-05",
-   "shares": 3882.0,
-   "price": 25.418,
-   "value": 98672.68,
-   "shares_after": 93012.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1981001/0001981001-26-000027.txt",
-   "price_at_trade": 25.24,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -4.2
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Robinson Mark Haymond",
-   "owner_title": "General Counsel and Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 7296.0,
-   "price": 24.26,
-   "value": 177000.96,
-   "shares_after": 96894.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0001981001-26-000027.txt",
-   "price_at_trade": 24.11,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 0.3
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Moore Daniel William",
-   "owner_title": "PFO and PAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 7297.0,
-   "price": 24.26,
-   "value": 177025.22,
-   "shares_after": 107828.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1326380/0001990547-26-000023.txt",
-   "price_at_trade": 24.11,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 0.3
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Robinson Mark Haymond",
-   "owner_title": "General Counsel and Secretary",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 7296.0,
-   "price": 24.26,
-   "value": 177000.96,
-   "shares_after": 96894.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1981001/0001981001-26-000027.txt",
-   "price_at_trade": 24.11,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 0.3
-  },
-  {
-   "ticker": "GME",
-   "company_name": "GameStop Corp.",
-   "owner_name": "Moore Daniel William",
-   "owner_title": "PFO and PAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 7297.0,
-   "price": 24.26,
-   "value": 177025.22,
-   "shares_after": 107828.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1990547/0001990547-26-000023.txt",
-   "price_at_trade": 24.11,
-   "price_now": 24.19,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 0.3
+   "price_now": 24.27,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.9
   }
  ],
  "trump_trades": [],

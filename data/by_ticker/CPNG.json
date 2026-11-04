@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "CPNG",
  "company": {
   "name": "Coupang, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Catalog & Mail-Order Houses",
   "sector": "Retail & Consumer"
  },
- "price_now": 14.7,
- "price_date": "2026-11-02",
+ "price_now": 15.23,
+ "price_date": "2026-11-03",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,54 +42,15 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 19.95,
-   "price_now": 14.7,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -26.3,
+   "price_now": 15.23,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -23.7,
    "days_to_disclose": 32,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "CPNG",
-   "company_name": "Coupang, Inc.",
-   "owner_name": "Lee Jonathan D.",
-   "owner_title": "Chief Accounting Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-05",
-   "shares": 5519.0,
-   "price": 13.6508,
-   "value": 75338.77,
-   "shares_after": 176396.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1834584/0001628280-26-065078.txt",
-   "price_at_trade": 13.78,
-   "price_now": 14.7,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 6.7
-  },
-  {
-   "ticker": "CPNG",
-   "company_name": "Coupang, Inc.",
-   "owner_name": "Lee Jonathan D.",
-   "owner_title": "Chief Accounting Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-05",
-   "shares": 5519.0,
-   "price": 13.6508,
-   "value": 75338.77,
-   "shares_after": 176396.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1919697/0001628280-26-065078.txt",
-   "price_at_trade": 13.78,
-   "price_now": 14.7,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 6.7
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

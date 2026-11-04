@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "NXPI",
  "company": {
   "name": "NXP Semiconductors N.V.",
@@ -327,46 +327,7 @@
    "last_trade": "2025-12-11"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "NXPI",
-   "company_name": "NXP Semiconductors N.V.",
-   "owner_name": "Jensen Christopher L",
-   "owner_title": "EVP, Chief People Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 3355.0,
-   "price": 240.0,
-   "value": 805200.0,
-   "shares_after": 288.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/0001812730-26-000006.txt",
-   "price_at_trade": 239.19,
-   "price_now": 257.24,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 7.5
-  },
-  {
-   "ticker": "NXPI",
-   "company_name": "NXP Semiconductors N.V.",
-   "owner_name": "Jensen Christopher L",
-   "owner_title": "EVP, Chief People Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 3355.0,
-   "price": 240.0,
-   "value": 805200.0,
-   "shares_after": 288.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1812730/0001812730-26-000006.txt",
-   "price_at_trade": 239.19,
-   "price_now": 257.24,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 7.5
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

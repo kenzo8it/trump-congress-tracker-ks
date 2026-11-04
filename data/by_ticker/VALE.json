@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "VALE",
  "company": {
   "name": "Vale S.A.",
@@ -8,8 +8,8 @@
   "industry": "Metal Mining",
   "sector": "Materials & Mining"
  },
- "price_now": 11.34,
- "price_date": "2026-11-02",
+ "price_now": 10.98,
+ "price_date": "2026-11-03",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 11.16,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 1.6,
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -1.6,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 10.98,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 3.3,
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 0.0,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 9.09,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 24.8,
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 20.8,
    "days_to_disclose": 201,
    "late_filing": true
   }
@@ -119,10 +119,10 @@
    "ticker": "VALE",
    "est_shares": 11.8,
    "avg_price": 10.98,
-   "price_now": 11.34,
-   "est_position_value": 133,
-   "total_return_pct": 3.3,
-   "total_return_usd": 4,
+   "price_now": 10.98,
+   "est_position_value": 129,
+   "total_return_pct": -0.0,
+   "total_return_usd": 0,
    "first_buy": "2025-10-30",
    "last_trade": "2025-10-31"
   }
@@ -143,9 +143,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2119844/0001292814-26-005078.txt",
    "price_at_trade": 12.0,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -5.5
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "VALE",
@@ -162,9 +162,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/0001292814-26-005078.txt",
    "price_at_trade": 12.0,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -5.5
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "VALE",
@@ -181,9 +181,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2119844/0001292814-26-005078.txt",
    "price_at_trade": 12.2,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -7.0
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.0
   },
   {
    "ticker": "VALE",
@@ -200,9 +200,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/0001292814-26-005078.txt",
    "price_at_trade": 12.2,
-   "price_now": 11.34,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -7.0
+   "price_now": 10.98,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": -10.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "AMZN",
  "company": {
   "name": "AMAZON COM INC",
@@ -1535,46 +1535,7 @@
    "last_trade": "2026-01-16"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "AMZN",
-   "company_name": "AMAZON COM INC",
-   "owner_name": "Herrington Douglas J",
-   "owner_title": "CEO Worldwide Amazon Stores",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 1000.0,
-   "price": 251.5,
-   "value": 251500.0,
-   "shares_after": 474681.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/0001936006-26-000026.txt",
-   "price_at_trade": 248.23,
-   "price_now": 245.63,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -1.0
-  },
-  {
-   "ticker": "AMZN",
-   "company_name": "AMAZON COM INC",
-   "owner_name": "Herrington Douglas J",
-   "owner_title": "CEO Worldwide Amazon Stores",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-05",
-   "shares": 1000.0,
-   "price": 251.5,
-   "value": 251500.0,
-   "shares_after": 474681.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000026.txt",
-   "price_at_trade": 248.23,
-   "price_now": 245.63,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -1.0
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [
   {
    "ticker": "AMZN",

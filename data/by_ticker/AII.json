@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "AII",
  "company": {
   "name": "American Integrity Insurance Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 29.5,
- "price_date": "2026-11-02",
+ "price_now": 29.44,
+ "price_date": "2026-11-03",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007587/0001193125-26-422892.txt",
    "price_at_trade": 27.55,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 7.1
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 6.9
   },
   {
    "ticker": "AII",
@@ -54,8 +54,27 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2063843/0001193125-26-422892.txt",
    "price_at_trade": 27.55,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 6.9
+  },
+  {
+   "ticker": "AII",
+   "company_name": "American Integrity Insurance Group, Inc.",
+   "owner_name": "Ritchie Robert C",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-13",
+   "reported_date": "2026-10-13",
+   "shares": 50700.0,
+   "price": 27.41,
+   "value": 1389687.0,
+   "shares_after": 1760433.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2007587/0001193125-26-420833.txt",
+   "price_at_trade": 27.49,
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
    "total_return_pct": 7.1
   },
   {
@@ -71,30 +90,11 @@
    "value": 1389687.0,
    "shares_after": 1760433.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2007587/0001193125-26-420833.txt",
-   "price_at_trade": 27.49,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 7.3
-  },
-  {
-   "ticker": "AII",
-   "company_name": "American Integrity Insurance Group, Inc.",
-   "owner_name": "Ritchie Robert C",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-13",
-   "shares": 50700.0,
-   "price": 27.41,
-   "value": 1389687.0,
-   "shares_after": 1760433.0,
-   "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2063843/0001193125-26-420833.txt",
    "price_at_trade": 27.49,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 7.3
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "AII",
@@ -111,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007587/0001193125-26-420833.txt",
    "price_at_trade": 27.12,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 8.8
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "AII",
@@ -130,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2063843/0001193125-26-420833.txt",
    "price_at_trade": 27.12,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 8.8
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "AII",
@@ -149,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007587/0001193125-26-420833.txt",
    "price_at_trade": 26.77,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 10.2
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "AII",
@@ -168,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2063843/0001193125-26-420833.txt",
    "price_at_trade": 26.77,
-   "price_now": 29.5,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": 10.2
+   "price_now": 29.44,
+   "price_now_date": "2026-11-03",
+   "total_return_pct": 10.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "CBZ",
  "company": {
   "name": "CBIZ, Inc.",
@@ -43,10 +43,10 @@
    "committee_overlap": [
     "House Committee on Small Business"
    ],
-   "price_at_trade": 32.08,
+   "price_at_trade": null,
    "price_now": 54.98,
    "price_now_date": "2026-10-30",
-   "total_return_pct": 71.4,
+   "total_return_pct": null,
    "days_to_disclose": 2,
    "late_filing": false
   },
@@ -73,10 +73,10 @@
    "company_name": "CBIZ, Inc.",
    "sector": "Retail & Consumer",
    "committee_overlap": [],
-   "price_at_trade": 28.28,
+   "price_at_trade": null,
    "price_now": 54.98,
    "price_now_date": "2026-10-30",
-   "total_return_pct": 94.4,
+   "total_return_pct": null,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -103,32 +103,15 @@
    "company_name": "CBIZ, Inc.",
    "sector": "Retail & Consumer",
    "committee_overlap": [],
-   "price_at_trade": 29.19,
+   "price_at_trade": null,
    "price_now": 54.98,
    "price_now_date": "2026-10-30",
-   "total_return_pct": 88.4,
+   "total_return_pct": null,
    "days_to_disclose": 34,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "committee_overlap": [],
-   "ticker": "CBZ",
-   "est_shares": 282.9,
-   "avg_price": 28.28,
-   "price_now": 54.98,
-   "est_position_value": 15554,
-   "total_return_pct": 94.4,
-   "total_return_usd": 7554,
-   "first_buy": "2026-04-06",
-   "last_trade": "2026-04-06"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],

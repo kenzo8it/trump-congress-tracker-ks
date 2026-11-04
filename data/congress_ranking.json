@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -15,9 +15,9 @@
    "chamber": "House",
    "state": "NY",
    "positions": 1,
-   "est_portfolio_value": 13747,
-   "total_return_pct": 71.8,
-   "total_return_usd": 5747
+   "est_portfolio_value": 13764,
+   "total_return_pct": 72.0,
+   "total_return_usd": 5764
   },
   {
    "bioguide": "C001055",
@@ -37,9 +37,9 @@
    "chamber": "House",
    "state": "LA",
    "positions": 68,
-   "est_portfolio_value": 788455,
-   "total_return_pct": 39.2,
-   "total_return_usd": 222017
+   "est_portfolio_value": 787723,
+   "total_return_pct": 39.1,
+   "total_return_usd": 221285
   },
   {
    "bioguide": "L000566",
@@ -48,9 +48,9 @@
    "chamber": "House",
    "state": "OH",
    "positions": 1,
-   "est_portfolio_value": 88540,
-   "total_return_pct": 37.3,
-   "total_return_usd": 24037
+   "est_portfolio_value": 87340,
+   "total_return_pct": 35.4,
+   "total_return_usd": 22837
   },
   {
    "bioguide": "W000798",
@@ -59,42 +59,9 @@
    "chamber": "House",
    "state": "MI",
    "positions": 12,
-   "est_portfolio_value": 404238,
-   "total_return_pct": 31.0,
-   "total_return_usd": 95565
-  },
-  {
-   "bioguide": "M001217",
-   "name": "Jared Moskowitz",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 28,
-   "est_portfolio_value": 814983,
-   "total_return_pct": 27.7,
-   "total_return_usd": 176608
-  },
-  {
-   "bioguide": "S001212",
-   "name": "Pete Stauber",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MN",
-   "positions": 1,
-   "est_portfolio_value": 40694,
-   "total_return_pct": 25.2,
-   "total_return_usd": 8193
-  },
-  {
-   "bioguide": "F000472",
-   "name": "Scott Franklin",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 6,
-   "est_portfolio_value": 284188,
-   "total_return_pct": 23.6,
-   "total_return_usd": 54182
+   "est_portfolio_value": 403932,
+   "total_return_pct": 30.9,
+   "total_return_usd": 95260
   },
   {
    "bioguide": "G000591",
@@ -103,9 +70,42 @@
    "chamber": "House",
    "state": "MS",
    "positions": 1,
-   "est_portfolio_value": 9712,
-   "total_return_pct": 21.4,
-   "total_return_usd": 1712
+   "est_portfolio_value": 10371,
+   "total_return_pct": 29.6,
+   "total_return_usd": 2370
+  },
+  {
+   "bioguide": "M001217",
+   "name": "Jared Moskowitz",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 28,
+   "est_portfolio_value": 818202,
+   "total_return_pct": 28.2,
+   "total_return_usd": 179828
+  },
+  {
+   "bioguide": "F000472",
+   "name": "Scott Franklin",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 6,
+   "est_portfolio_value": 283076,
+   "total_return_pct": 23.1,
+   "total_return_usd": 53069
+  },
+  {
+   "bioguide": "S001212",
+   "name": "Pete Stauber",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MN",
+   "positions": 1,
+   "est_portfolio_value": 38441,
+   "total_return_pct": 18.3,
+   "total_return_usd": 5940
   },
   {
    "bioguide": "M001136",
@@ -113,10 +113,10 @@
    "party": "Republican",
    "chamber": "House",
    "state": "MI",
-   "positions": 62,
-   "est_portfolio_value": 273616,
-   "total_return_pct": 18.0,
-   "total_return_usd": 41706
+   "positions": 60,
+   "est_portfolio_value": 273185,
+   "total_return_pct": 17.8,
+   "total_return_usd": 41352
   },
   {
    "bioguide": "D000032",
@@ -125,20 +125,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 14,
-   "est_portfolio_value": 259515,
-   "total_return_pct": 14.8,
-   "total_return_usd": 33381
-  },
-  {
-   "bioguide": "G000583",
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "positions": 37,
-   "est_portfolio_value": 1770228,
-   "total_return_pct": 13.2,
-   "total_return_usd": 206658
+   "est_portfolio_value": 260680,
+   "total_return_pct": 15.3,
+   "total_return_usd": 34546
   },
   {
    "bioguide": "E000296",
@@ -152,26 +141,26 @@
    "total_return_usd": 1059
   },
   {
+   "bioguide": "G000583",
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "positions": 36,
+   "est_portfolio_value": 1755390,
+   "total_return_pct": 12.8,
+   "total_return_usd": 199819
+  },
+  {
    "bioguide": "M001208",
    "name": "Lucy McBath",
    "party": "Democrat",
    "chamber": "House",
    "state": "GA",
    "positions": 20,
-   "est_portfolio_value": 131914,
-   "total_return_pct": 12.6,
-   "total_return_usd": 14764
-  },
-  {
-   "bioguide": "P000048",
-   "name": "August Pfluger",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "TX",
-   "positions": 5,
-   "est_portfolio_value": 182640,
-   "total_return_pct": 12.4,
-   "total_return_usd": 20138
+   "est_portfolio_value": 131824,
+   "total_return_pct": 12.5,
+   "total_return_usd": 14675
   },
   {
    "bioguide": "D000399",
@@ -185,15 +174,26 @@
    "total_return_usd": 21117
   },
   {
+   "bioguide": "P000048",
+   "name": "August Pfluger",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "TX",
+   "positions": 5,
+   "est_portfolio_value": 181267,
+   "total_return_pct": 11.5,
+   "total_return_usd": 18766
+  },
+  {
    "bioguide": "C001123",
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
    "state": "CA",
-   "positions": 265,
-   "est_portfolio_value": 5595826,
-   "total_return_pct": 9.3,
-   "total_return_usd": 477701
+   "positions": 264,
+   "est_portfolio_value": 5603020,
+   "total_return_pct": 9.5,
+   "total_return_usd": 485117
   },
   {
    "bioguide": "W000816",
@@ -202,20 +202,9 @@
    "chamber": "House",
    "state": "TX",
    "positions": 2,
-   "est_portfolio_value": 17428,
-   "total_return_pct": 8.9,
-   "total_return_usd": 1428
-  },
-  {
-   "bioguide": "F000485",
-   "name": "Clay Fuller",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "GA",
-   "positions": 22,
-   "est_portfolio_value": 314911,
-   "total_return_pct": 8.8,
-   "total_return_usd": 25398
+   "est_portfolio_value": 17473,
+   "total_return_pct": 9.2,
+   "total_return_usd": 1473
   },
   {
    "bioguide": "H001082",
@@ -229,15 +218,26 @@
    "total_return_usd": 698
   },
   {
+   "bioguide": "F000485",
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "GA",
+   "positions": 22,
+   "est_portfolio_value": 314306,
+   "total_return_pct": 8.6,
+   "total_return_usd": 24793
+  },
+  {
    "bioguide": "T000490",
    "name": "David J. Taylor",
    "party": "Republican",
    "chamber": "House",
    "state": "OH",
    "positions": 23,
-   "est_portfolio_value": 692286,
-   "total_return_pct": 8.4,
-   "total_return_usd": 53881
+   "est_portfolio_value": 691192,
+   "total_return_pct": 8.3,
+   "total_return_usd": 52786
   },
   {
    "bioguide": "K000398",
@@ -246,9 +246,9 @@
    "chamber": "House",
    "state": "NJ",
    "positions": 12,
-   "est_portfolio_value": 183583,
-   "total_return_pct": 8.3,
-   "total_return_usd": 14113
+   "est_portfolio_value": 183038,
+   "total_return_pct": 8.0,
+   "total_return_usd": 13569
   },
   {
    "bioguide": "L000560",
@@ -257,9 +257,9 @@
    "chamber": "House",
    "state": "WA",
    "positions": 13,
-   "est_portfolio_value": 111285,
-   "total_return_pct": 7.0,
-   "total_return_usd": 7279
+   "est_portfolio_value": 111161,
+   "total_return_pct": 6.9,
+   "total_return_usd": 7158
   },
   {
    "bioguide": "B001325",
@@ -268,9 +268,9 @@
    "chamber": "House",
    "state": "SC",
    "positions": 1,
-   "est_portfolio_value": 183066,
-   "total_return_pct": 4.6,
-   "total_return_usd": 8066
+   "est_portfolio_value": 186022,
+   "total_return_pct": 6.3,
+   "total_return_usd": 11022
   },
   {
    "bioguide": "J000309",
@@ -279,9 +279,9 @@
    "chamber": "House",
    "state": "IL",
    "positions": 15,
-   "est_portfolio_value": 538051,
-   "total_return_pct": 4.4,
-   "total_return_usd": 22436
+   "est_portfolio_value": 539671,
+   "total_return_pct": 4.7,
+   "total_return_usd": 24056
   },
   {
    "bioguide": "S000168",
@@ -290,9 +290,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 36,
-   "est_portfolio_value": 983412,
-   "total_return_pct": 3.4,
-   "total_return_usd": 31963
+   "est_portfolio_value": 982419,
+   "total_return_pct": 3.3,
+   "total_return_usd": 30969
   },
   {
    "bioguide": "N000189",
@@ -301,20 +301,9 @@
    "chamber": "House",
    "state": "WA",
    "positions": 22,
-   "est_portfolio_value": 174140,
-   "total_return_pct": 1.6,
-   "total_return_usd": 2802
-  },
-  {
-   "bioguide": "F000110",
-   "name": "Cleo Fields",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "LA",
-   "positions": 20,
-   "est_portfolio_value": 5132985,
-   "total_return_pct": -0.2,
-   "total_return_usd": -8555
+   "est_portfolio_value": 173460,
+   "total_return_pct": 1.2,
+   "total_return_usd": 2119
   },
   {
    "bioguide": "A000372",
@@ -323,64 +312,9 @@
    "chamber": "House",
    "state": "GA",
    "positions": 6,
-   "est_portfolio_value": 96004,
-   "total_return_pct": -0.5,
-   "total_return_usd": -500
-  },
-  {
-   "bioguide": "M001232",
-   "name": "April McClain Delaney",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "MD",
-   "positions": 3,
-   "est_portfolio_value": 73006,
-   "total_return_pct": -5.7,
-   "total_return_usd": -4445
-  },
-  {
-   "bioguide": "R000619",
-   "name": "Michael A. Rulli",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "OH",
-   "positions": 9,
-   "est_portfolio_value": 68503,
-   "total_return_pct": -5.9,
-   "total_return_usd": -4272
-  },
-  {
-   "bioguide": "F000450",
-   "name": "Virginia Foxx",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "NC",
-   "positions": 1,
-   "est_portfolio_value": 7500,
-   "total_return_pct": -6.2,
-   "total_return_usd": -500
-  },
-  {
-   "bioguide": "C001068",
-   "name": "Steve Cohen",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "TN",
-   "positions": 2,
-   "est_portfolio_value": 14920,
-   "total_return_pct": -6.8,
-   "total_return_usd": -1081
-  },
-  {
-   "bioguide": "D000624",
-   "name": "Debbie Dingell",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "MI",
-   "positions": 1,
-   "est_portfolio_value": 7378,
-   "total_return_pct": -7.8,
-   "total_return_usd": -622
+   "est_portfolio_value": 95956,
+   "total_return_pct": -0.6,
+   "total_return_usd": -547
   },
   {
    "bioguide": "P000197",
@@ -389,9 +323,75 @@
    "chamber": "House",
    "state": "CA",
    "positions": 7,
-   "est_portfolio_value": 13472757,
-   "total_return_pct": -8.8,
-   "total_return_usd": -1302250
+   "est_portfolio_value": 14235096,
+   "total_return_pct": -3.7,
+   "total_return_usd": -539912
+  },
+  {
+   "bioguide": "M001232",
+   "name": "April McClain Delaney",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "MD",
+   "positions": 3,
+   "est_portfolio_value": 73687,
+   "total_return_pct": -4.9,
+   "total_return_usd": -3762
+  },
+  {
+   "bioguide": "R000619",
+   "name": "Michael A. Rulli",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 9,
+   "est_portfolio_value": 69119,
+   "total_return_pct": -5.0,
+   "total_return_usd": -3657
+  },
+  {
+   "bioguide": "C001068",
+   "name": "Steve Cohen",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TN",
+   "positions": 2,
+   "est_portfolio_value": 14873,
+   "total_return_pct": -7.0,
+   "total_return_usd": -1127
+  },
+  {
+   "bioguide": "S001214",
+   "name": "W. Gregory Steube",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 1,
+   "est_portfolio_value": 7410,
+   "total_return_pct": -7.4,
+   "total_return_usd": -591
+  },
+  {
+   "bioguide": "D000624",
+   "name": "Debbie Dingell",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "MI",
+   "positions": 1,
+   "est_portfolio_value": 7374,
+   "total_return_pct": -7.8,
+   "total_return_usd": -627
+  },
+  {
+   "bioguide": "F000450",
+   "name": "Virginia Foxx",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "NC",
+   "positions": 1,
+   "est_portfolio_value": 7370,
+   "total_return_pct": -7.9,
+   "total_return_usd": -630
   },
   {
    "bioguide": "M001236",
@@ -400,9 +400,20 @@
    "chamber": "House",
    "state": "NC",
    "positions": 11,
-   "est_portfolio_value": 302910,
-   "total_return_pct": -9.2,
-   "total_return_usd": -30731
+   "est_portfolio_value": 303604,
+   "total_return_pct": -9.0,
+   "total_return_usd": -30039
+  },
+  {
+   "bioguide": "J000310",
+   "name": "Julie Johnson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TX",
+   "positions": 9,
+   "est_portfolio_value": 30104,
+   "total_return_pct": -10.4,
+   "total_return_usd": -3491
   },
   {
    "bioguide": "M001239",
@@ -414,28 +425,6 @@
    "est_portfolio_value": 72350,
    "total_return_pct": -10.8,
    "total_return_usd": -8792
-  },
-  {
-   "bioguide": "J000310",
-   "name": "Julie Johnson",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "TX",
-   "positions": 9,
-   "est_portfolio_value": 29334,
-   "total_return_pct": -12.7,
-   "total_return_usd": -4261
-  },
-  {
-   "bioguide": "S001214",
-   "name": "W. Gregory Steube",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 1,
-   "est_portfolio_value": 6960,
-   "total_return_pct": -13.0,
-   "total_return_usd": -1040
   },
   {
    "bioguide": "J000307",
@@ -455,9 +444,9 @@
    "chamber": "House",
    "state": "OR",
    "positions": 3,
-   "est_portfolio_value": 7426,
-   "total_return_pct": -17.1,
-   "total_return_usd": -1530
+   "est_portfolio_value": 7260,
+   "total_return_pct": -19.0,
+   "total_return_usd": -1698
   },
   {
    "bioguide": "L000597",
@@ -466,9 +455,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 1,
-   "est_portfolio_value": 25763,
-   "total_return_pct": -20.7,
-   "total_return_usd": -6738
+   "est_portfolio_value": 25427,
+   "total_return_pct": -21.8,
+   "total_return_usd": -7073
   },
   {
    "bioguide": "T000480",
@@ -499,9 +488,20 @@
    "chamber": "House",
    "state": "TX",
    "positions": 1,
-   "est_portfolio_value": 22453,
-   "total_return_pct": -30.9,
-   "total_return_usd": -10048
+   "est_portfolio_value": 22815,
+   "total_return_pct": -29.8,
+   "total_return_usd": -9685
+  },
+  {
+   "bioguide": "F000110",
+   "name": "Cleo Fields",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "LA",
+   "positions": 20,
+   "est_portfolio_value": 5141798,
+   "total_return_pct": 0.0,
+   "total_return_usd": 257
   }
  ]
 }

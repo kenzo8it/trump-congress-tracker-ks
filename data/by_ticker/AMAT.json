@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:43+00:00",
+ "updated": "2026-11-04T02:32+00:00",
  "ticker": "AMAT",
  "company": {
   "name": "APPLIED MATERIALS INC /DE",
@@ -307,46 +307,7 @@
    "last_trade": "2026-07-15"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "AMAT",
-   "company_name": "APPLIED MATERIALS INC /DE",
-   "owner_name": "Sanders Adam",
-   "owner_title": "Corp. Controller & CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-05",
-   "shares": 725.0,
-   "price": 544.562,
-   "value": 394807.45,
-   "shares_after": 3181.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2014019/0001628280-26-065097.txt",
-   "price_at_trade": 540.04,
-   "price_now": 374.53,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -30.6
-  },
-  {
-   "ticker": "AMAT",
-   "company_name": "APPLIED MATERIALS INC /DE",
-   "owner_name": "Sanders Adam",
-   "owner_title": "Corp. Controller & CAO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-02",
-   "reported_date": "2026-10-05",
-   "shares": 725.0,
-   "price": 544.562,
-   "value": 394807.45,
-   "shares_after": 3181.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/6951/0001628280-26-065097.txt",
-   "price_at_trade": 540.04,
-   "price_now": 374.53,
-   "price_now_date": "2026-11-02",
-   "total_return_pct": -30.6
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []
