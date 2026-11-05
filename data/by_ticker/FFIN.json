@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "FFIN",
  "company": {
   "name": "FIRST FINANCIAL BANKSHARES INC",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 31.04,
- "price_date": "2026-11-03",
+ "price_now": 31.42,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Edwards Murray Hamilton",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 300.0,
+   "price": 30.56,
+   "value": 9168.0,
+   "shares_after": 44934.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1356117/0001193125-26-444528.txt",
+   "price_at_trade": 30.59,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  },
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Edwards Murray Hamilton",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 500.0,
+   "price": 30.51,
+   "value": 15255.0,
+   "shares_after": 45434.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1356117/0001193125-26-444528.txt",
+   "price_at_trade": 30.59,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  },
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Edwards Murray Hamilton",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 300.0,
+   "price": 30.56,
+   "value": 9168.0,
+   "shares_after": 44934.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36029/0001193125-26-444528.txt",
+   "price_at_trade": 30.59,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  },
+  {
+   "ticker": "FFIN",
+   "company_name": "FIRST FINANCIAL BANKSHARES INC",
+   "owner_name": "Edwards Murray Hamilton",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 500.0,
+   "price": 30.51,
+   "value": 15255.0,
+   "shares_after": 45434.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36029/0001193125-26-444528.txt",
+   "price_at_trade": 30.59,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  },
   {
    "ticker": "FFIN",
    "company_name": "FIRST FINANCIAL BANKSHARES INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774246/0001193125-26-441381.txt",
    "price_at_trade": 30.75,
-   "price_now": 31.04,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.9
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "FFIN",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/36029/0001193125-26-441381.txt",
    "price_at_trade": 30.75,
-   "price_now": 31.04,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.9
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "FFIN",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774337/0001193125-26-433039.txt",
    "price_at_trade": 30.17,
-   "price_now": 31.04,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.9
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "FFIN",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/36029/0001193125-26-433039.txt",
    "price_at_trade": 30.17,
-   "price_now": 31.04,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.9
+   "price_now": 31.42,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "SCHW",
  "company": {
   "name": "SCHWAB CHARLES CORP",
@@ -8,8 +8,8 @@
   "industry": "Security Brokers, Dealers & Flotation Companies",
   "sector": "Financials"
  },
- "price_now": 89.28,
- "price_date": "2026-11-03",
+ "price_now": 93.37,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 91.76,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -2.7,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.8,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 99.19,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -10.0,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -5.9,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 96.28,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -7.3,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -3.0,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 96.1,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -7.1,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -2.8,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 94.87,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.9,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -1.6,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -192,9 +192,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 94.16,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.2,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.8,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -222,9 +222,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 92.72,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -3.7,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 0.7,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -252,9 +252,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 77.27,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 15.5,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 20.8,
    "days_to_disclose": 200,
    "late_filing": true
   }
@@ -269,10 +269,10 @@
    "ticker": "SCHW",
    "est_shares": 83.3,
    "avg_price": 96.1,
-   "price_now": 89.28,
-   "est_position_value": 7433,
-   "total_return_pct": -7.1,
-   "total_return_usd": -568,
+   "price_now": 93.37,
+   "est_position_value": 7773,
+   "total_return_pct": -2.8,
+   "total_return_usd": -227,
    "first_buy": "2025-12-11",
    "last_trade": "2025-12-11"
   }
@@ -281,6 +281,44 @@
   {
    "ticker": "SCHW",
    "company_name": "SCHWAB CHARLES CORP",
+   "owner_name": "Hathi Neesha",
+   "owner_title": "MD, Head Wealth Adv, Bnk, Tst",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 5000.0,
+   "price": 88.9236,
+   "value": 444618.0,
+   "shares_after": 5770.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1879974/0001879974-26-000017.txt",
+   "price_at_trade": 88.71,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.3
+  },
+  {
+   "ticker": "SCHW",
+   "company_name": "SCHWAB CHARLES CORP",
+   "owner_name": "Hathi Neesha",
+   "owner_title": "MD, Head Wealth Adv, Bnk, Tst",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 5000.0,
+   "price": 88.9236,
+   "value": 444618.0,
+   "shares_after": 5770.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/316709/0001879974-26-000017.txt",
+   "price_at_trade": 88.71,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.3
+  },
+  {
+   "ticker": "SCHW",
+   "company_name": "SCHWAB CHARLES CORP",
    "owner_name": "Schwab Charles R.",
    "owner_title": "Director, Co-Chairman",
    "trade_type": "SELL",
@@ -293,9 +331,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/316709/0000923738-26-000048.txt",
    "price_at_trade": 89.47,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -0.2
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "SCHW",
@@ -312,9 +350,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/923738/0000923738-26-000048.txt",
    "price_at_trade": 89.47,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -0.2
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "SCHW",
@@ -331,9 +369,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/316709/0000923738-26-000048.txt",
    "price_at_trade": 88.76,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.6
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "SCHW",
@@ -350,9 +388,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/923738/0000923738-26-000048.txt",
    "price_at_trade": 88.76,
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.6
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.2
   }
  ],
  "trump_trades": [],
@@ -364,9 +402,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 89.28,
-   "price_now_date": "2026-11-03",
-   "return_since_involvement_pct": -12.9,
+   "price_now": 93.37,
+   "price_now_date": "2026-11-04",
+   "return_since_involvement_pct": -8.9,
    "price_at_involvement": 102.45
   }
  ],

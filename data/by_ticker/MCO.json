@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "MCO",
  "company": {
   "name": "MOODYS CORP /DE/",
@@ -8,8 +8,8 @@
   "industry": "Services-Consumer Credit Reporting, Collection Agencies",
   "sector": "Retail & Consumer"
  },
- "price_now": 503.69,
- "price_date": "2026-11-03",
+ "price_now": 528.34,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 472.68,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 6.6,
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 11.8,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -57,6 +57,82 @@
    "owner_name": "West Michael L",
    "owner_title": "CEO - Moody's Ratings",
    "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 185.0,
+   "price": 506.885,
+   "value": 93773.72,
+   "shares_after": 8373.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000014.txt",
+   "price_at_trade": 506.02,
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "Phillips Jason D",
+   "owner_title": "Chief Acctg Off & Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 195.0,
+   "price": 509.232,
+   "value": 99300.24,
+   "shares_after": 1893.9385,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0002062050-26-000011.txt",
+   "price_at_trade": 506.02,
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "West Michael L",
+   "owner_title": "CEO - Moody's Ratings",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 185.0,
+   "price": 506.885,
+   "value": 93773.72,
+   "shares_after": 8373.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000014.txt",
+   "price_at_trade": 506.02,
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "Phillips Jason D",
+   "owner_title": "Chief Acctg Off & Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 195.0,
+   "price": 509.232,
+   "value": 99300.24,
+   "shares_after": 1893.9385,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2062050/0002062050-26-000011.txt",
+   "price_at_trade": 506.02,
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "West Michael L",
+   "owner_title": "CEO - Moody's Ratings",
+   "trade_type": "SELL",
    "traded_date": "2026-10-29",
    "reported_date": "2026-10-30",
    "shares": 200.0,
@@ -66,9 +142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "MCO",
@@ -85,9 +161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "MCO",
@@ -104,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "MCO",
@@ -123,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "MCO",
@@ -142,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "MCO",
@@ -161,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 503.69,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.0
+   "price_now": 528.34,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
   }
  ],
  "trump_trades": [],

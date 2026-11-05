@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "RDWR",
  "company": {
   "name": "RADWARE LTD",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 33.6,
- "price_date": "2026-11-03",
+ "price_now": 33.0,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RDWR",
+   "company_name": "RADWARE LTD",
+   "owner_name": "Malka Gabriel",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 16461.0,
+   "price": 34.23,
+   "value": 563460.03,
+   "shares_after": 42461.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000928.txt",
+   "price_at_trade": 32.64,
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "RDWR",
+   "company_name": "RADWARE LTD",
+   "owner_name": "Malka Gabriel",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 16461.0,
+   "price": 34.23,
+   "value": 563460.03,
+   "shares_after": 42461.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2057319/0001976408-26-000928.txt",
+   "price_at_trade": 32.64,
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "RDWR",
    "company_name": "RADWARE LTD",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000924.txt",
    "price_at_trade": 34.58,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -2.8
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "RDWR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2029762/0001976408-26-000924.txt",
    "price_at_trade": 34.58,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -2.8
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "RDWR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000919.txt",
    "price_at_trade": 37.16,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -9.6
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "RDWR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000920.txt",
    "price_at_trade": 37.16,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -9.6
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "RDWR",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2045516/0001976408-26-000920.txt",
    "price_at_trade": 37.16,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -9.6
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "RDWR",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2077793/0001976408-26-000919.txt",
    "price_at_trade": 37.16,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -9.6
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "RDWR",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000920.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000920.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2045516/0001976408-26-000920.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2045516/0001976408-26-000920.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000911.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000911.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2077793/0001976408-26-000911.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2077793/0001976408-26-000911.txt",
    "price_at_trade": 35.5,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.4
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RDWR",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094366/0001976408-26-000911.txt",
    "price_at_trade": 32.3,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.0
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "RDWR",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2077793/0001976408-26-000911.txt",
    "price_at_trade": 32.3,
-   "price_now": 33.6,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.0
+   "price_now": 33.0,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

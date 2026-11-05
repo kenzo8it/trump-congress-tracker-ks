@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "RTX",
  "company": {
   "name": "RTX Corp",
@@ -8,8 +8,8 @@
   "industry": "Aircraft Engines & Engine Parts",
   "sector": "Defense & Aerospace"
  },
- "price_now": 203.82,
- "price_date": "2026-11-03",
+ "price_now": 198.43,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Armed Services"
    ],
    "price_at_trade": 186.48,
-   "price_now": 203.82,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 9.3,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.4,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 183.69,
-   "price_now": 203.82,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 11.0,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.0,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -107,9 +107,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 176.38,
-   "price_now": 203.82,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 15.6,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -140,9 +140,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 171.42,
-   "price_now": 203.82,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 18.9,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 15.8,
    "days_to_disclose": 28,
    "late_filing": false
   }
@@ -159,10 +159,10 @@
    "ticker": "RTX",
    "est_shares": 42.9,
    "avg_price": 186.48,
-   "price_now": 203.82,
-   "est_position_value": 8744,
-   "total_return_pct": 9.3,
-   "total_return_usd": 744,
+   "price_now": 198.43,
+   "est_position_value": 8513,
+   "total_return_pct": 6.4,
+   "total_return_usd": 513,
    "first_buy": "2026-01-09",
    "last_trade": "2026-01-09"
   },
@@ -175,15 +175,54 @@
    "ticker": "RTX",
    "est_shares": 43.6,
    "avg_price": 183.69,
-   "price_now": 203.82,
-   "est_position_value": 8877,
-   "total_return_pct": 11.0,
-   "total_return_usd": 877,
+   "price_now": 198.43,
+   "est_position_value": 8642,
+   "total_return_pct": 8.0,
+   "total_return_usd": 642,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "RTX",
+   "company_name": "RTX Corp",
+   "owner_name": "Williams Dantaya M",
+   "owner_title": "EVP & Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 9071.0,
+   "price": 201.6951,
+   "value": 1829576.25,
+   "shares_after": 16930.4601,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101829/0001225208-26-008630.txt",
+   "price_at_trade": 199.8,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.7
+  },
+  {
+   "ticker": "RTX",
+   "company_name": "RTX Corp",
+   "owner_name": "Williams Dantaya M",
+   "owner_title": "EVP & Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 9071.0,
+   "price": 201.6951,
+   "value": 1829576.25,
+   "shares_after": 16930.4601,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1815109/0001225208-26-008630.txt",
+   "price_at_trade": 199.8,
+   "price_now": 198.43,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.7
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

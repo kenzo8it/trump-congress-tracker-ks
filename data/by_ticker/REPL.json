@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-05T02:41+00:00",
+ "ticker": "REPL",
+ "company": {
+  "name": "Replimune Group, Inc.",
+  "cik": 1737953,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 20.69,
+ "price_date": "2026-11-04",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "REPL",
+   "company_name": "Replimune Group, Inc.",
+   "owner_name": "Dhingra Kapil",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 21500.0,
+   "price": 19.0,
+   "value": 408500.0,
+   "shares_after": 21669.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1456849/0001104659-26-122287.txt",
+   "price_at_trade": 19.49,
+   "price_now": 20.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.2
+  },
+  {
+   "ticker": "REPL",
+   "company_name": "Replimune Group, Inc.",
+   "owner_name": "Dhingra Kapil",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 21500.0,
+   "price": 19.0,
+   "value": 408500.0,
+   "shares_after": 21669.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1737953/0001104659-26-122287.txt",
+   "price_at_trade": 19.49,
+   "price_now": 20.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

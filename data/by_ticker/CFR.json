@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "CFR",
  "company": {
   "name": "CULLEN/FROST BANKERS, INC.",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 159.14,
- "price_date": "2026-11-03",
+ "price_now": 159.69,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CFR",
+   "company_name": "CULLEN/FROST BANKERS, INC.",
+   "owner_name": "Henson Matthew Bradley",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 534.0,
+   "price": 159.72,
+   "value": 85290.48,
+   "shares_after": 317.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2050987/0002050987-26-000006.txt",
+   "price_at_trade": 160.3,
+   "price_now": 159.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "CFR",
+   "company_name": "CULLEN/FROST BANKERS, INC.",
+   "owner_name": "Henson Matthew Bradley",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 534.0,
+   "price": 159.72,
+   "value": 85290.48,
+   "shares_after": 317.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39263/0002050987-26-000006.txt",
+   "price_at_trade": 160.3,
+   "price_now": 159.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.4
+  },
   {
    "ticker": "CFR",
    "company_name": "CULLEN/FROST BANKERS, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388767/0001388767-26-000010.txt",
    "price_at_trade": 157.6,
-   "price_now": 159.14,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 1.0
+   "price_now": 159.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "CFR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/39263/0001388767-26-000010.txt",
    "price_at_trade": 157.6,
-   "price_now": 159.14,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 1.0
+   "price_now": 159.69,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.3
   }
  ],
  "trump_trades": [],

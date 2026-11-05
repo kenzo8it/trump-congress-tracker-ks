@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "KWY",
  "company": {
   "name": "KINGSWAY Corp",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 9.83,
- "price_date": "2026-11-03",
+ "price_now": 10.01,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KWY",
+   "company_name": "KINGSWAY Corp",
+   "owner_name": "Fitzgerald John Taylor Maloney",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 260.0,
+   "price": 9.61,
+   "value": 2498.6,
+   "shares_after": 1428047.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1072627/0001072627-26-000059.txt",
+   "price_at_trade": 9.83,
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "KWY",
+   "company_name": "KINGSWAY Corp",
+   "owner_name": "Hansen Kent A",
+   "owner_title": "CFO & EVP",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 163.0,
+   "price": 9.61,
+   "value": 1566.43,
+   "shares_after": 136995.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1072627/0001072627-26-000060.txt",
+   "price_at_trade": 9.83,
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "KWY",
+   "company_name": "KINGSWAY Corp",
+   "owner_name": "Fitzgerald John Taylor Maloney",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 260.0,
+   "price": 9.61,
+   "value": 2498.6,
+   "shares_after": 1428047.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1584349/0001072627-26-000059.txt",
+   "price_at_trade": 9.83,
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "KWY",
+   "company_name": "KINGSWAY Corp",
+   "owner_name": "Hansen Kent A",
+   "owner_title": "CFO & EVP",
+   "trade_type": "BUY",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 163.0,
+   "price": 9.61,
+   "value": 1566.43,
+   "shares_after": 136995.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1686017/0001072627-26-000060.txt",
+   "price_at_trade": 9.83,
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.8
+  },
   {
    "ticker": "KWY",
    "company_name": "KINGSWAY Corp",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1072627/0001072627-26-000057.txt",
    "price_at_trade": 9.59,
-   "price_now": 9.83,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.5
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "KWY",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1686017/0001072627-26-000057.txt",
    "price_at_trade": 9.59,
-   "price_now": 9.83,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.5
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "KWY",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1072627/0001072627-26-000058.txt",
    "price_at_trade": 9.71,
-   "price_now": 9.83,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 1.2
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.1
   },
   {
    "ticker": "KWY",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1584349/0001072627-26-000058.txt",
    "price_at_trade": 9.71,
-   "price_now": 9.83,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 1.2
+   "price_now": 10.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "ROKU",
  "company": {
   "name": "ROKU, INC",
@@ -8,8 +8,8 @@
   "industry": "Cable & Other Pay Television Services",
   "sector": "Telecom"
  },
- "price_now": 160.36,
- "price_date": "2026-11-03",
+ "price_now": 162.77,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,158 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 1594.0,
+   "price": 155.85,
+   "value": 248424.9,
+   "shares_after": 10035.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393571/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 171.0,
+   "price": 157.02,
+   "value": 26850.42,
+   "shares_after": 9864.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393571/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 235.0,
+   "price": 157.75,
+   "value": 37071.25,
+   "shares_after": 9629.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393571/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 1594.0,
+   "price": 155.85,
+   "value": 248424.9,
+   "shares_after": 10035.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 171.0,
+   "price": 157.02,
+   "value": 26850.42,
+   "shares_after": 9864.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "HUNT NEIL D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 235.0,
+   "price": 157.75,
+   "value": 37071.25,
+   "shares_after": 9629.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001393571-26-000024.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "Banks Matthew C.",
+   "owner_title": "VP, CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 552.0,
+   "price": 157.44,
+   "value": 86906.88,
+   "shares_after": 7016.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001959033-26-000023.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "ROKU",
+   "company_name": "ROKU, INC",
+   "owner_name": "Banks Matthew C.",
+   "owner_title": "VP, CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 552.0,
+   "price": 157.44,
+   "value": 86906.88,
+   "shares_after": 7016.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1959033/0001959033-26-000023.txt",
+   "price_at_trade": 155.52,
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 4.7
+  },
   {
    "ticker": "ROKU",
    "company_name": "ROKU, INC",
@@ -35,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001834902-26-000026.txt",
    "price_at_trade": 154.67,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.7
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "ROKU",
@@ -54,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834902/0001834902-26-000026.txt",
    "price_at_trade": 154.67,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 3.7
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "ROKU",
@@ -73,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -92,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -111,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -130,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428439/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -149,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1951665/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -168,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1951665/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -187,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1951665/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "ROKU",
@@ -206,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1951665/0001951665-26-000028.txt",
    "price_at_trade": 153.41,
-   "price_now": 160.36,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 4.5
+   "price_now": 162.77,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.1
   }
  ],
  "trump_trades": [],

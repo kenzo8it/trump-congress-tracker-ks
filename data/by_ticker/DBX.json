@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "DBX",
  "company": {
   "name": "DROPBOX, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 34.96,
- "price_date": "2026-11-03",
+ "price_now": 36.1,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 27.38,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 27.7,
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 31.8,
    "days_to_disclose": 266,
    "late_filing": true
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 25.79,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 35.6,
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 40.0,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -89,15 +89,53 @@
    "ticker": "DBX",
    "est_shares": 18.0,
    "avg_price": 25.79,
-   "price_now": 34.96,
-   "est_position_value": 630,
-   "total_return_pct": 35.6,
-   "total_return_usd": 165,
+   "price_now": 36.1,
+   "est_position_value": 650,
+   "total_return_pct": 40.0,
+   "total_return_usd": 186,
    "first_buy": "2024-10-23",
    "last_trade": "2025-04-22"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "DBX",
+   "company_name": "DROPBOX, INC.",
+   "owner_name": "Schubach Sarah Elizabeth",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 2055.0,
+   "price": 36.44,
+   "value": 74884.2,
+   "shares_after": 128766.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0002075704-26-000041.txt",
+   "price_at_trade": 36.25,
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "DBX",
+   "company_name": "DROPBOX, INC.",
+   "owner_name": "Schubach Sarah Elizabeth",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 2055.0,
+   "price": 36.44,
+   "value": 74884.2,
+   "shares_after": 128766.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2075704/0002075704-26-000041.txt",
+   "price_at_trade": 36.25,
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.4
+  },
   {
    "ticker": "DBX",
    "company_name": "DROPBOX, INC.",
@@ -113,9 +151,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0002075704-26-000040.txt",
    "price_at_trade": 36.54,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -4.3
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "DBX",
@@ -132,9 +170,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2075704/0002075704-26-000040.txt",
    "price_at_trade": 36.54,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -4.3
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "DBX",
@@ -151,9 +189,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0001734563-26-000023.txt",
    "price_at_trade": 34.87,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.3
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.5
   },
   {
    "ticker": "DBX",
@@ -170,9 +208,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1734563/0001734563-26-000023.txt",
    "price_at_trade": 34.87,
-   "price_now": 34.96,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 0.3
+   "price_now": 36.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.5
   }
  ],
  "trump_trades": [],

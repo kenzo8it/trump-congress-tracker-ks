@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -113,10 +113,10 @@
    "ticker": "NWL",
    "est_shares": 6827.8,
    "avg_price": 4.76,
-   "price_now": 5.63,
-   "est_position_value": 38441,
-   "total_return_pct": 18.3,
-   "total_return_usd": 5940,
+   "price_now": 5.86,
+   "est_position_value": 40011,
+   "total_return_pct": 23.1,
+   "total_return_usd": 7511,
    "first_buy": "2025-10-27",
    "last_trade": "2025-10-27"
   }
@@ -146,9 +146,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 4.76,
-   "price_now": 5.63,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 18.2,
+   "price_now": 5.86,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 23.0,
    "days_to_disclose": 25,
    "late_filing": false
   }

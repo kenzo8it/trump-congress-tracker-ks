@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "WRLD",
  "company": {
   "name": "WORLD ACCEPTANCE CORP",
@@ -8,8 +8,8 @@
   "industry": "Personal Credit Institutions",
   "sector": "Financials"
  },
- "price_now": 165.66,
- "price_date": "2026-11-03",
+ "price_now": 161.1,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "WRLD",
    "company_name": "WORLD ACCEPTANCE CORP",
+   "owner_name": "Robinson Benjamin E III",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 90.0,
+   "price": 165.32,
+   "value": 14878.8,
+   "shares_after": 4656.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/108385/0001674621-26-000010.txt",
+   "price_at_trade": 165.43,
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -2.6
+  },
+  {
+   "ticker": "WRLD",
+   "company_name": "WORLD ACCEPTANCE CORP",
+   "owner_name": "Robinson Benjamin E III",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 90.0,
+   "price": 165.32,
+   "value": 14878.8,
+   "shares_after": 4656.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1674621/0001674621-26-000010.txt",
+   "price_at_trade": 165.43,
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -2.6
+  },
+  {
+   "ticker": "WRLD",
+   "company_name": "WORLD ACCEPTANCE CORP",
    "owner_name": "BRAMLETT KEN R JR",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/108385/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/108385/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/108385/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1255007/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1255007/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1255007/0001255007-26-000002.txt",
    "price_at_trade": 175.92,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.8
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "WRLD",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/108385/0001104659-26-120643.txt",
    "price_at_trade": 174.14,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -4.9
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "WRLD",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1538653/0001104659-26-120643.txt",
    "price_at_trade": 174.14,
-   "price_now": 165.66,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -4.9
+   "price_now": 161.1,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -7.5
   }
  ],
  "trump_trades": [],

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-05T02:41+00:00",
+ "ticker": "INDI",
+ "company": {
+  "name": "indie Semiconductor, Inc.",
+  "cik": 1841925,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 1.59,
+ "price_date": "2026-11-04",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "INDI",
+   "company_name": "indie Semiconductor, Inc.",
+   "owner_name": "Wu Naixi",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 6250.0,
+   "price": 1.5902,
+   "value": 9938.75,
+   "shares_after": 163183.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1841925/0001193125-26-445891.txt",
+   "price_at_trade": 1.5,
+   "price_now": 1.59,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.6
+  },
+  {
+   "ticker": "INDI",
+   "company_name": "indie Semiconductor, Inc.",
+   "owner_name": "Wu Naixi",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 6250.0,
+   "price": 1.5902,
+   "value": 9938.75,
+   "shares_after": 163183.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-445891.txt",
+   "price_at_trade": 1.5,
+   "price_now": 1.59,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

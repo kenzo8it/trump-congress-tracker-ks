@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "OCFC",
  "company": {
   "name": "OCEANFIRST FINANCIAL CORP",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 18.34,
- "price_date": "2026-11-03",
+ "price_now": 19.01,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OCFC",
+   "company_name": "OCEANFIRST FINANCIAL CORP",
+   "owner_name": "Farris Jack M.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-03",
+   "shares": 542.0,
+   "price": 18.465,
+   "value": 10008.03,
+   "shares_after": 22948.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1004702/0001636468-26-000004.txt",
+   "price_at_trade": 18.34,
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.7
+  },
+  {
+   "ticker": "OCFC",
+   "company_name": "OCEANFIRST FINANCIAL CORP",
+   "owner_name": "Farris Jack M.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-03",
+   "shares": 542.0,
+   "price": 18.465,
+   "value": 10008.03,
+   "shares_after": 22948.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1636468/0001636468-26-000004.txt",
+   "price_at_trade": 18.34,
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 3.7
+  },
   {
    "ticker": "OCFC",
    "company_name": "OCEANFIRST FINANCIAL CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1004702/0001408329-26-000004.txt",
    "price_at_trade": 17.94,
-   "price_now": 18.34,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.2
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "OCFC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1408329/0001408329-26-000004.txt",
    "price_at_trade": 17.94,
-   "price_now": 18.34,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.2
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "OCFC",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1004702/0001591893-26-000006.txt",
    "price_at_trade": 17.94,
-   "price_now": 18.34,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.2
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "OCFC",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1591893/0001591893-26-000006.txt",
    "price_at_trade": 17.94,
-   "price_now": 18.34,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 2.2
+   "price_now": 19.01,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 6.0
   }
  ],
  "trump_trades": [],

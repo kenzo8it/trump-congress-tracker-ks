@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "ROP",
  "company": {
   "name": "ROPER TECHNOLOGIES INC",
@@ -8,8 +8,8 @@
   "industry": "Industrial Instruments For Measurement, Display, and Control",
   "sector": "Technology"
  },
- "price_now": 473.58,
- "price_date": "2026-11-03",
+ "price_now": 492.22,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,10 +41,10 @@
    "company_name": "ROPER TECHNOLOGIES INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 319.29,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 48.3,
+   "price_at_trade": 320.1,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 53.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -71,10 +71,10 @@
    "company_name": "ROPER TECHNOLOGIES INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 352.23,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 34.5,
+   "price_at_trade": 353.11,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 39.4,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -101,10 +101,10 @@
    "company_name": "ROPER TECHNOLOGIES INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 348.36,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 35.9,
+   "price_at_trade": 349.23,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 40.9,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -133,10 +133,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": 347.09,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 36.4,
+   "price_at_trade": 347.97,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 41.5,
    "days_to_disclose": 31,
    "late_filing": false
   },
@@ -165,10 +165,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": 347.09,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 36.4,
+   "price_at_trade": 347.97,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 41.5,
    "days_to_disclose": 31,
    "late_filing": false
   },
@@ -197,10 +197,10 @@
    "committee_overlap": [
     "House Committee on the Judiciary"
    ],
-   "price_at_trade": 347.09,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 36.4,
+   "price_at_trade": 347.97,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 41.5,
    "days_to_disclose": 31,
    "late_filing": false
   },
@@ -227,16 +227,54 @@
    "company_name": "ROPER TECHNOLOGIES INC",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 346.21,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 36.8,
+   "price_at_trade": 347.08,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 41.8,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ROP",
+   "company_name": "ROPER TECHNOLOGIES INC",
+   "owner_name": "Stipancich John K",
+   "owner_title": "EVP, Chief Legal Officer & Sec",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 4200.0,
+   "price": 468.09,
+   "value": 1965978.0,
+   "shares_after": 35434.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1479933/0001193125-26-445340.txt",
+   "price_at_trade": 466.6,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "ROP",
+   "company_name": "ROPER TECHNOLOGIES INC",
+   "owner_name": "Stipancich John K",
+   "owner_title": "EVP, Chief Legal Officer & Sec",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 4200.0,
+   "price": 468.09,
+   "value": 1965978.0,
+   "shares_after": 35434.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882835/0001193125-26-445340.txt",
+   "price_at_trade": 466.6,
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 5.5
+  },
   {
    "ticker": "ROP",
    "company_name": "ROPER TECHNOLOGIES INC",
@@ -252,9 +290,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1479933/0001193125-26-436134.txt",
    "price_at_trade": 441.65,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 7.2
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "ROP",
@@ -271,9 +309,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882835/0001193125-26-436134.txt",
    "price_at_trade": 441.65,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 7.2
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "ROP",
@@ -290,9 +328,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699418/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   },
   {
    "ticker": "ROP",
@@ -309,9 +347,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699418/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   },
   {
    "ticker": "ROP",
@@ -328,9 +366,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699418/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   },
   {
    "ticker": "ROP",
@@ -347,9 +385,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882835/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   },
   {
    "ticker": "ROP",
@@ -366,9 +404,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882835/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   },
   {
    "ticker": "ROP",
@@ -385,9 +423,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882835/0001193125-26-434200.txt",
    "price_at_trade": 438.14,
-   "price_now": 473.58,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 8.1
+   "price_now": 492.22,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 12.3
   }
  ],
  "trump_trades": [],

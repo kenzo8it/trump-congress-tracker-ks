@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "UAL",
  "company": {
   "name": "United Airlines Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Air Transportation, Scheduled",
   "sector": "Transport & Autos"
  },
- "price_now": 107.21,
- "price_date": "2026-11-03",
+ "price_now": 115.76,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 116.36,
-   "price_now": 107.21,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -7.9,
+   "price_now": 115.76,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": -0.5,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Transport & Autos",
    "committee_overlap": [],
    "price_at_trade": 113.99,
-   "price_now": 107.21,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": -5.9,
+   "price_now": 115.76,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 1.6,
    "days_to_disclose": 24,
    "late_filing": false
   }
@@ -89,15 +89,54 @@
    "ticker": "UAL",
    "est_shares": 1.4,
    "avg_price": 113.99,
-   "price_now": 107.21,
-   "est_position_value": 153,
-   "total_return_pct": -5.9,
-   "total_return_usd": -10,
+   "price_now": 115.76,
+   "est_position_value": 165,
+   "total_return_pct": 1.6,
+   "total_return_usd": 3,
    "first_buy": "2025-12-19",
    "last_trade": "2026-02-10"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "UAL",
+   "company_name": "United Airlines Holdings, Inc.",
+   "owner_name": "Hart Brett J",
+   "owner_title": "President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 39000.0,
+   "price": 102.68,
+   "value": 4004520.0,
+   "shares_after": 325122.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/100517/0000100517-26-000189.txt",
+   "price_at_trade": 104.24,
+   "price_now": 115.76,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 11.1
+  },
+  {
+   "ticker": "UAL",
+   "company_name": "United Airlines Holdings, Inc.",
+   "owner_name": "Hart Brett J",
+   "owner_title": "President",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-30",
+   "reported_date": "2026-11-03",
+   "shares": 39000.0,
+   "price": 102.68,
+   "value": 4004520.0,
+   "shares_after": 325122.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1466338/0000100517-26-000189.txt",
+   "price_at_trade": 104.24,
+   "price_now": 115.76,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 11.1
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

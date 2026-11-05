@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "CARG",
  "company": {
   "name": "CarGurus, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 33.77,
- "price_date": "2026-11-03",
+ "price_now": 36.52,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Elshareef Ismail",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 1964.0,
+   "price": 32.33,
+   "value": 63496.12,
+   "shares_after": 123670.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000086.txt",
+   "price_at_trade": 33.79,
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Zales Samuel",
+   "owner_title": "COO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 10000.0,
+   "price": 32.33,
+   "value": 323300.0,
+   "shares_after": 419735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000087.txt",
+   "price_at_trade": 33.79,
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Zales Samuel",
+   "owner_title": "COO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 10000.0,
+   "price": 32.33,
+   "value": 323300.0,
+   "shares_after": 419735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1718790/0001494259-26-000087.txt",
+   "price_at_trade": 33.79,
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Elshareef Ismail",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 1964.0,
+   "price": 32.33,
+   "value": 63496.12,
+   "shares_after": 123670.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010096/0001494259-26-000086.txt",
+   "price_at_trade": 33.79,
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 8.1
+  },
   {
    "ticker": "CARG",
    "company_name": "CarGurus, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000080.txt",
    "price_at_trade": 30.3,
-   "price_now": 33.77,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 11.5
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "CARG",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1718790/0001494259-26-000080.txt",
    "price_at_trade": 30.3,
-   "price_now": 33.77,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 11.5
+   "price_now": 36.52,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 20.5
   }
  ],
  "trump_trades": [],

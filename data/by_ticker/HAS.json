@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32+00:00",
+ "updated": "2026-11-05T02:41+00:00",
  "ticker": "HAS",
  "company": {
   "name": "HASBRO, INC.",
@@ -8,8 +8,8 @@
   "industry": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
   "sector": "Other"
  },
- "price_now": 117.97,
- "price_date": "2026-11-03",
+ "price_now": 121.58,
+ "price_date": "2026-11-04",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 73.93,
-   "price_now": 117.97,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 59.6,
+   "price_now": 121.58,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 64.5,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 74.16,
-   "price_now": 117.97,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 59.1,
+   "price_now": 121.58,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 63.9,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -102,15 +102,54 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 74.16,
-   "price_now": 117.97,
-   "price_now_date": "2026-11-03",
-   "total_return_pct": 59.1,
+   "price_now": 121.58,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 63.9,
    "days_to_disclose": 22,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "HAS",
+   "company_name": "HASBRO, INC.",
+   "owner_name": "GOETTER GINA M",
+   "owner_title": "EVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 7262.0,
+   "price": 118.987,
+   "value": 864083.59,
+   "shares_after": 72577.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1828057/0001828057-26-000018.txt",
+   "price_at_trade": 118.36,
+   "price_now": 121.58,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  },
+  {
+   "ticker": "HAS",
+   "company_name": "HASBRO, INC.",
+   "owner_name": "GOETTER GINA M",
+   "owner_title": "EVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-03",
+   "shares": 7262.0,
+   "price": 118.987,
+   "value": 864083.59,
+   "shares_after": 72577.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/46080/0001828057-26-000018.txt",
+   "price_at_trade": 118.36,
+   "price_now": 121.58,
+   "price_now_date": "2026-11-04",
+   "total_return_pct": 2.7
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []
