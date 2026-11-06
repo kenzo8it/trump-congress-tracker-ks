@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "YELP",
  "company": {
   "name": "YELP INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Personal Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 22.05,
- "price_date": "2026-11-04",
+ "price_now": 20.52,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "YELP",
+   "company_name": "YELP INC",
+   "owner_name": "Amara Carmen",
+   "owner_title": "Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 500.0,
+   "price": 19.21,
+   "value": 9605.0,
+   "shares_after": 99536.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1345016/0001919747-26-000017.txt",
+   "price_at_trade": 19.81,
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "YELP",
+   "company_name": "YELP INC",
+   "owner_name": "Amara Carmen",
+   "owner_title": "Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 500.0,
+   "price": 19.21,
+   "value": 9605.0,
+   "shares_after": 99536.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1919747/0001919747-26-000017.txt",
+   "price_at_trade": 19.81,
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.6
+  },
   {
    "ticker": "YELP",
    "company_name": "YELP INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1345016/0001349334-26-000012.txt",
    "price_at_trade": 19.78,
-   "price_now": 22.05,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.5
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "YELP",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1349334/0001349334-26-000012.txt",
    "price_at_trade": 19.78,
-   "price_now": 22.05,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.5
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "YELP",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1345016/0001349334-26-000010.txt",
    "price_at_trade": 20.41,
-   "price_now": 22.05,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 8.0
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "YELP",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1349334/0001349334-26-000010.txt",
    "price_at_trade": 20.41,
-   "price_now": 22.05,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 8.0
+   "price_now": 20.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.5
   }
  ],
  "trump_trades": [],

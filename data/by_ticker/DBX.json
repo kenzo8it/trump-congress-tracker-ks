@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "DBX",
  "company": {
   "name": "DROPBOX, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 36.1,
- "price_date": "2026-11-04",
+ "price_now": 35.76,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 27.38,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 31.8,
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 30.6,
    "days_to_disclose": 266,
    "late_filing": true
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 25.79,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.0,
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 38.7,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -89,15 +89,53 @@
    "ticker": "DBX",
    "est_shares": 18.0,
    "avg_price": 25.79,
-   "price_now": 36.1,
-   "est_position_value": 650,
-   "total_return_pct": 40.0,
-   "total_return_usd": 186,
+   "price_now": 35.76,
+   "est_position_value": 644,
+   "total_return_pct": 38.7,
+   "total_return_usd": 180,
    "first_buy": "2024-10-23",
    "last_trade": "2025-04-22"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "DBX",
+   "company_name": "DROPBOX, INC.",
+   "owner_name": "Houston Andrew",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 383800.0,
+   "price": 35.8108,
+   "value": 13744185.04,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0001734563-26-000024.txt",
+   "price_at_trade": 35.64,
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "DBX",
+   "company_name": "DROPBOX, INC.",
+   "owner_name": "Houston Andrew",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 383800.0,
+   "price": 35.8108,
+   "value": 13744185.04,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1734563/0001734563-26-000024.txt",
+   "price_at_trade": 35.64,
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.3
+  },
   {
    "ticker": "DBX",
    "company_name": "DROPBOX, INC.",
@@ -113,9 +151,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0002075704-26-000041.txt",
    "price_at_trade": 36.25,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -0.4
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "DBX",
@@ -132,9 +170,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2075704/0002075704-26-000041.txt",
    "price_at_trade": 36.25,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -0.4
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "DBX",
@@ -151,9 +189,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0002075704-26-000040.txt",
    "price_at_trade": 36.54,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.2
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "DBX",
@@ -170,9 +208,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2075704/0002075704-26-000040.txt",
    "price_at_trade": 36.54,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.2
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "DBX",
@@ -189,9 +227,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/0001734563-26-000023.txt",
    "price_at_trade": 34.87,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 3.5
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "DBX",
@@ -208,9 +246,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1734563/0001734563-26-000023.txt",
    "price_at_trade": 34.87,
-   "price_now": 36.1,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 3.5
+   "price_now": 35.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 2.6
   }
  ],
  "trump_trades": [],

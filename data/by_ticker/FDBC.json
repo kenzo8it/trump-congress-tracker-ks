@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-06T02:41+00:00",
+ "ticker": "FDBC",
+ "company": {
+  "name": "FIDELITY D & D BANCORP INC",
+  "cik": 1098151,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 68.14,
+ "price_date": "2026-11-05",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FDBC",
+   "company_name": "FIDELITY D & D BANCORP INC",
+   "owner_name": "Woelkers Paul C.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 500.0,
+   "price": 69.35,
+   "value": 34675.0,
+   "shares_after": 80538.1186,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1098151/0001437749-26-034890.txt",
+   "price_at_trade": 70.07,
+   "price_now": 68.14,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.8
+  },
+  {
+   "ticker": "FDBC",
+   "company_name": "FIDELITY D & D BANCORP INC",
+   "owner_name": "Woelkers Paul C.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 500.0,
+   "price": 69.35,
+   "value": 34675.0,
+   "shares_after": 80538.1186,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1871201/0001437749-26-034890.txt",
+   "price_at_trade": 70.07,
+   "price_now": 68.14,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

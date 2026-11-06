@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-06T02:41+00:00",
+ "ticker": "CNA",
+ "company": {
+  "name": "CNA FINANCIAL CORP",
+  "cik": 21175,
+  "sic": 6331,
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials"
+ },
+ "price_now": 48.12,
+ "price_date": "2026-11-05",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CNA",
+   "company_name": "CNA FINANCIAL CORP",
+   "owner_name": "LINDQUIST SCOTT R",
+   "owner_title": "EVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 23579.0,
+   "price": 47.64,
+   "value": 1123303.56,
+   "shares_after": 76537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1222410/0001222410-26-000004.txt",
+   "price_at_trade": 47.23,
+   "price_now": 48.12,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CNA",
+   "company_name": "CNA FINANCIAL CORP",
+   "owner_name": "LINDQUIST SCOTT R",
+   "owner_title": "EVP & CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 23579.0,
+   "price": 47.64,
+   "value": 1123303.56,
+   "shares_after": 76537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21175/0001222410-26-000004.txt",
+   "price_at_trade": 47.23,
+   "price_now": 48.12,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

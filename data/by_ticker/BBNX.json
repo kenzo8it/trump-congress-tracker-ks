@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "BBNX",
  "company": {
   "name": "Beta Bionics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 16.95,
- "price_date": "2026-11-04",
+ "price_now": 15.49,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Hopman Mark",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 370.0,
+   "price": 16.9,
+   "value": 6253.0,
+   "shares_after": 54143.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000025.txt",
+   "price_at_trade": 15.9,
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.6
+  },
+  {
+   "ticker": "BBNX",
+   "company_name": "Beta Bionics, Inc.",
+   "owner_name": "Hopman Mark",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 370.0,
+   "price": 16.9,
+   "value": 6253.0,
+   "shares_after": 54143.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000025.txt",
+   "price_at_trade": 15.9,
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.6
+  },
   {
    "ticker": "BBNX",
    "company_name": "Beta Bionics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048500-26-000015.txt",
    "price_at_trade": 21.39,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -20.8
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -27.6
   },
   {
    "ticker": "BBNX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048500/0002048500-26-000015.txt",
    "price_at_trade": 21.39,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -20.8
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -27.6
   },
   {
    "ticker": "BBNX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000023.txt",
    "price_at_trade": 20.51,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -17.4
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -24.5
   },
   {
    "ticker": "BBNX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000023.txt",
    "price_at_trade": 20.51,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -17.4
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -24.5
   },
   {
    "ticker": "BBNX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048497-26-000021.txt",
    "price_at_trade": 16.87,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.5
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -8.2
   },
   {
    "ticker": "BBNX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2048497/0002048497-26-000021.txt",
    "price_at_trade": 16.87,
-   "price_now": 16.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.5
+   "price_now": 15.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -8.2
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "REGN",
  "company": {
   "name": "REGENERON PHARMACEUTICALS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 930.67,
- "price_date": "2026-11-04",
+ "price_now": 902.9,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 696.4,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 33.6,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 29.7,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 780.63,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.2,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 15.7,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 721.64,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 29.0,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 25.1,
    "days_to_disclose": 27,
    "late_filing": false
   }
@@ -119,15 +119,661 @@
    "ticker": "REGN",
    "est_shares": 10.2,
    "avg_price": 780.63,
-   "price_now": 930.67,
-   "est_position_value": 9538,
-   "total_return_pct": 19.2,
-   "total_return_usd": 1538,
+   "price_now": 902.9,
+   "est_position_value": 9254,
+   "total_return_pct": 15.7,
+   "total_return_usd": 1253,
    "first_buy": "2026-02-12",
    "last_trade": "2026-02-12"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 218.0,
+   "price": 966.74,
+   "value": 210749.32,
+   "shares_after": 12831.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 772.0,
+   "price": 967.38,
+   "value": 746817.36,
+   "shares_after": 12059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2499.0,
+   "price": 968.58,
+   "value": 2420481.42,
+   "shares_after": 9560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3203.0,
+   "price": 969.5,
+   "value": 3105308.5,
+   "shares_after": 6357.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 937.0,
+   "price": 970.51,
+   "value": 909367.87,
+   "shares_after": 5420.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 201.0,
+   "price": 971.31,
+   "value": 195233.31,
+   "shares_after": 5219.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1189014/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1224.0,
+   "price": 960.57,
+   "value": 1175737.68,
+   "shares_after": 45052.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 540.0,
+   "price": 961.85,
+   "value": 519399.0,
+   "shares_after": 44512.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2522.0,
+   "price": 962.61,
+   "value": 2427702.42,
+   "shares_after": 41990.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 4338.0,
+   "price": 963.47,
+   "value": 4179532.86,
+   "shares_after": 37652.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2670.0,
+   "price": 964.57,
+   "value": 2575401.9,
+   "shares_after": 34982.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 7073.0,
+   "price": 965.38,
+   "value": 6828132.74,
+   "shares_after": 27909.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1522.0,
+   "price": 966.27,
+   "value": 1470662.94,
+   "shares_after": 26387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1040.0,
+   "price": 967.07,
+   "value": 1005752.8,
+   "shares_after": 25347.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 200.0,
+   "price": 970.18,
+   "value": 194036.0,
+   "shares_after": 25147.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1225471/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "LAROSA JOSEPH J",
+   "owner_title": "EVP General Counsel and Secret",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3939.0,
+   "price": 965.41,
+   "value": 3802749.99,
+   "shares_after": 39433.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1238303/0001238303-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "LAROSA JOSEPH J",
+   "owner_title": "EVP General Counsel and Secret",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 527.0,
+   "price": 966.11,
+   "value": 509139.97,
+   "shares_after": 38906.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1238303/0001238303-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 218.0,
+   "price": 966.74,
+   "value": 210749.32,
+   "shares_after": 12831.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 772.0,
+   "price": 967.38,
+   "value": 746817.36,
+   "shares_after": 12059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2499.0,
+   "price": 968.58,
+   "value": 2420481.42,
+   "shares_after": 9560.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3203.0,
+   "price": 969.5,
+   "value": 3105308.5,
+   "shares_after": 6357.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 937.0,
+   "price": 970.51,
+   "value": 909367.87,
+   "shares_after": 5420.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "POON CHRISTINE A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 201.0,
+   "price": 971.31,
+   "value": 195233.31,
+   "shares_after": 5219.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001189014-26-000009.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1224.0,
+   "price": 960.57,
+   "value": 1175737.68,
+   "shares_after": 45052.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 540.0,
+   "price": 961.85,
+   "value": 519399.0,
+   "shares_after": 44512.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2522.0,
+   "price": 962.61,
+   "value": 2427702.42,
+   "shares_after": 41990.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 4338.0,
+   "price": 963.47,
+   "value": 4179532.86,
+   "shares_after": 37652.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2670.0,
+   "price": 964.57,
+   "value": 2575401.9,
+   "shares_after": 34982.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 7073.0,
+   "price": 965.38,
+   "value": 6828132.74,
+   "shares_after": 27909.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1522.0,
+   "price": 966.27,
+   "value": 1470662.94,
+   "shares_after": 26387.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1040.0,
+   "price": 967.07,
+   "value": 1005752.8,
+   "shares_after": 25347.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "SING GEORGE L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 200.0,
+   "price": 970.18,
+   "value": 194036.0,
+   "shares_after": 25147.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001225471-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "LAROSA JOSEPH J",
+   "owner_title": "EVP General Counsel and Secret",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3939.0,
+   "price": 965.41,
+   "value": 3802749.99,
+   "shares_after": 39433.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001238303-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
+  {
+   "ticker": "REGN",
+   "company_name": "REGENERON PHARMACEUTICALS, INC.",
+   "owner_name": "LAROSA JOSEPH J",
+   "owner_title": "EVP General Counsel and Secret",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 527.0,
+   "price": 966.11,
+   "value": 509139.97,
+   "shares_after": 38906.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001238303-26-000004.txt",
+   "price_at_trade": 961.26,
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -6.1
+  },
   {
    "ticker": "REGN",
    "company_name": "REGENERON PHARMACEUTICALS, INC.",
@@ -143,9 +789,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1174475/0001174475-26-000004.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -162,9 +808,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1663758/0001663758-26-000004.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -181,9 +827,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1992352/0001992352-26-000009.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -200,9 +846,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001174475-26-000004.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -219,9 +865,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001663758-26-000004.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -238,9 +884,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001992352-26-000009.txt",
    "price_at_trade": 927.89,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 0.3
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "REGN",
@@ -257,9 +903,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -276,9 +922,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -295,9 +941,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -314,9 +960,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -333,9 +979,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -352,9 +998,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -371,9 +1017,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -390,9 +1036,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -409,9 +1055,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -428,9 +1074,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -447,9 +1093,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -466,9 +1112,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -485,9 +1131,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -504,9 +1150,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -523,9 +1169,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -542,9 +1188,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -561,9 +1207,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -580,9 +1226,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -599,9 +1245,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -618,9 +1264,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -637,9 +1283,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -656,9 +1302,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -675,9 +1321,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -694,9 +1340,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -713,9 +1359,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -732,9 +1378,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -751,9 +1397,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796226/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -770,9 +1416,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -789,9 +1435,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -808,9 +1454,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -827,9 +1473,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -846,9 +1492,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -865,9 +1511,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -884,9 +1530,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -903,9 +1549,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -922,9 +1568,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -941,9 +1587,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -960,9 +1606,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -979,9 +1625,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -998,9 +1644,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1017,9 +1663,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1036,9 +1682,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1055,9 +1701,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1074,9 +1720,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1093,9 +1739,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1112,9 +1758,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1131,9 +1777,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1150,9 +1796,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1169,9 +1815,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1188,9 +1834,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1207,9 +1853,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1226,9 +1872,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1245,9 +1891,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   },
   {
    "ticker": "REGN",
@@ -1264,9 +1910,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/872589/0001796226-26-000002.txt",
    "price_at_trade": 778.36,
-   "price_now": 930.67,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.6
+   "price_now": 902.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "JBLU",
  "company": {
   "name": "JETBLUE AIRWAYS CORP",
@@ -8,8 +8,8 @@
   "industry": "Air Transportation, Scheduled",
   "sector": "Transport & Autos"
  },
- "price_now": 3.56,
- "price_date": "2026-11-04",
+ "price_now": 3.49,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "JBLU",
+   "company_name": "JETBLUE AIRWAYS CORP",
+   "owner_name": "Mittal Nik",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 31300.0,
+   "price": 3.235,
+   "value": 101255.5,
+   "shares_after": 169837.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158463/0001158463-26-000098.txt",
+   "price_at_trade": 3.18,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.7
+  },
+  {
+   "ticker": "JBLU",
+   "company_name": "JETBLUE AIRWAYS CORP",
+   "owner_name": "Mittal Nik",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 68700.0,
+   "price": 3.24,
+   "value": 222588.0,
+   "shares_after": 238537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158463/0001158463-26-000098.txt",
+   "price_at_trade": 3.18,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.7
+  },
+  {
+   "ticker": "JBLU",
+   "company_name": "JETBLUE AIRWAYS CORP",
+   "owner_name": "Mittal Nik",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 31300.0,
+   "price": 3.235,
+   "value": 101255.5,
+   "shares_after": 169837.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1942734/0001158463-26-000098.txt",
+   "price_at_trade": 3.18,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.7
+  },
+  {
+   "ticker": "JBLU",
+   "company_name": "JETBLUE AIRWAYS CORP",
+   "owner_name": "Mittal Nik",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 68700.0,
+   "price": 3.24,
+   "value": 222588.0,
+   "shares_after": 238537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1942734/0001158463-26-000098.txt",
+   "price_at_trade": 3.18,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.7
+  },
   {
    "ticker": "JBLU",
    "company_name": "JETBLUE AIRWAYS CORP",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158463/0001858380-26-000010.txt",
    "price_at_trade": 2.85,
-   "price_now": 3.56,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.9
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 22.5
   },
   {
    "ticker": "JBLU",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1858380/0001858380-26-000010.txt",
    "price_at_trade": 2.85,
-   "price_now": 3.56,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.9
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 22.5
   },
   {
    "ticker": "JBLU",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1078543/0001078543-26-000003.txt",
    "price_at_trade": 3.05,
-   "price_now": 3.56,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 16.7
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 14.4
   },
   {
    "ticker": "JBLU",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158463/0001078543-26-000003.txt",
    "price_at_trade": 3.05,
-   "price_now": 3.56,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 16.7
+   "price_now": 3.49,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 14.4
   }
  ],
  "trump_trades": [],

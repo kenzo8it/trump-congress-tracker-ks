@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "CHD",
  "company": {
   "name": "CHURCH & DWIGHT CO INC /DE/",
@@ -8,8 +8,8 @@
   "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
   "sector": "Materials & Mining"
  },
- "price_now": 112.03,
- "price_date": "2026-11-04",
+ "price_now": 111.33,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 86.58,
-   "price_now": 112.03,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 29.4,
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 28.6,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -72,15 +72,53 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 84.74,
-   "price_now": 112.03,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 32.2,
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 31.4,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHD",
+   "company_name": "CHURCH & DWIGHT CO INC /DE/",
+   "owner_name": "Dierker Richard A",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 83340.0,
+   "price": 109.5878,
+   "value": 9133047.25,
+   "shares_after": 38658.846,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1661038/0000313927-26-000344.txt",
+   "price_at_trade": 109.16,
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 2.0
+  },
+  {
+   "ticker": "CHD",
+   "company_name": "CHURCH & DWIGHT CO INC /DE/",
+   "owner_name": "Dierker Richard A",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 83340.0,
+   "price": 109.5878,
+   "value": 9133047.25,
+   "shares_after": 38658.846,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000344.txt",
+   "price_at_trade": 109.16,
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 2.0
+  },
   {
    "ticker": "CHD",
    "company_name": "CHURCH & DWIGHT CO INC /DE/",
@@ -96,9 +134,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1379399/0000313927-26-000342.txt",
    "price_at_trade": 110.45,
-   "price_now": 112.03,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 1.4
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "CHD",
@@ -115,9 +153,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000342.txt",
    "price_at_trade": 110.45,
-   "price_now": 112.03,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 1.4
+   "price_now": 111.33,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.8
   }
  ],
  "trump_trades": [],

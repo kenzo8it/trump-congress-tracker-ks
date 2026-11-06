@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "SEV",
  "company": {
   "name": "Aptera Motors Corp",
@@ -8,8 +8,8 @@
   "industry": "Motor Vehicles & Passenger Car Bodies",
   "sector": "Transport & Autos"
  },
- "price_now": 2.08,
- "price_date": "2026-11-04",
+ "price_now": 1.94,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,234 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Anthony Christopher Lee",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 6145.0,
+   "price": 1.74,
+   "value": 10692.3,
+   "shares_after": 105373.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-049982.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 6146.0,
+   "price": 1.74,
+   "value": 10694.04,
+   "shares_after": 105345.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049981.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 730.0,
+   "price": 1.74,
+   "value": 1270.2,
+   "shares_after": 16100.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049981.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Anthony Christopher Lee",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 6145.0,
+   "price": 1.74,
+   "value": 10692.3,
+   "shares_after": 105373.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049982.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 6146.0,
+   "price": 1.74,
+   "value": 10694.04,
+   "shares_after": 105345.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-049981.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 730.0,
+   "price": 1.74,
+   "value": 1270.2,
+   "shares_after": 16100.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-049981.txt",
+   "price_at_trade": 1.82,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.6
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Anthony Christopher Lee",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 6245.0,
+   "price": 1.73,
+   "value": 10803.85,
+   "shares_after": 111518.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-049982.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 6245.0,
+   "price": 1.73,
+   "value": 10803.85,
+   "shares_after": 111491.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049981.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 742.0,
+   "price": 1.73,
+   "value": 1283.66,
+   "shares_after": 16830.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049981.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Anthony Christopher Lee",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 6245.0,
+   "price": 1.73,
+   "value": 10803.85,
+   "shares_after": 111518.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-049982.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 6245.0,
+   "price": 1.73,
+   "value": 10803.85,
+   "shares_after": 111491.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-049981.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "SEV",
+   "company_name": "Aptera Motors Corp",
+   "owner_name": "Fambro Steve",
+   "owner_title": "Director, Co-CEO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 742.0,
+   "price": 1.73,
+   "value": 1283.66,
+   "shares_after": 16830.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-049981.txt",
+   "price_at_trade": 1.84,
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
+  },
   {
    "ticker": "SEV",
    "company_name": "Aptera Motors Corp",
@@ -35,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1775975/0001493152-26-047425.txt",
    "price_at_trade": 2.23,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -6.7
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -13.0
   },
   {
    "ticker": "SEV",
@@ -54,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047421.txt",
    "price_at_trade": 2.23,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -6.7
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -13.0
   },
   {
    "ticker": "SEV",
@@ -73,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047425.txt",
    "price_at_trade": 2.23,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -6.7
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -13.0
   },
   {
    "ticker": "SEV",
@@ -92,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2086668/0001493152-26-047421.txt",
    "price_at_trade": 2.23,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -6.7
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -13.0
   },
   {
    "ticker": "SEV",
@@ -111,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-047411.txt",
    "price_at_trade": 1.97,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 5.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SEV",
@@ -130,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047411.txt",
    "price_at_trade": 1.97,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 5.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SEV",
@@ -149,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047414.txt",
    "price_at_trade": 1.97,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 5.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SEV",
@@ -168,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-047414.txt",
    "price_at_trade": 1.97,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 5.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SEV",
@@ -187,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-047411.txt",
    "price_at_trade": 1.84,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 13.0
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "SEV",
@@ -206,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047411.txt",
    "price_at_trade": 1.84,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 13.0
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "SEV",
@@ -225,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047414.txt",
    "price_at_trade": 1.84,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 13.0
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "SEV",
@@ -244,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-047414.txt",
    "price_at_trade": 1.84,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 13.0
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "SEV",
@@ -263,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-047411.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -9.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "SEV",
@@ -282,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047411.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -9.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "SEV",
@@ -301,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047414.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -9.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "SEV",
@@ -320,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-047414.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -9.6
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -15.7
   },
   {
    "ticker": "SEV",
@@ -339,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548403/0001493152-26-047411.txt",
    "price_at_trade": 2.45,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -15.1
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.8
   },
   {
    "ticker": "SEV",
@@ -358,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047411.txt",
    "price_at_trade": 2.45,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -15.1
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.8
   },
   {
    "ticker": "SEV",
@@ -377,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786471/0001493152-26-047414.txt",
    "price_at_trade": 2.45,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -15.1
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.8
   },
   {
    "ticker": "SEV",
@@ -396,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2093241/0001493152-26-047414.txt",
    "price_at_trade": 2.45,
-   "price_now": 2.08,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -15.1
+   "price_now": 1.94,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.8
   }
  ],
  "trump_trades": [],

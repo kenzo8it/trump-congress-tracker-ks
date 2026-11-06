@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "CHWY",
  "company": {
   "name": "Chewy, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Catalog & Mail-Order Houses",
   "sector": "Retail & Consumer"
  },
- "price_now": 23.4,
- "price_date": "2026-11-04",
+ "price_now": 23.0,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Singh Sumit",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 23002.0,
+   "price": 21.4,
+   "value": 492242.8,
+   "shares_after": 899118.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1766502/0001766502-26-000074.txt",
+   "price_at_trade": 22.27,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.3
+  },
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Singh Sumit",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3228.0,
+   "price": 21.4,
+   "value": 69079.2,
+   "shares_after": 127481.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1766502/0001766502-26-000074.txt",
+   "price_at_trade": 22.27,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.3
+  },
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Singh Sumit",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 23002.0,
+   "price": 21.4,
+   "value": 492242.8,
+   "shares_after": 899118.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1777164/0001766502-26-000074.txt",
+   "price_at_trade": 22.27,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.3
+  },
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Singh Sumit",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 3228.0,
+   "price": 21.4,
+   "value": 69079.2,
+   "shares_after": 127481.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1777164/0001766502-26-000074.txt",
+   "price_at_trade": 22.27,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 3.3
+  },
   {
    "ticker": "CHWY",
    "company_name": "Chewy, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1766502/0001766502-26-000070.txt",
    "price_at_trade": 21.31,
-   "price_now": 23.4,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 9.8
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 7.9
   },
   {
    "ticker": "CHWY",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1879000/0001766502-26-000070.txt",
    "price_at_trade": 21.31,
-   "price_now": 23.4,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 9.8
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 7.9
   }
  ],
  "trump_trades": [],

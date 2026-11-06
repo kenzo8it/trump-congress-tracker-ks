@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "STAG",
  "company": {
   "name": "STAG Industrial, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 37.85,
- "price_date": "2026-11-04",
+ "price_now": 36.91,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 37.1,
-   "price_now": 37.85,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.0,
+   "price_now": 36.91,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.5,
    "days_to_disclose": 25,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "STAG",
    "est_shares": 215.6,
    "avg_price": 37.1,
-   "price_now": 37.85,
-   "est_position_value": 8162,
-   "total_return_pct": 2.0,
-   "total_return_usd": 162,
+   "price_now": 36.91,
+   "est_position_value": 7960,
+   "total_return_pct": -0.5,
+   "total_return_usd": -41,
    "first_buy": "2026-09-17",
    "last_trade": "2026-09-17"
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "ACRV",
  "company": {
   "name": "Acrivon Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 1.74,
- "price_date": "2026-11-04",
+ "price_now": 1.57,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1781174/0000905148-26-004554.txt",
    "price_at_trade": 1.76,
-   "price_now": 1.74,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.1
+   "price_now": 1.57,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.8
   },
   {
    "ticker": "ACRV",
@@ -54,47 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1841088/0000905148-26-004554.txt",
    "price_at_trade": 1.76,
-   "price_now": 1.74,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.1
-  },
-  {
-   "ticker": "ACRV",
-   "company_name": "Acrivon Therapeutics, Inc.",
-   "owner_name": "Miller Mary",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 294.0,
-   "price": 1.99,
-   "value": 585.06,
-   "shares_after": 81715.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1781174/0000905148-26-004399.txt",
-   "price_at_trade": 1.98,
-   "price_now": 1.74,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.1
-  },
-  {
-   "ticker": "ACRV",
-   "company_name": "Acrivon Therapeutics, Inc.",
-   "owner_name": "Miller Mary",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 294.0,
-   "price": 1.99,
-   "value": 585.06,
-   "shares_after": 81715.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1841088/0000905148-26-004399.txt",
-   "price_at_trade": 1.98,
-   "price_now": 1.74,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.1
+   "price_now": 1.57,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.8
   }
  ],
  "trump_trades": [],

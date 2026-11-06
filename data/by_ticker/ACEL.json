@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-06T02:41+00:00",
+ "ticker": "ACEL",
+ "company": {
+  "name": "Accel Entertainment, Inc.",
+  "cik": 1698991,
+  "sic": 7900,
+  "industry": "Services-Amusement & Recreation Services",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 13.77,
+ "price_date": "2026-11-05",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ACEL",
+   "company_name": "Accel Entertainment, Inc.",
+   "owner_name": "Phelan Mark T.",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 25000.0,
+   "price": 12.0,
+   "value": 300000.0,
+   "shares_after": 216464.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1698991/0001794567-26-000015.txt",
+   "price_at_trade": 11.91,
+   "price_now": 13.77,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 15.6
+  },
+  {
+   "ticker": "ACEL",
+   "company_name": "Accel Entertainment, Inc.",
+   "owner_name": "Phelan Mark T.",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 25000.0,
+   "price": 12.0,
+   "value": 300000.0,
+   "shares_after": 216464.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1794567/0001794567-26-000015.txt",
+   "price_at_trade": 11.91,
+   "price_now": 13.77,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 15.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

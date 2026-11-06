@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "FLYW",
  "company": {
   "name": "Flywire Corp",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 21.81,
- "price_date": "2026-11-04",
+ "price_now": 21.26,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "Pitigoi Cosmin",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 19468.0,
+   "price": 20.0586,
+   "value": 390500.82,
+   "shares_after": 837107.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1580560/0001628280-26-070107.txt",
+   "price_at_trade": 19.49,
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
+  },
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "King David R.",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 55325.0,
+   "price": 20.0499,
+   "value": 1109260.72,
+   "shares_after": 147079.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1580560/0001628280-26-070173.txt",
+   "price_at_trade": 19.49,
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
+  },
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "King David R.",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 55325.0,
+   "price": 20.0499,
+   "value": 1109260.72,
+   "shares_after": 147079.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1862946/0001628280-26-070173.txt",
+   "price_at_trade": 19.49,
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
+  },
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "Pitigoi Cosmin",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 19468.0,
+   "price": 20.0586,
+   "value": 390500.82,
+   "shares_after": 837107.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2013285/0001628280-26-070107.txt",
+   "price_at_trade": 19.49,
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
+  },
   {
    "ticker": "FLYW",
    "company_name": "Flywire Corp",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1580560/0001628280-26-065995.txt",
    "price_at_trade": 18.26,
-   "price_now": 21.81,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.4
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.4
   },
   {
    "ticker": "FLYW",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1862946/0001628280-26-065995.txt",
    "price_at_trade": 18.26,
-   "price_now": 21.81,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 19.4
+   "price_now": 21.26,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.4
   }
  ],
  "trump_trades": [],

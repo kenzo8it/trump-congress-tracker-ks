@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "SYM",
  "company": {
   "name": "Symbotic Inc.",
@@ -8,8 +8,8 @@
   "industry": "General Industrial Machinery & Equipment, NEC",
   "sector": "Construction & Industrials"
  },
- "price_now": 37.51,
- "price_date": "2026-11-04",
+ "price_now": 35.04,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,234 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 600.0,
+   "price": 37.4625,
+   "value": 22477.5,
+   "shares_after": 91252.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1203561/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 38.527,
+   "value": 38527.0,
+   "shares_after": 90252.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1203561/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 400.0,
+   "price": 39.675,
+   "value": 15870.0,
+   "shares_after": 89852.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1203561/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 836.0,
+   "price": 37.5335,
+   "value": 31378.01,
+   "shares_after": 1164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526378/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 672.0,
+   "price": 38.7174,
+   "value": 26018.09,
+   "shares_after": 492.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526378/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 492.0,
+   "price": 39.6651,
+   "value": 19515.23,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526378/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 600.0,
+   "price": 37.4625,
+   "value": 22477.5,
+   "shares_after": 91252.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 38.527,
+   "value": 38527.0,
+   "shares_after": 90252.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KANE CHARLES",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 400.0,
+   "price": 39.675,
+   "value": 15870.0,
+   "shares_after": 89852.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001203561-26-000031.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 836.0,
+   "price": 37.5335,
+   "value": 31378.01,
+   "shares_after": 1164.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 672.0,
+   "price": 38.7174,
+   "value": 26018.09,
+   "shares_after": 492.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "SYM",
+   "company_name": "Symbotic Inc.",
+   "owner_name": "KRASNOW TODD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 492.0,
+   "price": 39.6651,
+   "value": 19515.23,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001526378-26-000046.txt",
+   "price_at_trade": 37.23,
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.9
+  },
   {
    "ticker": "SYM",
    "company_name": "Symbotic Inc.",
@@ -35,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1505300/0001505300-26-000016.txt",
    "price_at_trade": 38.97,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.7
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -54,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001505300-26-000016.txt",
    "price_at_trade": 38.97,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.7
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -73,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1654009/0001654009-26-000017.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -92,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807561/0001807561-26-000026.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -111,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001654009-26-000017.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -130,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001807561-26-000026.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -149,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001877346-26-000027.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -168,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1877346/0001877346-26-000027.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -187,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001932973-26-000024.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -206,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001932973-26-000024.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -225,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1932973/0001932973-26-000024.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -244,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1932973/0001932973-26-000024.txt",
    "price_at_trade": 38.98,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -3.8
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.1
   },
   {
    "ticker": "SYM",
@@ -263,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1654009/0001654009-26-000017.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "SYM",
@@ -282,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1807561/0001807561-26-000026.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "SYM",
@@ -301,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001654009-26-000017.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "SYM",
@@ -320,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001807561-26-000026.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "SYM",
@@ -339,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001877346-26-000027.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "SYM",
@@ -358,85 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1877346/0001877346-26-000027.txt",
    "price_at_trade": 37.9,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.0
-  },
-  {
-   "ticker": "SYM",
-   "company_name": "Symbotic Inc.",
-   "owner_name": "KRASNOW TODD",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 1753.0,
-   "price": 42.6739,
-   "value": 74807.35,
-   "shares_after": 247.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1526378/0001526378-26-000043.txt",
-   "price_at_trade": 42.87,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.5
-  },
-  {
-   "ticker": "SYM",
-   "company_name": "Symbotic Inc.",
-   "owner_name": "KRASNOW TODD",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 247.0,
-   "price": 43.03,
-   "value": 10628.41,
-   "shares_after": 0.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1526378/0001526378-26-000043.txt",
-   "price_at_trade": 42.87,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.5
-  },
-  {
-   "ticker": "SYM",
-   "company_name": "Symbotic Inc.",
-   "owner_name": "KRASNOW TODD",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 1753.0,
-   "price": 42.6739,
-   "value": 74807.35,
-   "shares_after": 247.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001526378-26-000043.txt",
-   "price_at_trade": 42.87,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.5
-  },
-  {
-   "ticker": "SYM",
-   "company_name": "Symbotic Inc.",
-   "owner_name": "KRASNOW TODD",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-05",
-   "reported_date": "2026-10-07",
-   "shares": 247.0,
-   "price": 43.03,
-   "value": 10628.41,
-   "shares_after": 0.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1837240/0001526378-26-000043.txt",
-   "price_at_trade": 42.87,
-   "price_now": 37.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -12.5
+   "price_now": 35.04,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -7.5
   }
  ],
  "trump_trades": [],

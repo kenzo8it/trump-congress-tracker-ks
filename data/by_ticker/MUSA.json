@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "MUSA",
  "company": {
   "name": "Murphy USA Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Auto Dealers & Gasoline Stations",
   "sector": "Retail & Consumer"
  },
- "price_now": 502.42,
- "price_date": "2026-11-04",
+ "price_now": 514.53,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137523/0001573516-26-000197.txt",
    "price_at_trade": 508.62,
-   "price_now": 502.42,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.2
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.2
   },
   {
    "ticker": "MUSA",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1573516/0001573516-26-000197.txt",
    "price_at_trade": 508.62,
-   "price_now": 502.42,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.2
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.2
   },
   {
    "ticker": "MUSA",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1573516/0001573516-26-000199.txt",
    "price_at_trade": 512.27,
-   "price_now": 502.42,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.9
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "MUSA",
@@ -92,9 +92,85 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1583749/0001573516-26-000199.txt",
    "price_at_trade": 512.27,
-   "price_now": 502.42,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -1.9
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "MUSA",
+   "company_name": "Murphy USA Inc.",
+   "owner_name": "MURPHY ROBERT MADISON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-07-29",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 624.34,
+   "value": 624340.0,
+   "shares_after": 39379.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1216894/0001573516-26-000201.txt",
+   "price_at_trade": 614.66,
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.3
+  },
+  {
+   "ticker": "MUSA",
+   "company_name": "Murphy USA Inc.",
+   "owner_name": "MURPHY ROBERT MADISON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-07-29",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 624.34,
+   "value": 624340.0,
+   "shares_after": 39379.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1573516/0001573516-26-000201.txt",
+   "price_at_trade": 614.66,
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.3
+  },
+  {
+   "ticker": "MUSA",
+   "company_name": "Murphy USA Inc.",
+   "owner_name": "MURPHY ROBERT MADISON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-05-04",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 588.93,
+   "value": 588930.0,
+   "shares_after": 40379.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1216894/0001573516-26-000201.txt",
+   "price_at_trade": 590.62,
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -12.9
+  },
+  {
+   "ticker": "MUSA",
+   "company_name": "Murphy USA Inc.",
+   "owner_name": "MURPHY ROBERT MADISON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-05-04",
+   "reported_date": "2026-11-04",
+   "shares": 1000.0,
+   "price": 588.93,
+   "value": 588930.0,
+   "shares_after": 40379.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1573516/0001573516-26-000201.txt",
+   "price_at_trade": 590.62,
+   "price_now": 514.53,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -12.9
   }
  ],
  "trump_trades": [],

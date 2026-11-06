@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "SIBN",
  "company": {
   "name": "SI-BONE, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 24.95,
- "price_date": "2026-11-04",
+ "price_now": 24.27,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SIBN",
+   "company_name": "SI-BONE, Inc.",
+   "owner_name": "DUNN JEFFREY W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 20000.0,
+   "price": 20.891,
+   "value": 417820.0,
+   "shares_after": 16057.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035986/0001035986-26-000011.txt",
+   "price_at_trade": 20.22,
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.0
+  },
+  {
+   "ticker": "SIBN",
+   "company_name": "SI-BONE, Inc.",
+   "owner_name": "DUNN JEFFREY W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 20000.0,
+   "price": 20.891,
+   "value": 417820.0,
+   "shares_after": 16057.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1459839/0001035986-26-000011.txt",
+   "price_at_trade": 20.22,
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.0
+  },
   {
    "ticker": "SIBN",
    "company_name": "SI-BONE, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1459839/0001754765-26-000008.txt",
    "price_at_trade": 22.41,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.3
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "SIBN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1459839/0001853089-26-000012.txt",
    "price_at_trade": 22.41,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.3
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "SIBN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1754765/0001754765-26-000008.txt",
    "price_at_trade": 22.41,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.3
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "SIBN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1853089/0001853089-26-000012.txt",
    "price_at_trade": 22.41,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 11.3
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "SIBN",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1218802/0001218802-26-000006.txt",
    "price_at_trade": 20.1,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.7
   },
   {
    "ticker": "SIBN",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1459839/0001218802-26-000006.txt",
    "price_at_trade": 20.1,
-   "price_now": 24.95,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.1
+   "price_now": 24.27,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.7
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "EVER",
  "company": {
   "name": "EverQuote, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 30.6,
- "price_date": "2026-11-04",
+ "price_now": 30.32,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EVER",
+   "company_name": "EverQuote, Inc.",
+   "owner_name": "Mendal Jayme",
+   "owner_title": "Director, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 18157.0,
+   "price": 23.82,
+   "value": 432499.74,
+   "shares_after": 551077.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-447732.txt",
+   "price_at_trade": 24.27,
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 24.9
+  },
+  {
+   "ticker": "EVER",
+   "company_name": "EverQuote, Inc.",
+   "owner_name": "Mendal Jayme",
+   "owner_title": "Director, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2824.0,
+   "price": 24.27,
+   "value": 68538.48,
+   "shares_after": 548253.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-447732.txt",
+   "price_at_trade": 24.27,
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 24.9
+  },
+  {
+   "ticker": "EVER",
+   "company_name": "EverQuote, Inc.",
+   "owner_name": "Mendal Jayme",
+   "owner_title": "Director, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 18157.0,
+   "price": 23.82,
+   "value": 432499.74,
+   "shares_after": 551077.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744403/0001193125-26-447732.txt",
+   "price_at_trade": 24.27,
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 24.9
+  },
+  {
+   "ticker": "EVER",
+   "company_name": "EverQuote, Inc.",
+   "owner_name": "Mendal Jayme",
+   "owner_title": "Director, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 2824.0,
+   "price": 24.27,
+   "value": 68538.48,
+   "shares_after": 548253.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744403/0001193125-26-447732.txt",
+   "price_at_trade": 24.27,
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 24.9
+  },
   {
    "ticker": "EVER",
    "company_name": "EverQuote, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-425358.txt",
    "price_at_trade": 21.79,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.4
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 39.1
   },
   {
    "ticker": "EVER",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1983015/0001193125-26-425358.txt",
    "price_at_trade": 21.79,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.4
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 39.1
   },
   {
    "ticker": "EVER",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-420597.txt",
    "price_at_trade": 19.8,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 54.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 53.1
   },
   {
    "ticker": "EVER",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-420599.txt",
    "price_at_trade": 19.8,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 54.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 53.1
   },
   {
    "ticker": "EVER",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744442/0001193125-26-420599.txt",
    "price_at_trade": 19.8,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 54.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 53.1
   },
   {
    "ticker": "EVER",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744788/0001193125-26-420597.txt",
    "price_at_trade": 19.8,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 54.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 53.1
   },
   {
    "ticker": "EVER",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-418041.txt",
    "price_at_trade": 20.74,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 47.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "EVER",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840881/0001193125-26-418041.txt",
    "price_at_trade": 20.74,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 47.5
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "EVER",
@@ -187,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-418040.txt",
    "price_at_trade": 19.39,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 57.8
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 56.4
   },
   {
    "ticker": "EVER",
@@ -206,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640428/0001193125-26-418041.txt",
    "price_at_trade": 19.39,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 57.8
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 56.4
   },
   {
    "ticker": "EVER",
@@ -225,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840881/0001193125-26-418041.txt",
    "price_at_trade": 19.39,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 57.8
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 56.4
   },
   {
    "ticker": "EVER",
@@ -244,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1983015/0001193125-26-418040.txt",
    "price_at_trade": 19.39,
-   "price_now": 30.6,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 57.8
+   "price_now": 30.32,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 56.4
   }
  ],
  "trump_trades": [],

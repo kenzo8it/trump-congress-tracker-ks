@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "PAM",
  "company": {
   "name": "Pampa Energy Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electric Services",
   "sector": "Energy & Utilities"
  },
- "price_now": 64.84,
- "price_date": "2026-11-04",
+ "price_now": 64.07,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Zuberbuhler Adolfo Fernando",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 3136.0,
+   "price": 66.11,
+   "value": 207320.96,
+   "shares_after": 2885.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002123147-26-000003.txt",
+   "price_at_trade": 64.84,
+   "price_now": 64.07,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Zuberbuhler Adolfo Fernando",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 3136.0,
+   "price": 66.11,
+   "value": 207320.96,
+   "shares_after": 2885.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2123147/0002123147-26-000003.txt",
+   "price_at_trade": 64.84,
+   "price_now": 64.07,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "PAM",
    "company_name": "Pampa Energy Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000017.txt",
    "price_at_trade": 80.48,
-   "price_now": 64.84,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -19.4
+   "price_now": 64.07,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.4
   },
   {
    "ticker": "PAM",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000017.txt",
    "price_at_trade": 80.48,
-   "price_now": 64.84,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -19.4
+   "price_now": 64.07,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -20.4
   }
  ],
  "trump_trades": [],

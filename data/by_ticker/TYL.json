@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "TYL",
  "company": {
   "name": "TYLER TECHNOLOGIES INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 423.2,
- "price_date": "2026-11-04",
+ "price_now": 430.37,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 332.21,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.4,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 29.5,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 311.89,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 35.7,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 38.0,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 322.31,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 31.3,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 33.5,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 349.79,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 21.0,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 23.0,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 553.99,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -23.6,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -22.3,
    "days_to_disclose": 41,
    "late_filing": false
   }
@@ -179,10 +179,10 @@
    "ticker": "TYL",
    "est_shares": 24.1,
    "avg_price": 332.21,
-   "price_now": 423.2,
-   "est_position_value": 10192,
-   "total_return_pct": 27.4,
-   "total_return_usd": 2191,
+   "price_now": 430.37,
+   "est_position_value": 10364,
+   "total_return_pct": 29.5,
+   "total_return_usd": 2364,
    "first_buy": "2026-03-13",
    "last_trade": "2026-08-18"
   }
@@ -191,6 +191,44 @@
   {
    "ticker": "TYL",
    "company_name": "TYLER TECHNOLOGIES INC",
+   "owner_name": "Pope Daniel M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 680.0,
+   "price": 407.56,
+   "value": 277140.8,
+   "shares_after": 2643.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1673912/0002130035-26-000007.txt",
+   "price_at_trade": 403.94,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.5
+  },
+  {
+   "ticker": "TYL",
+   "company_name": "TYLER TECHNOLOGIES INC",
+   "owner_name": "Pope Daniel M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 680.0,
+   "price": 407.56,
+   "value": 277140.8,
+   "shares_after": 2643.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000007.txt",
+   "price_at_trade": 403.94,
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 6.5
+  },
+  {
+   "ticker": "TYL",
+   "company_name": "TYLER TECHNOLOGIES INC",
    "owner_name": "MOORE H LYNN JR",
    "owner_title": "Director, President and CEO",
    "trade_type": "SELL",
@@ -203,9 +241,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -222,9 +260,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -241,9 +279,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -260,9 +298,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -279,9 +317,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -298,9 +336,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -317,9 +355,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -336,9 +374,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -355,9 +393,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1250902/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -374,9 +412,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -393,9 +431,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -412,9 +450,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -431,9 +469,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -450,9 +488,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -469,9 +507,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -488,9 +526,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -507,9 +545,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "TYL",
@@ -526,9 +564,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000006.txt",
    "price_at_trade": 394.3,
-   "price_now": 423.2,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 7.3
+   "price_now": 430.37,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 9.1
   }
  ],
  "trump_trades": [],

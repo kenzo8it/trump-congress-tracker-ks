@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "MSTR",
  "company": {
   "name": "Strategy Inc",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 142.54,
- "price_date": "2026-11-04",
+ "price_now": 129.3,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 120.44,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 18.3,
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 7.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 301.91,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -52.8,
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -57.2,
    "days_to_disclose": 296,
    "late_filing": true
   }
@@ -89,10 +89,10 @@
    "ticker": "MSTR",
    "est_shares": 269.8,
    "avg_price": 120.44,
-   "price_now": 142.54,
-   "est_position_value": 38464,
-   "total_return_pct": 18.3,
-   "total_return_usd": 5964,
+   "price_now": 129.3,
+   "est_position_value": 34891,
+   "total_return_pct": 7.4,
+   "total_return_usd": 2391,
    "first_buy": "2026-06-05",
    "last_trade": "2026-06-05"
   }
@@ -104,6 +104,44 @@
    "owner_name": "Patten Jarrod M",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 950.0,
+   "price": 136.04,
+   "value": 129238.0,
+   "shares_after": 28406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-447181.txt",
+   "price_at_trade": 135.63,
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -4.7
+  },
+  {
+   "ticker": "MSTR",
+   "company_name": "Strategy Inc",
+   "owner_name": "Patten Jarrod M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 950.0,
+   "price": 136.04,
+   "value": 129238.0,
+   "shares_after": 28406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-447181.txt",
+   "price_at_trade": 135.63,
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -4.7
+  },
+  {
+   "ticker": "MSTR",
+   "company_name": "Strategy Inc",
+   "owner_name": "Patten Jarrod M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-10-09",
    "reported_date": "2026-10-13",
    "shares": 450.0,
@@ -113,9 +151,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -132,9 +170,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -151,9 +189,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -170,9 +208,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -189,9 +227,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -208,9 +246,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-420388.txt",
    "price_at_trade": 154.34,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -7.6
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "MSTR",
@@ -227,9 +265,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-420388.txt",
    "price_at_trade": 151.47,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -5.9
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -14.6
   },
   {
    "ticker": "MSTR",
@@ -246,9 +284,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050446/0001193125-26-420388.txt",
    "price_at_trade": 151.47,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -5.9
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -14.6
   },
   {
    "ticker": "MSTR",
@@ -265,9 +303,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-420388.txt",
    "price_at_trade": 151.47,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -5.9
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -14.6
   },
   {
    "ticker": "MSTR",
@@ -284,9 +322,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-420388.txt",
    "price_at_trade": 151.47,
-   "price_now": 142.54,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": -5.9
+   "price_now": 129.3,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -14.6
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "UMBF",
  "company": {
   "name": "UMB FINANCIAL CORP",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 138.51,
- "price_date": "2026-11-04",
+ "price_now": 134.7,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "UMBF",
+   "company_name": "UMB FINANCIAL CORP",
+   "owner_name": "GRAVES GREG M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 291.9282,
+   "price": 137.02,
+   "value": 40000.0,
+   "shares_after": 40892.914,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101382/0000101382-26-000191.txt",
+   "price_at_trade": 137.46,
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "UMBF",
+   "company_name": "UMB FINANCIAL CORP",
+   "owner_name": "Peterman Tamara",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 200.7006,
+   "price": 137.02,
+   "value": 27500.0,
+   "shares_after": 10922.4356,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101382/0000101382-26-000193.txt",
+   "price_at_trade": 137.46,
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "UMBF",
+   "company_name": "UMB FINANCIAL CORP",
+   "owner_name": "GRAVES GREG M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 291.9282,
+   "price": 137.02,
+   "value": 40000.0,
+   "shares_after": 40892.914,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1267879/0000101382-26-000191.txt",
+   "price_at_trade": 137.46,
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "UMBF",
+   "company_name": "UMB FINANCIAL CORP",
+   "owner_name": "Peterman Tamara",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 200.7006,
+   "price": 137.02,
+   "value": 27500.0,
+   "shares_after": 10922.4356,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1774955/0000101382-26-000193.txt",
+   "price_at_trade": 137.46,
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -2.0
+  },
   {
    "ticker": "UMBF",
    "company_name": "UMB FINANCIAL CORP",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/101382/0000101382-26-000186.txt",
    "price_at_trade": 134.47,
-   "price_now": 138.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 3.0
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "UMBF",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1417351/0000101382-26-000186.txt",
    "price_at_trade": 134.47,
-   "price_now": 138.51,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 3.0
+   "price_now": 134.7,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.2
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "BETA",
  "company": {
   "name": "BETA Technologies, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Aircraft",
   "sector": "Defense & Aerospace"
  },
- "price_now": 25.31,
- "price_date": "2026-11-04",
+ "price_now": 24.05,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,120 @@
    "owner_name": "Clark Kyle",
    "owner_title": "Director, SEE REMARKS",
    "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 24.9045,
+   "value": 249045.0,
+   "shares_after": 4935936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-447773.txt",
+   "price_at_trade": 25.31,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 24.9045,
+   "value": 249045.0,
+   "shares_after": 4935936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-447773.txt",
+   "price_at_trade": 25.31,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 23.3229,
+   "value": 233229.0,
+   "shares_after": 4945936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-447773.txt",
+   "price_at_trade": 23.64,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.7
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 23.3229,
+   "value": 233229.0,
+   "shares_after": 4945936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-447773.txt",
+   "price_at_trade": 23.64,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.7
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 20.686,
+   "value": 206860.0,
+   "shares_after": 4955936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-447773.txt",
+   "price_at_trade": 20.38,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 18.0
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-02",
+   "reported_date": "2026-11-04",
+   "shares": 10000.0,
+   "price": 20.686,
+   "value": 206860.0,
+   "shares_after": 4955936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-447773.txt",
+   "price_at_trade": 20.38,
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 18.0
+  },
+  {
+   "ticker": "BETA",
+   "company_name": "BETA Technologies, Inc.",
+   "owner_name": "Clark Kyle",
+   "owner_title": "Director, SEE REMARKS",
+   "trade_type": "SELL",
    "traded_date": "2026-10-30",
    "reported_date": "2026-10-30",
    "shares": 10000.0,
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-441991.txt",
    "price_at_trade": 20.05,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 26.2
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.0
   },
   {
    "ticker": "BETA",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-441991.txt",
    "price_at_trade": 20.05,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 26.2
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.0
   },
   {
    "ticker": "BETA",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-441991.txt",
    "price_at_trade": 20.57,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 23.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "BETA",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-441991.txt",
    "price_at_trade": 20.57,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 23.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "BETA",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-441991.txt",
    "price_at_trade": 19.98,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 26.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.4
   },
   {
    "ticker": "BETA",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-441991.txt",
    "price_at_trade": 19.98,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 26.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 20.4
   },
   {
    "ticker": "BETA",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-434615.txt",
    "price_at_trade": 20.75,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 22.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 15.9
   },
   {
    "ticker": "BETA",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-434615.txt",
    "price_at_trade": 20.75,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 22.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 15.9
   },
   {
    "ticker": "BETA",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-434615.txt",
    "price_at_trade": 19.82,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.3
   },
   {
    "ticker": "BETA",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-434615.txt",
    "price_at_trade": 19.82,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.3
   },
   {
    "ticker": "BETA",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-434615.txt",
    "price_at_trade": 19.8,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.8
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.5
   },
   {
    "ticker": "BETA",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-434615.txt",
    "price_at_trade": 19.8,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.8
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.5
   },
   {
    "ticker": "BETA",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-429389.txt",
    "price_at_trade": 18.6,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 36.1
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 29.3
   },
   {
    "ticker": "BETA",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-429389.txt",
    "price_at_trade": 18.6,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 36.1
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 29.3
   },
   {
    "ticker": "BETA",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-429389.txt",
    "price_at_trade": 18.73,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 35.1
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 28.4
   },
   {
    "ticker": "BETA",
@@ -320,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-429389.txt",
    "price_at_trade": 18.73,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 35.1
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 28.4
   },
   {
    "ticker": "BETA",
@@ -339,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-429389.txt",
    "price_at_trade": 18.15,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 39.4
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 32.5
   },
   {
    "ticker": "BETA",
@@ -358,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-429389.txt",
    "price_at_trade": 18.15,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 39.4
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 32.5
   },
   {
    "ticker": "BETA",
@@ -377,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-425520.txt",
    "price_at_trade": 17.99,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 33.7
   },
   {
    "ticker": "BETA",
@@ -396,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-425520.txt",
    "price_at_trade": 17.99,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 33.7
   },
   {
    "ticker": "BETA",
@@ -415,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-425520.txt",
    "price_at_trade": 18.03,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.4
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 33.4
   },
   {
    "ticker": "BETA",
@@ -434,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-425520.txt",
    "price_at_trade": 18.03,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 40.4
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 33.4
   },
   {
    "ticker": "BETA",
@@ -453,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-425520.txt",
    "price_at_trade": 18.8,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 34.6
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 27.9
   },
   {
    "ticker": "BETA",
@@ -472,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-425520.txt",
    "price_at_trade": 18.8,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 34.6
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 27.9
   },
   {
    "ticker": "BETA",
@@ -491,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-422053.txt",
    "price_at_trade": 17.68,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 43.2
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 36.0
   },
   {
    "ticker": "BETA",
@@ -510,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-422053.txt",
    "price_at_trade": 17.68,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 43.2
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 36.0
   },
   {
    "ticker": "BETA",
@@ -529,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-422053.txt",
    "price_at_trade": 18.21,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 39.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 32.1
   },
   {
    "ticker": "BETA",
@@ -548,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-422053.txt",
    "price_at_trade": 18.21,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 39.0
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 32.1
   },
   {
    "ticker": "BETA",
@@ -567,9 +681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-422053.txt",
    "price_at_trade": 19.82,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.3
   },
   {
    "ticker": "BETA",
@@ -586,9 +700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-422053.txt",
    "price_at_trade": 19.82,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 27.7
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 21.3
   },
   {
    "ticker": "BETA",
@@ -605,9 +719,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-419283.txt",
    "price_at_trade": 20.98,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 20.6
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 14.6
   },
   {
    "ticker": "BETA",
@@ -624,9 +738,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-419283.txt",
    "price_at_trade": 20.98,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 20.6
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 14.6
   },
   {
    "ticker": "BETA",
@@ -643,9 +757,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-419283.txt",
    "price_at_trade": 20.5,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 23.5
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 17.3
   },
   {
    "ticker": "BETA",
@@ -662,9 +776,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-419283.txt",
    "price_at_trade": 20.5,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 23.5
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 17.3
   },
   {
    "ticker": "BETA",
@@ -681,9 +795,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1784570/0001193125-26-419283.txt",
    "price_at_trade": 20.26,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.9
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 18.7
   },
   {
    "ticker": "BETA",
@@ -700,9 +814,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2090083/0001193125-26-419283.txt",
    "price_at_trade": 20.26,
-   "price_now": 25.31,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 24.9
+   "price_now": 24.05,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 18.7
   }
  ],
  "trump_trades": [],

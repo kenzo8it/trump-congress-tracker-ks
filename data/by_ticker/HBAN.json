@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:41+00:00",
+ "updated": "2026-11-06T02:41+00:00",
  "ticker": "HBAN",
  "company": {
   "name": "HUNTINGTON BANCSHARES INC /MD/",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 16.06,
- "price_date": "2026-11-04",
+ "price_now": 15.61,
+ "price_date": "2026-11-05",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "HBAN",
+   "company_name": "HUNTINGTON BANCSHARES INC /MD/",
+   "owner_name": "White Donnell R",
+   "owner_title": "Chief DEI Officer, SVP",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 3000.0,
+   "price": 15.865,
+   "value": 47595.0,
+   "shares_after": 23697.094,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802620/0001225208-26-008651.txt",
+   "price_at_trade": 15.86,
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "HBAN",
+   "company_name": "HUNTINGTON BANCSHARES INC /MD/",
+   "owner_name": "White Donnell R",
+   "owner_title": "Chief DEI Officer, SVP",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-04",
+   "shares": 3000.0,
+   "price": 15.865,
+   "value": 47595.0,
+   "shares_after": 23697.094,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/0001225208-26-008651.txt",
+   "price_at_trade": 15.86,
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.6
+  },
   {
    "ticker": "HBAN",
    "company_name": "HUNTINGTON BANCSHARES INC /MD/",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1251487/0001225208-26-008552.txt",
    "price_at_trade": 15.71,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.2
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.6
   },
   {
    "ticker": "HBAN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/0001225208-26-008552.txt",
    "price_at_trade": 15.71,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.2
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.6
   },
   {
    "ticker": "HBAN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1213483/0001225208-26-008542.txt",
    "price_at_trade": 15.73,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.1
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HBAN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1213483/0001225208-26-008542.txt",
    "price_at_trade": 15.73,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.1
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HBAN",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/0001225208-26-008542.txt",
    "price_at_trade": 15.73,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.1
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HBAN",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/0001225208-26-008542.txt",
    "price_at_trade": 15.73,
-   "price_now": 16.06,
-   "price_now_date": "2026-11-04",
-   "total_return_pct": 2.1
+   "price_now": 15.61,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -0.8
   }
  ],
  "trump_trades": [],
