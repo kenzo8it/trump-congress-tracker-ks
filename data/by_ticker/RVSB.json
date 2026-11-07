@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "RVSB",
  "company": {
   "name": "RIVERVIEW BANCORP INC",
@@ -9,7 +9,7 @@
   "sector": "Financials"
  },
  "price_now": 6.12,
- "price_date": "2026-11-05",
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "NIES GERALD LEE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 18001.0,
+   "price": 6.1502,
+   "value": 110709.75,
+   "shares_after": 147522.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0001474005-26-000002.txt",
+   "price_at_trade": 6.13,
+   "price_now": 6.12,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "NIES GERALD LEE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 18001.0,
+   "price": 6.1502,
+   "value": 110709.75,
+   "shares_after": 147522.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1474005/0001474005-26-000002.txt",
+   "price_at_trade": 6.13,
+   "price_now": 6.12,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "NIES GERALD LEE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 25169.0,
+   "price": 6.1312,
+   "value": 154316.17,
+   "shares_after": 165523.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0001474005-26-000002.txt",
+   "price_at_trade": 6.09,
+   "price_now": 6.12,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "NIES GERALD LEE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 25169.0,
+   "price": 6.1312,
+   "value": 154316.17,
+   "shares_after": 165523.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1474005/0001474005-26-000002.txt",
+   "price_at_trade": 6.09,
+   "price_now": 6.12,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "RVSB",
    "company_name": "RIVERVIEW BANCORP INC",
@@ -36,7 +112,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0002128637-26-000009.txt",
    "price_at_trade": 6.01,
    "price_now": 6.12,
-   "price_now_date": "2026-11-05",
+   "price_now_date": "2026-11-06",
    "total_return_pct": 1.8
   },
   {
@@ -55,7 +131,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/2128637/0002128637-26-000009.txt",
    "price_at_trade": 6.01,
    "price_now": 6.12,
-   "price_now_date": "2026-11-05",
+   "price_now_date": "2026-11-06",
    "total_return_pct": 1.8
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "IRD",
  "company": {
   "name": "Opus Genetics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 4.01,
- "price_date": "2026-11-05",
+ "price_now": 4.18,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "IRD",
+   "company_name": "Opus Genetics, Inc.",
+   "owner_name": "Magrath George",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 28258.0,
+   "price": 3.8992,
+   "value": 110183.59,
+   "shares_after": 2010636.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-042102.txt",
+   "price_at_trade": 3.93,
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 6.4
+  },
+  {
+   "ticker": "IRD",
+   "company_name": "Opus Genetics, Inc.",
+   "owner_name": "Magrath George",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 28258.0,
+   "price": 3.8992,
+   "value": 110183.59,
+   "shares_after": 2010636.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1999390/0001140361-26-042102.txt",
+   "price_at_trade": 3.93,
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 6.4
+  },
   {
    "ticker": "IRD",
    "company_name": "Opus Genetics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1145910/0001140361-26-040906.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1145910/0001140361-26-040906.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1145914/0001140361-26-040908.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-040893.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-040896.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-040906.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-040906.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1228627/0001140361-26-040908.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1504983/0001140361-26-040896.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   },
   {
    "ticker": "IRD",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1999390/0001140361-26-040893.txt",
    "price_at_trade": 3.47,
-   "price_now": 4.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 4.18,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 20.5
   }
  ],
  "trump_trades": [],

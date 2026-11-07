@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "MTUS",
  "company": {
   "name": "Metallus Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MTUS",
+   "company_name": "Metallus Inc.",
+   "owner_name": "RICE RONALD A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 10000.0,
+   "price": 16.61,
+   "value": 166100.0,
+   "shares_after": 161818.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1224027/0001193125-26-450443.txt",
+   "price_at_trade": 15.76,
+   "price_now": 15.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MTUS",
+   "company_name": "Metallus Inc.",
+   "owner_name": "RICE RONALD A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 10000.0,
+   "price": 16.61,
+   "value": 166100.0,
+   "shares_after": 161818.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1598428/0001193125-26-450443.txt",
+   "price_at_trade": 15.76,
+   "price_now": 15.76,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "MTUS",
    "company_name": "Metallus Inc.",

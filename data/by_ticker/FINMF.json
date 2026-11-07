@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "FINMF",
  "company": {},
- "price_now": 54.61,
- "price_date": "2026-11-05",
+ "price_now": 54.1,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -36,9 +36,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 68.59,
-   "price_now": 54.61,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -20.4,
+   "price_now": 54.1,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -21.1,
    "days_to_disclose": 10,
    "late_filing": false
   }
@@ -53,10 +53,10 @@
    "ticker": "FINMF",
    "est_shares": 116.6,
    "avg_price": 68.59,
-   "price_now": 54.61,
-   "est_position_value": 6370,
-   "total_return_pct": -20.4,
-   "total_return_usd": -1631,
+   "price_now": 54.1,
+   "est_position_value": 6310,
+   "total_return_pct": -21.1,
+   "total_return_usd": -1690,
    "first_buy": "2026-02-03",
    "last_trade": "2026-02-03"
   }

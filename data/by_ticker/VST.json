@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "VST",
  "company": {
   "name": "Vistra Corp.",
@@ -203,46 +203,7 @@
    "last_trade": "2026-01-16"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "VST",
-   "company_name": "Vistra Corp.",
-   "owner_name": "Moldovan Kristopher E.",
-   "owner_title": "EVP and CFO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-07",
-   "reported_date": "2026-10-08",
-   "shares": 20000.0,
-   "price": 165.0,
-   "value": 3300000.0,
-   "shares_after": 179044.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1692819/0001940494-26-000008.txt",
-   "price_at_trade": 166.72,
-   "price_now": 112.89,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -32.3
-  },
-  {
-   "ticker": "VST",
-   "company_name": "Vistra Corp.",
-   "owner_name": "Moldovan Kristopher E.",
-   "owner_title": "EVP and CFO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-07",
-   "reported_date": "2026-10-08",
-   "shares": 20000.0,
-   "price": 165.0,
-   "value": 3300000.0,
-   "shares_after": 179044.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1940494/0001940494-26-000008.txt",
-   "price_at_trade": 166.72,
-   "price_now": 112.89,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -32.3
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

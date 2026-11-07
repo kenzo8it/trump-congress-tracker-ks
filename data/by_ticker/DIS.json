@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "DIS",
  "company": {
   "name": "Walt Disney Co",
@@ -8,8 +8,8 @@
   "industry": "Services-Miscellaneous Amusement & Recreation",
   "sector": "Retail & Consumer"
  },
- "price_now": 117.22,
- "price_date": "2026-11-05",
+ "price_now": 116.75,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 109.04,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 7.5,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 7.1,
    "days_to_disclose": -1,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 103.18,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 13.6,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 13.2,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 97.67,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 20.0,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 19.5,
    "days_to_disclose": 26,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 109.12,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 7.4,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 7.0,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -166,9 +166,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 115.0,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.9,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.5,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -196,9 +196,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 113.92,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 2.9,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.5,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -226,9 +226,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 110.52,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 6.1,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.6,
    "days_to_disclose": 71,
    "late_filing": true
   },
@@ -256,9 +256,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 110.65,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.9,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.5,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -273,10 +273,10 @@
    "ticker": "DIS",
    "est_shares": 72.4,
    "avg_price": 110.52,
-   "price_now": 117.22,
-   "est_position_value": 8486,
-   "total_return_pct": 6.1,
-   "total_return_usd": 485,
+   "price_now": 116.75,
+   "est_position_value": 8451,
+   "total_return_pct": 5.6,
+   "total_return_usd": 451,
    "first_buy": "2025-11-03",
    "last_trade": "2025-11-03"
   }
@@ -288,6 +288,44 @@
    "owner_name": "WOODFORD BRENT",
    "owner_title": "EVP, Control, Fin Plan & Tax",
    "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 3618.0,
+   "price": 117.0,
+   "value": 423306.0,
+   "shares_after": 62995.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1211698/0001628280-26-071215.txt",
+   "price_at_trade": 118.95,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "DIS",
+   "company_name": "Walt Disney Co",
+   "owner_name": "WOODFORD BRENT",
+   "owner_title": "EVP, Control, Fin Plan & Tax",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 3618.0,
+   "price": 117.0,
+   "value": 423306.0,
+   "shares_after": 62995.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/0001628280-26-071215.txt",
+   "price_at_trade": 118.95,
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "DIS",
+   "company_name": "Walt Disney Co",
+   "owner_name": "WOODFORD BRENT",
+   "owner_title": "EVP, Control, Fin Plan & Tax",
+   "trade_type": "SELL",
    "traded_date": "2026-11-02",
    "reported_date": "2026-11-03",
    "shares": 2856.0,
@@ -297,9 +335,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1211698/0001628280-26-069657.txt",
    "price_at_trade": 113.11,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.6
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "DIS",
@@ -316,9 +354,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1211698/0001628280-26-069657.txt",
    "price_at_trade": 113.11,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.6
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "DIS",
@@ -335,9 +373,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/0001628280-26-069657.txt",
    "price_at_trade": 113.11,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.6
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "DIS",
@@ -354,9 +392,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/0001628280-26-069657.txt",
    "price_at_trade": 113.11,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.6
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "DIS",
@@ -373,9 +411,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1211698/0001628280-26-066355.txt",
    "price_at_trade": 110.59,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 6.0
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "DIS",
@@ -392,9 +430,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/0001628280-26-066355.txt",
    "price_at_trade": 110.59,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 6.0
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "DIS",
@@ -411,9 +449,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1211698/0001628280-26-065544.txt",
    "price_at_trade": 107.02,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 9.5
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "DIS",
@@ -430,9 +468,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/0001628280-26-065544.txt",
    "price_at_trade": 107.02,
-   "price_now": 117.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 9.5
+   "price_now": 116.75,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 9.1
   }
  ],
  "trump_trades": [],

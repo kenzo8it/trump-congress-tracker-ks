@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "BE",
  "company": {
   "name": "Bloom Energy Corp",
@@ -324,6 +324,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "BE",
+   "company_name": "Bloom Energy Corp",
+   "owner_name": "Burger Barbara J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 2333.0,
+   "price": 215.05,
+   "value": 501711.65,
+   "shares_after": 36607.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1664703/0001193125-26-450213.txt",
+   "price_at_trade": 214.01,
+   "price_now": 167.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -21.7
+  },
+  {
+   "ticker": "BE",
+   "company_name": "Bloom Energy Corp",
+   "owner_name": "Burger Barbara J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 2333.0,
+   "price": 215.05,
+   "value": 501711.65,
+   "shares_after": 36607.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1944715/0001193125-26-450213.txt",
+   "price_at_trade": 214.01,
+   "price_now": 167.52,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -21.7
+  },
   {
    "ticker": "BE",
    "company_name": "Bloom Energy Corp",

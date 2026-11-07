@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "CHWY",
  "company": {
   "name": "Chewy, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Billings William G.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 4815.0,
+   "price": 23.0,
+   "value": 110745.0,
+   "shares_after": 36595.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1766502/0001766502-26-000075.txt",
+   "price_at_trade": 23.4,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "CHWY",
+   "company_name": "Chewy, Inc.",
+   "owner_name": "Billings William G.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 4815.0,
+   "price": 23.0,
+   "value": 110745.0,
+   "shares_after": 36595.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1879000/0001766502-26-000075.txt",
+   "price_at_trade": 23.4,
+   "price_now": 23.0,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -1.7
+  },
   {
    "ticker": "CHWY",
    "company_name": "Chewy, Inc.",

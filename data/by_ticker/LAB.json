@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-07T02:10+00:00",
+ "ticker": "LAB",
+ "company": {
+  "name": "STANDARD BIOTOOLS INC.",
+  "cik": 1162194,
+  "sic": 2834,
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Healthcare"
+ },
+ "price_now": 0.64,
+ "price_date": "2026-11-06",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LAB",
+   "company_name": "STANDARD BIOTOOLS INC.",
+   "owner_name": "Carey Thomas D.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 75000.0,
+   "price": 0.6253,
+   "value": 46897.5,
+   "shares_after": 419456.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1162194/0001193125-26-450238.txt",
+   "price_at_trade": 0.62,
+   "price_now": 0.64,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
+  },
+  {
+   "ticker": "LAB",
+   "company_name": "STANDARD BIOTOOLS INC.",
+   "owner_name": "Carey Thomas D.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 75000.0,
+   "price": 0.6253,
+   "value": 46897.5,
+   "shares_after": 419456.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1574633/0001193125-26-450238.txt",
+   "price_at_trade": 0.62,
+   "price_now": 0.64,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

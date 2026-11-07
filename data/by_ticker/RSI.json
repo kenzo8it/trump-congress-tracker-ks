@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "RSI",
  "company": {
   "name": "Rush Street Interactive, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RSI",
+   "company_name": "Rush Street Interactive, Inc.",
+   "owner_name": "Sauers Kyle",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 23000.0,
+   "price": 12.0,
+   "value": 276000.0,
+   "shares_after": 555417.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1588894/0001588894-26-000026.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "RSI",
+   "company_name": "Rush Street Interactive, Inc.",
+   "owner_name": "Sauers Kyle",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 23000.0,
+   "price": 12.0,
+   "value": 276000.0,
+   "shares_after": 555417.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1793659/0001588894-26-000026.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.9,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -5.0
+  },
   {
    "ticker": "RSI",
    "company_name": "Rush Street Interactive, Inc.",

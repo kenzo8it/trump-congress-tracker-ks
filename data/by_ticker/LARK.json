@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "LARK",
  "company": {
   "name": "LANDMARK BANCORP INC",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 31.7,
- "price_date": "2026-11-05",
+ "price_now": 31.72,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "ALEXANDER PATRICK L",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 350.0,
+   "price": 32.5,
+   "value": 11375.0,
+   "shares_after": 67093.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-050314.txt",
+   "price_at_trade": 31.7,
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "ALEXANDER PATRICK L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 350.0,
+   "price": 32.5,
+   "value": 11375.0,
+   "shares_after": 67093.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/942698/0001493152-26-050314.txt",
+   "price_at_trade": 31.7,
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "ALEXANDER PATRICK L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 3018.0,
+   "price": 32.5,
+   "value": 98085.0,
+   "shares_after": 67443.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-050314.txt",
+   "price_at_trade": 32.39,
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "ALEXANDER PATRICK L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 3018.0,
+   "price": 32.5,
+   "value": 98085.0,
+   "shares_after": 67443.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/942698/0001493152-26-050314.txt",
+   "price_at_trade": 32.39,
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "LARK",
+   "company_name": "LANDMARK BANCORP INC",
+   "owner_name": "ALEXANDER PATRICK L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-03",
    "reported_date": "2026-11-03",
    "shares": 2.0,
@@ -35,8 +111,8 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049832.txt",
    "price_at_trade": 31.9,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
    "total_return_pct": -0.6
   },
   {
@@ -54,8 +130,8 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/942698/0001493152-26-049832.txt",
    "price_at_trade": 31.9,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
    "total_return_pct": -0.6
   },
   {
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049832.txt",
    "price_at_trade": 32.35,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -2.0
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.9
   },
   {
    "ticker": "LARK",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/942698/0001493152-26-049832.txt",
    "price_at_trade": 32.35,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -2.0
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.9
   },
   {
    "ticker": "LARK",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049477.txt",
    "price_at_trade": 32.07,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.2
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "LARK",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1260150/0001493152-26-049477.txt",
    "price_at_trade": 32.07,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.2
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "LARK",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049477.txt",
    "price_at_trade": 32.27,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.8
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LARK",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1260150/0001493152-26-049477.txt",
    "price_at_trade": 32.27,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.8
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LARK",
@@ -187,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141688/0001493152-26-049135.txt",
    "price_at_trade": 32.12,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.3
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "LARK",
@@ -206,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1260150/0001493152-26-049135.txt",
    "price_at_trade": 32.12,
-   "price_now": 31.7,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.3
+   "price_now": 31.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
   }
  ],
  "trump_trades": [],

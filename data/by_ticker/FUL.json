@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "FUL",
  "company": {
   "name": "FULLER H B CO",
@@ -8,8 +8,8 @@
   "industry": "Adhesives & Sealants",
   "sector": "Other"
  },
- "price_now": 50.22,
- "price_date": "2026-11-05",
+ "price_now": 49.86,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1621150/0001225208-26-008441.txt",
    "price_at_trade": 51.32,
-   "price_now": 50.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -2.1
+   "price_now": 49.86,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.8
   },
   {
    "ticker": "FUL",
@@ -54,47 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/39368/0001225208-26-008441.txt",
    "price_at_trade": 51.32,
-   "price_now": 50.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -2.1
-  },
-  {
-   "ticker": "FUL",
-   "company_name": "FULLER H B CO",
-   "owner_name": "BAILLY R JEFFREY",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-07",
-   "reported_date": "2026-10-08",
-   "shares": 10000.0,
-   "price": 50.0,
-   "value": 500000.0,
-   "shares_after": 10000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1033284/0001225208-26-008325.txt",
-   "price_at_trade": 49.67,
-   "price_now": 50.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.1
-  },
-  {
-   "ticker": "FUL",
-   "company_name": "FULLER H B CO",
-   "owner_name": "BAILLY R JEFFREY",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-07",
-   "reported_date": "2026-10-08",
-   "shares": 10000.0,
-   "price": 50.0,
-   "value": 500000.0,
-   "shares_after": 10000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/39368/0001225208-26-008325.txt",
-   "price_at_trade": 49.67,
-   "price_now": 50.22,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.1
+   "price_now": 49.86,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.8
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "PKBK",
  "company": {
   "name": "PARKE BANCORP, INC.",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 32.48,
- "price_date": "2026-11-05",
+ "price_now": 32.62,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PKBK",
+   "company_name": "PARKE BANCORP, INC.",
+   "owner_name": "Hill Jonathan D.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 454.0,
+   "price": 33.01,
+   "value": 14986.54,
+   "shares_after": 30.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1315399/0001437749-26-035185.txt",
+   "price_at_trade": 32.91,
+   "price_now": 32.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "PKBK",
+   "company_name": "PARKE BANCORP, INC.",
+   "owner_name": "Hill Jonathan D.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 454.0,
+   "price": 33.01,
+   "value": 14986.54,
+   "shares_after": 30.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1957321/0001437749-26-035185.txt",
+   "price_at_trade": 32.91,
+   "price_now": 32.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.9
+  },
   {
    "ticker": "PKBK",
    "company_name": "PARKE BANCORP, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315399/0001437749-26-034164.txt",
    "price_at_trade": 32.95,
-   "price_now": 32.48,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.4
+   "price_now": 32.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "PKBK",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1323979/0001437749-26-034164.txt",
    "price_at_trade": 32.95,
-   "price_now": 32.48,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -1.4
+   "price_now": 32.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.0
   }
  ],
  "trump_trades": [],

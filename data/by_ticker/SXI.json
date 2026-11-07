@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "SXI",
  "company": {
   "name": "STANDEX INTERNATIONAL CORP/DE/",
@@ -8,8 +8,8 @@
   "industry": "Refrigeration & Service Industry Machinery",
   "sector": "Construction & Industrials"
  },
- "price_now": 232.68,
- "price_date": "2026-11-05",
+ "price_now": 228.36,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SXI",
+   "company_name": "STANDEX INTERNATIONAL CORP/DE/",
+   "owner_name": "CANNON CHARLES H JR",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 908.0,
+   "price": 259.03,
+   "value": 235199.24,
+   "shares_after": 1989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1051324/0000310354-26-000116.txt",
+   "price_at_trade": 251.03,
+   "price_now": 228.36,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.0
+  },
+  {
+   "ticker": "SXI",
+   "company_name": "STANDEX INTERNATIONAL CORP/DE/",
+   "owner_name": "CANNON CHARLES H JR",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 908.0,
+   "price": 259.03,
+   "value": 235199.24,
+   "shares_after": 1989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000116.txt",
+   "price_at_trade": 251.03,
+   "price_now": 228.36,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.0
+  },
   {
    "ticker": "SXI",
    "company_name": "STANDEX INTERNATIONAL CORP/DE/",
@@ -34,10 +72,10 @@
    "shares_after": 12833.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1248847/0000310354-26-000114.txt",
-   "price_at_trade": 253.64,
-   "price_now": 232.68,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -8.3
+   "price_at_trade": 253.25,
+   "price_now": 228.36,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.8
   },
   {
    "ticker": "SXI",
@@ -53,10 +91,10 @@
    "shares_after": 12833.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000114.txt",
-   "price_at_trade": 253.64,
-   "price_now": 232.68,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -8.3
+   "price_at_trade": 253.25,
+   "price_now": 228.36,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.8
   }
  ],
  "trump_trades": [],

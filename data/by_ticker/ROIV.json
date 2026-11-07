@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "ROIV",
  "company": {
   "name": "Roivant Sciences Ltd.",
@@ -128,6 +128,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "ROIV",
+   "company_name": "Roivant Sciences Ltd.",
+   "owner_name": "Venker Eric",
+   "owner_title": "President & Immunovant CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 200000.0,
+   "price": 36.31,
+   "value": 7262000.0,
+   "shares_after": 999154.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635088/0001635088-26-000123.txt",
+   "price_at_trade": 36.04,
+   "price_now": 36.62,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "ROIV",
+   "company_name": "Roivant Sciences Ltd.",
+   "owner_name": "Venker Eric",
+   "owner_title": "President & Immunovant CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 200000.0,
+   "price": 36.31,
+   "value": 7262000.0,
+   "shares_after": 999154.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1801917/0001635088-26-000123.txt",
+   "price_at_trade": 36.04,
+   "price_now": 36.62,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 1.6
+  },
   {
    "ticker": "ROIV",
    "company_name": "Roivant Sciences Ltd.",

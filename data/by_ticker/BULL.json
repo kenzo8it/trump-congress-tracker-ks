@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "BULL",
  "company": {
   "name": "Webull Corp",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BULL",
+   "company_name": "Webull Corp",
+   "owner_name": "Denier Anthony Michael",
+   "owner_title": "Director, President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 53846.0,
+   "price": 5.3893,
+   "value": 290192.25,
+   "shares_after": 2063065.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1866364/0002093121-26-000009.txt",
+   "price_at_trade": 5.39,
+   "price_now": 4.81,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.8
+  },
+  {
+   "ticker": "BULL",
+   "company_name": "Webull Corp",
+   "owner_name": "Denier Anthony Michael",
+   "owner_title": "Director, President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 53846.0,
+   "price": 5.3893,
+   "value": 290192.25,
+   "shares_after": 2063065.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093121/0002093121-26-000009.txt",
+   "price_at_trade": 5.39,
+   "price_now": 4.81,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": -10.8
+  },
   {
    "ticker": "BULL",
    "company_name": "Webull Corp",

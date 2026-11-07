@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "CHCO",
  "company": {
   "name": "CITY HOLDING CO",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 142.05,
- "price_date": "2026-11-05",
+ "price_now": 141.49,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHCO",
+   "company_name": "CITY HOLDING CO",
+   "owner_name": "LEGGE JEFFREY DALE",
+   "owner_title": "EVP, CAO & CIO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 512.0,
+   "price": 145.3001,
+   "value": 74393.65,
+   "shares_after": 7656.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1601955/0000726854-26-000196.txt",
+   "price_at_trade": 144.54,
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "CHCO",
+   "company_name": "CITY HOLDING CO",
+   "owner_name": "LEGGE JEFFREY DALE",
+   "owner_title": "EVP, CAO & CIO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 512.0,
+   "price": 145.3001,
+   "value": 74393.65,
+   "shares_after": 7656.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/726854/0000726854-26-000196.txt",
+   "price_at_trade": 144.54,
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.1
+  },
   {
    "ticker": "CHCO",
    "company_name": "CITY HOLDING CO",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1234850/0000726854-26-000185.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1730666/0000726854-26-000188.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880770/0000726854-26-000187.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2029548/0000726854-26-000186.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/726854/0000726854-26-000185.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/726854/0000726854-26-000186.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/726854/0000726854-26-000187.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "CHCO",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/726854/0000726854-26-000188.txt",
    "price_at_trade": 142.01,
-   "price_now": 142.05,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.0
+   "price_now": 141.49,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.4
   }
  ],
  "trump_trades": [],

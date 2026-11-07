@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "TFC",
  "company": {
   "name": "TRUIST FINANCIAL CORP",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 49.84,
- "price_date": "2026-11-05",
+ "price_now": 49.38,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 49.55,
-   "price_now": 49.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.6,
+   "price_now": 49.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 48.21,
-   "price_now": 49.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.4,
+   "price_now": 49.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.4,
    "days_to_disclose": 35,
    "late_filing": false
   }
@@ -98,9 +98,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1534574/0001534574-26-000018.txt",
    "price_at_trade": 48.42,
-   "price_now": 49.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 2.9
+   "price_now": 49.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "TFC",
@@ -117,9 +117,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/92230/0001534574-26-000018.txt",
    "price_at_trade": 48.42,
-   "price_now": 49.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 2.9
+   "price_now": 49.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.0
   }
  ],
  "trump_trades": [],

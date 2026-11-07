@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "GRAB",
  "company": {
   "name": "Grab Holdings Ltd",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Ong Chin Yin",
+   "owner_title": "Chief Org Capability Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 38000.0,
+   "price": 3.21,
+   "value": 121980.0,
+   "shares_after": 3556611.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001990865-26-000015.txt",
+   "price_at_trade": 3.12,
+   "price_now": 3.48,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 11.5
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Ong Chin Yin",
+   "owner_title": "Chief Org Capability Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 38000.0,
+   "price": 3.21,
+   "value": 121980.0,
+   "shares_after": 3556611.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1990865/0001990865-26-000015.txt",
+   "price_at_trade": 3.12,
+   "price_now": 3.48,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 11.5
+  },
   {
    "ticker": "GRAB",
    "company_name": "Grab Holdings Ltd",

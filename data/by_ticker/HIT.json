@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "HIT",
  "company": {
   "name": "Health In Tech, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "HIT",
+   "company_name": "Health In Tech, Inc.",
+   "owner_name": "Hasan Zain Syed",
+   "owner_title": "Chief Growth Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 1667.0,
+   "price": 0.55,
+   "value": 916.85,
+   "shares_after": 171993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019505/0001213900-26-116405.txt",
+   "price_at_trade": 0.57,
+   "price_now": 0.58,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "HIT",
+   "company_name": "Health In Tech, Inc.",
+   "owner_name": "Hasan Zain Syed",
+   "owner_title": "Chief Growth Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 1667.0,
+   "price": 0.55,
+   "value": 916.85,
+   "shares_after": 171993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2102674/0001213900-26-116405.txt",
+   "price_at_trade": 0.57,
+   "price_now": 0.58,
+   "price_now_date": "2026-11-05",
+   "total_return_pct": 0.3
+  },
   {
    "ticker": "HIT",
    "company_name": "Health In Tech, Inc.",

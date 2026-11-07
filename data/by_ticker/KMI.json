@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "KMI",
  "company": {
   "name": "KINDER MORGAN, INC.",
@@ -8,8 +8,8 @@
   "industry": "Natural Gas Transmission",
   "sector": "Energy & Utilities"
  },
- "price_now": 30.19,
- "price_date": "2026-11-05",
+ "price_now": 29.96,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 31.66,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -4.6,
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.4,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 30.17,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 0.1,
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.7,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 26.13,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.5,
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 14.6,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 24.64,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 22.5,
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 21.6,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -164,9 +164,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 25.34,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 19.2,
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 18.2,
    "days_to_disclose": 35,
    "late_filing": false
   }
@@ -181,10 +181,10 @@
    "ticker": "KMI",
    "est_shares": 265.2,
    "avg_price": 30.17,
-   "price_now": 30.19,
-   "est_position_value": 8006,
-   "total_return_pct": 0.1,
-   "total_return_usd": 5,
+   "price_now": 29.96,
+   "est_position_value": 7945,
+   "total_return_pct": -0.7,
+   "total_return_usd": -56,
    "first_buy": "2026-02-10",
    "last_trade": "2026-02-10"
   },
@@ -197,10 +197,10 @@
    "ticker": "KMI",
    "est_shares": 324.7,
    "avg_price": 24.64,
-   "price_now": 30.19,
-   "est_position_value": 9803,
-   "total_return_pct": 22.5,
-   "total_return_usd": 1802,
+   "price_now": 29.96,
+   "est_position_value": 9728,
+   "total_return_pct": 21.6,
+   "total_return_usd": 1727,
    "first_buy": "2025-10-24",
    "last_trade": "2025-10-24"
   },
@@ -215,10 +215,10 @@
    "ticker": "KMI",
    "est_shares": 252.7,
    "avg_price": 31.66,
-   "price_now": 30.19,
-   "est_position_value": 7629,
-   "total_return_pct": -4.6,
-   "total_return_usd": -371,
+   "price_now": 29.96,
+   "est_position_value": 7571,
+   "total_return_pct": -5.4,
+   "total_return_usd": -430,
    "first_buy": "2026-02-19",
    "last_trade": "2026-02-19"
   }
@@ -239,9 +239,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1506307/0001506307-26-000128.txt",
    "price_at_trade": 33.9,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -10.9
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -11.6
   },
   {
    "ticker": "KMI",
@@ -258,9 +258,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080127/0001506307-26-000128.txt",
    "price_at_trade": 33.9,
-   "price_now": 30.19,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -10.9
+   "price_now": 29.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -11.6
   }
  ],
  "trump_trades": [],

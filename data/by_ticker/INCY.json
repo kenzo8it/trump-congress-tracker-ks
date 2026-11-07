@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "INCY",
  "company": {
   "name": "INCYTE CORP",
@@ -8,8 +8,8 @@
   "industry": "Services-Commercial Physical & Biological Research",
   "sector": "Healthcare"
  },
- "price_now": 118.01,
- "price_date": "2026-11-05",
+ "price_now": 119.65,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "INCY",
+   "company_name": "INCYTE CORP",
+   "owner_name": "Tray Thomas",
+   "owner_title": "Principal Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 610.0,
+   "price": 118.96,
+   "value": 72565.6,
+   "shares_after": 21126.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1912317/0001912317-26-000017.txt",
+   "price_at_trade": 117.59,
+   "price_now": 119.65,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "INCY",
+   "company_name": "INCYTE CORP",
+   "owner_name": "Tray Thomas",
+   "owner_title": "Principal Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-03",
+   "reported_date": "2026-11-05",
+   "shares": 610.0,
+   "price": 118.96,
+   "value": 72565.6,
+   "shares_after": 21126.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/879169/0001912317-26-000017.txt",
+   "price_at_trade": 117.59,
+   "price_now": 119.65,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.8
+  },
   {
    "ticker": "INCY",
    "company_name": "INCYTE CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1205703/0001205703-26-000032.txt",
    "price_at_trade": 113.27,
-   "price_now": 118.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 4.2
+   "price_now": 119.65,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "INCY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/879169/0001205703-26-000032.txt",
    "price_at_trade": 113.27,
-   "price_now": 118.01,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 4.2
+   "price_now": 119.65,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 5.6
   }
  ],
  "trump_trades": [],

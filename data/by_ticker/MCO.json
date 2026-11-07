@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "MCO",
  "company": {
   "name": "MOODYS CORP /DE/",
@@ -8,8 +8,8 @@
   "industry": "Services-Consumer Credit Reporting, Collection Agencies",
   "sector": "Retail & Consumer"
  },
- "price_now": 515.34,
- "price_date": "2026-11-05",
+ "price_now": 505.67,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,53 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 472.68,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 9.0,
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 7.0,
    "days_to_disclose": 17,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "West Michael L",
+   "owner_title": "CEO - Moody's Ratings",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 195.0,
+   "price": 529.2328,
+   "value": 103200.4,
+   "shares_after": 8178.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000017.txt",
+   "price_at_trade": 528.34,
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.3
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "West Michael L",
+   "owner_title": "CEO - Moody's Ratings",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 195.0,
+   "price": 529.2328,
+   "value": 103200.4,
+   "shares_after": 8178.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000017.txt",
+   "price_at_trade": 528.34,
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.3
+  },
   {
    "ticker": "MCO",
    "company_name": "MOODYS CORP /DE/",
@@ -66,9 +104,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000014.txt",
    "price_at_trade": 506.02,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.8
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MCO",
@@ -85,9 +123,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0002062050-26-000011.txt",
    "price_at_trade": 506.02,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.8
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MCO",
@@ -104,9 +142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000014.txt",
    "price_at_trade": 506.02,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.8
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MCO",
@@ -123,9 +161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2062050/0002062050-26-000011.txt",
    "price_at_trade": 506.02,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 1.8
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MCO",
@@ -142,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "MCO",
@@ -161,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "MCO",
@@ -180,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "MCO",
@@ -199,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "MCO",
@@ -218,9 +256,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "MCO",
@@ -237,9 +275,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791243/0001791243-26-000012.txt",
    "price_at_trade": 488.83,
-   "price_now": 515.34,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 5.4
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.4
   }
  ],
  "trump_trades": [],

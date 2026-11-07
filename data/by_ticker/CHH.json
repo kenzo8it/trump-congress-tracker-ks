@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "CHH",
  "company": {
   "name": "CHOICE HOTELS INTERNATIONAL INC /DE",
@@ -8,8 +8,8 @@
   "industry": "Hotels & Motels",
   "sector": "Retail & Consumer"
  },
- "price_now": 117.84,
- "price_date": "2026-11-05",
+ "price_now": 118.91,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 1998.0,
+   "price": 120.35,
+   "value": 240459.3,
+   "shares_after": 31174.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-449144.txt",
+   "price_at_trade": 120.33,
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 2.0,
+   "price": 121.12,
+   "value": 242.24,
+   "shares_after": 31172.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-449144.txt",
+   "price_at_trade": 120.33,
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 1998.0,
+   "price": 120.35,
+   "value": 240459.3,
+   "shares_after": 31174.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1375380/0001193125-26-449144.txt",
+   "price_at_trade": 120.33,
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-05",
+   "shares": 2.0,
+   "price": 121.12,
+   "value": 242.24,
+   "shares_after": 31172.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1375380/0001193125-26-449144.txt",
+   "price_at_trade": 120.33,
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "CHH",
    "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-426126.txt",
    "price_at_trade": 113.46,
-   "price_now": 117.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.9
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "CHH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1700110/0001193125-26-426126.txt",
    "price_at_trade": 113.46,
-   "price_now": 117.84,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 3.9
+   "price_now": 118.91,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 4.8
   }
  ],
  "trump_trades": [],

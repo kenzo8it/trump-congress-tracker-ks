@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:41+00:00",
+ "updated": "2026-11-07T02:10+00:00",
  "ticker": "JBSS",
  "company": {
   "name": "SANFILIPPO JOHN B & SON INC",
@@ -8,8 +8,8 @@
   "industry": "Sugar & Confectionery Products",
   "sector": "Agriculture & Food"
  },
- "price_now": 54.52,
- "price_date": "2026-11-05",
+ "price_now": 54.96,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Finn Michael J",
    "owner_title": "Sr. VP, Corporate Controller",
    "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 200.0,
+   "price": 56.08,
+   "value": 11216.0,
+   "shares_after": 7275.99,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1890137/0001193125-26-449849.txt",
+   "price_at_trade": 54.52,
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "JBSS",
+   "company_name": "SANFILIPPO JOHN B & SON INC",
+   "owner_name": "Finn Michael J",
+   "owner_title": "Sr. VP, Corporate Controller",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 200.0,
+   "price": 56.08,
+   "value": 11216.0,
+   "shares_after": 7275.99,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/880117/0001193125-26-449849.txt",
+   "price_at_trade": 54.52,
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "JBSS",
+   "company_name": "SANFILIPPO JOHN B & SON INC",
+   "owner_name": "Finn Michael J",
+   "owner_title": "Sr. VP, Corporate Controller",
+   "trade_type": "BUY",
    "traded_date": "2026-11-04",
    "reported_date": "2026-11-04",
    "shares": 200.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1890137/0001193125-26-447640.txt",
    "price_at_trade": 54.75,
-   "price_now": 54.52,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -0.4
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "JBSS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1890137/0001193125-26-447640.txt",
    "price_at_trade": 54.75,
-   "price_now": 54.52,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -0.4
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "JBSS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/880117/0001193125-26-447640.txt",
    "price_at_trade": 54.75,
-   "price_now": 54.52,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -0.4
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "JBSS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/880117/0001193125-26-447640.txt",
    "price_at_trade": 54.75,
-   "price_now": 54.52,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -0.4
+   "price_now": 54.96,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.4
   }
  ],
  "trump_trades": [],
