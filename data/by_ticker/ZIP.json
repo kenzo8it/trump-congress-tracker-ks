@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "ZIP",
  "company": {
   "name": "ZIPRECRUITER, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 3.72,
- "price_date": "2026-11-05",
+ "price_now": 3.76,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ZIP",
+   "company_name": "ZIPRECRUITER, INC.",
+   "owner_name": "SHIMANOVSKY BORIS F.",
+   "owner_title": "EVP, Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 30000.0,
+   "price": 4.6959,
+   "value": 140877.0,
+   "shares_after": 408975.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859446-26-000006.txt",
+   "price_at_trade": 4.51,
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -16.6
+  },
+  {
+   "ticker": "ZIP",
+   "company_name": "ZIPRECRUITER, INC.",
+   "owner_name": "SHIMANOVSKY BORIS F.",
+   "owner_title": "EVP, Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 30000.0,
+   "price": 4.6959,
+   "value": 140877.0,
+   "shares_after": 408975.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1859446/0001859446-26-000006.txt",
+   "price_at_trade": 4.51,
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -16.6
+  },
   {
    "ticker": "ZIP",
    "company_name": "ZIPRECRUITER, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001859442-26-000014.txt",
    "price_at_trade": 4.52,
-   "price_now": 3.72,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -17.7
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -16.8
   },
   {
    "ticker": "ZIP",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859442/0001859442-26-000014.txt",
    "price_at_trade": 4.52,
-   "price_now": 3.72,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -17.7
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -16.8
   },
   {
    "ticker": "ZIP",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1617553/0001861460-26-000010.txt",
    "price_at_trade": 4.55,
-   "price_now": 3.72,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -18.2
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -17.4
   },
   {
    "ticker": "ZIP",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1861460/0001861460-26-000010.txt",
    "price_at_trade": 4.55,
-   "price_now": 3.72,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -18.2
+   "price_now": 3.76,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -17.4
   }
  ],
  "trump_trades": [],

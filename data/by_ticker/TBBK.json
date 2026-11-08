@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "TBBK",
  "company": {
   "name": "Bancorp, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TBBK",
+   "company_name": "Bancorp, Inc.",
+   "owner_name": "Mudick Stephanie B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 1000.0,
+   "price": 47.495,
+   "value": 47495.0,
+   "shares_after": 45150.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1295401/0002039852-26-000136.txt",
+   "price_at_trade": 47.34,
+   "price_now": 48.25,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "TBBK",
+   "company_name": "Bancorp, Inc.",
+   "owner_name": "Mudick Stephanie B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 1000.0,
+   "price": 47.495,
+   "value": 47495.0,
+   "shares_after": 45150.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1328273/0002039852-26-000136.txt",
+   "price_at_trade": 47.34,
+   "price_now": 48.25,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "TBBK",
    "company_name": "Bancorp, Inc.",

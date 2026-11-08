@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "AMPL",
  "company": {
   "name": "Amplitude, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 16.1,
- "price_date": "2026-11-05",
+ "price_now": 16.7,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,120 @@
    "owner_name": "Skates Spenser",
    "owner_title": "Director, CEO and President, 10% owner",
    "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 29.0,
+   "price": 17.519,
+   "value": 508.05,
+   "shares_after": 32.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000447.txt",
+   "price_at_trade": 16.1,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.7
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 32.0,
+   "price": 18.67,
+   "value": 597.44,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000447.txt",
+   "price_at_trade": 16.1,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.7
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 29.0,
+   "price": 17.519,
+   "value": 508.05,
+   "shares_after": 32.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000447.txt",
+   "price_at_trade": 16.1,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.7
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 32.0,
+   "price": 18.67,
+   "value": 597.44,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000447.txt",
+   "price_at_trade": 16.1,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 3.7
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 901.0,
+   "price": 17.4629,
+   "value": 15734.07,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000447.txt",
+   "price_at_trade": 17.19,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 901.0,
+   "price": 17.4629,
+   "value": 15734.07,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000447.txt",
+   "price_at_trade": 17.19,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "AMPL",
+   "company_name": "Amplitude, Inc.",
+   "owner_name": "Skates Spenser",
+   "owner_title": "Director, CEO and President, 10% owner",
+   "trade_type": "SELL",
    "traded_date": "2026-10-28",
    "reported_date": "2026-10-28",
    "shares": 6651.0,
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000445.txt",
    "price_at_trade": 17.44,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.7
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "AMPL",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000445.txt",
    "price_at_trade": 17.44,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.7
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "AMPL",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000445.txt",
    "price_at_trade": 17.3,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.9
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "AMPL",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000445.txt",
    "price_at_trade": 17.3,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.9
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "AMPL",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000445.txt",
    "price_at_trade": 17.3,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.9
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "AMPL",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000445.txt",
    "price_at_trade": 17.3,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.9
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "AMPL",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1866692/0001610717-26-000444.txt",
    "price_at_trade": 17.42,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.6
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "AMPL",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1882913/0001610717-26-000444.txt",
    "price_at_trade": 17.42,
-   "price_now": 16.1,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.6
+   "price_now": 16.7,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.1
   }
  ],
  "trump_trades": [],

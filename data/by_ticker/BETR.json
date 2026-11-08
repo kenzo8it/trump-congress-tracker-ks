@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "BETR",
  "company": {
   "name": "Better Home & Finance Holding Co",
@@ -8,8 +8,8 @@
   "industry": "Loan Brokers",
   "sector": "Financials"
  },
- "price_now": 18.97,
- "price_date": "2026-11-05",
+ "price_now": 19.24,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Orn Jonsson Sigurgeir",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 2210.0,
+   "price": 18.94,
+   "value": 41857.4,
+   "shares_after": 9602.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1828689/0001828689-26-000019.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.4
+  },
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Orn Jonsson Sigurgeir",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 2210.0,
+   "price": 18.94,
+   "value": 41857.4,
+   "shares_after": 9602.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001828689-26-000019.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 1.4
+  },
   {
    "ticker": "BETR",
    "company_name": "Better Home & Finance Holding Co",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1614749/0001614749-26-000014.txt",
    "price_at_trade": 10.53,
-   "price_now": 18.97,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 80.2
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 82.7
   },
   {
    "ticker": "BETR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001614749-26-000014.txt",
    "price_at_trade": 10.53,
-   "price_now": 18.97,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 80.2
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 82.7
   },
   {
    "ticker": "BETR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001989210-26-000024.txt",
    "price_at_trade": 10.53,
-   "price_now": 18.97,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 80.2
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 82.7
   },
   {
    "ticker": "BETR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1989210/0001989210-26-000024.txt",
    "price_at_trade": 10.53,
-   "price_now": 18.97,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 80.2
+   "price_now": 19.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 82.7
   }
  ],
  "trump_trades": [],

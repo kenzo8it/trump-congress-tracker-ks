@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "ACEL",
  "company": {
   "name": "Accel Entertainment, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Amusement & Recreation Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 13.77,
- "price_date": "2026-11-05",
+ "price_now": 13.72,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ACEL",
+   "company_name": "Accel Entertainment, Inc.",
+   "owner_name": "Rubenstein Andrew H.",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 40000.0,
+   "price": 12.9407,
+   "value": 517628.0,
+   "shares_after": 4012325.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1698991/0001794156-26-000031.txt",
+   "price_at_trade": 13.42,
+   "price_now": 13.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.2
+  },
+  {
+   "ticker": "ACEL",
+   "company_name": "Accel Entertainment, Inc.",
+   "owner_name": "Rubenstein Andrew H.",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 40000.0,
+   "price": 12.9407,
+   "value": 517628.0,
+   "shares_after": 4012325.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1794156/0001794156-26-000031.txt",
+   "price_at_trade": 13.42,
+   "price_now": 13.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.2
+  },
   {
    "ticker": "ACEL",
    "company_name": "Accel Entertainment, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1698991/0001794567-26-000015.txt",
    "price_at_trade": 11.91,
-   "price_now": 13.77,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 13.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 15.2
   },
   {
    "ticker": "ACEL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1794567/0001794567-26-000015.txt",
    "price_at_trade": 11.91,
-   "price_now": 13.77,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 15.6
+   "price_now": 13.72,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 15.2
   }
  ],
  "trump_trades": [],

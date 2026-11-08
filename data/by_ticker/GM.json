@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "GM",
  "company": {
   "name": "General Motors Co",
@@ -50,7 +50,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "GM",
+   "company_name": "General Motors Co",
+   "owner_name": "Harvey Rory",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 16513.0,
+   "price": 89.64,
+   "value": 1480225.32,
+   "shares_after": 12000.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467858/0001976795-26-000014.txt",
+   "price_at_trade": 92.43,
+   "price_now": 86.16,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -6.8
+  },
+  {
+   "ticker": "GM",
+   "company_name": "General Motors Co",
+   "owner_name": "Harvey Rory",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 16513.0,
+   "price": 89.64,
+   "value": 1480225.32,
+   "shares_after": 12000.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1976795/0001976795-26-000014.txt",
+   "price_at_trade": 92.43,
+   "price_now": 86.16,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -6.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": [

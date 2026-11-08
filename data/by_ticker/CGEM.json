@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-08T01:46+00:00",
+ "ticker": "CGEM",
+ "company": {
+  "name": "Cullinan Therapeutics, Inc.",
+  "cik": 1789972,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 11.31,
+ "price_date": "2026-11-06",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CGEM",
+   "company_name": "Cullinan Therapeutics, Inc.",
+   "owner_name": "Michaelson Jennifer",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 4000.0,
+   "price": 12.36,
+   "value": 49440.0,
+   "shares_after": 158649.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1789972/0001193125-26-452004.txt",
+   "price_at_trade": 10.8,
+   "price_now": 11.31,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "CGEM",
+   "company_name": "Cullinan Therapeutics, Inc.",
+   "owner_name": "Michaelson Jennifer",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 4000.0,
+   "price": 12.36,
+   "value": 49440.0,
+   "shares_after": 158649.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1838061/0001193125-26-452004.txt",
+   "price_at_trade": 10.8,
+   "price_now": 11.31,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 4.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

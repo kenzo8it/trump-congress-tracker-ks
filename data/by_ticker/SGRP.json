@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-08T01:46+00:00",
+ "ticker": "SGRP",
+ "company": {
+  "name": "SPAR Group, Inc.",
+  "cik": 1004989,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 0.6,
+ "price_date": "2026-11-06",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SGRP",
+   "company_name": "SPAR Group, Inc.",
+   "owner_name": "BROWN ROBERT G/",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 1000.0,
+   "price": 0.65,
+   "value": 650.0,
+   "shares_after": 2741389.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1004989/0001090394-26-000013.txt",
+   "price_at_trade": 0.6,
+   "price_now": 0.6,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SGRP",
+   "company_name": "SPAR Group, Inc.",
+   "owner_name": "BROWN ROBERT G/",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 1000.0,
+   "price": 0.65,
+   "value": 650.0,
+   "shares_after": 2741389.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1090394/0001090394-26-000013.txt",
+   "price_at_trade": 0.6,
+   "price_now": 0.6,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

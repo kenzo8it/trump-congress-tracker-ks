@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "MCO",
  "company": {
   "name": "MOODYS CORP /DE/",
@@ -51,6 +51,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "Phillips Jason D",
+   "owner_title": "Chief Acctg Off & Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 95.0,
+   "price": 519.325,
+   "value": 49335.88,
+   "shares_after": 1798.9385,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/0002062050-26-000013.txt",
+   "price_at_trade": 515.34,
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "MCO",
+   "company_name": "MOODYS CORP /DE/",
+   "owner_name": "Phillips Jason D",
+   "owner_title": "Chief Acctg Off & Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 95.0,
+   "price": 519.325,
+   "value": 49335.88,
+   "shares_after": 1798.9385,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2062050/0002062050-26-000013.txt",
+   "price_at_trade": 515.34,
+   "price_now": 505.67,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.9
+  },
   {
    "ticker": "MCO",
    "company_name": "MOODYS CORP /DE/",

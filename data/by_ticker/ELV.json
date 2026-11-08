@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "ELV",
  "company": {
   "name": "Elevance Health, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ELV",
+   "company_name": "Elevance Health, Inc.",
+   "owner_name": "LAVU RATNAKAR",
+   "owner_title": "EVP & Chief Digital Info Ofr",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 1300.0,
+   "price": 440.0,
+   "value": 572000.0,
+   "shares_after": 14849.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001737620-26-000005.txt",
+   "price_at_trade": 432.0,
+   "price_now": 425.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "ELV",
+   "company_name": "Elevance Health, Inc.",
+   "owner_name": "LAVU RATNAKAR",
+   "owner_title": "EVP & Chief Digital Info Ofr",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 1300.0,
+   "price": 440.0,
+   "value": 572000.0,
+   "shares_after": 14849.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1737620/0001737620-26-000005.txt",
+   "price_at_trade": 432.0,
+   "price_now": 425.62,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -1.5
+  },
   {
    "ticker": "ELV",
    "company_name": "Elevance Health, Inc.",

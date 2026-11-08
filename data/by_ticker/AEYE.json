@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "AEYE",
  "company": {
   "name": "AUDIOEYE INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 12.06,
- "price_date": "2026-11-05",
+ "price_now": 12.37,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "Moradi David",
+   "owner_title": "Director, EXECUTIVE CHAIRMAN AND CPO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 20895.0,
+   "price": 12.6724,
+   "value": 264789.8,
+   "shares_after": 1751071.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000012.txt",
+   "price_at_trade": 12.89,
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "Moradi David",
+   "owner_title": "Director, EXECUTIVE CHAIRMAN AND CPO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 1464.0,
+   "price": 13.3796,
+   "value": 19587.73,
+   "shares_after": 1749607.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000012.txt",
+   "price_at_trade": 12.89,
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "Moradi David",
+   "owner_title": "Director, EXECUTIVE CHAIRMAN AND CPO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 20895.0,
+   "price": 12.6724,
+   "value": 264789.8,
+   "shares_after": 1751071.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000012.txt",
+   "price_at_trade": 12.89,
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "AEYE",
+   "company_name": "AUDIOEYE INC",
+   "owner_name": "Moradi David",
+   "owner_title": "Director, EXECUTIVE CHAIRMAN AND CPO, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 1464.0,
+   "price": 13.3796,
+   "value": 19587.73,
+   "shares_after": 1749607.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000012.txt",
+   "price_at_trade": 12.89,
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
+  },
   {
    "ticker": "AEYE",
    "company_name": "AUDIOEYE INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0000898243-26-000029.txt",
    "price_at_trade": 12.89,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "AEYE",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/898243/0000898243-26-000029.txt",
    "price_at_trade": 12.89,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -6.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "AEYE",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000010.txt",
    "price_at_trade": 13.59,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -11.3
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "AEYE",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000010.txt",
    "price_at_trade": 13.59,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -11.3
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "AEYE",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000010.txt",
    "price_at_trade": 13.35,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -9.7
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "AEYE",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000010.txt",
    "price_at_trade": 13.35,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -9.7
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "AEYE",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000010.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0001658843-26-000010.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000010.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1658843/0001658843-26-000010.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0000898243-26-000027.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/898243/0000898243-26-000027.txt",
    "price_at_trade": 13.03,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -7.4
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "AEYE",
@@ -263,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1362190/0000898243-26-000025.txt",
    "price_at_trade": 14.12,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -14.6
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -12.4
   },
   {
    "ticker": "AEYE",
@@ -282,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/898243/0000898243-26-000025.txt",
    "price_at_trade": 14.12,
-   "price_now": 12.06,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": -14.6
+   "price_now": 12.37,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -12.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "TYL",
  "company": {
   "name": "TYLER TECHNOLOGIES INC",
@@ -188,6 +188,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "TYL",
+   "company_name": "TYLER TECHNOLOGIES INC",
+   "owner_name": "Puckett Jeffrey David",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 10000.0,
+   "price": 419.6925,
+   "value": 4196925.0,
+   "shares_after": 7799.7771,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1863648/0002130035-26-000008.txt",
+   "price_at_trade": 423.2,
+   "price_now": 420.56,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "TYL",
+   "company_name": "TYLER TECHNOLOGIES INC",
+   "owner_name": "Puckett Jeffrey David",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 10000.0,
+   "price": 419.6925,
+   "value": 4196925.0,
+   "shares_after": 7799.7771,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860731/0002130035-26-000008.txt",
+   "price_at_trade": 423.2,
+   "price_now": 420.56,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -0.6
+  },
   {
    "ticker": "TYL",
    "company_name": "TYLER TECHNOLOGIES INC",

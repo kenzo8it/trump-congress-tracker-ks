@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "PEGA",
  "company": {
   "name": "PEGASYSTEMS INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PEGA",
+   "company_name": "PEGASYSTEMS INC",
+   "owner_name": "STILLWELL KENNETH",
+   "owner_title": "COO, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 16256.0,
+   "price": 35.5367,
+   "value": 577684.6,
+   "shares_after": 87225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1013857/0001680115-26-000038.txt",
+   "price_at_trade": 34.36,
+   "price_now": 32.4,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.7
+  },
+  {
+   "ticker": "PEGA",
+   "company_name": "PEGASYSTEMS INC",
+   "owner_name": "STILLWELL KENNETH",
+   "owner_title": "COO, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 16256.0,
+   "price": 35.5367,
+   "value": 577684.6,
+   "shares_after": 87225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1680115/0001680115-26-000038.txt",
+   "price_at_trade": 34.36,
+   "price_now": 32.4,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.7
+  },
   {
    "ticker": "PEGA",
    "company_name": "PEGASYSTEMS INC",

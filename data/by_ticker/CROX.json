@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "CROX",
  "company": {
   "name": "Crocs, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CROX",
+   "company_name": "Crocs, Inc.",
+   "owner_name": "TREFF DOUGLAS J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 10714.0,
+   "price": 159.2147,
+   "value": 1705826.3,
+   "shares_after": 61371.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1218163/0001218163-26-000008.txt",
+   "price_at_trade": 159.84,
+   "price_now": 151.86,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "CROX",
+   "company_name": "Crocs, Inc.",
+   "owner_name": "TREFF DOUGLAS J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 10714.0,
+   "price": 159.2147,
+   "value": 1705826.3,
+   "shares_after": 61371.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1334036/0001218163-26-000008.txt",
+   "price_at_trade": 159.84,
+   "price_now": 151.86,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -5.0
+  },
   {
    "ticker": "CROX",
    "company_name": "Crocs, Inc.",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "AOS",
  "company": {
   "name": "SMITH A O CORP",
@@ -110,7 +110,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "AOS",
+   "company_name": "SMITH A O CORP",
+   "owner_name": "Wheeler Kevin J.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 14675.0,
+   "price": 65.6412,
+   "value": 963284.61,
+   "shares_after": 128348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1566416/0000091142-26-000106.txt",
+   "price_at_trade": 66.57,
+   "price_now": 64.55,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.0
+  },
+  {
+   "ticker": "AOS",
+   "company_name": "SMITH A O CORP",
+   "owner_name": "Wheeler Kevin J.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 14675.0,
+   "price": 65.6412,
+   "value": 963284.61,
+   "shares_after": 128348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91142/0000091142-26-000106.txt",
+   "price_at_trade": 66.57,
+   "price_now": 64.55,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

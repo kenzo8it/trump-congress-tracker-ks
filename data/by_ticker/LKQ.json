@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "LKQ",
  "company": {
   "name": "LKQ CORP",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LKQ",
+   "company_name": "LKQ CORP",
+   "owner_name": "GOVE SUE",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 9795.0,
+   "price": 20.5294,
+   "value": 201085.47,
+   "shares_after": 20793.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/0001214659-26-013801.txt",
+   "price_at_trade": 20.94,
+   "price_now": 20.05,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.3
+  },
+  {
+   "ticker": "LKQ",
+   "company_name": "LKQ CORP",
+   "owner_name": "GOVE SUE",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 9795.0,
+   "price": 20.5294,
+   "value": 201085.47,
+   "shares_after": 20793.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1187773/0001214659-26-013801.txt",
+   "price_at_trade": 20.94,
+   "price_now": 20.05,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -4.3
+  },
   {
    "ticker": "LKQ",
    "company_name": "LKQ CORP",

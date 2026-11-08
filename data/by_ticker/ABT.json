@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "ABT",
  "company": {
   "name": "ABBOTT LABORATORIES",
@@ -919,7 +919,46 @@
    "last_trade": "2026-07-30"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ABT",
+   "company_name": "ABBOTT LABORATORIES",
+   "owner_name": "Moreland Mary K",
+   "owner_title": "EXECUTIVE VICE PRESIDENT",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 3500.0,
+   "price": 116.0,
+   "value": 406000.0,
+   "shares_after": 100791.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783147/0001783147-26-000013.txt",
+   "price_at_trade": 113.6,
+   "price_now": 109.93,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.2
+  },
+  {
+   "ticker": "ABT",
+   "company_name": "ABBOTT LABORATORIES",
+   "owner_name": "Moreland Mary K",
+   "owner_title": "EXECUTIVE VICE PRESIDENT",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 3500.0,
+   "price": 116.0,
+   "value": 406000.0,
+   "shares_after": 100791.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1800/0001783147-26-000013.txt",
+   "price_at_trade": 113.6,
+   "price_now": 109.93,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.2
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

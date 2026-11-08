@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-08T01:46+00:00",
+ "ticker": "CURB",
+ "company": {
+  "name": "Curbline Properties Corp.",
+  "cik": 2027317,
+  "sic": 6500,
+  "industry": "Real Estate",
+  "sector": "Real Estate"
+ },
+ "price_now": 29.38,
+ "price_date": "2026-11-06",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CURB",
+   "company_name": "Curbline Properties Corp.",
+   "owner_name": "Yarian Christina M.",
+   "owner_title": "SVP & Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 5000.0,
+   "price": 29.97,
+   "value": 149850.0,
+   "shares_after": 18697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2015261/0001193125-26-451819.txt",
+   "price_at_trade": 30.16,
+   "price_now": 29.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.6
+  },
+  {
+   "ticker": "CURB",
+   "company_name": "Curbline Properties Corp.",
+   "owner_name": "Yarian Christina M.",
+   "owner_title": "SVP & Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 5000.0,
+   "price": 29.97,
+   "value": 149850.0,
+   "shares_after": 18697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2027317/0001193125-26-451819.txt",
+   "price_at_trade": 30.16,
+   "price_now": 29.38,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -2.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

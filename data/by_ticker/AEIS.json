@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "AEIS",
  "company": {
   "name": "ADVANCED ENERGY INDUSTRIES INC",
@@ -157,7 +157,46 @@
    "last_trade": "2026-09-29"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "AEIS",
+   "company_name": "ADVANCED ENERGY INDUSTRIES INC",
+   "owner_name": "DelSanto Anne",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 265.0,
+   "price": 200.02,
+   "value": 53005.3,
+   "shares_after": 7417.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1770310/0001770310-26-000016.txt",
+   "price_at_trade": 185.66,
+   "price_now": 197.01,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 6.1
+  },
+  {
+   "ticker": "AEIS",
+   "company_name": "ADVANCED ENERGY INDUSTRIES INC",
+   "owner_name": "DelSanto Anne",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 265.0,
+   "price": 200.02,
+   "value": 53005.3,
+   "shares_after": 7417.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/927003/0001770310-26-000016.txt",
+   "price_at_trade": 185.66,
+   "price_now": 197.01,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 6.1
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

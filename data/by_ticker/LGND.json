@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "LGND",
  "company": {
   "name": "LIGAND PHARMACEUTICALS INC",
@@ -158,6 +158,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "Aryeh Jason",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 282.0,
+   "price": 319.99,
+   "value": 90237.18,
+   "shares_after": 108476.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000006.txt",
+   "price_at_trade": 316.13,
+   "price_now": 306.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "Aryeh Jason",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 282.0,
+   "price": 319.99,
+   "value": 90237.18,
+   "shares_after": 108476.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000006.txt",
+   "price_at_trade": 316.13,
+   "price_now": 306.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.1
+  },
   {
    "ticker": "LGND",
    "company_name": "LIGAND PHARMACEUTICALS INC",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "XERS",
  "company": {
   "name": "Xeris Biopharma Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 13.08,
- "price_date": "2026-11-05",
+ "price_now": 15.2,
+ "price_date": "2026-11-06",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "XERS",
+   "company_name": "Xeris Biopharma Holdings, Inc.",
+   "owner_name": "McCulloch Kevin",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 25000.0,
+   "price": 12.4886,
+   "value": 312215.0,
+   "shares_after": 1559208.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1867096/0001867096-26-000119.txt",
+   "price_at_trade": 13.08,
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 16.2
+  },
+  {
+   "ticker": "XERS",
+   "company_name": "Xeris Biopharma Holdings, Inc.",
+   "owner_name": "McCulloch Kevin",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 25000.0,
+   "price": 12.4886,
+   "value": 312215.0,
+   "shares_after": 1559208.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2031695/0001867096-26-000119.txt",
+   "price_at_trade": 13.08,
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 16.2
+  },
   {
    "ticker": "XERS",
    "company_name": "Xeris Biopharma Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652410/0001867096-26-000109.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   },
   {
    "ticker": "XERS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1867096/0001867096-26-000107.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   },
   {
    "ticker": "XERS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1867096/0001867096-26-000109.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   },
   {
    "ticker": "XERS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1867096/0001867096-26-000111.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   },
   {
    "ticker": "XERS",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875714/0001867096-26-000111.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   },
   {
    "ticker": "XERS",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2031695/0001867096-26-000107.txt",
    "price_at_trade": 10.17,
-   "price_now": 13.08,
-   "price_now_date": "2026-11-05",
-   "total_return_pct": 28.6
+   "price_now": 15.2,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 49.5
   }
  ],
  "trump_trades": [],

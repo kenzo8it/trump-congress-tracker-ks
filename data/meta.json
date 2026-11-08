@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,14 +8,14 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5541,
-  "recent_congress_trades": 594,
+  "congress_trades": 5539,
+  "recent_congress_trades": 591,
   "members_with_positions": 45,
-  "insider_trades": 14512,
+  "insider_trades": 15283,
   "trump_trades": 20,
   "sponsor_involvements": 44,
   "contracts": 178,
-  "tickers": 1740
+  "tickers": 1767
  },
  "unparsed_filings": [
   {
@@ -766,16 +766,6 @@
    "filed": "2025-10-10",
    "year": 2025,
    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115684.pdf",
-   "reason": "scanned paper filing"
-  },
-  {
-   "doc_id": "9115679",
-   "first": "Rohit",
-   "last": "Khanna",
-   "state_district": "CA17",
-   "filed": "2025-10-03",
-   "year": 2025,
-   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
    "reason": "scanned paper filing"
   }
  ],

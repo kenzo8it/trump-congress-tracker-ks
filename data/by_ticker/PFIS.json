@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-08T01:46+00:00",
+ "ticker": "PFIS",
+ "company": {
+  "name": "PEOPLES FINANCIAL SERVICES CORP.",
+  "cik": 1056943,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 72.24,
+ "price_date": "2026-11-06",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PFIS",
+   "company_name": "PEOPLES FINANCIAL SERVICES CORP.",
+   "owner_name": "Chiaro James P",
+   "owner_title": "EVP/CHIEF INV SERVICES OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 605.0,
+   "price": 73.26,
+   "value": 44322.3,
+   "shares_after": 3100.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1056943/0001437749-26-035434.txt",
+   "price_at_trade": 74.69,
+   "price_now": 72.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.3
+  },
+  {
+   "ticker": "PFIS",
+   "company_name": "PEOPLES FINANCIAL SERVICES CORP.",
+   "owner_name": "Chiaro James P",
+   "owner_title": "EVP/CHIEF INV SERVICES OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 605.0,
+   "price": 73.26,
+   "value": 44322.3,
+   "shares_after": 3100.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1949212/0001437749-26-035434.txt",
+   "price_at_trade": 74.69,
+   "price_now": 72.24,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -3.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

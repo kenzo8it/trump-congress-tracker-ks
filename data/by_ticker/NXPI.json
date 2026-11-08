@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "NXPI",
  "company": {
   "name": "NXP Semiconductors N.V.",
@@ -327,7 +327,46 @@
    "last_trade": "2025-12-11"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "NXPI",
+   "company_name": "NXP Semiconductors N.V.",
+   "owner_name": "Foxx Anthony R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 400.0,
+   "price": 263.6,
+   "value": 105440.0,
+   "shares_after": 2942.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/0001831914-26-000009.txt",
+   "price_at_trade": 265.01,
+   "price_now": 248.29,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -6.3
+  },
+  {
+   "ticker": "NXPI",
+   "company_name": "NXP Semiconductors N.V.",
+   "owner_name": "Foxx Anthony R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 400.0,
+   "price": 263.6,
+   "value": 105440.0,
+   "shares_after": 2942.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1831914/0001831914-26-000009.txt",
+   "price_at_trade": 265.01,
+   "price_now": 248.29,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": -6.3
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

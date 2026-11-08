@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -37,9 +37,9 @@
    "chamber": "House",
    "state": "LA",
    "positions": 68,
-   "est_portfolio_value": 761458,
-   "total_return_pct": 34.4,
-   "total_return_usd": 195023
+   "est_portfolio_value": 762506,
+   "total_return_pct": 34.6,
+   "total_return_usd": 196072
   },
   {
    "bioguide": "L000566",
@@ -59,9 +59,9 @@
    "chamber": "House",
    "state": "MI",
    "positions": 12,
-   "est_portfolio_value": 385803,
+   "est_portfolio_value": 385796,
    "total_return_pct": 25.0,
-   "total_return_usd": 77133
+   "total_return_usd": 77127
   },
   {
    "bioguide": "M001217",
@@ -70,9 +70,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 28,
-   "est_portfolio_value": 765079,
-   "total_return_pct": 19.8,
-   "total_return_usd": 126704
+   "est_portfolio_value": 769680,
+   "total_return_pct": 20.6,
+   "total_return_usd": 131305
   },
   {
    "bioguide": "F000472",
@@ -103,9 +103,9 @@
    "chamber": "House",
    "state": "NJ",
    "positions": 38,
-   "est_portfolio_value": 1811707,
-   "total_return_pct": 15.3,
-   "total_return_usd": 240134
+   "est_portfolio_value": 1808986,
+   "total_return_pct": 15.1,
+   "total_return_usd": 237414
   },
   {
    "bioguide": "S001212",
@@ -125,9 +125,9 @@
    "chamber": "House",
    "state": "GA",
    "positions": 20,
-   "est_portfolio_value": 132846,
+   "est_portfolio_value": 132861,
    "total_return_pct": 13.4,
-   "total_return_usd": 15695
+   "total_return_usd": 15710
   },
   {
    "bioguide": "D000399",
@@ -147,9 +147,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 14,
-   "est_portfolio_value": 249169,
-   "total_return_pct": 10.2,
-   "total_return_usd": 23033
+   "est_portfolio_value": 248712,
+   "total_return_pct": 10.0,
+   "total_return_usd": 22576
   },
   {
    "bioguide": "H001082",
@@ -169,20 +169,9 @@
    "chamber": "House",
    "state": "GA",
    "positions": 22,
-   "est_portfolio_value": 313149,
-   "total_return_pct": 8.2,
-   "total_return_usd": 23636
-  },
-  {
-   "bioguide": "T000490",
-   "name": "David J. Taylor",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "OH",
-   "positions": 23,
-   "est_portfolio_value": 685087,
-   "total_return_pct": 7.3,
-   "total_return_usd": 46682
+   "est_portfolio_value": 313070,
+   "total_return_pct": 8.1,
+   "total_return_usd": 23556
   },
   {
    "bioguide": "P000048",
@@ -191,9 +180,20 @@
    "chamber": "House",
    "state": "TX",
    "positions": 5,
-   "est_portfolio_value": 174435,
-   "total_return_pct": 7.3,
-   "total_return_usd": 11934
+   "est_portfolio_value": 175420,
+   "total_return_pct": 8.0,
+   "total_return_usd": 12919
+  },
+  {
+   "bioguide": "T000490",
+   "name": "David J. Taylor",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "OH",
+   "positions": 23,
+   "est_portfolio_value": 685820,
+   "total_return_pct": 7.4,
+   "total_return_usd": 47415
   },
   {
    "bioguide": "K000398",
@@ -202,9 +202,9 @@
    "chamber": "House",
    "state": "NJ",
    "positions": 12,
-   "est_portfolio_value": 180887,
-   "total_return_pct": 6.7,
-   "total_return_usd": 11417
+   "est_portfolio_value": 181916,
+   "total_return_pct": 7.3,
+   "total_return_usd": 12445
   },
   {
    "bioguide": "L000560",
@@ -213,9 +213,9 @@
    "chamber": "House",
    "state": "WA",
    "positions": 13,
-   "est_portfolio_value": 109832,
-   "total_return_pct": 5.6,
-   "total_return_usd": 5824
+   "est_portfolio_value": 109774,
+   "total_return_pct": 5.5,
+   "total_return_usd": 5766
   },
   {
    "bioguide": "C001123",
@@ -224,9 +224,9 @@
    "chamber": "House",
    "state": "CA",
    "positions": 264,
-   "est_portfolio_value": 5371657,
-   "total_return_pct": 5.0,
-   "total_return_usd": 253765
+   "est_portfolio_value": 5393164,
+   "total_return_pct": 5.4,
+   "total_return_usd": 275267
   },
   {
    "bioguide": "E000296",
@@ -240,6 +240,17 @@
    "total_return_usd": 367
   },
   {
+   "bioguide": "M001136",
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "positions": 60,
+   "est_portfolio_value": 241978,
+   "total_return_pct": 4.4,
+   "total_return_usd": 10149
+  },
+  {
    "bioguide": "W000816",
    "name": "Roger Williams",
    "party": "Republican",
@@ -251,26 +262,15 @@
    "total_return_usd": 696
   },
   {
-   "bioguide": "M001136",
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "positions": 60,
-   "est_portfolio_value": 241054,
-   "total_return_pct": 4.0,
-   "total_return_usd": 9229
-  },
-  {
    "bioguide": "B001325",
    "name": "Sheri Biggs",
    "party": "Republican",
    "chamber": "House",
    "state": "SC",
    "positions": 1,
-   "est_portfolio_value": 181715,
-   "total_return_pct": 3.8,
-   "total_return_usd": 6715
+   "est_portfolio_value": 181082,
+   "total_return_pct": 3.5,
+   "total_return_usd": 6081
   },
   {
    "bioguide": "M001232",
@@ -279,9 +279,20 @@
    "chamber": "House",
    "state": "MD",
    "positions": 3,
-   "est_portfolio_value": 79321,
-   "total_return_pct": 2.4,
-   "total_return_usd": 1871
+   "est_portfolio_value": 79572,
+   "total_return_pct": 2.7,
+   "total_return_usd": 2121
+  },
+  {
+   "bioguide": "S001214",
+   "name": "W. Gregory Steube",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 1,
+   "est_portfolio_value": 8060,
+   "total_return_pct": 0.7,
+   "total_return_usd": 59
   },
   {
    "bioguide": "J000309",
@@ -290,9 +301,9 @@
    "chamber": "House",
    "state": "IL",
    "positions": 15,
-   "est_portfolio_value": 509696,
-   "total_return_pct": -1.1,
-   "total_return_usd": -5920
+   "est_portfolio_value": 512046,
+   "total_return_pct": -0.7,
+   "total_return_usd": -3569
   },
   {
    "bioguide": "S000168",
@@ -301,9 +312,9 @@
    "chamber": "House",
    "state": "FL",
    "positions": 37,
-   "est_portfolio_value": 964876,
-   "total_return_pct": -1.4,
-   "total_return_usd": -13229
+   "est_portfolio_value": 967858,
+   "total_return_pct": -1.0,
+   "total_return_usd": -10249
   },
   {
    "bioguide": "N000189",
@@ -312,9 +323,9 @@
    "chamber": "House",
    "state": "WA",
    "positions": 22,
-   "est_portfolio_value": 168401,
-   "total_return_pct": -1.7,
-   "total_return_usd": -2939
+   "est_portfolio_value": 168683,
+   "total_return_pct": -1.6,
+   "total_return_usd": -2660
   },
   {
    "bioguide": "F000110",
@@ -323,9 +334,9 @@
    "chamber": "House",
    "state": "LA",
    "positions": 15,
-   "est_portfolio_value": 3768252,
-   "total_return_pct": -4.4,
-   "total_return_usd": -172779
+   "est_portfolio_value": 3779543,
+   "total_return_pct": -4.1,
+   "total_return_usd": -161489
   },
   {
    "bioguide": "A000372",
@@ -378,9 +389,9 @@
    "chamber": "House",
    "state": "OH",
    "positions": 9,
-   "est_portfolio_value": 65422,
-   "total_return_pct": -10.1,
-   "total_return_usd": -7352
+   "est_portfolio_value": 65489,
+   "total_return_pct": -10.0,
+   "total_return_usd": -7286
   },
   {
    "bioguide": "J000310",
@@ -389,9 +400,9 @@
    "chamber": "House",
    "state": "TX",
    "positions": 9,
-   "est_portfolio_value": 30152,
-   "total_return_pct": -10.3,
-   "total_return_usd": -3445
+   "est_portfolio_value": 30210,
+   "total_return_pct": -10.1,
+   "total_return_usd": -3386
   },
   {
    "bioguide": "M001236",
@@ -400,20 +411,9 @@
    "chamber": "House",
    "state": "NC",
    "positions": 11,
-   "est_portfolio_value": 298476,
+   "est_portfolio_value": 298686,
    "total_return_pct": -10.5,
-   "total_return_usd": -35166
-  },
-  {
-   "bioguide": "H001094",
-   "name": "Val T. Hoyle",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "OR",
-   "positions": 3,
-   "est_portfolio_value": 7668,
-   "total_return_pct": -14.4,
-   "total_return_usd": -1290
+   "total_return_usd": -34955
   },
   {
    "bioguide": "P000197",
@@ -422,31 +422,9 @@
    "chamber": "House",
    "state": "CA",
    "positions": 7,
-   "est_portfolio_value": 12160561,
-   "total_return_pct": -17.7,
-   "total_return_usd": -2614446
-  },
-  {
-   "bioguide": "M001239",
-   "name": "John J. McGuire III",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "VA",
-   "positions": 7,
-   "est_portfolio_value": 66695,
-   "total_return_pct": -17.8,
-   "total_return_usd": -14447
-  },
-  {
-   "bioguide": "S001214",
-   "name": "W. Gregory Steube",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 1,
-   "est_portfolio_value": 6530,
-   "total_return_pct": -18.4,
-   "total_return_usd": -1470
+   "est_portfolio_value": 12408154,
+   "total_return_pct": -16.0,
+   "total_return_usd": -2366854
   },
   {
    "bioguide": "J000307",
@@ -455,9 +433,31 @@
    "chamber": "House",
    "state": "MI",
    "positions": 1,
-   "est_portfolio_value": 24962,
-   "total_return_pct": -23.2,
-   "total_return_usd": -7538
+   "est_portfolio_value": 27113,
+   "total_return_pct": -16.6,
+   "total_return_usd": -5387
+  },
+  {
+   "bioguide": "M001239",
+   "name": "John J. McGuire III",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "VA",
+   "positions": 7,
+   "est_portfolio_value": 67202,
+   "total_return_pct": -17.2,
+   "total_return_usd": -13940
+  },
+  {
+   "bioguide": "H001094",
+   "name": "Val T. Hoyle",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "OR",
+   "positions": 3,
+   "est_portfolio_value": 7351,
+   "total_return_pct": -17.9,
+   "total_return_usd": -1607
   },
   {
    "bioguide": "L000597",
@@ -471,26 +471,15 @@
    "total_return_usd": -9329
   },
   {
-   "bioguide": "G000603",
-   "name": "Brandon Gill",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "TX",
-   "positions": 1,
-   "est_portfolio_value": 22287,
-   "total_return_pct": -31.4,
-   "total_return_usd": -10214
-  },
-  {
    "bioguide": "T000480",
    "name": "William R. Timmons IV",
    "party": "Republican",
    "chamber": "House",
    "state": "SC",
    "positions": 1,
-   "est_portfolio_value": 96328,
-   "total_return_pct": -35.8,
-   "total_return_usd": -53673
+   "est_portfolio_value": 104627,
+   "total_return_pct": -30.2,
+   "total_return_usd": -45374
   },
   {
    "bioguide": "M001204",
@@ -499,9 +488,20 @@
    "chamber": "House",
    "state": "PA",
    "positions": 1,
-   "est_portfolio_value": 20871,
-   "total_return_pct": -35.8,
-   "total_return_usd": -11629
+   "est_portfolio_value": 22669,
+   "total_return_pct": -30.2,
+   "total_return_usd": -9831
+  },
+  {
+   "bioguide": "G000603",
+   "name": "Brandon Gill",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "TX",
+   "positions": 1,
+   "est_portfolio_value": 22209,
+   "total_return_pct": -31.7,
+   "total_return_usd": -10291
   }
  ]
 }

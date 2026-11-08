@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "CVS",
  "company": {
   "name": "CVS HEALTH Corp",
@@ -217,7 +217,46 @@
    "last_trade": "2025-10-31"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "CVS",
+   "company_name": "CVS HEALTH Corp",
+   "owner_name": "Shah Prem S",
+   "owner_title": "EVP and Group President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-06",
+   "shares": 23855.0,
+   "price": 83.895,
+   "value": 2001315.22,
+   "shares_after": 88516.1575,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1900910/0000064803-26-000112.txt",
+   "price_at_trade": 83.85,
+   "price_now": 83.85,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CVS",
+   "company_name": "CVS HEALTH Corp",
+   "owner_name": "Shah Prem S",
+   "owner_title": "EVP and Group President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-06",
+   "shares": 23855.0,
+   "price": 83.895,
+   "value": 2001315.22,
+   "shares_after": 88516.1575,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64803/0000064803-26-000112.txt",
+   "price_at_trade": 83.85,
+   "price_now": 83.85,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

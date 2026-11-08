@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:10+00:00",
+ "updated": "2026-11-08T01:46+00:00",
  "ticker": "DSM",
  "company": {
   "name": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DSM",
+   "company_name": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 100.0,
+   "price": 5.55,
+   "value": 555.0,
+   "shares_after": 5472476.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000421.txt",
+   "price_at_trade": 5.55,
+   "price_now": 5.66,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.0
+  },
+  {
+   "ticker": "DSM",
+   "company_name": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-06",
+   "shares": 100.0,
+   "price": 5.55,
+   "value": 555.0,
+   "shares_after": 5472476.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/855887/0001510281-26-000421.txt",
+   "price_at_trade": 5.55,
+   "price_now": 5.66,
+   "price_now_date": "2026-11-06",
+   "total_return_pct": 2.0
+  },
   {
    "ticker": "DSM",
    "company_name": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
