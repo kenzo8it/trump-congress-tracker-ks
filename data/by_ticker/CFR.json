@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "CFR",
  "company": {
   "name": "CULLEN/FROST BANKERS, INC.",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 155.23,
- "price_date": "2026-11-06",
+ "price_now": 158.05,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CFR",
+   "company_name": "CULLEN/FROST BANKERS, INC.",
+   "owner_name": "Bracher Paul",
+   "owner_title": "President of CFR",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2900.0,
+   "price": 158.24,
+   "value": 458896.0,
+   "shares_after": 108736.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1388772/0001388772-26-000008.txt",
+   "price_at_trade": 156.68,
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.9
+  },
+  {
+   "ticker": "CFR",
+   "company_name": "CULLEN/FROST BANKERS, INC.",
+   "owner_name": "Bracher Paul",
+   "owner_title": "President of CFR",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2900.0,
+   "price": 158.24,
+   "value": 458896.0,
+   "shares_after": 108736.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39263/0001388772-26-000008.txt",
+   "price_at_trade": 156.68,
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.9
+  },
   {
    "ticker": "CFR",
    "company_name": "CULLEN/FROST BANKERS, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2050987/0002050987-26-000006.txt",
    "price_at_trade": 160.3,
-   "price_now": 155.23,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.2
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "CFR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/39263/0002050987-26-000006.txt",
    "price_at_trade": 160.3,
-   "price_now": 155.23,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.2
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "CFR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1388767/0001388767-26-000010.txt",
    "price_at_trade": 157.6,
-   "price_now": 155.23,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.5
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "CFR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/39263/0001388767-26-000010.txt",
    "price_at_trade": 157.6,
-   "price_now": 155.23,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.5
+   "price_now": 158.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "ADM",
  "company": {
   "name": "Archer-Daniels-Midland Co",
@@ -8,8 +8,8 @@
   "industry": "Fats & Oils",
   "sector": "Agriculture & Food"
  },
- "price_now": 69.97,
- "price_date": "2026-11-06",
+ "price_now": 69.84,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,54 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 65.32,
-   "price_now": 69.97,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 7.1,
+   "price_now": 69.84,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.9,
    "days_to_disclose": 18,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ADM",
+   "company_name": "Archer-Daniels-Midland Co",
+   "owner_name": "McAtee David R II",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2800.0,
+   "price": 70.27,
+   "value": 196756.0,
+   "shares_after": 2800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1649256/0001225208-26-008783.txt",
+   "price_at_trade": 70.47,
+   "price_now": 69.84,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "ADM",
+   "company_name": "Archer-Daniels-Midland Co",
+   "owner_name": "McAtee David R II",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2800.0,
+   "price": 70.27,
+   "value": 196756.0,
+   "shares_after": 2800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/7084/0001225208-26-008783.txt",
+   "price_at_trade": 70.47,
+   "price_now": 69.84,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.9
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

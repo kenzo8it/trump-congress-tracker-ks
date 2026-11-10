@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "CRC",
  "company": {
   "name": "California Resources Corp",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 46.96,
- "price_date": "2026-11-06",
+ "price_now": 46.92,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CRC",
+   "company_name": "California Resources Corp",
+   "owner_name": "Leon Francisco",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 800.0,
+   "price": 46.6348,
+   "value": 37307.84,
+   "shares_after": 333177.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609253/0001609253-26-000161.txt",
+   "price_at_trade": 46.96,
+   "price_now": 46.92,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
+  },
+  {
+   "ticker": "CRC",
+   "company_name": "California Resources Corp",
+   "owner_name": "Leon Francisco",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 800.0,
+   "price": 46.6348,
+   "value": 37307.84,
+   "shares_after": 333177.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1732190/0001609253-26-000161.txt",
+   "price_at_trade": 46.96,
+   "price_now": 46.92,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
+  },
   {
    "ticker": "CRC",
    "company_name": "California Resources Corp",
@@ -35,8 +73,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1609253/0001609253-26-000140.txt",
    "price_at_trade": 53.52,
-   "price_now": 46.96,
-   "price_now_date": "2026-11-06",
+   "price_now": 46.92,
+   "price_now_date": "2026-11-09",
    "total_return_pct": -12.3
   },
   {
@@ -54,8 +92,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1860787/0001609253-26-000140.txt",
    "price_at_trade": 53.52,
-   "price_now": 46.96,
-   "price_now_date": "2026-11-06",
+   "price_now": 46.92,
+   "price_now_date": "2026-11-09",
    "total_return_pct": -12.3
   }
  ],

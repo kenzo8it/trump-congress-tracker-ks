@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "SOPH",
  "company": {
   "name": "SOPHiA GENETICS SA",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 7.14,
- "price_date": "2026-11-06",
+ "price_now": 7.49,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "CARDOZA GEORGE",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 7.06,
+   "value": 141200.0,
+   "shares_after": 326726.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1518734/0001840706-26-000352.txt",
+   "price_at_trade": 7.14,
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Muken Ross",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 6.8594,
+   "value": 137188.0,
+   "shares_after": 680391.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000351.txt",
+   "price_at_trade": 7.14,
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "CARDOZA GEORGE",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 7.06,
+   "value": 141200.0,
+   "shares_after": 326726.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000352.txt",
+   "price_at_trade": 7.14,
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Muken Ross",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 6.8594,
+   "value": 137188.0,
+   "shares_after": 680391.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2005463/0001840706-26-000351.txt",
+   "price_at_trade": 7.14,
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 4.9
+  },
   {
    "ticker": "SOPH",
    "company_name": "SOPHiA GENETICS SA",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000343.txt",
    "price_at_trade": 7.09,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.7
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "SOPH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2006362/0001840706-26-000343.txt",
    "price_at_trade": 7.09,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.7
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "SOPH",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000340.txt",
    "price_at_trade": 7.22,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.1
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "SOPH",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000344.txt",
    "price_at_trade": 7.22,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.1
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "SOPH",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007050/0001840706-26-000340.txt",
    "price_at_trade": 7.22,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.1
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "SOPH",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2014308/0001840706-26-000344.txt",
    "price_at_trade": 7.22,
-   "price_now": 7.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.1
+   "price_now": 7.49,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 3.7
   }
  ],
  "trump_trades": [],

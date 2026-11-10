@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "AFG",
  "company": {
   "name": "AMERICAN FINANCIAL GROUP INC",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 154.55,
- "price_date": "2026-11-06",
+ "price_now": 157.89,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 110.2,
-   "price_now": 154.55,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 40.2,
+   "price_now": 157.89,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 43.3,
    "days_to_disclose": 323,
    "late_filing": true
   },
@@ -72,15 +72,54 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 126.13,
-   "price_now": 154.55,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 22.5,
+   "price_now": 157.89,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 25.2,
    "days_to_disclose": 420,
    "late_filing": true
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "AFG",
+   "company_name": "AMERICAN FINANCIAL GROUP INC",
+   "owner_name": "Hertzman Brian S.",
+   "owner_title": "SVP, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 301.0,
+   "price": 155.295,
+   "value": 46743.79,
+   "shares_after": 1553.2091,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1042046/0001193125-26-453690.txt",
+   "price_at_trade": 154.55,
+   "price_now": 157.89,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
+  },
+  {
+   "ticker": "AFG",
+   "company_name": "AMERICAN FINANCIAL GROUP INC",
+   "owner_name": "Hertzman Brian S.",
+   "owner_title": "SVP, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 301.0,
+   "price": 155.295,
+   "value": 46743.79,
+   "shares_after": 1553.2091,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1816887/0001193125-26-453690.txt",
+   "price_at_trade": 154.55,
+   "price_now": 157.89,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

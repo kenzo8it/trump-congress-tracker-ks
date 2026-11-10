@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "SO",
  "company": {
   "name": "SOUTHERN CO",
@@ -8,8 +8,8 @@
   "industry": "Electric Services",
   "sector": "Energy & Utilities"
  },
- "price_now": 92.34,
- "price_date": "2026-11-06",
+ "price_now": 93.57,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 86.9,
-   "price_now": 92.34,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 6.3,
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 7.7,
    "days_to_disclose": 45,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 90.72,
-   "price_now": 92.34,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 1.8,
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 3.1,
    "days_to_disclose": 17,
    "late_filing": false
   }
@@ -95,15 +95,53 @@
    "ticker": "SO",
    "est_shares": 92.1,
    "avg_price": 86.9,
-   "price_now": 92.34,
-   "est_position_value": 8501,
-   "total_return_pct": 6.3,
-   "total_return_usd": 501,
+   "price_now": 93.57,
+   "est_position_value": 8615,
+   "total_return_pct": 7.7,
+   "total_return_usd": 614,
    "first_buy": "2025-12-02",
    "last_trade": "2025-12-02"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "SO",
+   "company_name": "SOUTHERN CO",
+   "owner_name": "Spainhour Sterling A Jr.",
+   "owner_title": "EVP & CLO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 3333.0,
+   "price": 91.81,
+   "value": 306002.73,
+   "shares_after": 31886.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1849295/0001193125-26-452767.txt",
+   "price_at_trade": 92.34,
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.3
+  },
+  {
+   "ticker": "SO",
+   "company_name": "SOUTHERN CO",
+   "owner_name": "Spainhour Sterling A Jr.",
+   "owner_title": "EVP & CLO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 3333.0,
+   "price": 91.81,
+   "value": 306002.73,
+   "shares_after": 31886.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92122/0001193125-26-452767.txt",
+   "price_at_trade": 92.34,
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.3
+  },
   {
    "ticker": "SO",
    "company_name": "SOUTHERN CO",
@@ -119,9 +157,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2082705/0001193125-26-445141.txt",
    "price_at_trade": 94.61,
-   "price_now": 92.34,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -2.4
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "SO",
@@ -138,9 +176,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/92122/0001193125-26-445141.txt",
    "price_at_trade": 94.61,
-   "price_now": 92.34,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -2.4
+   "price_now": 93.57,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.1
   }
  ],
  "trump_trades": [],

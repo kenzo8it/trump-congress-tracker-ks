@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-10T04:30+00:00",
+ "ticker": "SRTA",
+ "company": {
+  "name": "Strata Critical Medical, Inc.",
+  "cik": 1779128,
+  "sic": 4700,
+  "industry": "Transportation Services",
+  "sector": "Transport & Autos"
+ },
+ "price_now": 6.05,
+ "price_date": "2026-11-09",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SRTA",
+   "company_name": "Strata Critical Medical, Inc.",
+   "owner_name": "LAUCK ANDREW",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2000.0,
+   "price": 4.999,
+   "value": 9998.0,
+   "shares_after": 172902.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1779128/0001628280-26-071913.txt",
+   "price_at_trade": 5.26,
+   "price_now": 6.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 15.0
+  },
+  {
+   "ticker": "SRTA",
+   "company_name": "Strata Critical Medical, Inc.",
+   "owner_name": "LAUCK ANDREW",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2000.0,
+   "price": 4.999,
+   "value": 9998.0,
+   "shares_after": 172902.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1970526/0001628280-26-071913.txt",
+   "price_at_trade": 5.26,
+   "price_now": 6.05,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 15.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

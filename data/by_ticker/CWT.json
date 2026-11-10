@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "CWT",
  "company": {
   "name": "CALIFORNIA WATER SERVICE GROUP",
@@ -8,8 +8,8 @@
   "industry": "Water Supply",
   "sector": "Energy & Utilities"
  },
- "price_now": 51.04,
- "price_date": "2026-11-06",
+ "price_now": 50.16,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CWT",
+   "company_name": "CALIFORNIA WATER SERVICE GROUP",
+   "owner_name": "Krummel Thomas M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 3700.0,
+   "price": 50.815,
+   "value": 188015.5,
+   "shares_after": 16403.922,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013882.txt",
+   "price_at_trade": 50.71,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.1
+  },
+  {
+   "ticker": "CWT",
+   "company_name": "CALIFORNIA WATER SERVICE GROUP",
+   "owner_name": "Krummel Thomas M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 3700.0,
+   "price": 50.815,
+   "value": 188015.5,
+   "shares_after": 16403.922,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1495768/0001214659-26-013882.txt",
+   "price_at_trade": 50.71,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.1
+  },
   {
    "ticker": "CWT",
    "company_name": "CALIFORNIA WATER SERVICE GROUP",
@@ -34,10 +72,10 @@
    "shares_after": 16529.922,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013788.txt",
-   "price_at_trade": 49.96,
-   "price_now": 51.04,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 2.2
+   "price_at_trade": 49.63,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "CWT",
@@ -53,10 +91,10 @@
    "shares_after": 446.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013789.txt",
-   "price_at_trade": 49.96,
-   "price_now": 51.04,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 2.2
+   "price_at_trade": 49.63,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "CWT",
@@ -72,10 +110,10 @@
    "shares_after": 16529.922,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1715865/0001214659-26-013788.txt",
-   "price_at_trade": 49.96,
-   "price_now": 51.04,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 2.2
+   "price_at_trade": 49.63,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "CWT",
@@ -91,10 +129,10 @@
    "shares_after": 446.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2138819/0001214659-26-013789.txt",
-   "price_at_trade": 49.96,
-   "price_now": 51.04,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 2.2
+   "price_at_trade": 49.63,
+   "price_now": 50.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.1
   }
  ],
  "trump_trades": [],

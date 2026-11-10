@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "BDX",
  "company": {
   "name": "BECTON DICKINSON & CO",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 211.88,
- "price_date": "2026-11-06",
+ "price_now": 215.25,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 144.37,
-   "price_now": 211.88,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 46.8,
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 49.1,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -76,15 +76,53 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 159.57,
-   "price_now": 211.88,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 32.8,
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 34.9,
    "days_to_disclose": 17,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BDX",
+   "company_name": "BECTON DICKINSON & CO",
+   "owner_name": "Polen Thomas E Jr",
+   "owner_title": "Director, Chairman, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2993.0,
+   "price": 210.0,
+   "value": 628530.0,
+   "shares_after": 110163.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/10795/0001628280-26-072360.txt",
+   "price_at_trade": 213.55,
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "BDX",
+   "company_name": "BECTON DICKINSON & CO",
+   "owner_name": "Polen Thomas E Jr",
+   "owner_title": "Director, Chairman, CEO and President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2993.0,
+   "price": 210.0,
+   "value": 628530.0,
+   "shares_after": 110163.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1621793/0001628280-26-072360.txt",
+   "price_at_trade": 213.55,
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.8
+  },
   {
    "ticker": "BDX",
    "company_name": "BECTON DICKINSON & CO",
@@ -100,9 +138,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/10795/0001628280-26-067525.txt",
    "price_at_trade": 196.39,
-   "price_now": 211.88,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 7.9
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 9.6
   },
   {
    "ticker": "BDX",
@@ -119,9 +157,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2034349/0001628280-26-067525.txt",
    "price_at_trade": 196.39,
-   "price_now": 211.88,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 7.9
+   "price_now": 215.25,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 9.6
   }
  ],
  "trump_trades": [],

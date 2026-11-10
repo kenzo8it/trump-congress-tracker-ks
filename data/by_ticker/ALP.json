@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "ALP",
  "company": {
   "name": "Alpha Compute Corp",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 3.0,
- "price_date": "2026-11-06",
+ "price_now": 3.06,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1095435/0001171843-26-006594.txt",
    "price_at_trade": 3.96,
-   "price_now": 3.0,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -24.2
+   "price_now": 3.06,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -22.7
   },
   {
    "ticker": "ALP",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1889272/0001171843-26-006594.txt",
    "price_at_trade": 3.96,
-   "price_now": 3.0,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -24.2
+   "price_now": 3.06,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -22.7
   }
  ],
  "trump_trades": [],

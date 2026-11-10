@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-10T04:30+00:00",
+ "ticker": "WEYS",
+ "company": {
+  "name": "WEYCO GROUP INC",
+  "cik": 106532,
+  "sic": 5130,
+  "industry": "Wholesale-Apparel, Piece Goods & Notions",
+  "sector": "Other"
+ },
+ "price_now": 60.76,
+ "price_date": "2026-11-09",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "WEYS",
+   "company_name": "WEYCO GROUP INC",
+   "owner_name": "Anderson Judy",
+   "owner_title": "VP/CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 1263.0,
+   "price": 60.12,
+   "value": 75931.56,
+   "shares_after": 15341.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/106532/0001312596-26-000020.txt",
+   "price_at_trade": 60.69,
+   "price_now": 60.76,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "WEYS",
+   "company_name": "WEYCO GROUP INC",
+   "owner_name": "Anderson Judy",
+   "owner_title": "VP/CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 1263.0,
+   "price": 60.12,
+   "value": 75931.56,
+   "shares_after": 15341.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000020.txt",
+   "price_at_trade": 60.69,
+   "price_now": 60.76,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

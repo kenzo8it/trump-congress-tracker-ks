@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "TCMD",
  "company": {
   "name": "TACTILE SYSTEMS TECHNOLOGY INC",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 26.03,
- "price_date": "2026-11-06",
+ "price_now": 26.59,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TCMD",
+   "company_name": "TACTILE SYSTEMS TECHNOLOGY INC",
+   "owner_name": "BURKE WILLIAM W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 27.0,
+   "value": 135000.0,
+   "shares_after": 50041.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1027838/0001200612-26-000009.txt",
+   "price_at_trade": 27.18,
+   "price_now": 26.59,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "TCMD",
+   "company_name": "TACTILE SYSTEMS TECHNOLOGY INC",
+   "owner_name": "BURKE WILLIAM W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-09",
+   "shares": 5000.0,
+   "price": 27.0,
+   "value": 135000.0,
+   "shares_after": 50041.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1200612/0001200612-26-000009.txt",
+   "price_at_trade": 27.18,
+   "price_now": 26.59,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -2.2
+  },
   {
    "ticker": "TCMD",
    "company_name": "TACTILE SYSTEMS TECHNOLOGY INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1027838/0002049487-26-000004.txt",
    "price_at_trade": 24.78,
-   "price_now": 26.03,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 5.0
+   "price_now": 26.59,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 7.3
   },
   {
    "ticker": "TCMD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2049487/0002049487-26-000004.txt",
    "price_at_trade": 24.78,
-   "price_now": 26.03,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 5.0
+   "price_now": 26.59,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 7.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "WBD",
  "company": {},
  "price_now": 30.95,
@@ -12,6 +12,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Nancy Pelosi",
+   "state_district": "CA11",
+   "reported_date": "2026-11-06",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+   "owner": "spouse",
+   "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+   "asset_type": "ST",
+   "ticker": "WBD",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-07",
+   "notified_date": "2026-10-07",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "P000197",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": 30.95,
+   "price_now": 30.95,
+   "price_now_date": "2026-10-05",
+   "total_return_pct": 0.0,
+   "days_to_disclose": 30,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "August Pfluger",

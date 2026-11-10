@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "KMT",
  "company": {
   "name": "KENNAMETAL INC",
@@ -8,8 +8,8 @@
   "industry": "Machine Tools, Metal Cutting Types",
   "sector": "Construction & Industrials"
  },
- "price_now": 23.0,
- "price_date": "2026-11-06",
+ "price_now": 24.18,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KMT",
+   "company_name": "KENNAMETAL INC",
+   "owner_name": "Watson Patrick S",
+   "owner_title": "Vice President and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 2000.0,
+   "price": 23.5,
+   "value": 47000.0,
+   "shares_after": 98522.78,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1700266/0001700266-26-000004.txt",
+   "price_at_trade": 22.8,
+   "price_now": 24.18,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.1
+  },
+  {
+   "ticker": "KMT",
+   "company_name": "KENNAMETAL INC",
+   "owner_name": "Watson Patrick S",
+   "owner_title": "Vice President and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 2000.0,
+   "price": 23.5,
+   "value": 47000.0,
+   "shares_after": 98522.78,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55242/0001700266-26-000004.txt",
+   "price_at_trade": 22.8,
+   "price_now": 24.18,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.1
+  },
   {
    "ticker": "KMT",
    "company_name": "KENNAMETAL INC",
@@ -34,10 +72,10 @@
    "shares_after": 280957.373,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782435/0001782435-26-000005.txt",
-   "price_at_trade": 23.22,
-   "price_now": 23.0,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.9
+   "price_at_trade": 23.02,
+   "price_now": 24.18,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "KMT",
@@ -53,10 +91,10 @@
    "shares_after": 280957.373,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/55242/0001782435-26-000005.txt",
-   "price_at_trade": 23.22,
-   "price_now": 23.0,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.9
+   "price_at_trade": 23.02,
+   "price_now": 24.18,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 5.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "GDYN",
  "company": {
   "name": "GRID DYNAMICS HOLDINGS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 13.1,
- "price_date": "2026-11-06",
+ "price_now": 13.3,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,158 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 39505.0,
+   "price": 13.15,
+   "value": 519490.75,
+   "shares_after": 637625.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204424/0001628280-26-072224.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 12542.0,
+   "price": 13.16,
+   "value": 165052.72,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204424/0001628280-26-072224.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "Doradla Anil",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 1500.0,
+   "price": 13.26,
+   "value": 19890.0,
+   "shares_after": 373009.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731166/0001628280-26-072230.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 39505.0,
+   "price": 13.15,
+   "value": 519490.75,
+   "shares_after": 637625.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-072224.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 12542.0,
+   "price": 13.16,
+   "value": 165052.72,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-072224.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "Doradla Anil",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 1500.0,
+   "price": 13.26,
+   "value": 19890.0,
+   "shares_after": 373009.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-072230.txt",
+   "price_at_trade": 13.1,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 15156.0,
+   "price": 13.39,
+   "value": 202938.84,
+   "shares_after": 677130.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204424/0001628280-26-072224.txt",
+   "price_at_trade": 13.54,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "GDYN",
+   "company_name": "GRID DYNAMICS HOLDINGS, INC.",
+   "owner_name": "CARNEY LLOYD",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 15156.0,
+   "price": 13.39,
+   "value": 202938.84,
+   "shares_after": 677130.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-072224.txt",
+   "price_at_trade": 13.54,
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -1.8
+  },
   {
    "ticker": "GDYN",
    "company_name": "GRID DYNAMICS HOLDINGS, INC.",
@@ -35,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-069598.txt",
    "price_at_trade": 13.37,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -2.0
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "GDYN",
@@ -54,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805673/0001628280-26-069598.txt",
    "price_at_trade": 13.37,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -2.0
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "GDYN",
@@ -73,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731166/0001628280-26-068639.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -92,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-068637.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -111,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-068639.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -130,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-068641.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -149,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805657/0001628280-26-068641.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -168,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805673/0001628280-26-068637.txt",
    "price_at_trade": 13.36,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -1.9
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "GDYN",
@@ -187,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743725/0001628280-26-068598.txt",
    "price_at_trade": 9.49,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 38.0
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 40.1
   },
   {
    "ticker": "GDYN",
@@ -206,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805657/0001628280-26-068598.txt",
    "price_at_trade": 9.49,
-   "price_now": 13.1,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 38.0
+   "price_now": 13.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 40.1
   }
  ],
  "trump_trades": [],

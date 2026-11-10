@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "CARG",
  "company": {
   "name": "CarGurus, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 33.74,
- "price_date": "2026-11-06",
+ "price_now": 34.55,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,158 @@
    "owner_name": "Steinert Langley",
    "owner_title": "Director, Executive Chair, 10% owner",
    "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 215.0,
+   "price": 37.492,
+   "value": 8060.78,
+   "shares_after": 881691.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 316.0,
+   "price": 38.2058,
+   "value": 12073.03,
+   "shares_after": 881375.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 24.0,
+   "price": 37.492,
+   "value": 899.81,
+   "shares_after": 74687.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 35.0,
+   "price": 38.2058,
+   "value": 1337.2,
+   "shares_after": 74652.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 215.0,
+   "price": 37.492,
+   "value": 8060.78,
+   "shares_after": 881691.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 316.0,
+   "price": 38.2058,
+   "value": 12073.03,
+   "shares_after": 881375.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 24.0,
+   "price": 37.492,
+   "value": 899.81,
+   "shares_after": 74687.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 35.0,
+   "price": 38.2058,
+   "value": 1337.2,
+   "shares_after": 74652.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000089.txt",
+   "price_at_trade": 33.74,
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CARG",
+   "company_name": "CarGurus, Inc.",
+   "owner_name": "Steinert Langley",
+   "owner_title": "Director, Executive Chair, 10% owner",
+   "trade_type": "SELL",
    "traded_date": "2026-11-04",
    "reported_date": "2026-11-06",
    "shares": 2000.0,
@@ -35,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -54,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -73,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -92,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -111,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -130,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -149,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -168,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1719138/0001494259-26-000088.txt",
    "price_at_trade": 36.52,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -7.6
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "CARG",
@@ -187,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000086.txt",
    "price_at_trade": 33.79,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.1
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "CARG",
@@ -206,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000087.txt",
    "price_at_trade": 33.79,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.1
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "CARG",
@@ -225,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1718790/0001494259-26-000087.txt",
    "price_at_trade": 33.79,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.1
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "CARG",
@@ -244,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010096/0001494259-26-000086.txt",
    "price_at_trade": 33.79,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -0.1
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "CARG",
@@ -263,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1494259/0001494259-26-000080.txt",
    "price_at_trade": 30.3,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 11.4
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 14.0
   },
   {
    "ticker": "CARG",
@@ -282,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1718790/0001494259-26-000080.txt",
    "price_at_trade": 30.3,
-   "price_now": 33.74,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 11.4
+   "price_now": 34.55,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 14.0
   }
  ],
  "trump_trades": [],

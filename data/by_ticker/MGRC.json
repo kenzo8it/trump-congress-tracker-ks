@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "MGRC",
  "company": {
   "name": "MCGRATH RENTCORP",
@@ -8,8 +8,8 @@
   "industry": "Services-Equipment Rental & Leasing, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 125.02,
- "price_date": "2026-11-06",
+ "price_now": 129.33,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MGRC",
+   "company_name": "MCGRATH RENTCORP",
+   "owner_name": "Wescott Tara",
+   "owner_title": "SVP, Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-09",
+   "shares": 1500.0,
+   "price": 130.0,
+   "value": 195000.0,
+   "shares_after": 6331.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1813649/0001813649-26-000005.txt",
+   "price_at_trade": 129.33,
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MGRC",
+   "company_name": "MCGRATH RENTCORP",
+   "owner_name": "Wescott Tara",
+   "owner_title": "SVP, Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-09",
+   "shares": 1500.0,
+   "price": 130.0,
+   "value": 195000.0,
+   "shares_after": 6331.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001813649-26-000005.txt",
+   "price_at_trade": 129.33,
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "MGRC",
    "company_name": "MCGRATH RENTCORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 132.86,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.9
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "MGRC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 132.86,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.9
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "MGRC",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1226137/0001226137-26-000007.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1231890/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001226137-26-000007.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   },
   {
    "ticker": "MGRC",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/752714/0001231890-26-000003.txt",
    "price_at_trade": 129.44,
-   "price_now": 125.02,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -3.4
+   "price_now": 129.33,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -0.1
   }
  ],
  "trump_trades": [],

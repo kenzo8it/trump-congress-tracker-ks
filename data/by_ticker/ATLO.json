@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "ATLO",
  "company": {
   "name": "AMES NATIONAL CORP",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 33.9,
- "price_date": "2026-11-06",
+ "price_now": 34.23,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ATLO",
+   "company_name": "AMES NATIONAL CORP",
+   "owner_name": "Bauer Scott T",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 88.0,
+   "price": 33.75,
+   "value": 2970.0,
+   "shares_after": 4101.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1132651/0001391715-26-000002.txt",
+   "price_at_trade": 33.9,
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "ATLO",
+   "company_name": "AMES NATIONAL CORP",
+   "owner_name": "Bauer Scott T",
+   "owner_title": null,
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 88.0,
+   "price": 33.75,
+   "value": 2970.0,
+   "shares_after": 4101.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1391715/0001391715-26-000002.txt",
+   "price_at_trade": 33.9,
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.0
+  },
   {
    "ticker": "ATLO",
    "company_name": "AMES NATIONAL CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1132651/0001805277-26-000002.txt",
    "price_at_trade": 33.63,
-   "price_now": 33.9,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.8
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "ATLO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805277/0001805277-26-000002.txt",
    "price_at_trade": 33.63,
-   "price_now": 33.9,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.8
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "ATLO",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1132651/0001773399-26-000008.txt",
    "price_at_trade": 33.51,
-   "price_now": 33.9,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 1.2
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.1
   },
   {
    "ticker": "ATLO",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1773399/0001773399-26-000008.txt",
    "price_at_trade": 33.51,
-   "price_now": 33.9,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 1.2
+   "price_now": 34.23,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.1
   }
  ],
  "trump_trades": [],

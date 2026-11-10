@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "AIM",
  "company": {
   "name": "AIM ImmunoTech Inc.",
@@ -9,7 +9,7 @@
   "sector": "Healthcare"
  },
  "price_now": 0.16,
- "price_date": "2026-11-06",
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -27,6 +27,44 @@
    "owner_title": "Director, CEO & President",
    "trade_type": "BUY",
    "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 12751.0,
+   "price": 0.158,
+   "value": 2014.66,
+   "shares_after": 222797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1450324/0001493152-26-050703.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "AIM",
+   "company_name": "AIM ImmunoTech Inc.",
+   "owner_name": "Equels Thomas K",
+   "owner_title": "Director, CEO & President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-09",
+   "shares": 12751.0,
+   "price": 0.158,
+   "value": 2014.66,
+   "shares_after": 222797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/946644/0001493152-26-050703.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.16,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "AIM",
+   "company_name": "AIM ImmunoTech Inc.",
+   "owner_name": "Equels Thomas K",
+   "owner_title": "Director, CEO & President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
    "reported_date": "2026-11-06",
    "shares": 20299.0,
    "price": 0.156,
@@ -36,7 +74,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1450324/0001493152-26-050412.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   },
   {
@@ -55,7 +93,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/946644/0001493152-26-050412.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   },
   {
@@ -74,7 +112,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1450324/0001493152-26-048460.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   },
   {
@@ -93,7 +131,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/946644/0001493152-26-048460.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   },
   {
@@ -112,7 +150,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1450324/0001493152-26-048196.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   },
   {
@@ -131,7 +169,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/946644/0001493152-26-048196.txt",
    "price_at_trade": 0.16,
    "price_now": 0.16,
-   "price_now_date": "2026-11-06",
+   "price_now_date": "2026-11-09",
    "total_return_pct": 0.0
   }
  ],

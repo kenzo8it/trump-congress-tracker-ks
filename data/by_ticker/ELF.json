@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "ELF",
  "company": {
   "name": "e.l.f. Beauty, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
   "sector": "Materials & Mining"
  },
- "price_now": 116.14,
- "price_date": "2026-11-06",
+ "price_now": 119.35,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,91 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 78.77,
-   "price_now": 116.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 47.4,
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 51.5,
    "days_to_disclose": 241,
    "late_filing": true
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ELF",
+   "company_name": "e.l.f. Beauty, Inc.",
+   "owner_name": "Franks Joshua Allen",
+   "owner_title": "SVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 6845.0,
+   "price": 120.0,
+   "value": 821400.0,
+   "shares_after": 112160.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600033/0001610717-26-000450.txt",
+   "price_at_trade": 109.85,
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
+  },
+  {
+   "ticker": "ELF",
+   "company_name": "e.l.f. Beauty, Inc.",
+   "owner_name": "Franks Joshua Allen",
+   "owner_title": "SVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2120.0,
+   "price": 122.0032,
+   "value": 258646.78,
+   "shares_after": 110040.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600033/0001610717-26-000450.txt",
+   "price_at_trade": 109.85,
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
+  },
+  {
+   "ticker": "ELF",
+   "company_name": "e.l.f. Beauty, Inc.",
+   "owner_name": "Franks Joshua Allen",
+   "owner_title": "SVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 6845.0,
+   "price": 120.0,
+   "value": 821400.0,
+   "shares_after": 112160.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1797370/0001610717-26-000450.txt",
+   "price_at_trade": 109.85,
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
+  },
+  {
+   "ticker": "ELF",
+   "company_name": "e.l.f. Beauty, Inc.",
+   "owner_name": "Franks Joshua Allen",
+   "owner_title": "SVP, Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2120.0,
+   "price": 122.0032,
+   "value": 258646.78,
+   "shares_after": 110040.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1797370/0001610717-26-000450.txt",
+   "price_at_trade": 109.85,
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
+  },
   {
    "ticker": "ELF",
    "company_name": "e.l.f. Beauty, Inc.",
@@ -66,9 +142,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1600033/0001610717-26-000443.txt",
    "price_at_trade": 116.11,
-   "price_now": 116.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.0
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "ELF",
@@ -85,9 +161,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1797370/0001610717-26-000443.txt",
    "price_at_trade": 116.11,
-   "price_now": 116.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 0.0
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "ELF",
@@ -104,9 +180,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1600033/0001610717-26-000439.txt",
    "price_at_trade": 109.94,
-   "price_now": 116.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 5.6
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "ELF",
@@ -123,9 +199,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1797370/0001610717-26-000439.txt",
    "price_at_trade": 109.94,
-   "price_now": 116.14,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 5.6
+   "price_now": 119.35,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 8.6
   }
  ],
  "trump_trades": [],

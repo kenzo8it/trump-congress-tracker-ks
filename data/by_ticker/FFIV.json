@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "FFIV",
  "company": {
   "name": "F5, INC.",
@@ -8,8 +8,8 @@
   "industry": "Computer Communications Equipment",
   "sector": "Technology"
  },
- "price_now": 310.84,
- "price_date": "2026-11-06",
+ "price_now": 317.75,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 297.84,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 4.4,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.7,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 299.21,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 3.9,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.2,
    "days_to_disclose": 288,
    "late_filing": true
   },
@@ -108,15 +108,471 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 299.21,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 3.9,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 6.2,
    "days_to_disclose": 288,
    "late_filing": true
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 600.0,
+   "price": 310.5207,
+   "value": 186312.42,
+   "shares_after": 188866.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 1033.0,
+   "price": 311.7138,
+   "value": 322000.36,
+   "shares_after": 187833.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 470.0,
+   "price": 312.3551,
+   "value": 146806.9,
+   "shares_after": 187363.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 280.0,
+   "price": 313.8986,
+   "value": 87891.61,
+   "shares_after": 187083.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 560.0,
+   "price": 314.7854,
+   "value": 176279.82,
+   "shares_after": 186523.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 201.0,
+   "price": 315.68,
+   "value": 63451.68,
+   "shares_after": 186322.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 199.0,
+   "price": 317.0236,
+   "value": 63087.7,
+   "shares_after": 186123.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 317.835,
+   "value": 25426.8,
+   "shares_after": 186043.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 160.0,
+   "price": 319.545,
+   "value": 51127.2,
+   "shares_after": 185883.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 320.165,
+   "value": 25613.2,
+   "shares_after": 185803.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 322.44,
+   "value": 25795.2,
+   "shares_after": 185723.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 40.0,
+   "price": 323.12,
+   "value": 12924.8,
+   "shares_after": 185683.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 600.0,
+   "price": 310.5207,
+   "value": 186312.42,
+   "shares_after": 188866.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 1033.0,
+   "price": 311.7138,
+   "value": 322000.36,
+   "shares_after": 187833.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 470.0,
+   "price": 312.3551,
+   "value": 146806.9,
+   "shares_after": 187363.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 280.0,
+   "price": 313.8986,
+   "value": 87891.61,
+   "shares_after": 187083.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 560.0,
+   "price": 314.7854,
+   "value": 176279.82,
+   "shares_after": 186523.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 201.0,
+   "price": 315.68,
+   "value": 63451.68,
+   "shares_after": 186322.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 199.0,
+   "price": 317.0236,
+   "value": 63087.7,
+   "shares_after": 186123.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 317.835,
+   "value": 25426.8,
+   "shares_after": 186043.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 160.0,
+   "price": 319.545,
+   "value": 51127.2,
+   "shares_after": 185883.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 320.165,
+   "value": 25613.2,
+   "shares_after": 185803.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 80.0,
+   "price": 322.44,
+   "value": 25795.2,
+   "shares_after": 185723.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "FFIV",
+   "company_name": "F5, INC.",
+   "owner_name": "Locoh-Donou Francois",
+   "owner_title": "Director, President, CEO & Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 40.0,
+   "price": 323.12,
+   "value": 12924.8,
+   "shares_after": 185683.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526624/0001526624-26-000023.txt",
+   "price_at_trade": 311.74,
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "FFIV",
    "company_name": "F5, INC.",
@@ -132,9 +588,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001728330-26-000022.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -151,9 +607,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -170,9 +626,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -189,9 +645,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -208,9 +664,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -227,9 +683,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -246,9 +702,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -265,9 +721,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -284,9 +740,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1728330/0001728330-26-000022.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -303,9 +759,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -322,9 +778,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -341,9 +797,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -360,9 +816,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -379,9 +835,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -398,9 +854,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -417,9 +873,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869466/0001869466-26-000016.txt",
    "price_at_trade": 329.72,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -5.7
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FFIV",
@@ -436,9 +892,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -455,9 +911,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -474,9 +930,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -493,9 +949,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -512,9 +968,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -531,9 +987,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -550,9 +1006,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -569,9 +1025,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -588,9 +1044,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0002016857-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -607,9 +1063,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0002042647-26-000020.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -626,9 +1082,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0002046054-26-000016.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -645,9 +1101,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/0002060650-26-000016.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -664,9 +1120,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -683,9 +1139,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -702,9 +1158,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -721,9 +1177,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -740,9 +1196,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -759,9 +1215,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -778,9 +1234,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -797,9 +1253,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746640/0001746640-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -816,9 +1272,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2016857/0002016857-26-000014.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -835,9 +1291,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2042647/0002042647-26-000020.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -854,9 +1310,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2046054/0002046054-26-000016.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FFIV",
@@ -873,9 +1329,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2060650/0002060650-26-000016.txt",
    "price_at_trade": 331.15,
-   "price_now": 310.84,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": -6.1
+   "price_now": 317.75,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": -4.0
   }
  ],
  "trump_trades": [],

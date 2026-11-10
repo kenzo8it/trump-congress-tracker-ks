@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "RMNI",
  "company": {
   "name": "Rimini Street, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 5.22,
- "price_date": "2026-11-06",
+ "price_now": 5.41,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RMNI",
+   "company_name": "Rimini Street, Inc.",
+   "owner_name": "Maddock Kevin",
+   "owner_title": "EVP,ChiefRecurringRev.Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 5.165,
+   "value": 103300.0,
+   "shares_after": 193534.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635282/0001717514-26-000017.txt",
+   "price_at_trade": 5.26,
+   "price_now": 5.41,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.9
+  },
+  {
+   "ticker": "RMNI",
+   "company_name": "Rimini Street, Inc.",
+   "owner_name": "Maddock Kevin",
+   "owner_title": "EVP,ChiefRecurringRev.Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-09",
+   "shares": 20000.0,
+   "price": 5.165,
+   "value": 103300.0,
+   "shares_after": 193534.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1717514/0001717514-26-000017.txt",
+   "price_at_trade": 5.26,
+   "price_now": 5.41,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 2.9
+  },
   {
    "ticker": "RMNI",
    "company_name": "Rimini Street, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635282/0002020161-26-000015.txt",
    "price_at_trade": 4.88,
-   "price_now": 5.22,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 7.0
+   "price_now": 5.41,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 10.9
   },
   {
    "ticker": "RMNI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020161/0002020161-26-000015.txt",
    "price_at_trade": 4.88,
-   "price_now": 5.22,
-   "price_now_date": "2026-11-06",
-   "total_return_pct": 7.0
+   "price_now": 5.41,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 10.9
   }
  ],
  "trump_trades": [],

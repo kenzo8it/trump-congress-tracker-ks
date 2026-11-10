@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-10T04:30+00:00",
+ "ticker": "FHI",
+ "company": {
+  "name": "FEDERATED HERMES, INC.",
+  "cik": 1056288,
+  "sic": 6282,
+  "industry": "Investment Advice",
+  "sector": "Financials"
+ },
+ "price_now": 64.95,
+ "price_date": "2026-11-09",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FHI",
+   "company_name": "FEDERATED HERMES, INC.",
+   "owner_name": "Nusseibeh Saker Anwar",
+   "owner_title": "CEO, Federated Hermes Limited",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-09",
+   "shares": 5700.0,
+   "price": 65.1004,
+   "value": 371072.28,
+   "shares_after": 138546.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1056288/0001193125-26-453914.txt",
+   "price_at_trade": 64.95,
+   "price_now": 64.95,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "FHI",
+   "company_name": "FEDERATED HERMES, INC.",
+   "owner_name": "Nusseibeh Saker Anwar",
+   "owner_title": "CEO, Federated Hermes Limited",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-09",
+   "shares": 5700.0,
+   "price": 65.1004,
+   "value": 371072.28,
+   "shares_after": 138546.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744486/0001193125-26-453914.txt",
+   "price_at_trade": 64.95,
+   "price_now": 64.95,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

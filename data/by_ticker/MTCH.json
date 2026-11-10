@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:56+00:00",
+ "updated": "2026-11-10T04:30+00:00",
  "ticker": "MTCH",
  "company": {
   "name": "Match Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 39.03,
- "price_date": "2026-11-06",
+ "price_now": 39.3,
+ "price_date": "2026-11-09",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -19,7 +19,46 @@
  },
  "congress_trades": [],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "MTCH",
+   "company_name": "Match Group, Inc.",
+   "owner_name": "Schiffman Glenn",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2500.0,
+   "price": 38.8338,
+   "value": 97084.5,
+   "shares_after": 72059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1670982/0000891103-26-000164.txt",
+   "price_at_trade": 39.16,
+   "price_now": 39.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "MTCH",
+   "company_name": "Match Group, Inc.",
+   "owner_name": "Schiffman Glenn",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-09",
+   "shares": 2500.0,
+   "price": 38.8338,
+   "value": 97084.5,
+   "shares_after": 72059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/891103/0000891103-26-000164.txt",
+   "price_at_trade": 39.16,
+   "price_now": 39.3,
+   "price_now_date": "2026-11-09",
+   "total_return_pct": 0.4
+  }
+ ],
  "trump_trades": [
   {
    "ticker": "MTCH",
@@ -34,8 +73,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 30.69,
    "price_basis": "price on trade date",
-   "price_now": 39.03,
-   "total_return_pct": 27.2
+   "price_now": 39.3,
+   "total_return_pct": 28.1
   }
  ],
  "trump_sponsor": [],
