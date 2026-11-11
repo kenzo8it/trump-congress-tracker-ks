@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:30+00:00",
+ "updated": "2026-11-11T02:08+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -103,10 +103,10 @@
    "ticker": "PTA",
    "est_shares": 429.2,
    "avg_price": 18.64,
-   "price_now": 17.49,
-   "est_position_value": 7507,
-   "total_return_pct": -6.2,
-   "total_return_usd": -494,
+   "price_now": 17.1,
+   "est_position_value": 7340,
+   "total_return_pct": -8.3,
+   "total_return_usd": -661,
    "first_buy": "2026-04-21",
    "last_trade": "2026-04-21"
   }
@@ -242,9 +242,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 18.64,
-   "price_now": 17.49,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -6.2,
+   "price_now": 17.1,
+   "price_now_date": "2026-11-10",
+   "total_return_pct": -8.3,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -297,9 +297,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 327.02,
-   "price_now": 476.7,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 45.8,
+   "price_now": 475.52,
+   "price_now_date": "2026-11-10",
+   "total_return_pct": 45.4,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -393,9 +393,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 275.17,
-   "price_now": 350.69,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 27.4,
+   "price_now": 348.51,
+   "price_now_date": "2026-11-10",
+   "total_return_pct": 26.7,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -423,9 +423,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 195.22,
-   "price_now": 229.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 17.3,
+   "price_now": 228.22,
+   "price_now_date": "2026-11-10",
+   "total_return_pct": 16.9,
    "days_to_disclose": 12,
    "late_filing": false
   },
