@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "IDXX",
  "company": {
   "name": "IDEXX LABORATORIES INC /DE",
@@ -8,8 +8,8 @@
   "industry": "In Vitro & In Vivo Diagnostic Substances",
   "sector": "Healthcare"
  },
- "price_now": 696.64,
- "price_date": "2026-11-10",
+ "price_now": 702.59,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 714.04,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -2.4,
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.6,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -72,91 +72,14 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 637.34,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 9.3,
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.2,
    "days_to_disclose": 19,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Byron Donalds",
-   "state_district": "FL19",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032234.pdf",
-   "owner": "self",
-   "asset": "IDEXX Laboratories, Inc. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "IDXX",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-04",
-   "notified_date": "2025-10-01",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "D000032",
-   "party": "Republican",
-   "state": "FL",
-   "company_name": "IDEXX LABORATORIES INC /DE",
-   "sector": "Healthcare",
-   "committee_overlap": [],
-   "price_at_trade": 640.44,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 8.8,
-   "days_to_disclose": 33,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Byron Donalds",
-   "state_district": "FL19",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032234.pdf",
-   "owner": "spouse",
-   "asset": "IDEXX Laboratories, Inc. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "IDXX",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-04",
-   "notified_date": "2025-10-01",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "D000032",
-   "party": "Republican",
-   "state": "FL",
-   "company_name": "IDEXX LABORATORIES INC /DE",
-   "sector": "Healthcare",
-   "committee_overlap": [],
-   "price_at_trade": 640.44,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 8.8,
-   "days_to_disclose": 33,
-   "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Byron Donalds",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "committee_overlap": [],
-   "ticker": "IDXX",
-   "est_shares": 25.0,
-   "avg_price": 640.44,
-   "price_now": 696.64,
-   "est_position_value": 17405,
-   "total_return_pct": 8.8,
-   "total_return_usd": 1404,
-   "first_buy": "2025-09-04",
-   "last_trade": "2025-09-04"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "IDXX",
@@ -173,9 +96,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094159/0000874716-26-000142.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -192,9 +115,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094159/0000874716-26-000142.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -211,9 +134,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -230,9 +153,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -249,9 +172,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -268,9 +191,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -287,9 +210,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -306,9 +229,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -325,9 +248,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -344,9 +267,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -363,9 +286,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -382,9 +305,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -401,9 +324,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -420,9 +343,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -439,9 +362,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556270/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -458,9 +381,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630353/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -477,9 +400,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630353/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -496,9 +419,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630353/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -515,9 +438,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1740689/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -534,9 +457,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1740689/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -553,9 +476,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1740689/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -572,9 +495,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000142.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -591,9 +514,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000142.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -610,9 +533,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -629,9 +552,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -648,9 +571,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000143.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -667,9 +590,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -686,9 +609,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -705,9 +628,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -724,9 +647,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -743,9 +666,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -762,9 +685,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -781,9 +704,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -800,9 +723,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -819,9 +742,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -838,9 +761,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -857,9 +780,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -876,9 +799,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -895,9 +818,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000144.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -914,9 +837,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -933,9 +856,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "IDXX",
@@ -952,9 +875,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/874716/0000874716-26-000145.txt",
    "price_at_trade": 698.55,
-   "price_now": 696.64,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.3
+   "price_now": 702.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.6
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "COO",
  "company": {
   "name": "COOPER COMPANIES, INC.",
@@ -8,8 +8,8 @@
   "industry": "Ophthalmic Goods",
   "sector": "Healthcare"
  },
- "price_now": 63.57,
- "price_date": "2026-11-10",
+ "price_now": 62.93,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "The Cooper Companies, Inc.",
+   "asset_type": "ST",
+   "ticker": "COO",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "COOPER COMPANIES, INC.",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 54.88,
+   "price_now": 62.93,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 14.7,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 67.34,
-   "price_now": 63.57,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -5.6,
+   "price_now": 62.93,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -6.5,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 61.21,
-   "price_now": 63.57,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.9,
+   "price_now": 62.93,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.8,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 80.74,
-   "price_now": 63.57,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -21.3,
+   "price_now": 62.93,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -22.1,
    "days_to_disclose": 33,
    "late_filing": false
   }
@@ -117,14 +147,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "COO",
-   "est_shares": 348.6,
-   "avg_price": 68.85,
-   "price_now": 63.57,
-   "est_position_value": 22161,
-   "total_return_pct": -7.7,
-   "total_return_usd": -1841,
+   "est_shares": 494.4,
+   "avg_price": 64.73,
+   "price_now": 62.93,
+   "est_position_value": 31112,
+   "total_return_pct": -2.8,
+   "total_return_usd": -890,
    "first_buy": "2025-12-10",
-   "last_trade": "2026-06-05"
+   "last_trade": "2026-10-14"
   }
  ],
  "insider_trades": [],

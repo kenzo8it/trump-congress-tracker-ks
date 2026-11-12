@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "XEL",
  "company": {
   "name": "XCEL ENERGY INC",
@@ -8,8 +8,8 @@
   "industry": "Electric & Other Services Combined",
   "sector": "Energy & Utilities"
  },
- "price_now": 80.12,
- "price_date": "2026-11-10",
+ "price_now": 81.1,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 71.39,
-   "price_now": 80.12,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 12.2,
+   "price_now": 81.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 13.6,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -76,42 +76,10 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 77.73,
-   "price_now": 80.12,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.1,
+   "price_now": 81.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.3,
    "days_to_disclose": 28,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Julie Johnson",
-   "state_district": "TX32",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
-   "owner": "joint",
-   "asset": "Xcel Energy Inc.",
-   "asset_type": "ST",
-   "ticker": "XEL",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-07",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "J000310",
-   "party": "Democrat",
-   "state": "TX",
-   "company_name": "XCEL ENERGY INC",
-   "sector": "Energy & Utilities",
-   "committee_overlap": [
-    "House Committee on Foreign Affairs"
-   ],
-   "price_at_trade": 74.92,
-   "price_now": 80.12,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 6.9,
-   "days_to_disclose": 12,
    "late_filing": false
   }
  ],

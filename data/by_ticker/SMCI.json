@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "SMCI",
  "company": {
   "name": "Super Micro Computer, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electronic Computers",
   "sector": "Technology"
  },
- "price_now": 27.79,
- "price_date": "2026-11-10",
+ "price_now": 30.43,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 37.91,
-   "price_now": 27.79,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -26.7,
+   "price_now": 30.43,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -19.7,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -72,15 +72,54 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 40.41,
-   "price_now": 27.79,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -31.2,
+   "price_now": 30.43,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -24.7,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "SMCI",
+   "company_name": "Super Micro Computer, Inc.",
+   "owner_name": "Angel Scott",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 1715.0,
+   "price": 29.1199,
+   "value": 49940.63,
+   "shares_after": 8770.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1375365/0002063388-26-000006.txt",
+   "price_at_trade": 28.76,
+   "price_now": 30.43,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.8
+  },
+  {
+   "ticker": "SMCI",
+   "company_name": "Super Micro Computer, Inc.",
+   "owner_name": "Angel Scott",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 1715.0,
+   "price": 29.1199,
+   "value": 49940.63,
+   "shares_after": 8770.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2063388/0002063388-26-000006.txt",
+   "price_at_trade": 28.76,
+   "price_now": 30.43,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

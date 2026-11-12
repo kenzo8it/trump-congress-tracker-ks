@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "MTSI",
  "company": {
   "name": "MACOM Technology Solutions Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 230.0,
- "price_date": "2026-11-09",
+ "price_now": 249.86,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "MACOM Technology Solutions Holdings, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "MTSI",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-27",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "MACOM Technology Solutions Holdings, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 255.68,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -2.3,
+   "days_to_disclose": 14,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 284.27,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -19.1,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -12.1,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 279.11,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -17.6,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -10.5,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 275.49,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -16.5,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -9.3,
    "days_to_disclose": 50,
    "late_filing": true
   },
@@ -132,9 +162,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 385.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -40.4,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -35.3,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -162,9 +192,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 225.44,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.0,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.8,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -192,9 +222,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 241.01,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -4.6,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.7,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -222,9 +252,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 221.7,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 3.7,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 12.7,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -252,14 +282,31 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 162.24,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 41.8,
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 54.0,
    "days_to_disclose": 32,
    "late_filing": false
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "MTSI",
+   "est_shares": 31.3,
+   "avg_price": 255.68,
+   "price_now": 249.86,
+   "est_position_value": 7818,
+   "total_return_pct": -2.3,
+   "total_return_usd": -182,
+   "first_buy": "2026-03-03",
+   "last_trade": "2026-10-27"
+  }
+ ],
  "insider_trades": [
   {
    "ticker": "MTSI",
@@ -276,9 +323,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -295,9 +342,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -314,9 +361,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -333,9 +380,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -352,9 +399,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -371,9 +418,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -390,9 +437,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -409,9 +456,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -428,9 +475,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -447,9 +494,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -466,9 +513,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -485,9 +532,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -504,9 +551,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -523,9 +570,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -542,9 +589,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -561,9 +608,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -580,9 +627,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -599,9 +646,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -618,9 +665,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -637,9 +684,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -656,9 +703,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -675,9 +722,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -694,9 +741,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -713,9 +760,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -732,9 +779,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -751,9 +798,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -770,9 +817,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -789,9 +836,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -808,9 +855,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -827,9 +874,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -846,9 +893,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -865,9 +912,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792846/0000904454-26-000603.txt",
    "price_at_trade": 230.0,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "MTSI",
@@ -884,9 +931,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -903,9 +950,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -922,9 +969,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -941,9 +988,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -960,9 +1007,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -979,9 +1026,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -998,9 +1045,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1017,9 +1064,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1036,9 +1083,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1055,9 +1102,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1074,9 +1121,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1093,9 +1140,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1112,9 +1159,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1131,9 +1178,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1150,9 +1197,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1169,9 +1216,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1188,9 +1235,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1207,9 +1254,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1226,9 +1273,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1245,9 +1292,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1264,9 +1311,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1283,9 +1330,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1302,9 +1349,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1321,9 +1368,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1340,9 +1387,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1359,9 +1406,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1378,9 +1425,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1397,9 +1444,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1416,9 +1463,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1435,9 +1482,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000595.txt",
    "price_at_trade": 210.98,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 9.0
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 18.4
   },
   {
    "ticker": "MTSI",
@@ -1454,9 +1501,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1338249/0000904454-26-000549.txt",
    "price_at_trade": 243.58,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.6
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "MTSI",
@@ -1473,9 +1520,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1493594/0000904454-26-000549.txt",
    "price_at_trade": 243.58,
-   "price_now": 230.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.6
+   "price_now": 249.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.6
   }
  ],
  "trump_trades": [],

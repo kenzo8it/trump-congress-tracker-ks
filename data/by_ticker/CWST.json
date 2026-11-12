@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-12T03:15+00:00",
+ "ticker": "CWST",
+ "company": {
+  "name": "CASELLA WASTE SYSTEMS INC",
+  "cik": 911177,
+  "sic": 4953,
+  "industry": "Refuse Systems",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 98.53,
+ "price_date": "2026-11-11",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CWST",
+   "company_name": "CASELLA WASTE SYSTEMS INC",
+   "owner_name": "Helgeson Bradford John",
+   "owner_title": "Executive VP and CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 195.0,
+   "price": 98.72,
+   "value": 19250.4,
+   "shares_after": 7147.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1593745/0001593745-26-000004.txt",
+   "price_at_trade": 99.02,
+   "price_now": 98.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "CWST",
+   "company_name": "CASELLA WASTE SYSTEMS INC",
+   "owner_name": "Helgeson Bradford John",
+   "owner_title": "Executive VP and CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 195.0,
+   "price": 98.72,
+   "value": 19250.4,
+   "shares_after": 7147.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/911177/0001593745-26-000004.txt",
+   "price_at_trade": 99.02,
+   "price_now": 98.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

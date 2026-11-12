@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "MCY",
  "company": {
   "name": "MERCURY GENERAL CORP",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 84.21,
- "price_date": "2026-11-10",
+ "price_now": 86.21,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MCY",
+   "company_name": "MERCURY GENERAL CORP",
+   "owner_name": "Braunegg George Gwyer",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 593.0,
+   "price": 84.3,
+   "value": 49989.9,
+   "shares_after": 3646.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1762520/0001193125-26-455578.txt",
+   "price_at_trade": 82.61,
+   "price_now": 86.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "MCY",
+   "company_name": "MERCURY GENERAL CORP",
+   "owner_name": "Braunegg George Gwyer",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 593.0,
+   "price": 84.3,
+   "value": 49989.9,
+   "shares_after": 3646.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64996/0001193125-26-455578.txt",
+   "price_at_trade": 82.61,
+   "price_now": 86.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
+  },
   {
    "ticker": "MCY",
    "company_name": "MERCURY GENERAL CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697538/0001193125-26-453691.txt",
    "price_at_trade": 82.61,
-   "price_now": 84.21,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 1.9
+   "price_now": 86.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "MCY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/64996/0001193125-26-453691.txt",
    "price_at_trade": 82.61,
-   "price_now": 84.21,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 1.9
+   "price_now": 86.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
   }
  ],
  "trump_trades": [],

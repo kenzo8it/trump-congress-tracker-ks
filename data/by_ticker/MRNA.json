@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "MRNA",
  "company": {
   "name": "Moderna, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 269.0,
- "price_date": "2026-11-09",
+ "price_now": 248.69,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "Moderna, Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "MRNA",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-20",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Moderna, Inc.",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 242.08,
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.7,
+   "days_to_disclose": 21,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Maria Elvira Salazar",
@@ -42,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 194.82,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 38.1,
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 27.7,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 174.38,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 54.3,
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 42.6,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,14 +132,30 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 174.38,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 54.3,
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 42.6,
    "days_to_disclose": 21,
    "late_filing": false
   }
  ],
  "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "MRNA",
+   "est_shares": 33.0,
+   "avg_price": 242.08,
+   "price_now": 248.69,
+   "est_position_value": 8219,
+   "total_return_pct": 2.7,
+   "total_return_usd": 218,
+   "first_buy": "2026-10-20",
+   "last_trade": "2026-10-20"
+  },
   {
    "name": "Maria Elvira Salazar",
    "party": "Republican",
@@ -119,10 +165,10 @@
    "ticker": "MRNA",
    "est_shares": 4.8,
    "avg_price": 174.38,
-   "price_now": 269.0,
-   "est_position_value": 1295,
-   "total_return_pct": 54.3,
-   "total_return_usd": 455,
+   "price_now": 248.69,
+   "est_position_value": 1197,
+   "total_return_pct": 42.6,
+   "total_return_usd": 358,
    "first_buy": "2026-08-19",
    "last_trade": "2026-09-24"
   }
@@ -143,9 +189,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/0001682852-26-000187.txt",
    "price_at_trade": 236.5,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 13.7
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "MRNA",
@@ -162,9 +208,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760669/0001682852-26-000187.txt",
    "price_at_trade": 236.5,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 13.7
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "MRNA",
@@ -181,9 +227,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/0001682852-26-000187.txt",
    "price_at_trade": 226.3,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 18.9
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "MRNA",
@@ -200,9 +246,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/0001682852-26-000187.txt",
    "price_at_trade": 226.3,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 18.9
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "MRNA",
@@ -219,9 +265,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760669/0001682852-26-000187.txt",
    "price_at_trade": 226.3,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 18.9
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "MRNA",
@@ -238,9 +284,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760669/0001682852-26-000187.txt",
    "price_at_trade": 226.3,
-   "price_now": 269.0,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 18.9
+   "price_now": 248.69,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.9
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "HTFL",
  "company": {
   "name": "Heartflow, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 56.66,
- "price_date": "2026-11-09",
+ "price_now": 59.1,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Farquhar John C.M.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 38900.0,
+   "price": 55.74,
+   "value": 2168286.0,
+   "shares_after": 251983.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1464521/0001464521-26-000168.txt",
+   "price_at_trade": 55.8,
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Farquhar John C.M.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 38900.0,
+   "price": 55.74,
+   "value": 2168286.0,
+   "shares_after": 251983.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1900415/0001464521-26-000168.txt",
+   "price_at_trade": 55.8,
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Verghese Vikram",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 3587.0,
+   "price": 53.15,
+   "value": 190649.05,
+   "shares_after": 149587.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1464521/0001464521-26-000166.txt",
+   "price_at_trade": 56.66,
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.3
+  },
+  {
+   "ticker": "HTFL",
+   "company_name": "Heartflow, Inc.",
+   "owner_name": "Verghese Vikram",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 3587.0,
+   "price": 53.15,
+   "value": 190649.05,
+   "shares_after": 149587.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2079946/0001464521-26-000166.txt",
+   "price_at_trade": 56.66,
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.3
+  },
   {
    "ticker": "HTFL",
    "company_name": "Heartflow, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1464521/0001464521-26-000156.txt",
    "price_at_trade": 55.43,
-   "price_now": 56.66,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.2
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "HTFL",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1585724/0001464521-26-000156.txt",
    "price_at_trade": 55.43,
-   "price_now": 56.66,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.2
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "HTFL",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1464521/0001464521-26-000154.txt",
    "price_at_trade": 50.56,
-   "price_now": 56.66,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.1
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "HTFL",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1900415/0001464521-26-000154.txt",
    "price_at_trade": 50.56,
-   "price_now": 56.66,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.1
+   "price_now": 59.1,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 16.9
   }
  ],
  "trump_trades": [],

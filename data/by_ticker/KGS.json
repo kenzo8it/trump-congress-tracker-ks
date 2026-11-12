@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "KGS",
  "company": {
   "name": "Kodiak Gas Services, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Natural Gas Transmission",
   "sector": "Energy & Utilities"
  },
- "price_now": 44.67,
- "price_date": "2026-11-09",
+ "price_now": 43.86,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1767042/0001193125-26-447642.txt",
    "price_at_trade": 46.54,
-   "price_now": 44.67,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -4.0
+   "price_now": 43.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -5.8
   },
   {
    "ticker": "KGS",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1971122/0001193125-26-447642.txt",
    "price_at_trade": 46.54,
-   "price_now": 44.67,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -4.0
-  },
-  {
-   "ticker": "KGS",
-   "company_name": "Kodiak Gas Services, Inc.",
-   "owner_name": "Lenamon William Chad",
-   "owner_title": "Executive Vice President & COO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-12",
-   "reported_date": "2026-10-13",
-   "shares": 1000.0,
-   "price": 53.25,
-   "value": 53250.0,
-   "shares_after": 84294.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1767042/0001193125-26-420485.txt",
-   "price_at_trade": 52.49,
-   "price_now": 44.67,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -14.9
-  },
-  {
-   "ticker": "KGS",
-   "company_name": "Kodiak Gas Services, Inc.",
-   "owner_name": "Lenamon William Chad",
-   "owner_title": "Executive Vice President & COO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-12",
-   "reported_date": "2026-10-13",
-   "shares": 1000.0,
-   "price": 53.25,
-   "value": 53250.0,
-   "shares_after": 84294.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1971854/0001193125-26-420485.txt",
-   "price_at_trade": 52.49,
-   "price_now": 44.67,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -14.9
+   "price_now": 43.86,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -5.8
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "SNEJF",
  "company": {
   "name": "Sony Group Corp",
@@ -8,8 +8,8 @@
   "industry": "Household Audio & Video Equipment",
   "sector": "Construction & Industrials"
  },
- "price_now": 26.27,
- "price_date": "2026-11-10",
+ "price_now": 26.4,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "SONY GROUP CORP",
+   "asset_type": "ST",
+   "ticker": "SNEJF",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Sony Group Corp",
+   "sector": "Construction & Industrials",
+   "committee_overlap": [],
+   "price_at_trade": 23.57,
+   "price_now": 26.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 12.0,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 21.13,
-   "price_now": 26.27,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 24.3,
+   "price_now": 26.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 24.9,
    "days_to_disclose": 14,
    "late_filing": false
   }
@@ -57,14 +87,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "SNEJF",
-   "est_shares": 378.6,
-   "avg_price": 21.13,
-   "price_now": 26.27,
-   "est_position_value": 9947,
-   "total_return_pct": 24.3,
-   "total_return_usd": 1946,
+   "est_shares": 718.1,
+   "avg_price": 22.28,
+   "price_now": 26.4,
+   "est_position_value": 18957,
+   "total_return_pct": 18.5,
+   "total_return_usd": 2956,
    "first_buy": "2026-04-24",
-   "last_trade": "2026-04-24"
+   "last_trade": "2026-10-14"
   }
  ],
  "insider_trades": [],

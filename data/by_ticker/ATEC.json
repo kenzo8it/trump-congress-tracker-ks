@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "ATEC",
  "company": {
   "name": "Alphatec Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 7.0,
- "price_date": "2026-11-10",
+ "price_now": 7.35,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ATEC",
+   "company_name": "Alphatec Holdings, Inc.",
+   "owner_name": "Valentine Keith",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 35000.0,
+   "price": 6.93,
+   "value": 242550.0,
+   "shares_after": 299283.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289408/0001289408-26-000006.txt",
+   "price_at_trade": 7.0,
+   "price_now": 7.35,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.0
+  },
+  {
+   "ticker": "ATEC",
+   "company_name": "Alphatec Holdings, Inc.",
+   "owner_name": "Valentine Keith",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 35000.0,
+   "price": 6.93,
+   "value": 242550.0,
+   "shares_after": 299283.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1350653/0001289408-26-000006.txt",
+   "price_at_trade": 7.0,
+   "price_now": 7.35,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.0
+  },
   {
    "ticker": "ATEC",
    "company_name": "Alphatec Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1350653/0001555392-26-000004.txt",
    "price_at_trade": 7.04,
-   "price_now": 7.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.6
+   "price_now": 7.35,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "ATEC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1555392/0001555392-26-000004.txt",
    "price_at_trade": 7.04,
-   "price_now": 7.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.6
+   "price_now": 7.35,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.4
   }
  ],
  "trump_trades": [],

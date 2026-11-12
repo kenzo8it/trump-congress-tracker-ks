@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "BSY",
  "company": {
   "name": "BENTLEY SYSTEMS INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 45.4,
- "price_date": "2026-11-09",
+ "price_now": 44.44,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "BSY",
    "company_name": "BENTLEY SYSTEMS INC",
+   "owner_name": "Andre Werner",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 10000.0,
+   "price": 45.0,
+   "value": 450000.0,
+   "shares_after": 367843.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-125189.txt",
+   "price_at_trade": 44.65,
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "BSY",
+   "company_name": "BENTLEY SYSTEMS INC",
+   "owner_name": "Andre Werner",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 10000.0,
+   "price": 45.0,
+   "value": 450000.0,
+   "shares_after": 367843.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1825257/0001104659-26-125189.txt",
+   "price_at_trade": 44.65,
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
+  },
+  {
+   "ticker": "BSY",
+   "company_name": "BENTLEY SYSTEMS INC",
    "owner_name": "Bentley Raymond B.",
    "owner_title": "Director, 10% owner",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-124501.txt",
    "price_at_trade": 44.94,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 1.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.1
   },
   {
    "ticker": "BSY",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-122004.txt",
    "price_at_trade": 40.9,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 11.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.7
   },
   {
    "ticker": "BSY",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-122004.txt",
    "price_at_trade": 40.9,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 11.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.7
   },
   {
    "ticker": "BSY",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-119159.txt",
    "price_at_trade": 39.84,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "BSY",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-119159.txt",
    "price_at_trade": 39.84,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.0
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "BSY",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/0001104659-26-119159.txt",
    "price_at_trade": 39.7,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.4
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 11.9
   },
   {
    "ticker": "BSY",
@@ -244,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825229/0001104659-26-119159.txt",
    "price_at_trade": 39.7,
-   "price_now": 45.4,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.4
+   "price_now": 44.44,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 11.9
   }
  ],
  "trump_trades": [],

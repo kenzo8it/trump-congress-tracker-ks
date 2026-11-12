@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "ATRC",
  "company": {
   "name": "AtriCure, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 56.26,
- "price_date": "2026-11-10",
+ "price_now": 57.53,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 58.05,
-   "price_now": 56.26,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.1,
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.9,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 47.49,
-   "price_now": 56.26,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 18.5,
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 21.1,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 31.46,
-   "price_now": 56.26,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 78.8,
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 82.9,
    "days_to_disclose": 35,
    "late_filing": false
   }
@@ -119,15 +119,53 @@
    "ticker": "ATRC",
    "est_shares": 285.0,
    "avg_price": 37.85,
-   "price_now": 56.26,
-   "est_position_value": 16031,
-   "total_return_pct": 48.6,
-   "total_return_usd": 5247,
+   "price_now": 57.53,
+   "est_position_value": 16393,
+   "total_return_pct": 52.0,
+   "total_return_usd": 5609,
    "first_buy": "2026-03-03",
    "last_trade": "2026-09-29"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "ATRC",
+   "company_name": "AtriCure, Inc.",
+   "owner_name": "JOHNSON B KRISTINE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 2452.0,
+   "price": 58.48,
+   "value": 143392.96,
+   "shares_after": 53502.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1231984/0001231984-26-000005.txt",
+   "price_at_trade": 58.54,
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "ATRC",
+   "company_name": "AtriCure, Inc.",
+   "owner_name": "JOHNSON B KRISTINE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 2452.0,
+   "price": 58.48,
+   "value": 143392.96,
+   "shares_after": 53502.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1323885/0001231984-26-000005.txt",
+   "price_at_trade": 58.54,
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.7
+  },
   {
    "ticker": "ATRC",
    "company_name": "AtriCure, Inc.",
@@ -143,9 +181,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1323885/0001336063-26-000012.txt",
    "price_at_trade": 65.53,
-   "price_now": 56.26,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -14.1
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -12.2
   },
   {
    "ticker": "ATRC",
@@ -162,9 +200,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1336063/0001336063-26-000012.txt",
    "price_at_trade": 65.53,
-   "price_now": 56.26,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -14.1
+   "price_now": 57.53,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -12.2
   }
  ],
  "trump_trades": [],

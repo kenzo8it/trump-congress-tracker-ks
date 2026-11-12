@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "GIS",
  "company": {
   "name": "GENERAL MILLS INC",
@@ -8,8 +8,8 @@
   "industry": "Grain Mill Products",
   "sector": "Agriculture & Food"
  },
- "price_now": 34.6,
- "price_date": "2026-11-10",
+ "price_now": 34.21,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "General Mills, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "GIS",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-20",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "GENERAL MILLS INC",
+   "sector": "Agriculture & Food",
+   "committee_overlap": [],
+   "price_at_trade": 33.43,
+   "price_now": 34.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.3,
+   "days_to_disclose": 21,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 33.18,
-   "price_now": 34.6,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 4.3,
+   "price_now": 34.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1,
    "days_to_disclose": 16,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 46.16,
-   "price_now": 34.6,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -25.0,
+   "price_now": 34.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -25.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 44.77,
-   "price_now": 34.6,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -22.7,
+   "price_now": 34.21,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -23.6,
    "days_to_disclose": 24,
    "late_filing": false
   }
@@ -117,14 +147,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "GIS",
-   "est_shares": 246.5,
+   "est_shares": 7.2,
    "avg_price": 33.43,
-   "price_now": 34.6,
-   "est_position_value": 8529,
-   "total_return_pct": 3.5,
-   "total_return_usd": 288,
+   "price_now": 34.21,
+   "est_position_value": 246,
+   "total_return_pct": 2.3,
+   "total_return_usd": 6,
    "first_buy": "2025-12-19",
-   "last_trade": "2026-06-16"
+   "last_trade": "2026-10-20"
   }
  ],
  "insider_trades": [],

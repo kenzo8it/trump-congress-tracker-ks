@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "BETR",
  "company": {
   "name": "Better Home & Finance Holding Co",
@@ -8,8 +8,8 @@
   "industry": "Loan Brokers",
   "sector": "Financials"
  },
- "price_now": 20.15,
- "price_date": "2026-11-09",
+ "price_now": 15.4,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Nicholas J. Calamari",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 765.0,
+   "price": 18.11,
+   "value": 13854.15,
+   "shares_after": 67852.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614749/0001614749-26-000021.txt",
+   "price_at_trade": 18.51,
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -16.8
+  },
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Nicholas J. Calamari",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 765.0,
+   "price": 18.11,
+   "value": 13854.15,
+   "shares_after": 67852.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001614749-26-000021.txt",
+   "price_at_trade": 18.51,
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -16.8
+  },
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Tuffin Paula",
+   "owner_title": "General Counsel and CCO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 712.0,
+   "price": 18.03,
+   "value": 12837.36,
+   "shares_after": 42418.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001989210-26-000032.txt",
+   "price_at_trade": 18.51,
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -16.8
+  },
+  {
+   "ticker": "BETR",
+   "company_name": "Better Home & Finance Holding Co",
+   "owner_name": "Tuffin Paula",
+   "owner_title": "General Counsel and CCO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 712.0,
+   "price": 18.03,
+   "value": 12837.36,
+   "shares_after": 42418.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1989210/0001989210-26-000032.txt",
+   "price_at_trade": 18.51,
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -16.8
+  },
   {
    "ticker": "BETR",
    "company_name": "Better Home & Finance Holding Co",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828689/0001828689-26-000019.txt",
    "price_at_trade": 18.97,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 6.2
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -18.8
   },
   {
    "ticker": "BETR",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001828689-26-000019.txt",
    "price_at_trade": 18.97,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 6.2
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -18.8
   },
   {
    "ticker": "BETR",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1614749/0001614749-26-000014.txt",
    "price_at_trade": 10.53,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 91.4
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "BETR",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001614749-26-000014.txt",
    "price_at_trade": 10.53,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 91.4
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "BETR",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835856/0001989210-26-000024.txt",
    "price_at_trade": 10.53,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 91.4
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 46.2
   },
   {
    "ticker": "BETR",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1989210/0001989210-26-000024.txt",
    "price_at_trade": 10.53,
-   "price_now": 20.15,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 91.4
+   "price_now": 15.4,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 46.2
   }
  ],
  "trump_trades": [],

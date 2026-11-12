@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "EQIX",
  "company": {
   "name": "EQUINIX INC",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 1050.0,
- "price_date": "2026-11-10",
+ "price_now": 1068.06,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,40 +42,10 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 1037.66,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 1.2,
+   "price_now": 1068.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.9,
    "days_to_disclose": 26,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Julie Johnson",
-   "state_district": "TX32",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
-   "owner": "joint",
-   "asset": "Equinix, Inc. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "EQIX",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-07",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "J000310",
-   "party": "Democrat",
-   "state": "TX",
-   "company_name": "EQUINIX INC",
-   "sector": "Real Estate",
-   "committee_overlap": [],
-   "price_at_trade": 766.48,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 37.0,
-   "days_to_disclose": 12,
    "late_filing": false
   },
   {
@@ -102,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 786.45,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 33.5,
+   "price_now": 1068.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 35.8,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -132,9 +102,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 786.45,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 33.5,
+   "price_now": 1068.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 35.8,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -149,12 +119,28 @@
    "ticker": "EQIX",
    "est_shares": 7.7,
    "avg_price": 1037.66,
-   "price_now": 1050.0,
-   "est_position_value": 8096,
-   "total_return_pct": 1.2,
-   "total_return_usd": 95,
+   "price_now": 1068.06,
+   "est_position_value": 8235,
+   "total_return_pct": 2.9,
+   "total_return_usd": 234,
    "first_buy": "2026-08-07",
    "last_trade": "2026-08-07"
+  },
+  {
+   "name": "Julie Johnson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TX",
+   "committee_overlap": [],
+   "ticker": "EQIX",
+   "est_shares": 10.2,
+   "avg_price": 786.45,
+   "price_now": 1068.06,
+   "est_position_value": 10865,
+   "total_return_pct": 35.8,
+   "total_return_usd": 2865,
+   "first_buy": "2025-09-23",
+   "last_trade": "2025-09-23"
   }
  ],
  "insider_trades": [
@@ -173,9 +159,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/0001101239-26-000181.txt",
    "price_at_trade": 1012.71,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.7
+   "price_now": 1068.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "EQIX",
@@ -192,9 +178,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2039256/0001101239-26-000181.txt",
    "price_at_trade": 1012.71,
-   "price_now": 1050.0,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.7
+   "price_now": 1068.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 5.5
   }
  ],
  "trump_trades": [],

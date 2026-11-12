@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CTVA",
  "company": {
   "name": "Corteva, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Agricultural Production-Crops",
   "sector": "Agriculture & Food"
  },
- "price_now": 12.11,
- "price_date": "2026-11-09",
+ "price_now": 12.14,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "Corteva, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "CTVA",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Corteva, Inc.",
+   "sector": "Agriculture & Food",
+   "committee_overlap": [],
+   "price_at_trade": 13.4,
+   "price_now": 12.14,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -9.4,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 12.23,
-   "price_now": 12.11,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.0,
+   "price_now": 12.14,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.8,
    "days_to_disclose": 25,
    "late_filing": false
   }

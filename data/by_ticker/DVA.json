@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "DVA",
  "company": {
   "name": "DAVITA INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Misc Health & Allied Services, NEC",
   "sector": "Healthcare"
  },
- "price_now": 179.28,
- "price_date": "2026-11-10",
+ "price_now": 183.5,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,36 +18,6 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
-  {
-   "chamber": "House",
-   "politician_name": "Julie Johnson",
-   "state_district": "TX32",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
-   "owner": "joint",
-   "asset": "DaVita Inc. Common Stock",
-   "asset_type": "ST",
-   "ticker": "DVA",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-07",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "J000310",
-   "party": "Democrat",
-   "state": "TX",
-   "company_name": "DAVITA INC.",
-   "sector": "Healthcare",
-   "committee_overlap": [],
-   "price_at_trade": 130.27,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 37.6,
-   "days_to_disclose": 12,
-   "late_filing": false
-  },
   {
    "chamber": "House",
    "politician_name": "Julie Johnson",
@@ -72,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 132.83,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 35.0,
+   "price_now": 183.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 38.1,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -102,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 132.83,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 35.0,
+   "price_now": 183.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 38.1,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -126,9 +96,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/0001193125-26-438090.txt",
    "price_at_trade": 181.69,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -1.3
+   "price_now": 183.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DVA",
@@ -145,9 +115,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/315090/0001193125-26-438090.txt",
    "price_at_trade": 181.69,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -1.3
+   "price_now": 183.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DVA",
@@ -164,9 +134,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/927066/0001193125-26-438090.txt",
    "price_at_trade": 181.69,
-   "price_now": 179.28,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -1.3
+   "price_now": 183.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.0
   }
  ],
  "trump_trades": [],

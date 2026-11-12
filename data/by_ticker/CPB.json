@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CPB",
  "company": {
   "name": "CAMPBELL'S Co",
@@ -8,8 +8,8 @@
   "industry": "Food and Kindred Products",
   "sector": "Agriculture & Food"
  },
- "price_now": 22.59,
- "price_date": "2026-11-10",
+ "price_now": 22.31,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "The Campbell's Company - Common Stock",
+   "asset_type": "ST",
+   "ticker": "CPB",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-20",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "CAMPBELL'S Co",
+   "sector": "Agriculture & Food",
+   "committee_overlap": [],
+   "price_at_trade": 19.86,
+   "price_now": 22.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 12.3,
+   "days_to_disclose": 21,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 19.43,
-   "price_now": 22.59,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 16.3,
+   "price_now": 22.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 14.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 26.37,
-   "price_now": 22.59,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -14.3,
+   "price_now": 22.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -15.4,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 26.86,
-   "price_now": 22.59,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -15.9,
+   "price_now": 22.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -16.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -132,9 +162,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 29.16,
-   "price_now": 22.59,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -22.5,
+   "price_now": 22.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -23.5,
    "days_to_disclose": 27,
    "late_filing": false
   }
@@ -147,14 +177,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "CPB",
-   "est_shares": 3255.9,
+   "est_shares": 2853.1,
    "avg_price": 25.49,
-   "price_now": 22.59,
-   "est_position_value": 73551,
-   "total_return_pct": -11.4,
-   "total_return_usd": -9450,
+   "price_now": 22.31,
+   "est_position_value": 63652,
+   "total_return_pct": -12.5,
+   "total_return_usd": -9079,
    "first_buy": "2025-11-18",
-   "last_trade": "2026-05-15"
+   "last_trade": "2026-10-20"
   }
  ],
  "insider_trades": [],

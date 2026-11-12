@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "BOTJ",
  "company": {
   "name": "BANK OF THE JAMES FINANCIAL GROUP INC",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 25.67,
- "price_date": "2026-11-10",
+ "price_now": 25.39,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BOTJ",
+   "company_name": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "owner_name": "ADDISON LEWIS C",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 78.0,
+   "price": 24.92,
+   "value": 1943.76,
+   "shares_after": 19869.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1275101/0001437749-26-036049.txt",
+   "price_at_trade": 24.79,
+   "price_now": 25.39,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "BOTJ",
+   "company_name": "BANK OF THE JAMES FINANCIAL GROUP INC",
+   "owner_name": "ADDISON LEWIS C",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 78.0,
+   "price": 24.92,
+   "value": 1943.76,
+   "shares_after": 19869.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1354040/0001437749-26-036049.txt",
+   "price_at_trade": 24.79,
+   "price_now": 25.39,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.4
+  },
   {
    "ticker": "BOTJ",
    "company_name": "BANK OF THE JAMES FINANCIAL GROUP INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1275101/0001437749-26-035824.txt",
    "price_at_trade": 24.44,
-   "price_now": 25.67,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 5.0
+   "price_now": 25.39,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.9
   },
   {
    "ticker": "BOTJ",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1347477/0001437749-26-035824.txt",
    "price_at_trade": 24.44,
-   "price_now": 25.67,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 5.0
+   "price_now": 25.39,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.9
   }
  ],
  "trump_trades": [],

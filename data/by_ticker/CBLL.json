@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CBLL",
  "company": {
   "name": "Ceribell, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electromedical & Electrotherapeutic Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 27.6,
- "price_date": "2026-11-09",
+ "price_now": 27.8,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CBLL",
+   "company_name": "Ceribell, Inc.",
+   "owner_name": "Taylor Joseph Michael",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 10200.0,
+   "price": 27.22,
+   "value": 277644.0,
+   "shares_after": 38278.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1861107/0001193125-26-455553.txt",
+   "price_at_trade": 27.6,
+   "price_now": 27.8,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "CBLL",
+   "company_name": "Ceribell, Inc.",
+   "owner_name": "Taylor Joseph Michael",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 10200.0,
+   "price": 27.22,
+   "value": 277644.0,
+   "shares_after": 38278.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2036111/0001193125-26-455553.txt",
+   "price_at_trade": 27.6,
+   "price_now": 27.8,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.7
+  },
   {
    "ticker": "CBLL",
    "company_name": "Ceribell, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1861107/0001193125-26-446677.txt",
    "price_at_trade": 26.96,
-   "price_now": 27.6,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.4
+   "price_now": 27.8,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1
   },
   {
    "ticker": "CBLL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2036112/0001193125-26-446677.txt",
    "price_at_trade": 26.96,
-   "price_now": 27.6,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.4
+   "price_now": 27.8,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1
   }
  ],
  "trump_trades": [],

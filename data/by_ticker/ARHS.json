@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "ARHS",
  "company": {
   "name": "Arhaus, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Furniture Stores",
   "sector": "Retail & Consumer"
  },
- "price_now": 15.02,
- "price_date": "2026-11-09",
+ "price_now": 14.56,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,82 @@
   {
    "ticker": "ARHS",
    "company_name": "Arhaus, Inc.",
+   "owner_name": "Sedor Christian",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 225.0,
+   "price": 14.84,
+   "value": 3339.0,
+   "shares_after": 9894.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0002052064-26-000016.txt",
+   "price_at_trade": 15.02,
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "ARHS",
+   "company_name": "Arhaus, Inc.",
+   "owner_name": "Sedor Christian",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 4225.0,
+   "price": 15.09,
+   "value": 63755.25,
+   "shares_after": 5669.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0002052064-26-000016.txt",
+   "price_at_trade": 15.02,
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "ARHS",
+   "company_name": "Arhaus, Inc.",
+   "owner_name": "Sedor Christian",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 225.0,
+   "price": 14.84,
+   "value": 3339.0,
+   "shares_after": 9894.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2052064/0002052064-26-000016.txt",
+   "price_at_trade": 15.02,
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "ARHS",
+   "company_name": "Arhaus, Inc.",
+   "owner_name": "Sedor Christian",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 4225.0,
+   "price": 15.09,
+   "value": 63755.25,
+   "shares_after": 5669.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2052064/0002052064-26-000016.txt",
+   "price_at_trade": 15.02,
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.1
+  },
+  {
+   "ticker": "ARHS",
+   "company_name": "Arhaus, Inc.",
    "owner_name": "Reed John P",
    "owner_title": "Director, CEO and Chairman, 10% owner",
    "trade_type": "SELL",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0001888118-26-000004.txt",
    "price_at_trade": 13.15,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.2
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.7
   },
   {
    "ticker": "ARHS",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0001889614-26-000004.txt",
    "price_at_trade": 13.15,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.2
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.7
   },
   {
    "ticker": "ARHS",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1888118/0001888118-26-000004.txt",
    "price_at_trade": 13.15,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.2
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.7
   },
   {
    "ticker": "ARHS",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1889614/0001889614-26-000004.txt",
    "price_at_trade": 13.15,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 14.2
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 10.7
   },
   {
    "ticker": "ARHS",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0001888118-26-000004.txt",
    "price_at_trade": 12.06,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 24.5
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 20.7
   },
   {
    "ticker": "ARHS",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/0001889614-26-000004.txt",
    "price_at_trade": 12.06,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 24.5
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 20.7
   },
   {
    "ticker": "ARHS",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1888118/0001888118-26-000004.txt",
    "price_at_trade": 12.06,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 24.5
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 20.7
   },
   {
    "ticker": "ARHS",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1889614/0001889614-26-000004.txt",
    "price_at_trade": 12.06,
-   "price_now": 15.02,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 24.5
+   "price_now": 14.56,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 20.7
   }
  ],
  "trump_trades": [],

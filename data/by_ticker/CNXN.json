@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CNXN",
  "company": {
   "name": "PC CONNECTION INC",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
   "sector": "Other"
  },
- "price_now": 82.1,
- "price_date": "2026-11-10",
+ "price_now": 83.45,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "CNXN",
    "company_name": "PC CONNECTION INC",
+   "owner_name": "Zafirovski Matthew David",
+   "owner_title": "President & COO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 2490.0,
+   "price": 80.2,
+   "value": 199698.0,
+   "shares_after": 2490.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0002160413-26-000005.txt",
+   "price_at_trade": 79.89,
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "CNXN",
+   "company_name": "PC CONNECTION INC",
+   "owner_name": "Zafirovski Matthew David",
+   "owner_title": "President & COO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 2490.0,
+   "price": 80.2,
+   "value": 199698.0,
+   "shares_after": 2490.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2160413/0002160413-26-000005.txt",
+   "price_at_trade": 79.89,
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "CNXN",
+   "company_name": "PC CONNECTION INC",
    "owner_name": "GALLUP PATRICIA",
    "owner_title": "Director, Chairman & Chief Admin Officer, 10% owner",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000011.txt",
    "price_at_trade": 87.59,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.3
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "CNXN",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -244,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -263,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -282,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -301,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000011.txt",
    "price_at_trade": 87.32,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.0
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "CNXN",
@@ -320,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -339,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -358,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -377,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -396,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -415,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000010.txt",
    "price_at_trade": 87.51,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -6.2
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "CNXN",
@@ -434,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "CNXN",
@@ -453,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050377/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "CNXN",
@@ -472,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "CNXN",
@@ -491,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186630/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "CNXN",
@@ -510,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "CNXN",
@@ -529,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000010.txt",
    "price_at_trade": 86.36,
-   "price_now": 82.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.9
+   "price_now": 83.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.4
   }
  ],
  "trump_trades": [],

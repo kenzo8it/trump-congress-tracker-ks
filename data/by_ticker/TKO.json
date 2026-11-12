@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "TKO",
  "company": {
   "name": "TKO Group Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Amusement & Recreation Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 199.22,
- "price_date": "2026-11-10",
+ "price_now": 199.5,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "TKO Group Holdings, Inc. Class A Common Stock",
+   "asset_type": "ST",
+   "ticker": "TKO",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-06",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "TKO Group Holdings, Inc.",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "price_at_trade": 176.46,
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 13.1,
+   "days_to_disclose": 35,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -44,33 +76,14 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 190.35,
-   "price_now": 199.22,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 4.7,
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.8,
    "days_to_disclose": 19,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [
-    "House Committee on Small Business"
-   ],
-   "ticker": "TKO",
-   "est_shares": 42.0,
-   "avg_price": 190.35,
-   "price_now": 199.22,
-   "est_position_value": 8373,
-   "total_return_pct": 4.7,
-   "total_return_usd": 373,
-   "first_buy": "2025-11-26",
-   "last_trade": "2025-11-26"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "TKO",
@@ -87,9 +100,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821220/0001193125-26-423159.txt",
    "price_at_trade": 176.02,
-   "price_now": 199.22,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 13.2
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "TKO",
@@ -106,9 +119,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1973266/0001193125-26-423159.txt",
    "price_at_trade": 176.02,
-   "price_now": 199.22,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 13.2
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "TKO",
@@ -125,9 +138,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821220/0001193125-26-423159.txt",
    "price_at_trade": 173.86,
-   "price_now": 199.22,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 14.6
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 14.7
   },
   {
    "ticker": "TKO",
@@ -144,9 +157,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1973266/0001193125-26-423159.txt",
    "price_at_trade": 173.86,
-   "price_now": 199.22,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 14.6
+   "price_now": 199.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 14.7
   }
  ],
  "trump_trades": [],

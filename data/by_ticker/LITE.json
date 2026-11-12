@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "LITE",
  "company": {
   "name": "Lumentum Holdings Inc.",
@@ -8,8 +8,8 @@
   "industry": "Communications Equipment, NEC",
   "sector": "Technology"
  },
- "price_now": 596.16,
- "price_date": "2026-11-09",
+ "price_now": 648.06,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "Lumentum Holdings Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "LITE",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-20",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Lumentum Holdings Inc.",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 822.51,
+   "price_now": 648.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -21.2,
+   "days_to_disclose": 21,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 732.82,
-   "price_now": 596.16,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -18.6,
+   "price_now": 648.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -11.6,
    "days_to_disclose": 49,
    "late_filing": true
   },
@@ -74,9 +104,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 946.9,
-   "price_now": 596.16,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -37.0,
+   "price_now": 648.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -31.6,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -104,14 +134,30 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 852.79,
-   "price_now": 596.16,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -30.1,
+   "price_now": 648.06,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -24.0,
    "days_to_disclose": 24,
    "late_filing": false
   }
  ],
  "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "LITE",
+   "est_shares": 9.7,
+   "avg_price": 822.51,
+   "price_now": 648.06,
+   "est_position_value": 6304,
+   "total_return_pct": -21.2,
+   "total_return_usd": -1697,
+   "first_buy": "2026-04-14",
+   "last_trade": "2026-10-20"
+  },
   {
    "name": "Josh Gottheimer",
    "party": "Democrat",
@@ -123,10 +169,10 @@
    "ticker": "LITE",
    "est_shares": 8.4,
    "avg_price": 946.9,
-   "price_now": 596.16,
-   "est_position_value": 5037,
-   "total_return_pct": -37.0,
-   "total_return_usd": -2963,
+   "price_now": 648.06,
+   "est_position_value": 5476,
+   "total_return_pct": -31.6,
+   "total_return_usd": -2525,
    "first_buy": "2026-05-22",
    "last_trade": "2026-05-22"
   }

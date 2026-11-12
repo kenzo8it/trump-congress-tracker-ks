@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "INTA",
  "company": {
   "name": "Intapp, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 44.47,
- "price_date": "2026-11-09",
+ "price_now": 46.45,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 21.11,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 110.7,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 120.0,
    "days_to_disclose": 36,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 24.65,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 80.4,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 88.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -106,9 +106,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 42.28,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 5.2,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.9,
    "days_to_disclose": 32,
    "late_filing": false
   }
@@ -125,10 +125,10 @@
    "ticker": "INTA",
    "est_shares": 379.0,
    "avg_price": 21.11,
-   "price_now": 44.47,
-   "est_position_value": 16854,
-   "total_return_pct": 110.7,
-   "total_return_usd": 8853,
+   "price_now": 46.45,
+   "est_position_value": 17604,
+   "total_return_pct": 120.0,
+   "total_return_usd": 9604,
    "first_buy": "2026-04-13",
    "last_trade": "2026-04-13"
   }
@@ -140,6 +140,82 @@
    "owner_name": "HALL JOHN T",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 1100.0,
+   "price": 43.7529,
+   "value": 48128.19,
+   "shares_after": 5816708.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000136.txt",
+   "price_at_trade": 44.47,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "INTA",
+   "company_name": "Intapp, Inc.",
+   "owner_name": "HALL JOHN T",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 1900.0,
+   "price": 44.3248,
+   "value": 84217.12,
+   "shares_after": 5814808.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000136.txt",
+   "price_at_trade": 44.47,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "INTA",
+   "company_name": "Intapp, Inc.",
+   "owner_name": "HALL JOHN T",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 1100.0,
+   "price": 43.7529,
+   "value": 48128.19,
+   "shares_after": 5816708.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000136.txt",
+   "price_at_trade": 44.47,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "INTA",
+   "company_name": "Intapp, Inc.",
+   "owner_name": "HALL JOHN T",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 1900.0,
+   "price": 44.3248,
+   "value": 84217.12,
+   "shares_after": 5814808.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000136.txt",
+   "price_at_trade": 44.47,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.5
+  },
+  {
+   "ticker": "INTA",
+   "company_name": "Intapp, Inc.",
+   "owner_name": "HALL JOHN T",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-02",
    "reported_date": "2026-11-04",
    "shares": 100.0,
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -187,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -206,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -225,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -244,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -263,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -282,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -301,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -320,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000133.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -339,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000134.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -358,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869575/0001565687-26-000134.txt",
    "price_at_trade": 45.03,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "INTA",
@@ -377,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000130.txt",
    "price_at_trade": 47.15,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "INTA",
@@ -396,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000130.txt",
    "price_at_trade": 47.15,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "INTA",
@@ -415,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000130.txt",
    "price_at_trade": 47.15,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "INTA",
@@ -434,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000130.txt",
    "price_at_trade": 47.15,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "INTA",
@@ -453,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000121.txt",
    "price_at_trade": 44.78,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -0.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "INTA",
@@ -472,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028388/0001565687-26-000121.txt",
    "price_at_trade": 44.78,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -0.7
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "INTA",
@@ -491,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000120.txt",
    "price_at_trade": 44.29,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.9
   },
   {
    "ticker": "INTA",
@@ -510,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000120.txt",
    "price_at_trade": 44.29,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.9
   },
   {
    "ticker": "INTA",
@@ -529,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000120.txt",
    "price_at_trade": 44.29,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.9
   },
   {
    "ticker": "INTA",
@@ -548,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000120.txt",
    "price_at_trade": 44.29,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.9
   },
   {
    "ticker": "INTA",
@@ -567,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000117.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   },
   {
    "ticker": "INTA",
@@ -586,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869575/0001565687-26-000117.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   },
   {
    "ticker": "INTA",
@@ -605,9 +681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106566/0001565687-26-000116.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   },
   {
    "ticker": "INTA",
@@ -624,9 +700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000116.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   },
   {
    "ticker": "INTA",
@@ -643,9 +719,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565687/0001565687-26-000117.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   },
   {
    "ticker": "INTA",
@@ -662,9 +738,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1869575/0001565687-26-000117.txt",
    "price_at_trade": 39.64,
-   "price_now": 44.47,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 12.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 17.2
   }
  ],
  "trump_trades": [],

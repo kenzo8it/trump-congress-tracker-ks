@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "MKTX",
  "company": {
   "name": "MARKETAXESS HOLDINGS INC",
@@ -8,8 +8,8 @@
   "industry": "Security Brokers, Dealers & Flotation Companies",
   "sector": "Financials"
  },
- "price_now": 165.08,
- "price_date": "2026-11-10",
+ "price_now": 165.31,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 170.19,
-   "price_now": 165.08,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.0,
+   "price_now": 165.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -2.9,
    "days_to_disclose": 40,
    "late_filing": false
   }
@@ -59,18 +59,18 @@
    "owner_name": "Pintoff Scott",
    "owner_title": "General Counsel and Secretary",
    "trade_type": "SELL",
-   "traded_date": "2026-10-12",
-   "reported_date": "2026-10-13",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
    "shares": 100.0,
-   "price": 164.65,
-   "value": 16465.0,
-   "shares_after": 11386.0,
+   "price": 164.8,
+   "value": 16480.0,
+   "shares_after": 11286.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1278021/0001193125-26-420435.txt",
-   "price_at_trade": 163.76,
-   "price_now": 165.08,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 0.8
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1278021/0001193125-26-455487.txt",
+   "price_at_trade": 165.08,
+   "price_now": 165.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.1
   },
   {
    "ticker": "MKTX",
@@ -78,18 +78,18 @@
    "owner_name": "Pintoff Scott",
    "owner_title": "General Counsel and Secretary",
    "trade_type": "SELL",
-   "traded_date": "2026-10-12",
-   "reported_date": "2026-10-13",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
    "shares": 100.0,
-   "price": 164.65,
-   "value": 16465.0,
-   "shares_after": 11386.0,
+   "price": 164.8,
+   "value": 16480.0,
+   "shares_after": 11286.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1314400/0001193125-26-420435.txt",
-   "price_at_trade": 163.76,
-   "price_now": 165.08,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 0.8
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1314400/0001193125-26-455487.txt",
+   "price_at_trade": 165.08,
+   "price_now": 165.31,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.1
   }
  ],
  "trump_trades": [],

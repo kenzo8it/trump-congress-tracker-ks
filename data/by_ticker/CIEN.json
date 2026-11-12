@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CIEN",
  "company": {
   "name": "CIENA CORP",
@@ -8,8 +8,8 @@
   "industry": "Telephone & Telegraph Apparatus",
   "sector": "Technology"
  },
- "price_now": 272.1,
- "price_date": "2026-11-10",
+ "price_now": 296.04,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "Ciena Corporation",
+   "asset_type": "ST",
+   "ticker": "CIEN",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-21",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "CIENA CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 361.34,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -18.1,
+   "days_to_disclose": 20,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 580.23,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -53.1,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -49.0,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 591.57,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -54.0,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -50.0,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 189.92,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 43.3,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 55.9,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -132,9 +162,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 188.96,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 44.0,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 56.7,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -162,9 +192,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 188.96,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 44.0,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 56.7,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -192,9 +222,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 168.71,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 61.3,
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 75.5,
    "days_to_disclose": 37,
    "late_filing": false
   }
@@ -207,14 +237,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "CIEN",
-   "est_shares": 27.3,
+   "est_shares": 5.2,
    "avg_price": 585.85,
-   "price_now": 272.1,
-   "est_position_value": 7432,
-   "total_return_pct": -53.6,
-   "total_return_usd": -8569,
+   "price_now": 296.04,
+   "est_position_value": 1531,
+   "total_return_pct": -49.5,
+   "total_return_usd": -1499,
    "first_buy": "2026-05-14",
-   "last_trade": "2026-05-29"
+   "last_trade": "2026-10-21"
   }
  ],
  "insider_trades": [
@@ -233,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1032553/0001032553-26-000048.txt",
    "price_at_trade": 284.34,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.3
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "CIEN",
@@ -252,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001032553-26-000048.txt",
    "price_at_trade": 284.34,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -4.3
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "CIEN",
@@ -271,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1032553/0001032553-26-000045.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -290,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1444157/0001444157-26-000028.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -309,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1998460/0001998460-26-000016.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -328,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1998460/0001998460-26-000016.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -347,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1998826/0001998826-26-000023.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -366,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001032553-26-000045.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -385,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001444157-26-000028.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -404,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001998460-26-000016.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -423,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001998460-26-000016.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "CIEN",
@@ -442,47 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001998826-26-000023.txt",
    "price_at_trade": 356.52,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -23.7
-  },
-  {
-   "ticker": "CIEN",
-   "company_name": "CIENA CORP",
-   "owner_name": "SMITH GARY B",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-13",
-   "shares": 2952.0,
-   "price": 369.6605,
-   "value": 1091237.8,
-   "shares_after": 228407.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1032553/0001032553-26-000043.txt",
-   "price_at_trade": 379.14,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -28.2
-  },
-  {
-   "ticker": "CIEN",
-   "company_name": "CIENA CORP",
-   "owner_name": "SMITH GARY B",
-   "owner_title": "Director, President & CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-01",
-   "reported_date": "2026-10-13",
-   "shares": 2952.0,
-   "price": 369.6605,
-   "value": 1091237.8,
-   "shares_after": 228407.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/936395/0001032553-26-000043.txt",
-   "price_at_trade": 379.14,
-   "price_now": 272.1,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -28.2
+   "price_now": 296.04,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -17.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "OCUL",
  "company": {
   "name": "OCULAR THERAPEUTIX, INC",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 6.85,
- "price_date": "2026-11-09",
+ "price_now": 6.66,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1393434/0001104659-26-124526.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.85,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 6.5
+   "price_now": 6.66,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "OCUL",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2073624/0001104659-26-124526.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.85,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 6.5
-  },
-  {
-   "ticker": "OCUL",
-   "company_name": "OCULAR THERAPEUTIX, INC",
-   "owner_name": "Anderman Todd",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-13",
-   "shares": 11984.0,
-   "price": 7.29,
-   "value": 87363.36,
-   "shares_after": 140484.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1393434/0001104659-26-115551.txt",
-   "price_at_trade": 7.51,
-   "price_now": 6.85,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -8.8
-  },
-  {
-   "ticker": "OCUL",
-   "company_name": "OCULAR THERAPEUTIX, INC",
-   "owner_name": "Anderman Todd",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-08",
-   "reported_date": "2026-10-13",
-   "shares": 11984.0,
-   "price": 7.29,
-   "value": 87363.36,
-   "shares_after": 140484.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2039533/0001104659-26-115551.txt",
-   "price_at_trade": 7.51,
-   "price_now": 6.85,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -8.8
+   "price_now": 6.66,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.6
   }
  ],
  "trump_trades": [],

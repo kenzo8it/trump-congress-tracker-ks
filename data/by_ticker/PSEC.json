@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "PSEC",
  "company": {
   "name": "PROSPECT CAPITAL CORP",
@@ -9,7 +9,7 @@
   "sector": null
  },
  "price_now": 1.5,
- "price_date": "2026-11-10",
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PSEC",
+   "company_name": "PROSPECT CAPITAL CORP",
+   "owner_name": "Barry John F",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 1222704.0,
+   "price": 1.4127,
+   "value": 1727313.94,
+   "shares_after": 91793776.818,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1287032/0001294357-26-000018.txt",
+   "price_at_trade": 1.41,
+   "price_now": 1.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 6.4
+  },
+  {
+   "ticker": "PSEC",
+   "company_name": "PROSPECT CAPITAL CORP",
+   "owner_name": "Barry John F",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 1222704.0,
+   "price": 1.4127,
+   "value": 1727313.94,
+   "shares_after": 91793776.818,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1294357/0001294357-26-000018.txt",
+   "price_at_trade": 1.41,
+   "price_now": 1.5,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 6.4
+  },
   {
    "ticker": "PSEC",
    "company_name": "PROSPECT CAPITAL CORP",
@@ -36,7 +74,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1287032/0001315319-26-000002.txt",
    "price_at_trade": 1.41,
    "price_now": 1.5,
-   "price_now_date": "2026-11-10",
+   "price_now_date": "2026-11-11",
    "total_return_pct": 6.4
   },
   {
@@ -55,7 +93,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315319/0001315319-26-000002.txt",
    "price_at_trade": 1.41,
    "price_now": 1.5,
-   "price_now_date": "2026-11-10",
+   "price_now_date": "2026-11-11",
    "total_return_pct": 6.4
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "RELL",
  "company": {
   "name": "RICHARDSON ELECTRONICS, LTD.",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Electronic Parts & Equipment, NEC",
   "sector": "Other"
  },
- "price_now": 19.27,
- "price_date": "2026-11-10",
+ "price_now": 20.12,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "PELOQUIN GREGORY J",
+   "owner_title": "EVP PMT",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-10",
+   "shares": 15432.0,
+   "price": 21.0463,
+   "value": 324786.5,
+   "shares_after": 32884.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1191362/0001193125-26-455292.txt",
+   "price_at_trade": 20.85,
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.5
+  },
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "PELOQUIN GREGORY J",
+   "owner_title": "EVP PMT",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-29",
+   "reported_date": "2026-11-10",
+   "shares": 15432.0,
+   "price": 21.0463,
+   "value": 324786.5,
+   "shares_after": 32884.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-455292.txt",
+   "price_at_trade": 20.85,
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.5
+  },
   {
    "ticker": "RELL",
    "company_name": "RICHARDSON ELECTRONICS, LTD.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1588888/0001193125-26-443094.txt",
    "price_at_trade": 20.85,
-   "price_now": 19.27,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -7.6
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "RELL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-443094.txt",
    "price_at_trade": 20.85,
-   "price_now": 19.27,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -7.6
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "RELL",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512170/0001193125-26-440960.txt",
    "price_at_trade": 21.02,
-   "price_now": 19.27,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -8.3
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "RELL",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-440960.txt",
    "price_at_trade": 21.02,
-   "price_now": 19.27,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -8.3
+   "price_now": 20.12,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -4.3
   }
  ],
  "trump_trades": [],

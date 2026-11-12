@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "SPSC",
  "company": {
   "name": "SPS COMMERCE INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 80.92,
- "price_date": "2026-11-10",
+ "price_now": 82.85,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SPSC",
+   "company_name": "SPS COMMERCE INC",
+   "owner_name": "THINGELSTAD JAMIE",
+   "owner_title": "EVP, Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 11196.0,
+   "price": 81.5913,
+   "value": 913496.19,
+   "shares_after": 95777.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1092699/0001628280-26-072736.txt",
+   "price_at_trade": 81.91,
+   "price_now": 82.85,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "SPSC",
+   "company_name": "SPS COMMERCE INC",
+   "owner_name": "THINGELSTAD JAMIE",
+   "owner_title": "EVP, Chief Technology Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 11196.0,
+   "price": 81.5913,
+   "value": 913496.19,
+   "shares_after": 95777.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1187473/0001628280-26-072736.txt",
+   "price_at_trade": 81.91,
+   "price_now": 82.85,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "SPSC",
    "company_name": "SPS COMMERCE INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1092699/0001628280-26-071202.txt",
    "price_at_trade": 85.25,
-   "price_now": 80.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -5.1
+   "price_now": 82.85,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -2.8
   },
   {
    "ticker": "SPSC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1735354/0001628280-26-071202.txt",
    "price_at_trade": 85.25,
-   "price_now": 80.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -5.1
+   "price_now": 82.85,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -2.8
   }
  ],
  "trump_trades": [],

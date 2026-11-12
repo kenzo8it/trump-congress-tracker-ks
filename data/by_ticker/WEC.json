@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "WEC",
  "company": {
   "name": "WEC ENERGY GROUP, INC.",
@@ -8,8 +8,8 @@
   "industry": "Electric & Other Services Combined",
   "sector": "Energy & Utilities"
  },
- "price_now": 117.01,
- "price_date": "2026-11-10",
+ "price_now": 117.47,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,38 +18,6 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
-  {
-   "chamber": "House",
-   "politician_name": "Julie Johnson",
-   "state_district": "TX32",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
-   "owner": "joint",
-   "asset": "WEC Energy Group, Inc. Common Stock",
-   "asset_type": "ST",
-   "ticker": "WEC",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-07",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "J000310",
-   "party": "Democrat",
-   "state": "TX",
-   "company_name": "WEC ENERGY GROUP, INC.",
-   "sector": "Energy & Utilities",
-   "committee_overlap": [
-    "House Committee on Foreign Affairs"
-   ],
-   "price_at_trade": 107.56,
-   "price_now": 117.01,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 8.8,
-   "days_to_disclose": 12,
-   "late_filing": false
-  },
   {
    "chamber": "House",
    "politician_name": "Julie Johnson",
@@ -76,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 108.06,
-   "price_now": 117.01,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 8.3,
+   "price_now": 117.47,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.7,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -108,9 +76,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 108.06,
-   "price_now": 117.01,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 8.3,
+   "price_now": 117.47,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 8.7,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -132,9 +100,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875170/0001875170-26-000005.txt",
    "price_at_trade": 118.11,
-   "price_now": 117.01,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.9
+   "price_now": 117.47,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "WEC",
@@ -151,9 +119,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/783325/0001875170-26-000005.txt",
    "price_at_trade": 118.11,
-   "price_now": 117.01,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.9
+   "price_now": 117.47,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -0.5
   }
  ],
  "trump_trades": [],

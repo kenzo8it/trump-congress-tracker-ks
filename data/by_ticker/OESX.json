@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-12T03:15+00:00",
+ "ticker": "OESX",
+ "company": {
+  "name": "ORION ENERGY SYSTEMS, INC.",
+  "cik": 1409375,
+  "sic": 3640,
+  "industry": "Electric Lighting & Wiring Equipment",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 13.59,
+ "price_date": "2026-11-11",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "OESX",
+   "company_name": "ORION ENERGY SYSTEMS, INC.",
+   "owner_name": "BRODIN J PER",
+   "owner_title": "EVP, CFO, CAO & Treasurer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 2000.0,
+   "price": 12.76,
+   "value": 25520.0,
+   "shares_after": 87263.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1184632/0000897069-26-001915.txt",
+   "price_at_trade": 12.11,
+   "price_now": 13.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 12.2
+  },
+  {
+   "ticker": "OESX",
+   "company_name": "ORION ENERGY SYSTEMS, INC.",
+   "owner_name": "BRODIN J PER",
+   "owner_title": "EVP, CFO, CAO & Treasurer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 2000.0,
+   "price": 12.76,
+   "value": 25520.0,
+   "shares_after": 87263.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1409375/0000897069-26-001915.txt",
+   "price_at_trade": 12.11,
+   "price_now": 13.59,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 12.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

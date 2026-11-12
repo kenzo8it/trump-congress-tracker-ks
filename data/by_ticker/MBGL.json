@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "MBGL",
  "company": {
   "name": "Mobility Global Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 19.86,
- "price_date": "2026-11-09",
+ "price_now": 19.92,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "Mobility Global Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "MBGL",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-15",
+   "notified_date": "2026-11-09",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "Mobility Global Inc.",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "price_at_trade": 18.72,
+   "price_now": 19.92,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 6.4,
+   "days_to_disclose": 26,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Kelly Morrison",
@@ -44,9 +76,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 19.31,
-   "price_now": 19.86,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.8,
+   "price_now": 19.92,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -76,9 +108,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 19.31,
-   "price_now": 19.86,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.8,
+   "price_now": 19.92,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -108,14 +140,33 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 19.31,
-   "price_now": 19.86,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 2.8,
+   "price_now": 19.92,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 3.1,
    "days_to_disclose": 14,
    "late_filing": false
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [
+    "House Committee on Small Business"
+   ],
+   "ticker": "MBGL",
+   "est_shares": 4006.4,
+   "avg_price": 18.72,
+   "price_now": 19.92,
+   "est_position_value": 79808,
+   "total_return_pct": 6.4,
+   "total_return_usd": 4808,
+   "first_buy": "2026-10-15",
+   "last_trade": "2026-10-15"
+  }
+ ],
  "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],

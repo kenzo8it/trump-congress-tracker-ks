@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "WEYS",
  "company": {
   "name": "WEYCO GROUP INC",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Apparel, Piece Goods & Notions",
   "sector": "Other"
  },
- "price_now": 60.68,
- "price_date": "2026-11-10",
+ "price_now": 60.9,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "WEYS",
+   "company_name": "WEYCO GROUP INC",
+   "owner_name": "STRATTON FREDERICK P JR",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 2030.0,
+   "price": 61.7,
+   "value": 125251.0,
+   "shares_after": 415.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/106532/0001196963-26-000006.txt",
+   "price_at_trade": 60.69,
+   "price_now": 60.9,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "WEYS",
+   "company_name": "WEYCO GROUP INC",
+   "owner_name": "STRATTON FREDERICK P JR",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-10",
+   "shares": 2030.0,
+   "price": 61.7,
+   "value": 125251.0,
+   "shares_after": 415.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000006.txt",
+   "price_at_trade": 60.69,
+   "price_now": 60.9,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
+  },
   {
    "ticker": "WEYS",
    "company_name": "WEYCO GROUP INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/106532/0001312596-26-000020.txt",
    "price_at_trade": 60.69,
-   "price_now": 60.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.0
+   "price_now": 60.9,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "WEYS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000020.txt",
    "price_at_trade": 60.69,
-   "price_now": 60.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -0.0
+   "price_now": 60.9,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
   }
  ],
  "trump_trades": [],

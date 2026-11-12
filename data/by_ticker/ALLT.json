@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "ALLT",
  "company": {
   "name": "Allot Ltd.",
@@ -8,8 +8,8 @@
   "industry": "Computer Communications Equipment",
   "sector": "Technology"
  },
- "price_now": 8.78,
- "price_date": "2026-11-10",
+ "price_now": 8.97,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ALLT",
+   "company_name": "Allot Ltd.",
+   "owner_name": "Harari Eyal David",
+   "owner_title": "Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 28923.0,
+   "price": 8.9159,
+   "value": 257874.58,
+   "shares_after": 1070195.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1365767/0001976408-26-000937.txt",
+   "price_at_trade": 8.94,
+   "price_now": 8.97,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "ALLT",
+   "company_name": "Allot Ltd.",
+   "owner_name": "Harari Eyal David",
+   "owner_title": "Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-10",
+   "shares": 28923.0,
+   "price": 8.9159,
+   "value": 257874.58,
+   "shares_after": 1070195.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1985446/0001976408-26-000937.txt",
+   "price_at_trade": 8.94,
+   "price_now": 8.97,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.3
+  },
   {
    "ticker": "ALLT",
    "company_name": "Allot Ltd.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1365767/0001976408-26-000929.txt",
    "price_at_trade": 8.17,
-   "price_now": 8.78,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 7.5
+   "price_now": 8.97,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.8
   },
   {
    "ticker": "ALLT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2114569/0001976408-26-000929.txt",
    "price_at_trade": 8.17,
-   "price_now": 8.78,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 7.5
+   "price_now": 8.97,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 9.8
   }
  ],
  "trump_trades": [],

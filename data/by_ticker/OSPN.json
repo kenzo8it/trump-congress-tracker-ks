@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "OSPN",
  "company": {
   "name": "OneSpan Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Integrated Systems Design",
   "sector": "Technology"
  },
- "price_now": 21.92,
- "price_date": "2026-11-10",
+ "price_now": 22.18,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "OSPN",
    "company_name": "OneSpan Inc.",
+   "owner_name": "Martell Jorge Garcia",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 8000.0,
+   "price": 22.0401,
+   "value": 176320.8,
+   "shares_after": 86421.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1044777/0001943565-26-000011.txt",
+   "price_at_trade": 21.92,
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "OSPN",
+   "company_name": "OneSpan Inc.",
+   "owner_name": "Martell Jorge Garcia",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-10",
+   "shares": 8000.0,
+   "price": 22.0401,
+   "value": 176320.8,
+   "shares_after": 86421.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1943565/0001943565-26-000011.txt",
+   "price_at_trade": 21.92,
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "OSPN",
+   "company_name": "OneSpan Inc.",
    "owner_name": "Mataac Lara",
    "owner_title": "General Counsel",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1044777/0001935707-26-000008.txt",
    "price_at_trade": 22.59,
-   "price_now": 21.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.0
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "OSPN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1044777/0001935707-26-000008.txt",
    "price_at_trade": 22.59,
-   "price_now": 21.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.0
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "OSPN",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1935707/0001935707-26-000008.txt",
    "price_at_trade": 22.59,
-   "price_now": 21.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.0
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "OSPN",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1935707/0001935707-26-000008.txt",
    "price_at_trade": 22.59,
-   "price_now": 21.92,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -3.0
+   "price_now": 22.18,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

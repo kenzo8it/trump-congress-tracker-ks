@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "AEE",
  "company": {
   "name": "AMEREN CORP",
@@ -8,8 +8,8 @@
   "industry": "Electric & Other Services Combined",
   "sector": "Energy & Utilities"
  },
- "price_now": 113.68,
- "price_date": "2026-11-10",
+ "price_now": 113.28,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,38 +18,6 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
-  {
-   "chamber": "House",
-   "politician_name": "Julie Johnson",
-   "state_district": "TX32",
-   "reported_date": "2025-10-07",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
-   "owner": "joint",
-   "asset": "Ameren Corporation Common Stock",
-   "asset_type": "ST",
-   "ticker": "AEE",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-07",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "J000310",
-   "party": "Democrat",
-   "state": "TX",
-   "company_name": "AMEREN CORP",
-   "sector": "Energy & Utilities",
-   "committee_overlap": [
-    "House Committee on Foreign Affairs"
-   ],
-   "price_at_trade": 97.99,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 16.0,
-   "days_to_disclose": 12,
-   "late_filing": false
-  },
   {
    "chamber": "House",
    "politician_name": "Julie Johnson",
@@ -76,9 +44,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 98.12,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 15.9,
+   "price_now": 113.28,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 15.5,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -108,14 +76,33 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 98.12,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 15.9,
+   "price_now": 113.28,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 15.5,
    "days_to_disclose": 316,
    "late_filing": true
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Julie Johnson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TX",
+   "committee_overlap": [
+    "House Committee on Foreign Affairs"
+   ],
+   "ticker": "AEE",
+   "est_shares": 81.5,
+   "avg_price": 98.12,
+   "price_now": 113.28,
+   "est_position_value": 9237,
+   "total_return_pct": 15.5,
+   "total_return_usd": 1236,
+   "first_buy": "2025-09-23",
+   "last_trade": "2025-09-23"
+  }
+ ],
  "insider_trades": [
   {
    "ticker": "AEE",
@@ -132,9 +119,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1002910/0001190105-26-000011.txt",
    "price_at_trade": 110.37,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.0
+   "price_now": 113.28,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.6
   },
   {
    "ticker": "AEE",
@@ -151,9 +138,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1190105/0001190105-26-000011.txt",
    "price_at_trade": 110.37,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": 3.0
+   "price_now": 113.28,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 2.6
   }
  ],
  "trump_trades": [],

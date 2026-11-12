@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "ON",
  "company": {
   "name": "ON SEMICONDUCTOR CORP",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 69.61,
- "price_date": "2026-11-10",
+ "price_now": 73.62,
+ "price_date": "2026-11-11",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Gilbert Ray Cisneros, Jr.",
+   "state_district": "CA31",
+   "reported_date": "2026-11-10",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+   "owner": "self",
+   "asset": "ON Semiconductor Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "ON",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "C001123",
+   "party": "Democrat",
+   "state": "CA",
+   "company_name": "ON SEMICONDUCTOR CORP",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 73.36,
+   "price_now": 73.62,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": 0.4,
+   "days_to_disclose": 27,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 75.65,
-   "price_now": 69.61,
-   "price_now_date": "2026-11-10",
-   "total_return_pct": -8.0,
+   "price_now": 73.62,
+   "price_now_date": "2026-11-11",
+   "total_return_pct": -2.7,
    "days_to_disclose": 14,
    "late_filing": false
   }
@@ -57,14 +87,14 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "ON",
-   "est_shares": 429.6,
-   "avg_price": 75.65,
-   "price_now": 69.61,
-   "est_position_value": 29906,
-   "total_return_pct": -8.0,
-   "total_return_usd": -2595,
+   "est_shares": 538.7,
+   "avg_price": 75.19,
+   "price_now": 73.62,
+   "est_position_value": 39657,
+   "total_return_pct": -2.1,
+   "total_return_usd": -844,
    "first_buy": "2026-09-28",
-   "last_trade": "2026-09-28"
+   "last_trade": "2026-10-14"
   }
  ],
  "insider_trades": [],

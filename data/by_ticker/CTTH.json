@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08+00:00",
+ "updated": "2026-11-12T03:15+00:00",
  "ticker": "CTTH",
  "company": {
   "name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -9,7 +9,7 @@
   "sector": "Healthcare"
  },
  "price_now": 0.06,
- "price_date": "2026-11-09",
+ "price_date": "2026-11-10",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -36,8 +36,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035422/0001035422-26-000019.txt",
    "price_at_trade": 0.06,
    "price_now": 0.06,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": 0.0
+   "price_now_date": "2026-11-10",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "CTTH",
@@ -55,8 +55,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035422/0001035422-26-000018.txt",
    "price_at_trade": 0.06,
    "price_now": 0.06,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -2.1
+   "price_now_date": "2026-11-10",
+   "total_return_pct": -1.9
   },
   {
    "ticker": "CTTH",
@@ -74,8 +74,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035422/0001035422-26-000017.txt",
    "price_at_trade": 0.06,
    "price_now": 0.06,
-   "price_now_date": "2026-11-09",
-   "total_return_pct": -5.4
+   "price_now_date": "2026-11-10",
+   "total_return_pct": -5.3
   }
  ],
  "trump_trades": [],
