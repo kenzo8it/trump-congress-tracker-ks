@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:15+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "ticker": "PL",
  "company": {
   "name": "Planet Labs PBC",
@@ -8,8 +8,8 @@
   "industry": "Radio & Tv Broadcasting & Communications Equipment",
   "sector": "Technology"
  },
- "price_now": 14.34,
- "price_date": "2026-11-11",
+ "price_now": 13.9,
+ "price_date": "2026-11-12",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1364096/0001364096-26-000008.txt",
    "price_at_trade": 14.54,
-   "price_now": 14.34,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -1.4
+   "price_now": 13.9,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "PL",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1836833/0001364096-26-000008.txt",
    "price_at_trade": 14.54,
-   "price_now": 14.34,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -1.4
-  },
-  {
-   "ticker": "PL",
-   "company_name": "Planet Labs PBC",
-   "owner_name": "Raymond John w",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-14",
-   "shares": 6494.0,
-   "price": 15.2284,
-   "value": 98893.23,
-   "shares_after": 30620.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1836833/0002058452-26-000009.txt",
-   "price_at_trade": 15.16,
-   "price_now": 14.34,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -5.4
-  },
-  {
-   "ticker": "PL",
-   "company_name": "Planet Labs PBC",
-   "owner_name": "Raymond John w",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-14",
-   "shares": 6494.0,
-   "price": 15.2284,
-   "value": 98893.23,
-   "shares_after": 30620.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2058452/0002058452-26-000009.txt",
-   "price_at_trade": 15.16,
-   "price_now": 14.34,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -5.4
+   "price_now": 13.9,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -4.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:15+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "ticker": "MSB",
  "company": {
   "name": "MESABI TRUST",
@@ -8,8 +8,8 @@
   "industry": "Mineral Royalty Traders",
   "sector": "Financials"
  },
- "price_now": 17.22,
- "price_date": "2026-11-11",
+ "price_now": 17.16,
+ "price_date": "2026-11-12",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 21.99,
-   "price_now": 17.22,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -21.7,
+   "price_now": 17.16,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -22.0,
    "days_to_disclose": 35,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "MSB",
    "est_shares": 1478.0,
    "avg_price": 21.99,
-   "price_now": 17.22,
-   "est_position_value": 25451,
-   "total_return_pct": -21.7,
-   "total_return_usd": -7050,
+   "price_now": 17.16,
+   "est_position_value": 25362,
+   "total_return_pct": -22.0,
+   "total_return_usd": -7139,
    "first_buy": "2026-07-31",
    "last_trade": "2026-07-31"
   }

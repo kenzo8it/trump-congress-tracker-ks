@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:15+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "ticker": "GLXY",
  "company": {
   "name": "Galaxy Digital Inc.",
@@ -8,8 +8,8 @@
   "industry": "Security Brokers, Dealers & Flotation Companies",
   "sector": "Financials"
  },
- "price_now": 15.97,
- "price_date": "2026-11-11",
+ "price_now": 15.18,
+ "price_date": "2026-11-12",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1079500/0001079500-26-000011.txt",
    "price_at_trade": 13.66,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 16.9
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "GLXY",
@@ -54,8 +54,46 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/0001079500-26-000011.txt",
    "price_at_trade": 13.66,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 11.1
+  },
+  {
+   "ticker": "GLXY",
+   "company_name": "Galaxy Digital Inc.",
+   "owner_name": "Novogratz Michael",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 528757.0,
+   "price": 12.694,
+   "value": 6712041.36,
+   "shares_after": 528757.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1380615/0001380615-26-000013.txt",
+   "price_at_trade": 12.98,
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 16.9
+  },
+  {
+   "ticker": "GLXY",
+   "company_name": "Galaxy Digital Inc.",
+   "owner_name": "Novogratz Michael",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-05",
+   "reported_date": "2026-11-05",
+   "shares": 231243.0,
+   "price": 13.632,
+   "value": 3152304.58,
+   "shares_after": 760000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1380615/0001380615-26-000013.txt",
+   "price_at_trade": 12.98,
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
    "total_return_pct": 16.9
   },
   {
@@ -71,49 +109,11 @@
    "value": 6712041.36,
    "shares_after": 528757.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1380615/0001380615-26-000013.txt",
-   "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
-  },
-  {
-   "ticker": "GLXY",
-   "company_name": "Galaxy Digital Inc.",
-   "owner_name": "Novogratz Michael",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-05",
-   "reported_date": "2026-11-05",
-   "shares": 231243.0,
-   "price": 13.632,
-   "value": 3152304.58,
-   "shares_after": 760000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1380615/0001380615-26-000013.txt",
-   "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
-  },
-  {
-   "ticker": "GLXY",
-   "company_name": "Galaxy Digital Inc.",
-   "owner_name": "Novogratz Michael",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-05",
-   "reported_date": "2026-11-05",
-   "shares": 528757.0,
-   "price": 12.694,
-   "value": 6712041.36,
-   "shares_after": 528757.0,
-   "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/0001380615-26-000013.txt",
    "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "GLXY",
@@ -130,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/0001380615-26-000013.txt",
    "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "GLXY",
@@ -149,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1912562/0001380615-26-000013.txt",
    "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "GLXY",
@@ -168,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1912562/0001380615-26-000013.txt",
    "price_at_trade": 12.98,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": 23.0
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 16.9
   },
   {
    "ticker": "GLXY",
@@ -187,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1859392/0001906218-26-000004.txt",
    "price_at_trade": 16.0,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -0.2
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "GLXY",
@@ -206,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1906218/0001906218-26-000004.txt",
    "price_at_trade": 16.0,
-   "price_now": 15.97,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -0.2
+   "price_now": 15.18,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -5.1
   }
  ],
  "trump_trades": [],

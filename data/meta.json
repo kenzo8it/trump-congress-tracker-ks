@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:15+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,14 +8,14 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5361,
-  "recent_congress_trades": 505,
+  "congress_trades": 5364,
+  "recent_congress_trades": 509,
   "members_with_positions": 45,
-  "insider_trades": 17211,
+  "insider_trades": 15782,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 175,
-  "tickers": 1831
+  "contracts": 173,
+  "tickers": 1809
  },
  "unparsed_filings": [
   {

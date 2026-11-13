@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:15+00:00",
+ "updated": "2026-11-13T02:51+00:00",
  "ticker": "DRS",
  "company": {
   "name": "Leonardo DRS, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
   "sector": "Defense & Aerospace"
  },
- "price_now": 36.64,
- "price_date": "2026-11-11",
+ "price_now": 35.66,
+ "price_date": "2026-11-12",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,10 +41,10 @@
    "company_name": "Leonardo DRS, Inc.",
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
-   "price_at_trade": 40.21,
-   "price_now": 36.64,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -8.9,
+   "price_at_trade": 40.11,
+   "price_now": 35.66,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -11.1,
    "days_to_disclose": 38,
    "late_filing": false
   }
@@ -57,12 +57,12 @@
    "state": "LA",
    "committee_overlap": [],
    "ticker": "DRS",
-   "est_shares": 199.0,
-   "avg_price": 40.21,
-   "price_now": 36.64,
-   "est_position_value": 7290,
-   "total_return_pct": -8.9,
-   "total_return_usd": -710,
+   "est_shares": 199.5,
+   "avg_price": 40.11,
+   "price_now": 35.66,
+   "est_position_value": 7113,
+   "total_return_pct": -11.1,
+   "total_return_usd": -888,
    "first_buy": "2026-02-02",
    "last_trade": "2026-02-02"
   }
@@ -82,10 +82,10 @@
    "shares_after": 20826.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1833756/0001849658-26-000014.txt",
-   "price_at_trade": 36.92,
-   "price_now": 36.64,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -0.8
+   "price_at_trade": 36.83,
+   "price_now": 35.66,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "DRS",
@@ -101,10 +101,10 @@
    "shares_after": 20826.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1849658/0001849658-26-000014.txt",
-   "price_at_trade": 36.92,
-   "price_now": 36.64,
-   "price_now_date": "2026-11-11",
-   "total_return_pct": -0.8
+   "price_at_trade": 36.83,
+   "price_now": 35.66,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -3.2
   }
  ],
  "trump_trades": [],
