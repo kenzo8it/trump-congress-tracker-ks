@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "GOOD",
  "company": {
   "name": "GLADSTONE COMMERCIAL CORP",
@@ -8,8 +8,8 @@
   "industry": "Lessors of  Real Property, NEC",
   "sector": "Real Estate"
  },
- "price_now": 9.85,
- "price_date": "2026-11-12",
+ "price_now": 9.97,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GOOD",
+   "company_name": "GLADSTONE COMMERCIAL CORP",
+   "owner_name": "Beckhorn Jay",
+   "owner_title": "Treasurer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 250.0,
+   "price": 10.295,
+   "value": 2573.75,
+   "shares_after": 1637.04,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1234006/0001636435-26-000004.txt",
+   "price_at_trade": 10.23,
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5
+  },
+  {
+   "ticker": "GOOD",
+   "company_name": "GLADSTONE COMMERCIAL CORP",
+   "owner_name": "Beckhorn Jay",
+   "owner_title": "Treasurer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 250.0,
+   "price": 10.295,
+   "value": 2573.75,
+   "shares_after": 1637.04,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1636435/0001636435-26-000004.txt",
+   "price_at_trade": 10.23,
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5
+  },
   {
    "ticker": "GOOD",
    "company_name": "GLADSTONE COMMERCIAL CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1234006/0001359579-26-000006.txt",
    "price_at_trade": 10.23,
-   "price_now": 9.85,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.7
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "GOOD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1359579/0001359579-26-000006.txt",
    "price_at_trade": 10.23,
-   "price_now": 9.85,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.7
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "GOOD",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1234006/0001873961-26-000002.txt",
    "price_at_trade": 10.15,
-   "price_now": 9.85,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.0
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "GOOD",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1873961/0001873961-26-000002.txt",
    "price_at_trade": 10.15,
-   "price_now": 9.85,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.0
+   "price_now": 9.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

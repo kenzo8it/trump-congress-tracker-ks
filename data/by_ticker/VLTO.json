@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "VLTO",
  "company": {
   "name": "Veralto Corp",
@@ -308,6 +308,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "VLTO",
+   "company_name": "Veralto Corp",
+   "owner_name": "Kapity Melissa",
+   "owner_title": "SVP,  Water Quality",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 5146.0,
+   "price": 118.06,
+   "value": 607536.76,
+   "shares_after": 14715.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1949551/0001949551-26-000008.txt",
+   "price_at_trade": 118.21,
+   "price_now": 117.49,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "VLTO",
+   "company_name": "Veralto Corp",
+   "owner_name": "Kapity Melissa",
+   "owner_title": "SVP,  Water Quality",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 5146.0,
+   "price": 118.06,
+   "value": 607536.76,
+   "shares_after": 14715.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1967680/0001949551-26-000008.txt",
+   "price_at_trade": 118.21,
+   "price_now": 117.49,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -0.6
+  },
   {
    "ticker": "VLTO",
    "company_name": "Veralto Corp",

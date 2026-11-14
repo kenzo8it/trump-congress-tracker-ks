@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "KGS",
  "company": {
   "name": "Kodiak Gas Services, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Natural Gas Transmission",
   "sector": "Energy & Utilities"
  },
- "price_now": 44.4,
- "price_date": "2026-11-12",
+ "price_now": 44.69,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KGS",
+   "company_name": "Kodiak Gas Services, Inc.",
+   "owner_name": "Montana Margaret C",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 44.26,
+   "value": 44260.0,
+   "shares_after": 29651.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1623188/0001193125-26-458807.txt",
+   "price_at_trade": 43.86,
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "KGS",
+   "company_name": "Kodiak Gas Services, Inc.",
+   "owner_name": "Montana Margaret C",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 44.26,
+   "value": 44260.0,
+   "shares_after": 29651.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1767042/0001193125-26-458807.txt",
+   "price_at_trade": 43.86,
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "KGS",
+   "company_name": "Kodiak Gas Services, Inc.",
+   "owner_name": "Lenamon William Chad",
+   "owner_title": "Executive Vice President & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 44.2,
+   "value": 44200.0,
+   "shares_after": 83294.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1767042/0001193125-26-458818.txt",
+   "price_at_trade": 43.86,
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "KGS",
+   "company_name": "Kodiak Gas Services, Inc.",
+   "owner_name": "Lenamon William Chad",
+   "owner_title": "Executive Vice President & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 44.2,
+   "value": 44200.0,
+   "shares_after": 83294.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1971854/0001193125-26-458818.txt",
+   "price_at_trade": 43.86,
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "KGS",
    "company_name": "Kodiak Gas Services, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1767042/0001193125-26-447642.txt",
    "price_at_trade": 46.54,
-   "price_now": 44.4,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.6
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "KGS",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1971122/0001193125-26-447642.txt",
    "price_at_trade": 46.54,
-   "price_now": 44.4,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.6
+   "price_now": 44.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
   }
  ],
  "trump_trades": [],

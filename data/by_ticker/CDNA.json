@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "CDNA",
  "company": {
   "name": "CareDx, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 79.81,
- "price_date": "2026-11-12",
+ "price_now": 77.88,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,120 @@
   {
    "ticker": "CDNA",
    "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2996.0,
+   "price": 80.4694,
+   "value": 241086.32,
+   "shares_after": 97704.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 200.0,
+   "price": 81.05,
+   "value": 16210.0,
+   "shares_after": 97504.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 900.0,
+   "price": 83.3278,
+   "value": 74995.02,
+   "shares_after": 96604.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2996.0,
+   "price": 80.4694,
+   "value": 241086.32,
+   "shares_after": 97704.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019976/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 200.0,
+   "price": 81.05,
+   "value": 16210.0,
+   "shares_after": 97504.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019976/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
+   "owner_name": "Novack Jeffrey Adam",
+   "owner_title": "Secretary and General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 900.0,
+   "price": 83.3278,
+   "value": 74995.02,
+   "shares_after": 96604.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019976/0002019976-26-000016.txt",
+   "price_at_trade": 80.77,
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CDNA",
+   "company_name": "CareDx, Inc.",
    "owner_name": "Kennedy Keith",
    "owner_title": "CFO & COO",
    "trade_type": "SELL",
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217234/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "CDNA",
@@ -320,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543503/0001543503-26-000008.txt",
    "price_at_trade": 76.33,
-   "price_now": 79.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.6
+   "price_now": 77.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   }
  ],
  "trump_trades": [],

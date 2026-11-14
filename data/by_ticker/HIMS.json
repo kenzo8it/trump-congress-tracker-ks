@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "HIMS",
  "company": {
   "name": "Hims & Hers Health, Inc.",
@@ -9,7 +9,7 @@
   "sector": "Healthcare"
  },
  "price_now": 19.73,
- "price_date": "2026-11-12",
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -36,7 +36,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1773751/0001837817-26-000021.txt",
    "price_at_trade": 29.32,
    "price_now": 19.73,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -32.7
   },
   {
@@ -55,46 +55,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837817/0001837817-26-000021.txt",
    "price_at_trade": 29.32,
    "price_now": 19.73,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -32.7
-  },
-  {
-   "ticker": "HIMS",
-   "company_name": "Hims & Hers Health, Inc.",
-   "owner_name": "Boughton Soleil",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-14",
-   "reported_date": "2026-10-15",
-   "shares": 3461.0,
-   "price": 29.06,
-   "value": 100576.66,
-   "shares_after": 297348.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1773751/0001773751-26-000227.txt",
-   "price_at_trade": 27.72,
-   "price_now": 19.73,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -28.8
-  },
-  {
-   "ticker": "HIMS",
-   "company_name": "Hims & Hers Health, Inc.",
-   "owner_name": "Boughton Soleil",
-   "owner_title": "Chief Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-14",
-   "reported_date": "2026-10-15",
-   "shares": 3461.0,
-   "price": 29.06,
-   "value": 100576.66,
-   "shares_after": 297348.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1837817/0001773751-26-000227.txt",
-   "price_at_trade": 27.72,
-   "price_now": 19.73,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -28.8
   }
  ],
  "trump_trades": [],

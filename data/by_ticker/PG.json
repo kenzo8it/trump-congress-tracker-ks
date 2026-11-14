@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "PG",
  "company": {
   "name": "PROCTER & GAMBLE Co",
@@ -8,8 +8,8 @@
   "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
   "sector": "Materials & Mining"
  },
- "price_now": 168.03,
- "price_date": "2026-11-12",
+ "price_now": 169.8,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "Procter & Gamble Company",
+   "asset_type": "ST",
+   "ticker": "PG",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-11-05",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "PROCTER & GAMBLE Co",
+   "sector": "Materials & Mining",
+   "committee_overlap": [],
+   "price_at_trade": 167.1,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6,
+   "days_to_disclose": 7,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Maria Elvira Salazar",
@@ -42,9 +72,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 152.19,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.6,
    "days_to_disclose": 3,
    "late_filing": false
   },
@@ -132,9 +162,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 149.6,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 12.3,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.5,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -162,9 +192,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 144.62,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 16.2,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 17.4,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -192,9 +222,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 145.64,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 15.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.6,
    "days_to_disclose": 8,
    "late_filing": false
   },
@@ -222,9 +252,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 142.18,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 18.2,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 19.4,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -252,9 +282,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 144.26,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 16.5,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 17.7,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -282,9 +312,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 145.83,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 15.2,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -312,9 +342,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 143.01,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 17.5,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 18.7,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -342,9 +372,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 139.6,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 20.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 21.6,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -372,9 +402,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 146.33,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 14.8,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.0,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -402,9 +432,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 146.33,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 14.8,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.0,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -432,9 +462,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 140.06,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 20.0,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 21.2,
    "days_to_disclose": 50,
    "late_filing": true
   },
@@ -462,9 +492,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 160.26,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.8,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.0,
    "days_to_disclose": 8,
    "late_filing": false
   },
@@ -492,9 +522,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 156.15,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 7.6,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.7,
    "days_to_disclose": 16,
    "late_filing": false
   },
@@ -522,9 +552,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 153.98,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.1,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 10.3,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -552,9 +582,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 149.93,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 12.1,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -582,9 +612,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 148.54,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 13.1,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 14.3,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -612,9 +642,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 146.71,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 14.5,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.7,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -642,9 +672,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 137.87,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 21.9,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 23.2,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -672,9 +702,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 140.41,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 19.7,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 20.9,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -702,9 +732,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 141.42,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 18.8,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 20.1,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -732,9 +762,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 143.28,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 17.3,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 18.5,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -762,9 +792,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 142.84,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 17.6,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 18.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -792,9 +822,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 143.79,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 16.9,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 18.1,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -822,9 +852,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 142.01,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 18.3,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 19.6,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -852,9 +882,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 141.68,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 18.6,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 19.8,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -882,9 +912,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 146.11,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 15.0,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.2,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -912,9 +942,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 144.37,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 16.4,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 17.6,
    "days_to_disclose": 89,
    "late_filing": true
   },
@@ -944,9 +974,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 147.17,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 14.2,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.4,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -974,9 +1004,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 151.85,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.7,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.8,
    "days_to_disclose": 30,
    "late_filing": false
   }
@@ -991,28 +1021,12 @@
    "ticker": "PG",
    "est_shares": 108.8,
    "avg_price": 147.1,
-   "price_now": 168.03,
-   "est_position_value": 18278,
-   "total_return_pct": 14.2,
-   "total_return_usd": 2277,
+   "price_now": 169.8,
+   "est_position_value": 18471,
+   "total_return_pct": 15.4,
+   "total_return_usd": 2470,
    "first_buy": "2025-10-16",
    "last_trade": "2026-02-02"
-  },
-  {
-   "name": "Lucy McBath",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "GA",
-   "committee_overlap": [],
-   "ticker": "PG",
-   "est_shares": 0.5,
-   "avg_price": 141.68,
-   "price_now": 168.03,
-   "est_position_value": 88,
-   "total_return_pct": 18.6,
-   "total_return_usd": 14,
-   "first_buy": "2025-11-05",
-   "last_trade": "2026-07-30"
   },
   {
    "name": "Clay Fuller",
@@ -1023,10 +1037,10 @@
    "ticker": "PG",
    "est_shares": 228.9,
    "avg_price": 142.01,
-   "price_now": 168.03,
-   "est_position_value": 38455,
-   "total_return_pct": 18.3,
-   "total_return_usd": 5955,
+   "price_now": 169.8,
+   "est_position_value": 38861,
+   "total_return_pct": 19.6,
+   "total_return_usd": 6360,
    "first_buy": "2025-11-06",
    "last_trade": "2025-11-06"
   },
@@ -1037,14 +1051,30 @@
    "state": "OH",
    "committee_overlap": [],
    "ticker": "PG",
-   "est_shares": 173.1,
+   "est_shares": 125.2,
    "avg_price": 145.56,
-   "price_now": 168.03,
-   "est_position_value": 29085,
-   "total_return_pct": 15.4,
-   "total_return_usd": 3889,
+   "price_now": 169.8,
+   "est_position_value": 21261,
+   "total_return_pct": 16.6,
+   "total_return_usd": 3035,
    "first_buy": "2026-01-09",
-   "last_trade": "2026-10-12"
+   "last_trade": "2026-11-05"
+  },
+  {
+   "name": "Lucy McBath",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "PG",
+   "est_shares": 0.5,
+   "avg_price": 141.68,
+   "price_now": 169.8,
+   "est_position_value": 89,
+   "total_return_pct": 19.8,
+   "total_return_usd": 15,
+   "first_buy": "2025-11-05",
+   "last_trade": "2026-07-30"
   },
   {
    "name": "Lloyd Doggett",
@@ -1055,10 +1085,10 @@
    "ticker": "PG",
    "est_shares": 164.8,
    "avg_price": 145.63,
-   "price_now": 168.03,
-   "est_position_value": 27694,
-   "total_return_pct": 15.4,
-   "total_return_usd": 3693,
+   "price_now": 169.8,
+   "est_position_value": 27986,
+   "total_return_pct": 16.6,
+   "total_return_usd": 3984,
    "first_buy": "2026-02-17",
    "last_trade": "2026-08-17"
   },
@@ -1071,15 +1101,53 @@
    "ticker": "PG",
    "est_shares": 99.4,
    "avg_price": 161.02,
-   "price_now": 168.03,
-   "est_position_value": 16698,
-   "total_return_pct": 4.4,
-   "total_return_usd": 697,
+   "price_now": 169.8,
+   "est_position_value": 16873,
+   "total_return_pct": 5.5,
+   "total_return_usd": 872,
    "first_buy": "2026-10-23",
    "last_trade": "2026-10-23"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "PG",
+   "company_name": "PROCTER & GAMBLE Co",
+   "owner_name": "Abd El Hak Hesham",
+   "owner_title": "CEO-Baby and Feminine Care",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 2250.0,
+   "price": 168.47,
+   "value": 379057.5,
+   "shares_after": 8967.9294,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2134647/0000080424-26-000275.txt",
+   "price_at_trade": 168.03,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "PG",
+   "company_name": "PROCTER & GAMBLE Co",
+   "owner_name": "Abd El Hak Hesham",
+   "owner_title": "CEO-Baby and Feminine Care",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 2250.0,
+   "price": 168.47,
+   "value": 379057.5,
+   "shares_after": 8967.9294,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000275.txt",
+   "price_at_trade": 168.03,
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "PG",
    "company_name": "PROCTER & GAMBLE Co",
@@ -1095,9 +1163,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1844763/0000080424-26-000273.txt",
    "price_at_trade": 167.1,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.6
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "PG",
@@ -1114,9 +1182,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2132273/0000080424-26-000272.txt",
    "price_at_trade": 167.1,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.6
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "PG",
@@ -1133,9 +1201,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000272.txt",
    "price_at_trade": 167.1,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.6
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "PG",
@@ -1152,9 +1220,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000273.txt",
    "price_at_trade": 167.1,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.6
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "PG",
@@ -1171,9 +1239,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1844763/0000080424-26-000271.txt",
    "price_at_trade": 167.32,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "PG",
@@ -1190,9 +1258,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000271.txt",
    "price_at_trade": 167.32,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "PG",
@@ -1209,9 +1277,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1910008/0000080424-26-000270.txt",
    "price_at_trade": 162.06,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.7
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "PG",
@@ -1228,9 +1296,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000270.txt",
    "price_at_trade": 162.06,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.7
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.8
   },
   {
    "ticker": "PG",
@@ -1247,9 +1315,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1825382/0000080424-26-000268.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1266,9 +1334,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1882672/0000080424-26-000267.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1285,9 +1353,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2110932/0000080424-26-000269.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1304,9 +1372,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000267.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1323,9 +1391,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000268.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1342,9 +1410,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000269.txt",
    "price_at_trade": 161.57,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.0
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1
   },
   {
    "ticker": "PG",
@@ -1361,9 +1429,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1746310/0000080424-26-000263.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "PG",
@@ -1380,9 +1448,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1957262/0000080424-26-000261.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "PG",
@@ -1399,9 +1467,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2110932/0000080424-26-000260.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "PG",
@@ -1418,9 +1486,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000260.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "PG",
@@ -1437,9 +1505,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000261.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "PG",
@@ -1456,9 +1524,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000263.txt",
    "price_at_trade": 161.02,
-   "price_now": 168.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.4
+   "price_now": 169.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
   }
  ],
  "trump_trades": [],

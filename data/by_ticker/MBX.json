@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "MBX",
  "company": {
   "name": "MBX Biosciences, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 54.51,
- "price_date": "2026-11-12",
+ "price_now": 55.94,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MBX",
+   "company_name": "MBX Biosciences, Inc.",
+   "owner_name": "Hoerter Steven L.",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 4893.0,
+   "price": 54.82,
+   "value": 268234.26,
+   "shares_after": 78045.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1533451/0001193125-26-457015.txt",
+   "price_at_trade": 56.33,
+   "price_now": 55.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.7
+  },
+  {
+   "ticker": "MBX",
+   "company_name": "MBX Biosciences, Inc.",
+   "owner_name": "Hoerter Steven L.",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 4893.0,
+   "price": 54.82,
+   "value": 268234.26,
+   "shares_after": 78045.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1776111/0001193125-26-457015.txt",
+   "price_at_trade": 56.33,
+   "price_now": 55.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.7
+  },
   {
    "ticker": "MBX",
    "company_name": "MBX Biosciences, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1776111/0001193125-26-449832.txt",
    "price_at_trade": 52.48,
-   "price_now": 54.51,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.9
+   "price_now": 55.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.6
   },
   {
    "ticker": "MBX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2030246/0001193125-26-449832.txt",
    "price_at_trade": 52.48,
-   "price_now": 54.51,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.9
+   "price_now": 55.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.6
   }
  ],
  "trump_trades": [],

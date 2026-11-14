@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "TOST",
  "company": {
   "name": "Toast, Inc.",
@@ -72,6 +72,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "TOST",
+   "company_name": "Toast, Inc.",
+   "owner_name": "Chapman-Hughes Susan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 6885.0,
+   "price": 34.13,
+   "value": 234985.05,
+   "shares_after": 7645.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1608495/0001650164-26-000231.txt",
+   "price_at_trade": 34.1,
+   "price_now": 33.52,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "TOST",
+   "company_name": "Toast, Inc.",
+   "owner_name": "Chapman-Hughes Susan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 6885.0,
+   "price": 34.13,
+   "value": 234985.05,
+   "shares_after": 7645.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650164/0001650164-26-000231.txt",
+   "price_at_trade": 34.1,
+   "price_now": 33.52,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -1.7
+  },
   {
    "ticker": "TOST",
    "company_name": "Toast, Inc.",

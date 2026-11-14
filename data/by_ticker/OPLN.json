@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "OPLN",
  "company": {
   "name": "OPENLANE, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Auto Dealers & Gasoline Stations",
   "sector": "Retail & Consumer"
  },
- "price_now": 34.74,
- "price_date": "2026-11-12",
+ "price_now": 35.12,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,234 @@
   {
    "ticker": "OPLN",
    "company_name": "OPENLANE, Inc.",
+   "owner_name": "Kestner Michael T.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 8000.0,
+   "price": 35.23,
+   "value": 281840.0,
+   "shares_after": 2922.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001594577-26-000002.txt",
+   "price_at_trade": 35.04,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Kestner Michael T.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 8000.0,
+   "price": 35.23,
+   "value": 281840.0,
+   "shares_after": 2922.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1594577/0001594577-26-000002.txt",
+   "price_at_trade": 35.04,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 29006.0,
+   "price": 35.21,
+   "value": 1021301.26,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 9763.0,
+   "price": 35.21,
+   "value": 343755.23,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Richer Tobin P",
+   "owner_title": "EVP Marketing & Communications",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 3458.0,
+   "price": 35.44,
+   "value": 122551.52,
+   "shares_after": 24697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0002012179-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 29006.0,
+   "price": 35.21,
+   "value": 1021301.26,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 9763.0,
+   "price": 35.21,
+   "value": 343755.23,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Richer Tobin P",
+   "owner_title": "EVP Marketing & Communications",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 3458.0,
+   "price": 35.44,
+   "value": 122551.52,
+   "shares_after": 24697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012179/0002012179-26-000005.txt",
+   "price_at_trade": 35.23,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 903.0,
+   "price": 35.01,
+   "value": 31614.03,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000005.txt",
+   "price_at_trade": 34.9,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 304.0,
+   "price": 35.01,
+   "value": 10643.04,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000005.txt",
+   "price_at_trade": 34.9,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 903.0,
+   "price": 35.01,
+   "value": 31614.03,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000005.txt",
+   "price_at_trade": 34.9,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
+   "owner_name": "Coleman Charles S.",
+   "owner_title": "EVP, CLO & Secretary",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 304.0,
+   "price": 35.01,
+   "value": 10643.04,
+   "shares_after": 74334.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000005.txt",
+   "price_at_trade": 34.9,
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "OPLN",
+   "company_name": "OPENLANE, Inc.",
    "owner_name": "Coleman Charles S.",
    "owner_title": "EVP, CLO & Secretary",
    "trade_type": "SELL",
@@ -35,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000004.txt",
    "price_at_trade": 34.35,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.1
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "OPLN",
@@ -54,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000004.txt",
    "price_at_trade": 34.35,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.1
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "OPLN",
@@ -73,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000004.txt",
    "price_at_trade": 34.35,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.1
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "OPLN",
@@ -92,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000004.txt",
    "price_at_trade": 34.35,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.1
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "OPLN",
@@ -111,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -130,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001791222-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -149,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -168,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -187,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1395942/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -206,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -225,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1791222/0001791222-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -244,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891323/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -263,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891323/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "OPLN",
@@ -282,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891323/0001891323-26-000004.txt",
    "price_at_trade": 35.65,
-   "price_now": 34.74,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 35.12,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   }
  ],
  "trump_trades": [],

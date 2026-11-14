@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "VERX",
+ "company": {
+  "name": "Vertex, Inc.",
+  "cik": 1806837,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 17.97,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "VERX",
+   "company_name": "Vertex, Inc.",
+   "owner_name": "Leib Ryan J",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 6963.0,
+   "price": 17.385,
+   "value": 121051.76,
+   "shares_after": 810.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1659260/0001659260-26-000009.txt",
+   "price_at_trade": 17.3,
+   "price_now": 17.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.9
+  },
+  {
+   "ticker": "VERX",
+   "company_name": "Vertex, Inc.",
+   "owner_name": "Leib Ryan J",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 6963.0,
+   "price": 17.385,
+   "value": 121051.76,
+   "shares_after": 810.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1806837/0001659260-26-000009.txt",
+   "price_at_trade": 17.3,
+   "price_now": 17.97,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

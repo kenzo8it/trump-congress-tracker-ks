@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "XYZ",
  "company": {
   "name": "Block, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 82.26,
- "price_date": "2026-11-12",
+ "price_now": 84.58,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Eisen Anthony Mathew",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 100000.0,
+   "price": 89.0,
+   "value": 8900000.0,
+   "shares_after": 1077672.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-073476.txt",
+   "price_at_trade": 88.56,
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "XYZ",
+   "company_name": "Block, Inc.",
+   "owner_name": "Eisen Anthony Mathew",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 100000.0,
+   "price": 89.0,
+   "value": 8900000.0,
+   "shares_after": 1077672.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-073476.txt",
+   "price_at_trade": 88.56,
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "XYZ",
+   "company_name": "Block, Inc.",
+   "owner_name": "Eisen Anthony Mathew",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-04",
    "reported_date": "2026-11-06",
    "shares": 35000.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-071776.txt",
    "price_at_trade": 87.63,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -6.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "XYZ",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-071776.txt",
    "price_at_trade": 87.63,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -6.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "XYZ",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-068302.txt",
    "price_at_trade": 75.21,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.4
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 12.5
   },
   {
    "ticker": "XYZ",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-068302.txt",
    "price_at_trade": 75.21,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.4
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 12.5
   },
   {
    "ticker": "XYZ",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-067667.txt",
    "price_at_trade": 74.87,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.9
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "XYZ",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-067667.txt",
    "price_at_trade": 74.87,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.9
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.0
   },
   {
    "ticker": "XYZ",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-067667.txt",
    "price_at_trade": 74.55,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.3
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.5
   },
   {
    "ticker": "XYZ",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-067667.txt",
    "price_at_trade": 74.55,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.3
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.5
   },
   {
    "ticker": "XYZ",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-067667.txt",
    "price_at_trade": 76.46,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 7.6
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 10.6
   },
   {
    "ticker": "XYZ",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-067667.txt",
    "price_at_trade": 76.46,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 7.6
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 10.6
   },
   {
    "ticker": "XYZ",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066941.txt",
    "price_at_trade": 79.02,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "XYZ",
@@ -244,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066941.txt",
    "price_at_trade": 79.02,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "XYZ",
@@ -263,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066941.txt",
    "price_at_trade": 78.21,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.2
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "XYZ",
@@ -282,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066941.txt",
    "price_at_trade": 78.21,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.2
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.1
   },
   {
    "ticker": "XYZ",
@@ -301,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066941.txt",
    "price_at_trade": 78.1,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.3
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "XYZ",
@@ -320,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066941.txt",
    "price_at_trade": 78.1,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.3
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.3
   },
   {
    "ticker": "XYZ",
@@ -339,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066356.txt",
    "price_at_trade": 77.5,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "XYZ",
@@ -358,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066356.txt",
    "price_at_trade": 77.5,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.1
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 9.1
   },
   {
    "ticker": "XYZ",
@@ -377,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066356.txt",
    "price_at_trade": 77.89,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.6
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "XYZ",
@@ -396,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066356.txt",
    "price_at_trade": 77.89,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.6
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "XYZ",
@@ -415,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-066356.txt",
    "price_at_trade": 79.83,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.0
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "XYZ",
@@ -434,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-066356.txt",
    "price_at_trade": 79.83,
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.0
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.0
   }
  ],
  "trump_trades": [],
@@ -448,9 +486,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 82.26,
-   "price_now_date": "2026-11-12",
-   "return_since_involvement_pct": 32.2,
+   "price_now": 84.58,
+   "price_now_date": "2026-11-13",
+   "return_since_involvement_pct": 36.0,
    "price_at_involvement": 62.21
   }
  ],

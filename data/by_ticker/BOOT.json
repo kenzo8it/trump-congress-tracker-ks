@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "BOOT",
  "company": {
   "name": "Boot Barn Holdings, Inc.",
@@ -103,7 +103,46 @@
    "last_trade": "2026-06-30"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "BOOT",
+   "company_name": "Boot Barn Holdings, Inc.",
+   "owner_name": "Watkins James M",
+   "owner_title": "CFO & SECRETARY",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 135.37,
+   "value": 270740.0,
+   "shares_after": 27831.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1562356/0001562356-26-000004.txt",
+   "price_at_trade": 133.67,
+   "price_now": 133.67,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BOOT",
+   "company_name": "Boot Barn Holdings, Inc.",
+   "owner_name": "Watkins James M",
+   "owner_title": "CFO & SECRETARY",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 135.37,
+   "value": 270740.0,
+   "shares_after": 27831.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1610250/0001562356-26-000004.txt",
+   "price_at_trade": 133.67,
+   "price_now": 133.67,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

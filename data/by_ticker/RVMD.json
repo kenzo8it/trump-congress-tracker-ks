@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "RVMD",
  "company": {
   "name": "Revolution Medicines, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 176.35,
- "price_date": "2026-11-12",
+ "price_now": 172.29,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Mancini Anthony",
    "owner_title": "See Remarks",
    "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 811.0,
+   "price": 200.0,
+   "value": 162200.0,
+   "shares_after": 39765.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1628171/0001193125-26-458844.txt",
+   "price_at_trade": 200.15,
+   "price_now": 172.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -13.9
+  },
+  {
+   "ticker": "RVMD",
+   "company_name": "Revolution Medicines, Inc.",
+   "owner_name": "Mancini Anthony",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 811.0,
+   "price": 200.0,
+   "value": 162200.0,
+   "shares_after": 39765.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2124509/0001193125-26-458844.txt",
+   "price_at_trade": 200.15,
+   "price_now": 172.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -13.9
+  },
+  {
+   "ticker": "RVMD",
+   "company_name": "Revolution Medicines, Inc.",
+   "owner_name": "Mancini Anthony",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
    "traded_date": "2026-10-26",
    "reported_date": "2026-10-28",
    "shares": 2310.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1628171/0001193125-26-436459.txt",
    "price_at_trade": 183.9,
-   "price_now": 176.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.1
+   "price_now": 172.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.3
   },
   {
    "ticker": "RVMD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2124509/0001193125-26-436459.txt",
    "price_at_trade": 183.9,
-   "price_now": 176.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.1
+   "price_now": 172.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.3
   }
  ],
  "trump_trades": [],

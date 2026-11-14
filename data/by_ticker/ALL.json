@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "ALL",
  "company": {
   "name": "ALLSTATE CORP",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 266.69,
- "price_date": "2026-11-12",
+ "price_now": 267.64,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 254.78,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0,
    "days_to_disclose": 21,
    "late_filing": false
   }
@@ -57,6 +57,82 @@
    "owner_name": "WILSON THOMAS J",
    "owner_title": "Director, Chairman, President & CEO",
    "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 79433.0,
+   "price": 260.002,
+   "value": 20652738.87,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1190466/0000899051-26-000160.txt",
+   "price_at_trade": 261.12,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "ALL",
+   "company_name": "ALLSTATE CORP",
+   "owner_name": "WILSON THOMAS J",
+   "owner_title": "Director, Chairman, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 51484.0,
+   "price": 260.0127,
+   "value": 13386493.85,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1190466/0000899051-26-000160.txt",
+   "price_at_trade": 261.12,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "ALL",
+   "company_name": "ALLSTATE CORP",
+   "owner_name": "WILSON THOMAS J",
+   "owner_title": "Director, Chairman, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 79433.0,
+   "price": 260.002,
+   "value": 20652738.87,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000160.txt",
+   "price_at_trade": 261.12,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "ALL",
+   "company_name": "ALLSTATE CORP",
+   "owner_name": "WILSON THOMAS J",
+   "owner_title": "Director, Chairman, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 51484.0,
+   "price": 260.0127,
+   "value": 13386493.85,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000160.txt",
+   "price_at_trade": 261.12,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "ALL",
+   "company_name": "ALLSTATE CORP",
+   "owner_name": "WILSON THOMAS J",
+   "owner_title": "Director, Chairman, President & CEO",
+   "trade_type": "SELL",
    "traded_date": "2026-11-06",
    "reported_date": "2026-11-10",
    "shares": 35200.0,
@@ -66,9 +142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1190466/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -85,9 +161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1190466/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -104,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1190466/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -123,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1709115/0000899051-26-000158.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -142,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1709115/0000899051-26-000158.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -161,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000158.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -180,9 +256,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000158.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -199,9 +275,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -218,9 +294,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "ALL",
@@ -237,9 +313,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/899051/0000899051-26-000159.txt",
    "price_at_trade": 254.81,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0
   }
  ],
  "trump_trades": [],

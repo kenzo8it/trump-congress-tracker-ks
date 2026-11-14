@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "CYTK",
  "company": {
   "name": "CYTOKINETICS INC",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 56.16,
- "price_date": "2026-11-12",
+ "price_now": 56.13,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 65.64,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -14.4,
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.5,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,8 +72,8 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 85.19,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -34.1,
    "days_to_disclose": 2,
    "late_filing": false
@@ -102,8 +102,8 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 60.31,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -6.9,
    "days_to_disclose": 40,
    "late_filing": false
@@ -119,15 +119,91 @@
    "ticker": "CYTK",
    "est_shares": 348.5,
    "avg_price": 68.88,
-   "price_now": 56.16,
-   "est_position_value": 19569,
+   "price_now": 56.13,
+   "est_position_value": 19559,
    "total_return_pct": -18.5,
-   "total_return_usd": -4432,
+   "total_return_usd": -4443,
    "first_buy": "2025-10-09",
    "last_trade": "2026-09-29"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "CYTK",
+   "company_name": "CYTOKINETICS INC",
+   "owner_name": "PARSHALL B LYNNE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2445.0,
+   "price": 54.17,
+   "value": 132445.65,
+   "shares_after": 8339.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/0001061983-26-000110.txt",
+   "price_at_trade": 55.14,
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "CYTK",
+   "company_name": "CYTOKINETICS INC",
+   "owner_name": "PARSHALL B LYNNE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2555.0,
+   "price": 55.26,
+   "value": 141189.3,
+   "shares_after": 5784.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/0001061983-26-000110.txt",
+   "price_at_trade": 55.14,
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "CYTK",
+   "company_name": "CYTOKINETICS INC",
+   "owner_name": "PARSHALL B LYNNE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2445.0,
+   "price": 54.17,
+   "value": 132445.65,
+   "shares_after": 8339.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1073385/0001061983-26-000110.txt",
+   "price_at_trade": 55.14,
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "CYTK",
+   "company_name": "CYTOKINETICS INC",
+   "owner_name": "PARSHALL B LYNNE",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2555.0,
+   "price": 55.26,
+   "value": 141189.3,
+   "shares_after": 5784.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1073385/0001061983-26-000110.txt",
+   "price_at_trade": 55.14,
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
   {
    "ticker": "CYTK",
    "company_name": "CYTOKINETICS INC",
@@ -143,8 +219,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/0001061983-26-000108.txt",
    "price_at_trade": 62.31,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -9.9
   },
   {
@@ -162,8 +238,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551778/0001061983-26-000108.txt",
    "price_at_trade": 62.31,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -9.9
   },
   {
@@ -181,8 +257,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/0001061983-26-000107.txt",
    "price_at_trade": 62.03,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -9.5
   },
   {
@@ -200,8 +276,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1288859/0001061983-26-000107.txt",
    "price_at_trade": 62.03,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -9.5
   },
   {
@@ -219,8 +295,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1061983/0001061983-26-000100.txt",
    "price_at_trade": 63.95,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -12.2
   },
   {
@@ -238,8 +314,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551778/0001061983-26-000100.txt",
    "price_at_trade": 63.95,
-   "price_now": 56.16,
-   "price_now_date": "2026-11-12",
+   "price_now": 56.13,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -12.2
   }
  ],

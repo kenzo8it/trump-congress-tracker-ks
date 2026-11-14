@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "YUMC",
  "company": {
   "name": "Yum China Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 49.21,
- "price_date": "2026-11-12",
+ "price_now": 50.86,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "YUMC",
+   "company_name": "Yum China Holdings, Inc.",
+   "owner_name": "DING Jerry",
+   "owner_title": "Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 3000.0,
+   "price": 49.7762,
+   "value": 149328.6,
+   "shares_after": 1305.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1673358/0001673358-26-000167.txt",
+   "price_at_trade": 49.94,
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "YUMC",
+   "company_name": "Yum China Holdings, Inc.",
+   "owner_name": "DING Jerry",
+   "owner_title": "Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 3000.0,
+   "price": 49.7762,
+   "value": 149328.6,
+   "shares_after": 1305.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2014042/0001673358-26-000167.txt",
+   "price_at_trade": 49.94,
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
   {
    "ticker": "YUMC",
    "company_name": "Yum China Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1673358/0001673358-26-000162.txt",
    "price_at_trade": 49.95,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.5
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "YUMC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1926703/0001673358-26-000162.txt",
    "price_at_trade": 49.95,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.5
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "YUMC",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1673358/0001673358-26-000159.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "YUMC",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1673358/0001673358-26-000162.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "YUMC",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1673358/0001673358-26-000163.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "YUMC",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1804578/0001673358-26-000163.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "YUMC",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1926703/0001673358-26-000162.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "YUMC",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2013881/0001673358-26-000159.txt",
    "price_at_trade": 49.77,
-   "price_now": 49.21,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.1
+   "price_now": 50.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "FIP",
  "company": {
   "name": "FTAI Infrastructure Inc.",
@@ -53,6 +53,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FIP",
+   "company_name": "FTAI Infrastructure Inc.",
+   "owner_name": "Nicholson Kenneth J.",
+   "owner_title": "CEO and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 400000.0,
+   "price": 3.825,
+   "value": 1530000.0,
+   "shares_after": 2575539.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1672945/0001899883-26-000044.txt",
+   "price_at_trade": 3.84,
+   "price_now": 4.23,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 10.2
+  },
+  {
+   "ticker": "FIP",
+   "company_name": "FTAI Infrastructure Inc.",
+   "owner_name": "Nicholson Kenneth J.",
+   "owner_title": "CEO and President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 400000.0,
+   "price": 3.825,
+   "value": 1530000.0,
+   "shares_after": 2575539.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1899883/0001899883-26-000044.txt",
+   "price_at_trade": 3.84,
+   "price_now": 4.23,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 10.2
+  },
   {
    "ticker": "FIP",
    "company_name": "FTAI Infrastructure Inc.",

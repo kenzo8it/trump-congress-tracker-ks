@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "MTDR",
  "company": {
   "name": "Matador Resources Co",
@@ -51,6 +51,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MTDR",
+   "company_name": "Matador Resources Co",
+   "owner_name": "Foran Joseph Wm",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2500.0,
+   "price": 49.29,
+   "value": 123225.0,
+   "shares_after": 12272.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000029.txt",
+   "price_at_trade": 50.34,
+   "price_now": 52.81,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "MTDR",
+   "company_name": "Matador Resources Co",
+   "owner_name": "Foran Joseph Wm",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2500.0,
+   "price": 49.29,
+   "value": 123225.0,
+   "shares_after": 12272.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000029.txt",
+   "price_at_trade": 50.34,
+   "price_now": 52.81,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 4.9
+  },
   {
    "ticker": "MTDR",
    "company_name": "Matador Resources Co",

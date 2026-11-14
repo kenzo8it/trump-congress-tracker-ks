@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "DGICA",
  "company": {
   "name": "DONEGAL GROUP INC",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 18.96,
- "price_date": "2026-11-12",
+ "price_now": 19.06,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,158 @@
    "owner_name": "DONEGAL MUTUAL INSURANCE CO",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.8841,
+   "value": 141630.75,
+   "shares_after": 14457628.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
+   "price_at_trade": 18.95,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.8841,
+   "value": 141630.75,
+   "shares_after": 14457628.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
+   "price_at_trade": 18.95,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "ALTSHULER KRISTI SPENCER",
+   "owner_title": "Sr. Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 6000.0,
+   "price": 19.0073,
+   "value": 114043.8,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1810662/0001810662-26-000003.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.9061,
+   "value": 141795.75,
+   "shares_after": 14450128.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "ALTSHULER KRISTI SPENCER",
+   "owner_title": "Sr. Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 6000.0,
+   "price": 19.0073,
+   "value": 114043.8,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001810662-26-000003.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.9061,
+   "value": 141795.75,
+   "shares_after": 14450128.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.8094,
+   "value": 141070.5,
+   "shares_after": 14442628.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
+   "price_at_trade": 18.73,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7500.0,
+   "price": 18.8094,
+   "value": 141070.5,
+   "shares_after": 14442628.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
+   "price_at_trade": 18.73,
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-06",
    "reported_date": "2026-11-09",
    "shares": 7500.0,
@@ -35,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.2
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "DGICA",
@@ -54,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.2
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "DGICA",
@@ -73,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590558/0001590558-26-000006.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -92,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -111,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -130,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001590558-26-000006.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -149,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -168,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -187,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1360841/0001360841-26-000002.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -206,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001360841-26-000002.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.0
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "DGICA",
@@ -225,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000027.txt",
    "price_at_trade": 19.1,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.7
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -244,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000027.txt",
    "price_at_trade": 19.1,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.7
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -263,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000027.txt",
    "price_at_trade": 18.68,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.5
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "DGICA",
@@ -282,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000027.txt",
    "price_at_trade": 18.68,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.5
+   "price_now": 19.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.0
   }
  ],
  "trump_trades": [],

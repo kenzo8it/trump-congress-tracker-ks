@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "AMKR",
  "company": {
   "name": "AMKOR TECHNOLOGY, INC.",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 37.12,
- "price_date": "2026-11-12",
+ "price_now": 36.11,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AMKR",
+   "company_name": "AMKOR TECHNOLOGY, INC.",
+   "owner_name": "Faust Megan",
+   "owner_title": "CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 35.0,
+   "value": 35000.0,
+   "shares_after": 132105.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1047127/0001628280-26-073456.txt",
+   "price_at_trade": 34.47,
+   "price_now": 36.11,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.8
+  },
+  {
+   "ticker": "AMKR",
+   "company_name": "AMKOR TECHNOLOGY, INC.",
+   "owner_name": "Faust Megan",
+   "owner_title": "CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 1000.0,
+   "price": 35.0,
+   "value": 35000.0,
+   "shares_after": 132105.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1684564/0001628280-26-073456.txt",
+   "price_at_trade": 34.47,
+   "price_now": 36.11,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.8
+  },
   {
    "ticker": "AMKR",
    "company_name": "AMKOR TECHNOLOGY, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1047127/0001628280-26-072758.txt",
    "price_at_trade": 35.0,
-   "price_now": 37.12,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.1
+   "price_now": 36.11,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "AMKR",
@@ -54,47 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1965254/0001628280-26-072758.txt",
    "price_at_trade": 35.0,
-   "price_now": 37.12,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.1
-  },
-  {
-   "ticker": "AMKR",
-   "company_name": "AMKOR TECHNOLOGY, INC.",
-   "owner_name": "Faust Megan",
-   "owner_title": "CFO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-15",
-   "shares": 1000.0,
-   "price": 46.92,
-   "value": 46920.0,
-   "shares_after": 133105.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1047127/0001684564-26-000003.txt",
-   "price_at_trade": 47.61,
-   "price_now": 37.12,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -22.0
-  },
-  {
-   "ticker": "AMKR",
-   "company_name": "AMKOR TECHNOLOGY, INC.",
-   "owner_name": "Faust Megan",
-   "owner_title": "CFO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-13",
-   "reported_date": "2026-10-15",
-   "shares": 1000.0,
-   "price": 46.92,
-   "value": 46920.0,
-   "shares_after": 133105.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1684564/0001684564-26-000003.txt",
-   "price_at_trade": 47.61,
-   "price_now": 37.12,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -22.0
+   "price_now": 36.11,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "TXRH",
  "company": {
   "name": "Texas Roadhouse, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 185.99,
- "price_date": "2026-11-12",
+ "price_now": 185.98,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,8 +44,8 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 168.4,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 10.4,
    "days_to_disclose": 25,
    "late_filing": false
@@ -76,8 +76,8 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 209.02,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -11.0,
    "days_to_disclose": 30,
    "late_filing": false
@@ -108,8 +108,8 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 192.49,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -3.4,
    "days_to_disclose": 2,
    "late_filing": false
@@ -140,8 +140,8 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 178.98,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 3.9,
    "days_to_disclose": 35,
    "late_filing": false
@@ -172,8 +172,8 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 172.15,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 8.0,
    "days_to_disclose": 39,
    "late_filing": false
@@ -202,8 +202,8 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 164.42,
-   "price_now": 185.99,
-   "price_now_date": "2026-11-12",
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 13.1,
    "days_to_disclose": 41,
    "late_filing": false
@@ -221,15 +221,92 @@
    "ticker": "TXRH",
    "est_shares": 95.5,
    "avg_price": 176.99,
-   "price_now": 185.99,
-   "est_position_value": 17761,
+   "price_now": 185.98,
+   "est_position_value": 17760,
    "total_return_pct": 5.1,
-   "total_return_usd": 860,
+   "total_return_usd": 859,
    "first_buy": "2026-03-03",
    "last_trade": "2026-10-16"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "TXRH",
+   "company_name": "Texas Roadhouse, Inc.",
+   "owner_name": "Warfield Curtis",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 750.0,
+   "price": 190.78,
+   "value": 143085.0,
+   "shares_after": 4611.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289460/0001748313-26-000004.txt",
+   "price_at_trade": 188.16,
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "TXRH",
+   "company_name": "Texas Roadhouse, Inc.",
+   "owner_name": "Warfield Curtis",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 566.0,
+   "price": 189.4,
+   "value": 107200.4,
+   "shares_after": 4045.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289460/0001748313-26-000004.txt",
+   "price_at_trade": 188.16,
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "TXRH",
+   "company_name": "Texas Roadhouse, Inc.",
+   "owner_name": "Warfield Curtis",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 750.0,
+   "price": 190.78,
+   "value": 143085.0,
+   "shares_after": 4611.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1748313/0001748313-26-000004.txt",
+   "price_at_trade": 188.16,
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "TXRH",
+   "company_name": "Texas Roadhouse, Inc.",
+   "owner_name": "Warfield Curtis",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 566.0,
+   "price": 189.4,
+   "value": 107200.4,
+   "shares_after": 4045.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1748313/0001748313-26-000004.txt",
+   "price_at_trade": 188.16,
+   "price_now": 185.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

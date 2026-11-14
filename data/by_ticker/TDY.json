@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "TDY",
  "company": {
   "name": "TELEDYNE TECHNOLOGIES INC",
@@ -8,8 +8,8 @@
   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
   "sector": "Defense & Aerospace"
  },
- "price_now": 647.57,
- "price_date": "2026-11-12",
+ "price_now": 643.73,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 626.9,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.3,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.7,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 625.21,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.6,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.0,
    "days_to_disclose": 16,
    "late_filing": false
   },
@@ -108,9 +108,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 636.15,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.8,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -140,9 +140,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 633.95,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.1,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -172,9 +172,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 648.63,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.2,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -204,9 +204,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 495.72,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 30.6,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 29.9,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -236,15 +236,92 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 526.82,
-   "price_now": 647.57,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.9,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 22.2,
    "days_to_disclose": 4,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "TDY",
+   "company_name": "TELEDYNE TECHNOLOGIES INC",
+   "owner_name": "Belak Cynthia Y",
+   "owner_title": "Senior VP and Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 4313.0,
+   "price": 657.4202,
+   "value": 2835453.32,
+   "shares_after": 4856.7034,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1094285/0001641318-26-000009.txt",
+   "price_at_trade": 651.12,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.1
+  },
+  {
+   "ticker": "TDY",
+   "company_name": "TELEDYNE TECHNOLOGIES INC",
+   "owner_name": "Belak Cynthia Y",
+   "owner_title": "Senior VP and Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 215.0,
+   "price": 658.1361,
+   "value": 141499.26,
+   "shares_after": 4641.7034,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1094285/0001641318-26-000009.txt",
+   "price_at_trade": 651.12,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.1
+  },
+  {
+   "ticker": "TDY",
+   "company_name": "TELEDYNE TECHNOLOGIES INC",
+   "owner_name": "Belak Cynthia Y",
+   "owner_title": "Senior VP and Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 4313.0,
+   "price": 657.4202,
+   "value": 2835453.32,
+   "shares_after": 4856.7034,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1641318/0001641318-26-000009.txt",
+   "price_at_trade": 651.12,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.1
+  },
+  {
+   "ticker": "TDY",
+   "company_name": "TELEDYNE TECHNOLOGIES INC",
+   "owner_name": "Belak Cynthia Y",
+   "owner_title": "Senior VP and Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 215.0,
+   "price": 658.1361,
+   "value": 141499.26,
+   "shares_after": 4641.7034,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1641318/0001641318-26-000009.txt",
+   "price_at_trade": 651.12,
+   "price_now": 643.73,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.1
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

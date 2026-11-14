@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "RDNT",
+ "company": {
+  "name": "RadNet, Inc.",
+  "cik": 790526,
+  "sic": 8071,
+  "industry": "Services-Medical Laboratories",
+  "sector": "Healthcare"
+ },
+ "price_now": 76.42,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "RDNT",
+   "company_name": "RadNet, Inc.",
+   "owner_name": "Patel Mital",
+   "owner_title": "EVP, Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 44661.0,
+   "price": 78.51,
+   "value": 3506335.11,
+   "shares_after": 155514.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1690084/0001683168-26-008638.txt",
+   "price_at_trade": 78.08,
+   "price_now": 76.42,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "RDNT",
+   "company_name": "RadNet, Inc.",
+   "owner_name": "Patel Mital",
+   "owner_title": "EVP, Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 44661.0,
+   "price": 78.51,
+   "value": 3506335.11,
+   "shares_after": 155514.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/790526/0001683168-26-008638.txt",
+   "price_at_trade": 78.08,
+   "price_now": 76.42,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

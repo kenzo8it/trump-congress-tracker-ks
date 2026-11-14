@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "WEC",
  "company": {
   "name": "WEC ENERGY GROUP, INC.",
@@ -8,8 +8,8 @@
   "industry": "Electric & Other Services Combined",
   "sector": "Energy & Utilities"
  },
- "price_now": 117.48,
- "price_date": "2026-11-12",
+ "price_now": 117.6,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -43,10 +43,10 @@
    "committee_overlap": [
     "House Committee on Foreign Affairs"
    ],
-   "price_at_trade": 108.06,
-   "price_now": 117.48,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.7,
+   "price_at_trade": 107.19,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 9.7,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -75,16 +75,54 @@
    "committee_overlap": [
     "House Committee on Foreign Affairs"
    ],
-   "price_at_trade": 108.06,
-   "price_now": 117.48,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.7,
+   "price_at_trade": 107.19,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 9.7,
    "days_to_disclose": 316,
    "late_filing": true
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "WEC",
+   "company_name": "WEC ENERGY GROUP, INC.",
+   "owner_name": "KELSEY MARGARET C",
+   "owner_title": "Executive VP & General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 18380.0,
+   "price": 117.3732,
+   "value": 2157319.42,
+   "shares_after": 12178.359,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1185603/0001185603-26-000008.txt",
+   "price_at_trade": 116.06,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
+  },
+  {
+   "ticker": "WEC",
+   "company_name": "WEC ENERGY GROUP, INC.",
+   "owner_name": "KELSEY MARGARET C",
+   "owner_title": "Executive VP & General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 18380.0,
+   "price": 117.3732,
+   "value": 2157319.42,
+   "shares_after": 12178.359,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/783325/0001185603-26-000008.txt",
+   "price_at_trade": 116.06,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
+  },
   {
    "ticker": "WEC",
    "company_name": "WEC ENERGY GROUP, INC.",
@@ -99,10 +137,10 @@
    "shares_after": 7110.153,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875170/0001875170-26-000005.txt",
-   "price_at_trade": 118.11,
-   "price_now": 117.48,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.5
+   "price_at_trade": 117.15,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "WEC",
@@ -118,10 +156,10 @@
    "shares_after": 7110.153,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/783325/0001875170-26-000005.txt",
-   "price_at_trade": 118.11,
-   "price_now": 117.48,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.5
+   "price_at_trade": 117.15,
+   "price_now": 117.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.4
   }
  ],
  "trump_trades": [],

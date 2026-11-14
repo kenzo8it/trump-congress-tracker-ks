@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "T",
  "company": {
   "name": "AT&T INC.",
@@ -9,7 +9,7 @@
   "sector": "Telecom"
  },
  "price_now": 22.18,
- "price_date": "2026-11-12",
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,66 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "AT&T Inc.",
+   "asset_type": "ST",
+   "ticker": "T",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-11-03",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "AT&T INC.",
+   "sector": "Telecom",
+   "committee_overlap": [],
+   "price_at_trade": 21.39,
+   "price_now": 22.18,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.7,
+   "days_to_disclose": 9,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "AT&T Inc.",
+   "asset_type": "ST",
+   "ticker": "T",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-11-03",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "AT&T INC.",
+   "sector": "Telecom",
+   "committee_overlap": [],
+   "price_at_trade": 21.39,
+   "price_now": 22.18,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.7,
+   "days_to_disclose": 9,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "David J. Taylor",
@@ -43,7 +103,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.5,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -5.6,
    "days_to_disclose": 14,
    "late_filing": false
@@ -73,7 +133,7 @@
    "committee_overlap": [],
    "price_at_trade": 22.18,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": 0.0,
    "days_to_disclose": 6,
    "late_filing": false
@@ -103,7 +163,7 @@
    "committee_overlap": [],
    "price_at_trade": 24.61,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -9.9,
    "days_to_disclose": 6,
    "late_filing": false
@@ -133,7 +193,7 @@
    "committee_overlap": [],
    "price_at_trade": 22.2,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.1,
    "days_to_disclose": 7,
    "late_filing": false
@@ -163,7 +223,7 @@
    "committee_overlap": [],
    "price_at_trade": 22.22,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.2,
    "days_to_disclose": 1,
    "late_filing": false
@@ -193,7 +253,7 @@
    "committee_overlap": [],
    "price_at_trade": 24.73,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -10.3,
    "days_to_disclose": 15,
    "late_filing": false
@@ -223,7 +283,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.84,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -7.0,
    "days_to_disclose": 1,
    "late_filing": false
@@ -253,7 +313,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.45,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -5.4,
    "days_to_disclose": 13,
    "late_filing": false
@@ -283,7 +343,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.45,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -5.4,
    "days_to_disclose": 13,
    "late_filing": false
@@ -313,7 +373,7 @@
    "committee_overlap": [],
    "price_at_trade": 25.92,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -14.4,
    "days_to_disclose": 40,
    "late_filing": false
@@ -343,7 +403,7 @@
    "committee_overlap": [],
    "price_at_trade": 26.78,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -17.2,
    "days_to_disclose": 15,
    "late_filing": false
@@ -373,7 +433,7 @@
    "committee_overlap": [],
    "price_at_trade": 26.52,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -16.4,
    "days_to_disclose": 8,
    "late_filing": false
@@ -403,7 +463,7 @@
    "committee_overlap": [],
    "price_at_trade": 27.81,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -20.2,
    "days_to_disclose": 28,
    "late_filing": false
@@ -433,7 +493,7 @@
    "committee_overlap": [],
    "price_at_trade": 25.31,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -12.4,
    "days_to_disclose": 21,
    "late_filing": false
@@ -463,7 +523,7 @@
    "committee_overlap": [],
    "price_at_trade": 24.27,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -8.6,
    "days_to_disclose": 4,
    "late_filing": false
@@ -493,7 +553,7 @@
    "committee_overlap": [],
    "price_at_trade": 22.9,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -3.1,
    "days_to_disclose": 15,
    "late_filing": false
@@ -523,7 +583,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.19,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -4.4,
    "days_to_disclose": 6,
    "late_filing": false
@@ -553,7 +613,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.56,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -5.8,
    "days_to_disclose": 4,
    "late_filing": false
@@ -583,7 +643,7 @@
    "committee_overlap": [],
    "price_at_trade": 23.56,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -5.8,
    "days_to_disclose": 4,
    "late_filing": false
@@ -613,7 +673,7 @@
    "committee_overlap": [],
    "price_at_trade": 26.47,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": -16.2,
    "days_to_disclose": 195,
    "late_filing": true
@@ -643,7 +703,7 @@
    "committee_overlap": [],
    "price_at_trade": 20.55,
    "price_now": 22.18,
-   "price_now_date": "2026-11-12",
+   "price_now_date": "2026-11-13",
    "total_return_pct": 8.0,
    "days_to_disclose": 447,
    "late_filing": true
@@ -673,14 +733,14 @@
    "state": "OH",
    "committee_overlap": [],
    "ticker": "T",
-   "est_shares": 2451.0,
-   "avg_price": 23.18,
+   "est_shares": 3199.1,
+   "avg_price": 22.77,
    "price_now": 22.18,
-   "est_position_value": 54363,
-   "total_return_pct": -4.3,
-   "total_return_usd": -2463,
+   "est_position_value": 70955,
+   "total_return_pct": -2.6,
+   "total_return_usd": -1872,
    "first_buy": "2025-10-30",
-   "last_trade": "2026-10-15"
+   "last_trade": "2026-11-03"
   }
  ],
  "insider_trades": [],

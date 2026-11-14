@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "WH",
  "company": {
   "name": "WYNDHAM HOTELS & RESORTS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Hotels & Motels",
   "sector": "Retail & Consumer"
  },
- "price_now": 78.93,
- "price_date": "2026-11-12",
+ "price_now": 79.32,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "WH",
    "company_name": "WYNDHAM HOTELS & RESORTS, INC.",
+   "owner_name": "Strickland Scott R.",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 12000.0,
+   "price": 79.7689,
+   "value": 957226.8,
+   "shares_after": 29490.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1722684/0001738507-26-000004.txt",
+   "price_at_trade": 80.05,
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "WH",
+   "company_name": "WYNDHAM HOTELS & RESORTS, INC.",
+   "owner_name": "Strickland Scott R.",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 12000.0,
+   "price": 79.7689,
+   "value": 957226.8,
+   "shares_after": 29490.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1738507/0001738507-26-000004.txt",
+   "price_at_trade": 80.05,
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "WH",
+   "company_name": "WYNDHAM HOTELS & RESORTS, INC.",
    "owner_name": "Ballotti Geoffrey A",
    "owner_title": "Director, President and CEO",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1397086/0001722684-26-000077.txt",
    "price_at_trade": 75.38,
-   "price_now": 78.93,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "WH",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1397086/0001722684-26-000077.txt",
    "price_at_trade": 75.38,
-   "price_now": 78.93,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "WH",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722684/0001722684-26-000077.txt",
    "price_at_trade": 75.38,
-   "price_now": 78.93,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "WH",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1722684/0001722684-26-000077.txt",
    "price_at_trade": 75.38,
-   "price_now": 78.93,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7
+   "price_now": 79.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.2
   }
  ],
  "trump_trades": [],

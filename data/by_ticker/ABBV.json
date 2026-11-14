@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "ABBV",
  "company": {
   "name": "AbbVie Inc.",
@@ -367,7 +367,46 @@
    "last_trade": "2025-12-08"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ABBV",
+   "company_name": "AbbVie Inc.",
+   "owner_name": "Stewart Jeffrey Ryan",
+   "owner_title": "EVP, CHIEF COMMERCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 40619.0,
+   "price": 293.6,
+   "value": 11925738.4,
+   "shares_after": 83171.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/0001761675-26-000007.txt",
+   "price_at_trade": 293.3,
+   "price_now": 294.45,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "ABBV",
+   "company_name": "AbbVie Inc.",
+   "owner_name": "Stewart Jeffrey Ryan",
+   "owner_title": "EVP, CHIEF COMMERCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 40619.0,
+   "price": 293.6,
+   "value": 11925738.4,
+   "shares_after": 83171.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1761675/0001761675-26-000007.txt",
+   "price_at_trade": 293.3,
+   "price_now": 294.45,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.4
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

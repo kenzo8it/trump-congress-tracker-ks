@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "SPFI",
  "company": {
   "name": "SOUTH PLAINS FINANCIAL, INC.",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 42.8,
- "price_date": "2026-11-12",
+ "price_now": 42.65,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Campbell Richard D",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 16700.0,
+   "price": 43.28,
+   "value": 722776.0,
+   "shares_after": 1307658.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1163668/0001774463-26-000004.txt",
+   "price_at_trade": 43.08,
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "SPFI",
+   "company_name": "SOUTH PLAINS FINANCIAL, INC.",
+   "owner_name": "Campbell Richard D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 16700.0,
+   "price": 43.28,
+   "value": 722776.0,
+   "shares_after": 1307658.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1774463/0001774463-26-000004.txt",
+   "price_at_trade": 43.08,
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "SPFI",
+   "company_name": "SOUTH PLAINS FINANCIAL, INC.",
+   "owner_name": "Campbell Richard D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 8054.0,
+   "price": 43.28,
+   "value": 348577.12,
+   "shares_after": 1324358.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1163668/0001774463-26-000004.txt",
+   "price_at_trade": 43.08,
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "SPFI",
+   "company_name": "SOUTH PLAINS FINANCIAL, INC.",
+   "owner_name": "Campbell Richard D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 8054.0,
+   "price": 43.28,
+   "value": 348577.12,
+   "shares_after": 1324358.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1774463/0001774463-26-000004.txt",
+   "price_at_trade": 43.08,
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "SPFI",
+   "company_name": "SOUTH PLAINS FINANCIAL, INC.",
+   "owner_name": "Campbell Richard D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-05",
    "reported_date": "2026-11-05",
    "shares": 17809.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1163668/0001774463-26-000003.txt",
    "price_at_trade": 42.86,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.1
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "SPFI",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774463/0001774463-26-000003.txt",
    "price_at_trade": 42.86,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.1
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "SPFI",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1163668/0001774463-26-000003.txt",
    "price_at_trade": 43.94,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SPFI",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774463/0001774463-26-000003.txt",
    "price_at_trade": 43.94,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "SPFI",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1163668/0001774463-26-000003.txt",
    "price_at_trade": 43.42,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.4
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "SPFI",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774463/0001774463-26-000003.txt",
    "price_at_trade": 43.42,
-   "price_now": 42.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.4
+   "price_now": 42.65,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

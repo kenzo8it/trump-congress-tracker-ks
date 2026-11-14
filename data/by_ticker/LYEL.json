@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "LYEL",
  "company": {
   "name": "Lyell Immunopharma, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 15.64,
- "price_date": "2026-11-12",
+ "price_now": 14.3,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,158 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Seely Lynn",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 545.0,
+   "price": 15.93,
+   "value": 8681.85,
+   "shares_after": 63354.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1327111/0001327111-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Seely Lynn",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 545.0,
+   "price": 15.93,
+   "value": 8681.85,
+   "shares_after": 63354.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0001327111-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Hill Stephen J.",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 88.0,
+   "price": 15.93,
+   "value": 1401.84,
+   "shares_after": 16728.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0001866154-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Lee Gary K.",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 129.0,
+   "price": 15.93,
+   "value": 2054.97,
+   "shares_after": 16091.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0001907345-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Bulis Veronica Sanchez",
+   "owner_title": "VP, Corporate Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 416.0,
+   "price": 15.93,
+   "value": 6626.88,
+   "shares_after": 14383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0002095702-26-000007.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Hill Stephen J.",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 88.0,
+   "price": 15.93,
+   "value": 1401.84,
+   "shares_after": 16728.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1866154/0001866154-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Lee Gary K.",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 129.0,
+   "price": 15.93,
+   "value": 2054.97,
+   "shares_after": 16091.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1907345/0001907345-26-000008.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
+  {
+   "ticker": "LYEL",
+   "company_name": "Lyell Immunopharma, Inc.",
+   "owner_name": "Bulis Veronica Sanchez",
+   "owner_title": "VP, Corporate Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 416.0,
+   "price": 15.93,
+   "value": 6626.88,
+   "shares_after": 14383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2095702/0002095702-26-000007.txt",
+   "price_at_trade": 16.75,
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.6
+  },
   {
    "ticker": "LYEL",
    "company_name": "Lyell Immunopharma, Inc.",
@@ -35,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1202769/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -54,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1219039/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -73,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1219042/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -92,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1219043/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -111,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1229592/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -130,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1569248/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -149,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1666306/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -168,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1666307/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -187,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1723172/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -206,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1723173/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -225,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1723174/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -244,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -263,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1806952/0001012975-26-001014.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -282,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2006772/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -301,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2016082/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "LYEL",
@@ -320,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2016083/0001012975-26-001013.txt",
    "price_at_trade": 15.43,
-   "price_now": 15.64,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 14.3,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3
   }
  ],
  "trump_trades": [],

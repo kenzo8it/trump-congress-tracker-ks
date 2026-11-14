@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -64,10 +64,10 @@
    "ticker": "JPM",
    "est_shares": 25.2,
    "avg_price": 316.98,
-   "price_now": 342.82,
-   "est_position_value": 8653,
-   "total_return_pct": 8.2,
-   "total_return_usd": 652,
+   "price_now": 346.19,
+   "est_position_value": 8738,
+   "total_return_pct": 9.2,
+   "total_return_usd": 737,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   },
@@ -75,10 +75,10 @@
    "ticker": "RTX",
    "est_shares": 43.6,
    "avg_price": 183.69,
-   "price_now": 198.36,
-   "est_position_value": 8639,
-   "total_return_pct": 8.0,
-   "total_return_usd": 639,
+   "price_now": 198.58,
+   "est_position_value": 8649,
+   "total_return_pct": 8.1,
+   "total_return_usd": 649,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   }
@@ -108,9 +108,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 145.73,
-   "price_now": 216.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 48.5,
+   "price_now": 219.89,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 50.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -170,9 +170,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 316.98,
-   "price_now": 342.82,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.2,
+   "price_now": 346.19,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 9.2,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -200,9 +200,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 183.69,
-   "price_now": 198.36,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.0,
+   "price_now": 198.58,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.1,
    "days_to_disclose": 24,
    "late_filing": false
   }

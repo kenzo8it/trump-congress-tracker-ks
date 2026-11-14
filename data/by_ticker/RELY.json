@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "RELY",
  "company": {
   "name": "Remitly Global, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 22.79,
- "price_date": "2026-11-12",
+ "price_now": 22.55,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "RELY",
    "company_name": "Remitly Global, Inc.",
+   "owner_name": "Blignaut Ryno",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 23.75,
+   "value": 118750.0,
+   "shares_after": 63269.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1554614/0001554614-26-000008.txt",
+   "price_at_trade": 23.48,
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "RELY",
+   "company_name": "Remitly Global, Inc.",
+   "owner_name": "Blignaut Ryno",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 23.75,
+   "value": 118750.0,
+   "shares_after": 63269.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001554614-26-000008.txt",
+   "price_at_trade": 23.48,
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
+  },
+  {
+   "ticker": "RELY",
+   "company_name": "Remitly Global, Inc.",
    "owner_name": "Hug Joshua",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001880864-26-000030.txt",
    "price_at_trade": 22.32,
-   "price_now": 22.79,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.1
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "RELY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880864/0001880864-26-000030.txt",
    "price_at_trade": 22.32,
-   "price_now": 22.79,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.1
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "RELY",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001880864-26-000030.txt",
    "price_at_trade": 21.55,
-   "price_now": 22.79,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.8
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.7
   },
   {
    "ticker": "RELY",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880864/0001880864-26-000030.txt",
    "price_at_trade": 21.55,
-   "price_now": 22.79,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.8
+   "price_now": 22.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.7
   }
  ],
  "trump_trades": [],

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "IOSP",
+ "company": {
+  "name": "INNOSPEC INC.",
+  "cik": 1054905,
+  "sic": 2800,
+  "industry": "Chemicals & Allied Products",
+  "sector": "Materials & Mining"
+ },
+ "price_now": 80.39,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "IOSP",
+   "company_name": "INNOSPEC INC.",
+   "owner_name": "PARRETTE LESLIE J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 345.0,
+   "price": 79.69,
+   "value": 27493.05,
+   "shares_after": 7721.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1054905/0001193125-26-458918.txt",
+   "price_at_trade": 77.72,
+   "price_now": 80.39,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.4
+  },
+  {
+   "ticker": "IOSP",
+   "company_name": "INNOSPEC INC.",
+   "owner_name": "PARRETTE LESLIE J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 345.0,
+   "price": 79.69,
+   "value": 27493.05,
+   "shares_after": 7721.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1159202/0001193125-26-458918.txt",
+   "price_at_trade": 77.72,
+   "price_now": 80.39,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

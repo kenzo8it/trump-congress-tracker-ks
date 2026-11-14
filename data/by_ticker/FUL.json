@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "FUL",
  "company": {
   "name": "FULLER H B CO",
@@ -8,8 +8,8 @@
   "industry": "Adhesives & Sealants",
   "sector": "Other"
  },
- "price_now": 49.47,
- "price_date": "2026-11-12",
+ "price_now": 49.29,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FUL",
+   "company_name": "FULLER H B CO",
+   "owner_name": "Weaver Nathan D.",
+   "owner_title": "Exec VP, Business Transform.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1200.0,
+   "price": 50.425,
+   "value": 60510.0,
+   "shares_after": 10735.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1807831/0001225208-26-008863.txt",
+   "price_at_trade": 50.65,
+   "price_now": 49.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.7
+  },
+  {
+   "ticker": "FUL",
+   "company_name": "FULLER H B CO",
+   "owner_name": "Weaver Nathan D.",
+   "owner_title": "Exec VP, Business Transform.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1200.0,
+   "price": 50.425,
+   "value": 60510.0,
+   "shares_after": 10735.98,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39368/0001225208-26-008863.txt",
+   "price_at_trade": 50.65,
+   "price_now": 49.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.7
+  },
   {
    "ticker": "FUL",
    "company_name": "FULLER H B CO",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1621150/0001225208-26-008441.txt",
    "price_at_trade": 51.32,
-   "price_now": 49.47,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.6
+   "price_now": 49.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "FUL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/39368/0001225208-26-008441.txt",
    "price_at_trade": 51.32,
-   "price_now": 49.47,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.6
+   "price_now": 49.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "GIC",
  "company": {
   "name": "GLOBAL INDUSTRIAL Co",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Industrial Machinery & Equipment",
   "sector": "Other"
  },
- "price_now": 47.03,
- "price_date": "2026-11-12",
+ "price_now": 46.63,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "GIC",
    "company_name": "GLOBAL INDUSTRIAL Co",
+   "owner_name": "Shetty Manoj",
+   "owner_title": "SVP & Chief Information Ofc.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 46.3,
+   "value": 92600.0,
+   "shares_after": 33757.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1615469/0001437749-26-036608.txt",
+   "price_at_trade": 46.3,
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "GIC",
+   "company_name": "GLOBAL INDUSTRIAL Co",
+   "owner_name": "Shetty Manoj",
+   "owner_title": "SVP & Chief Information Ofc.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 46.3,
+   "value": 92600.0,
+   "shares_after": 33757.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/945114/0001437749-26-036608.txt",
+   "price_at_trade": 46.3,
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "GIC",
+   "company_name": "GLOBAL INDUSTRIAL Co",
    "owner_name": "AXMACHER THOMAS",
    "owner_title": "VP & Controller",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140170/0001437749-26-035922.txt",
    "price_at_trade": 46.3,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.6
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "GIC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/945114/0001437749-26-035922.txt",
    "price_at_trade": 46.3,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.6
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "GIC",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140170/0001437749-26-035922.txt",
    "price_at_trade": 46.4,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "GIC",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/945114/0001437749-26-035922.txt",
    "price_at_trade": 46.4,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.4
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "GIC",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140170/0001437749-26-035922.txt",
    "price_at_trade": 47.18,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "GIC",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140170/0001437749-26-035922.txt",
    "price_at_trade": 47.18,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "GIC",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/945114/0001437749-26-035922.txt",
    "price_at_trade": 47.18,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "GIC",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/945114/0001437749-26-035922.txt",
    "price_at_trade": 47.18,
-   "price_now": 47.03,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 46.63,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
   }
  ],
  "trump_trades": [],

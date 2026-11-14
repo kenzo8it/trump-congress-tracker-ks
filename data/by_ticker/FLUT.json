@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "FLUT",
  "company": {
   "name": "Flutter Entertainment plc",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 81.97,
- "price_date": "2026-11-12",
+ "price_now": 81.13,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FLUT",
+   "company_name": "Flutter Entertainment plc",
+   "owner_name": "Bishop James Philip",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 415.0,
+   "price": 82.0069,
+   "value": 34032.86,
+   "shares_after": 29159.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635327/0002012862-26-000016.txt",
+   "price_at_trade": 81.99,
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "FLUT",
+   "company_name": "Flutter Entertainment plc",
+   "owner_name": "Bishop James Philip",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 12710.0,
+   "price": 82.125,
+   "value": 1043808.75,
+   "shares_after": 16449.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635327/0002012862-26-000016.txt",
+   "price_at_trade": 81.99,
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "FLUT",
+   "company_name": "Flutter Entertainment plc",
+   "owner_name": "Bishop James Philip",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 415.0,
+   "price": 82.0069,
+   "value": 34032.86,
+   "shares_after": 29159.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012862/0002012862-26-000016.txt",
+   "price_at_trade": 81.99,
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "FLUT",
+   "company_name": "Flutter Entertainment plc",
+   "owner_name": "Bishop James Philip",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 12710.0,
+   "price": 82.125,
+   "value": 1043808.75,
+   "shares_after": 16449.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012862/0002012862-26-000016.txt",
+   "price_at_trade": 81.99,
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
   {
    "ticker": "FLUT",
    "company_name": "Flutter Entertainment plc",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635327/0002012952-26-000023.txt",
    "price_at_trade": 82.97,
-   "price_now": 81.97,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.2
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "FLUT",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635327/0002028515-26-000019.txt",
    "price_at_trade": 82.97,
-   "price_now": 81.97,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.2
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "FLUT",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012952/0002012952-26-000023.txt",
    "price_at_trade": 82.97,
-   "price_now": 81.97,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.2
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "FLUT",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028515/0002028515-26-000019.txt",
    "price_at_trade": 82.97,
-   "price_now": 81.97,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.2
+   "price_now": 81.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
   }
  ],
  "trump_trades": [],

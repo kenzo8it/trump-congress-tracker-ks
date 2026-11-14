@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "PCOR",
  "company": {
   "name": "PROCORE TECHNOLOGIES, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 77.23,
- "price_date": "2026-11-12",
+ "price_now": 77.62,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PCOR",
+   "company_name": "PROCORE TECHNOLOGIES, INC.",
+   "owner_name": "Fleming William Fred Jr",
+   "owner_title": "SVP, Corporate Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 16852.0,
+   "price": 76.57,
+   "value": 1290357.64,
+   "shares_after": 91049.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-073550.txt",
+   "price_at_trade": 76.46,
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5
+  },
+  {
+   "ticker": "PCOR",
+   "company_name": "PROCORE TECHNOLOGIES, INC.",
+   "owner_name": "Fleming William Fred Jr",
+   "owner_title": "SVP, Corporate Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 16852.0,
+   "price": 76.57,
+   "value": 1290357.64,
+   "shares_after": 91049.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1805695/0001628280-26-073550.txt",
+   "price_at_trade": 76.46,
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5
+  },
   {
    "ticker": "PCOR",
    "company_name": "PROCORE TECHNOLOGIES, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1596281/0001628280-26-071842.txt",
    "price_at_trade": 75.6,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.2
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "PCOR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-071841.txt",
    "price_at_trade": 75.6,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.2
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "PCOR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-071842.txt",
    "price_at_trade": 75.6,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.2
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "PCOR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1710257/0001628280-26-071841.txt",
    "price_at_trade": 75.6,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.2
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.7
   },
   {
    "ticker": "PCOR",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106321/0001628280-26-070458.txt",
    "price_at_trade": 63.17,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.3
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 22.9
   },
   {
    "ticker": "PCOR",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106321/0001628280-26-070458.txt",
    "price_at_trade": 63.17,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.3
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 22.9
   },
   {
    "ticker": "PCOR",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-070458.txt",
    "price_at_trade": 63.17,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.3
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 22.9
   },
   {
    "ticker": "PCOR",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-070458.txt",
    "price_at_trade": 63.17,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.3
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 22.9
   },
   {
    "ticker": "PCOR",
@@ -187,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106321/0001628280-26-070458.txt",
    "price_at_trade": 62.57,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.4
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "PCOR",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106321/0001628280-26-070458.txt",
    "price_at_trade": 62.57,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.4
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "PCOR",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-070458.txt",
    "price_at_trade": 62.57,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.4
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.1
   },
   {
    "ticker": "PCOR",
@@ -244,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611052/0001628280-26-070458.txt",
    "price_at_trade": 62.57,
-   "price_now": 77.23,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.4
+   "price_now": 77.62,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.1
   }
  ],
  "trump_trades": [],

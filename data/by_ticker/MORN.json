@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "MORN",
  "company": {
   "name": "Morningstar, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 246.08,
- "price_date": "2026-11-12",
+ "price_now": 246.26,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 166.72,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 47.6,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 47.7,
    "days_to_disclose": 30,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 166.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 47.6,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 47.7,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 183.24,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 34.3,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 34.4,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 179.5,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 37.1,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 37.2,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 170.93,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 44.0,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 44.1,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -192,9 +192,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 160.47,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 53.4,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 53.5,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -222,9 +222,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 164.05,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 50.0,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 50.1,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -252,9 +252,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 213.79,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 15.1,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.2,
    "days_to_disclose": 18,
    "late_filing": false
   }
@@ -267,6 +267,348 @@
    "owner_name": "Mansueto Joseph D",
    "owner_title": "Director, Executive Chairman, 10% owner",
    "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 135.0,
+   "price": 250.1402,
+   "value": 33768.93,
+   "shares_after": 8565294.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.08,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 135.0,
+   "price": 250.1402,
+   "value": 33768.93,
+   "shares_after": 8565294.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.08,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5945.0,
+   "price": 247.0023,
+   "value": 1468428.67,
+   "shares_after": 8566734.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1301.0,
+   "price": 247.8004,
+   "value": 322388.32,
+   "shares_after": 8565433.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 4.0,
+   "price": 248.53,
+   "value": 994.12,
+   "shares_after": 8565429.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5945.0,
+   "price": 247.0023,
+   "value": 1468428.67,
+   "shares_after": 8566734.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1301.0,
+   "price": 247.8004,
+   "value": 322388.32,
+   "shares_after": 8565433.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 4.0,
+   "price": 248.53,
+   "value": 994.12,
+   "shares_after": 8565429.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 248.65,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 7250.0,
+   "price": 246.4432,
+   "value": 1786713.2,
+   "shares_after": 8572679.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.47,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.1
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 7250.0,
+   "price": 246.4432,
+   "value": 1786713.2,
+   "shares_after": 8572679.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.47,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.1
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4883.0,
+   "price": 245.1847,
+   "value": 1197236.89,
+   "shares_after": 8582296.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 1308.0,
+   "price": 246.1581,
+   "value": 321974.79,
+   "shares_after": 8580988.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 1023.0,
+   "price": 246.8396,
+   "value": 252516.91,
+   "shares_after": 8579965.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 36.0,
+   "price": 247.7983,
+   "value": 8920.74,
+   "shares_after": 8579929.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4883.0,
+   "price": 245.1847,
+   "value": 1197236.89,
+   "shares_after": 8582296.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 1308.0,
+   "price": 246.1581,
+   "value": 321974.79,
+   "shares_after": 8580988.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 1023.0,
+   "price": 246.8396,
+   "value": 252516.91,
+   "shares_after": 8579965.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 36.0,
+   "price": 247.7983,
+   "value": 8920.74,
+   "shares_after": 8579929.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000051.txt",
+   "price_at_trade": 246.15,
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MORN",
+   "company_name": "Morningstar, Inc.",
+   "owner_name": "Mansueto Joseph D",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "SELL",
    "traded_date": "2026-11-05",
    "reported_date": "2026-11-06",
    "shares": 78.0,
@@ -276,8 +618,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -295,8 +637,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -314,8 +656,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -333,8 +675,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -352,8 +694,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -371,8 +713,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -390,8 +732,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -409,8 +751,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -428,8 +770,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -447,8 +789,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000049.txt",
    "price_at_trade": 247.17,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": -0.4
   },
   {
@@ -466,9 +808,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -485,9 +827,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -504,9 +846,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -523,9 +865,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -542,9 +884,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -561,9 +903,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -580,9 +922,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -599,9 +941,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -618,9 +960,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -637,9 +979,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 244.25,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.7
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "MORN",
@@ -656,8 +998,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -675,8 +1017,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -694,8 +1036,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -713,8 +1055,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -732,8 +1074,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -751,8 +1093,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -770,8 +1112,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -789,8 +1131,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 236.71,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 4.0
   },
   {
@@ -808,9 +1150,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -827,9 +1169,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -846,9 +1188,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -865,9 +1207,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -884,9 +1226,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -903,9 +1245,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -922,9 +1264,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -941,9 +1283,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -960,9 +1302,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -979,9 +1321,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -998,9 +1340,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1017,9 +1359,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1036,9 +1378,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1055,9 +1397,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1074,9 +1416,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1093,9 +1435,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1112,9 +1454,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1131,9 +1473,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1150,9 +1492,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1169,9 +1511,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1188,9 +1530,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1207,9 +1549,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1226,9 +1568,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "MORN",
@@ -1245,9 +1587,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1324069/0001324069-26-000047.txt",
    "price_at_trade": 238.73,
-   "price_now": 246.08,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.1
+   "price_now": 246.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.2
   }
  ],
  "trump_trades": [],

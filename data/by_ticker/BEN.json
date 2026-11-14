@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "BEN",
  "company": {
   "name": "FRANKLIN TEMPLETON INC",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 35.86,
- "price_date": "2026-11-12",
+ "price_now": 36.02,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,54 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 23.99,
-   "price_now": 35.86,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 49.5,
+   "price_now": 36.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 50.1,
    "days_to_disclose": 41,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "BEN",
+   "company_name": "FRANKLIN TEMPLETON INC",
+   "owner_name": "Nicholls Matthew",
+   "owner_title": "Co-President, CFO & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 160000.0,
+   "price": 36.2,
+   "value": 5792000.0,
+   "shares_after": 774348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1773856/0000038777-26-000290.txt",
+   "price_at_trade": 36.3,
+   "price_now": 36.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "BEN",
+   "company_name": "FRANKLIN TEMPLETON INC",
+   "owner_name": "Nicholls Matthew",
+   "owner_title": "Co-President, CFO & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 160000.0,
+   "price": 36.2,
+   "value": 5792000.0,
+   "shares_after": 774348.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/38777/0000038777-26-000290.txt",
+   "price_at_trade": 36.3,
+   "price_now": 36.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

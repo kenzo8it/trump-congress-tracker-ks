@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "V",
  "company": {
   "name": "VISA INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 420.31,
- "price_date": "2026-11-12",
+ "price_now": 425.76,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,66 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "Visa Inc.",
+   "asset_type": "ST",
+   "ticker": "V",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-11-03",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "VISA INC.",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 419.64,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5,
+   "days_to_disclose": 9,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "Visa Inc.",
+   "asset_type": "ST",
+   "ticker": "V",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-11-03",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "VISA INC.",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 419.64,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.5,
+   "days_to_disclose": 9,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "David J. Taylor",
@@ -42,9 +102,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 399.01,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.3,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.7,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -72,9 +132,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 359.99,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 16.8,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 18.3,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -102,9 +162,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 364.92,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 15.2,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.7,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -132,9 +192,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 307.87,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 36.5,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 38.3,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -162,9 +222,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 307.64,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 36.6,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 38.4,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -192,9 +252,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 314.88,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 33.5,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 35.2,
    "days_to_disclose": 8,
    "late_filing": false
   },
@@ -222,9 +282,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 318.46,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 32.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 33.7,
    "days_to_disclose": 26,
    "late_filing": false
   },
@@ -252,9 +312,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 323.04,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 30.1,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 31.8,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -282,9 +342,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 325.74,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 29.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 30.7,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -312,9 +372,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 327.04,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 28.5,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 30.2,
    "days_to_disclose": 2,
    "late_filing": false
   },
@@ -342,9 +402,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 336.23,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 25.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 26.6,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -372,9 +432,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 336.72,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 24.8,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 26.4,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -402,9 +462,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 337.41,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 24.6,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 26.2,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -432,9 +492,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 341.66,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.6,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -462,9 +522,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 341.66,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 23.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 24.6,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -492,9 +552,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 343.99,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 22.2,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 23.8,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -522,9 +582,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 335.39,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 25.3,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 26.9,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -552,9 +612,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 349.9,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 20.1,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 21.7,
    "days_to_disclose": 173,
    "late_filing": true
   },
@@ -582,9 +642,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 279.03,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 50.6,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 52.6,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -599,28 +659,12 @@
    "ticker": "V",
    "est_shares": 51.5,
    "avg_price": 310.47,
-   "price_now": 420.31,
-   "est_position_value": 21662,
-   "total_return_pct": 35.4,
-   "total_return_usd": 5661,
+   "price_now": 425.76,
+   "est_position_value": 21943,
+   "total_return_pct": 37.1,
+   "total_return_usd": 5942,
    "first_buy": "2024-10-23",
    "last_trade": "2025-07-24"
-  },
-  {
-   "name": "Lucy McBath",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "GA",
-   "committee_overlap": [],
-   "ticker": "V",
-   "est_shares": 1.8,
-   "avg_price": 336.72,
-   "price_now": 420.31,
-   "est_position_value": 772,
-   "total_return_pct": 24.8,
-   "total_return_usd": 153,
-   "first_buy": "2025-11-05",
-   "last_trade": "2026-07-30"
   },
   {
    "name": "Byron Donalds",
@@ -631,10 +675,10 @@
    "ticker": "V",
    "est_shares": 23.3,
    "avg_price": 343.99,
-   "price_now": 420.31,
-   "est_position_value": 9776,
-   "total_return_pct": 22.2,
-   "total_return_usd": 1775,
+   "price_now": 425.76,
+   "est_position_value": 9902,
+   "total_return_pct": 23.8,
+   "total_return_usd": 1902,
    "first_buy": "2025-10-24",
    "last_trade": "2025-10-24"
   },
@@ -645,17 +689,71 @@
    "state": "OH",
    "committee_overlap": [],
    "ticker": "V",
-   "est_shares": 128.9,
+   "est_shares": 90.8,
    "avg_price": 322.21,
-   "price_now": 420.31,
-   "est_position_value": 54190,
-   "total_return_pct": 30.4,
-   "total_return_usd": 12648,
+   "price_now": 425.76,
+   "est_position_value": 38659,
+   "total_return_pct": 32.1,
+   "total_return_usd": 9402,
    "first_buy": "2025-11-12",
-   "last_trade": "2026-10-15"
+   "last_trade": "2026-11-03"
+  },
+  {
+   "name": "Lucy McBath",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "GA",
+   "committee_overlap": [],
+   "ticker": "V",
+   "est_shares": 1.8,
+   "avg_price": 336.72,
+   "price_now": 425.76,
+   "est_position_value": 782,
+   "total_return_pct": 26.4,
+   "total_return_usd": 163,
+   "first_buy": "2025-11-05",
+   "last_trade": "2026-07-30"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "V",
+   "company_name": "VISA INC.",
+   "owner_name": "Fabara Paul D",
+   "owner_title": "CHIEF RISK & CLIENT SVCS OFC",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 3401.0,
+   "price": 423.09,
+   "value": 1438929.09,
+   "shares_after": 33913.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000140.txt",
+   "price_at_trade": 423.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "V",
+   "company_name": "VISA INC.",
+   "owner_name": "Fabara Paul D",
+   "owner_title": "CHIEF RISK & CLIENT SVCS OFC",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 3401.0,
+   "price": 423.09,
+   "value": 1438929.09,
+   "shares_after": 33913.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1646987/0001403161-26-000140.txt",
+   "price_at_trade": 423.0,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.7
+  },
   {
    "ticker": "V",
    "company_name": "VISA INC.",
@@ -671,9 +769,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000138.txt",
    "price_at_trade": 421.38,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "V",
@@ -690,9 +788,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1887192/0001403161-26-000138.txt",
    "price_at_trade": 421.38,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.3
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "V",
@@ -709,9 +807,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -728,9 +826,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -747,9 +845,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -766,9 +864,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1532601/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -785,9 +883,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1532601/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -804,9 +902,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1532601/0001403161-26-000136.txt",
    "price_at_trade": 435.76,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.5
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "V",
@@ -823,9 +921,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000129.txt",
    "price_at_trade": 424.72,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.0
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "V",
@@ -842,9 +940,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000130.txt",
    "price_at_trade": 424.72,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.0
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "V",
@@ -861,9 +959,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1532601/0001403161-26-000130.txt",
    "price_at_trade": 424.72,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.0
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "V",
@@ -880,9 +978,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1578261/0001403161-26-000129.txt",
    "price_at_trade": 424.72,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.0
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "V",
@@ -899,9 +997,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204424/0001403161-26-000128.txt",
    "price_at_trade": 412.83,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.8
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.1
   },
   {
    "ticker": "V",
@@ -918,9 +1016,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/0001403161-26-000128.txt",
    "price_at_trade": 412.83,
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.8
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.1
   }
  ],
  "trump_trades": [],
@@ -932,9 +1030,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 420.31,
-   "price_now_date": "2026-11-12",
-   "return_since_involvement_pct": 27.7,
+   "price_now": 425.76,
+   "price_now_date": "2026-11-13",
+   "return_since_involvement_pct": 29.3,
    "price_at_involvement": 329.21
   }
  ],

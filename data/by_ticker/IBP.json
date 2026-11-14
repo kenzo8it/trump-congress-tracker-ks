@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "IBP",
  "company": {
   "name": "Installed Building Products, Inc.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "David J. Taylor",
+   "state_district": "OH02",
+   "reported_date": "2026-11-12",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+   "owner": "self",
+   "asset": "Installed Building Products, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "IBP",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-11-03",
+   "notified_date": "2026-11-12",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "T000490",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "Installed Building Products, Inc.",
+   "sector": "Construction & Industrials",
+   "committee_overlap": [
+    "House Committee on Transportation and Infrastructure"
+   ],
+   "price_at_trade": 212.46,
+   "price_now": 223.76,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 5.3,
+   "days_to_disclose": 9,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "David J. Taylor",
@@ -381,14 +413,14 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "ticker": "IBP",
-   "est_shares": 184.5,
-   "avg_price": 242.93,
+   "est_shares": 222.1,
+   "avg_price": 237.76,
    "price_now": 223.76,
-   "est_position_value": 41276,
-   "total_return_pct": -7.9,
-   "total_return_usd": -3536,
+   "est_position_value": 49702,
+   "total_return_pct": -5.9,
+   "total_return_usd": -3110,
    "first_buy": "2025-11-03",
-   "last_trade": "2026-09-08"
+   "last_trade": "2026-11-03"
   }
  ],
  "insider_trades": [],

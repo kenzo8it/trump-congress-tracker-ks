@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "EPAM",
  "company": {
   "name": "EPAM Systems, Inc.",
@@ -80,7 +80,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "EPAM",
+   "company_name": "EPAM Systems, Inc.",
+   "owner_name": "Solomon Lawrence F",
+   "owner_title": "SVP/Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 3299.0,
+   "price": 160.14,
+   "value": 528301.86,
+   "shares_after": 30390.192,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1352010/0001693502-26-000008.txt",
+   "price_at_trade": 163.83,
+   "price_now": 163.83,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "EPAM",
+   "company_name": "EPAM Systems, Inc.",
+   "owner_name": "Solomon Lawrence F",
+   "owner_title": "SVP/Chief People Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-12",
+   "shares": 3299.0,
+   "price": 160.14,
+   "value": 528301.86,
+   "shares_after": 30390.192,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1693502/0001693502-26-000008.txt",
+   "price_at_trade": 163.83,
+   "price_now": 163.83,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

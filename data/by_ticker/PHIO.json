@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "PHIO",
  "company": {
   "name": "Phio Pharmaceuticals Corp.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.81,
- "price_date": "2026-11-12",
+ "price_now": 0.77,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PHIO",
+   "company_name": "Phio Pharmaceuticals Corp.",
+   "owner_name": "Deming David H",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5200.0,
+   "price": 0.838,
+   "value": 4357.6,
+   "shares_after": 49800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1533040/0001683168-26-008544.txt",
+   "price_at_trade": 0.81,
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.2
+  },
+  {
+   "ticker": "PHIO",
+   "company_name": "Phio Pharmaceuticals Corp.",
+   "owner_name": "Deming David H",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5200.0,
+   "price": 0.838,
+   "value": 4357.6,
+   "shares_after": 49800.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1641063/0001683168-26-008544.txt",
+   "price_at_trade": 0.81,
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.2
+  },
+  {
+   "ticker": "PHIO",
+   "company_name": "Phio Pharmaceuticals Corp.",
+   "owner_name": "Deming David H",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 6800.0,
+   "price": 0.8395,
+   "value": 5708.6,
+   "shares_after": 44600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1533040/0001683168-26-008544.txt",
+   "price_at_trade": 0.81,
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.3
+  },
+  {
+   "ticker": "PHIO",
+   "company_name": "Phio Pharmaceuticals Corp.",
+   "owner_name": "Deming David H",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 6800.0,
+   "price": 0.8395,
+   "value": 5708.6,
+   "shares_after": 44600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1641063/0001683168-26-008544.txt",
+   "price_at_trade": 0.81,
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.3
+  },
   {
    "ticker": "PHIO",
    "company_name": "Phio Pharmaceuticals Corp.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1304395/0001683168-26-008469.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.3
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.2
   },
   {
    "ticker": "PHIO",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1533040/0001683168-26-008469.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.3
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.2
   },
   {
    "ticker": "PHIO",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1533040/0001683168-26-008471.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.3
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.2
   },
   {
    "ticker": "PHIO",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1768337/0001683168-26-008471.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.81,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.3
+   "price_now": 0.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.2
   }
  ],
  "trump_trades": [],

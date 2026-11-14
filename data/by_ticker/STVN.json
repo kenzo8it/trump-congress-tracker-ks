@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "STVN",
  "company": {
   "name": "Stevanato Group S.p.A.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 14.36,
- "price_date": "2026-11-12",
+ "price_now": 15.8,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "STVN",
+   "company_name": "Stevanato Group S.p.A.",
+   "owner_name": "FEDERICI WILLIAM J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 20000.0,
+   "price": 13.72,
+   "value": 274400.0,
+   "shares_after": 46991.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1260426/0001193125-26-458540.txt",
+   "price_at_trade": 13.73,
+   "price_now": 15.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.1
+  },
+  {
+   "ticker": "STVN",
+   "company_name": "Stevanato Group S.p.A.",
+   "owner_name": "FEDERICI WILLIAM J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 20000.0,
+   "price": 13.72,
+   "value": 274400.0,
+   "shares_after": 46991.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1849853/0001193125-26-458540.txt",
+   "price_at_trade": 13.73,
+   "price_now": 15.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.1
+  },
   {
    "ticker": "STVN",
    "company_name": "Stevanato Group S.p.A.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1213306/0001193125-26-455579.txt",
    "price_at_trade": 13.57,
-   "price_now": 14.36,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.8
+   "price_now": 15.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.4
   },
   {
    "ticker": "STVN",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1849853/0001193125-26-455579.txt",
    "price_at_trade": 13.57,
-   "price_now": 14.36,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.8
+   "price_now": 15.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.4
   }
  ],
  "trump_trades": [],

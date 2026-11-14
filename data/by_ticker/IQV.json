@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "IQV",
  "company": {
   "name": "IQVIA HOLDINGS INC.",
@@ -148,7 +148,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "IQV",
+   "company_name": "IQVIA HOLDINGS INC.",
+   "owner_name": "Sherbet Eric",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4446.0,
+   "price": 278.83,
+   "value": 1239678.18,
+   "shares_after": 24989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1478242/0001193125-26-458941.txt",
+   "price_at_trade": 278.84,
+   "price_now": 271.11,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -2.8
+  },
+  {
+   "ticker": "IQV",
+   "company_name": "IQVIA HOLDINGS INC.",
+   "owner_name": "Sherbet Eric",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4446.0,
+   "price": 278.83,
+   "value": 1239678.18,
+   "shares_after": 24989.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679512/0001193125-26-458941.txt",
+   "price_at_trade": 278.84,
+   "price_now": 271.11,
+   "price_now_date": "2026-11-12",
+   "total_return_pct": -2.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

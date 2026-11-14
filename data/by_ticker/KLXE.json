@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "KLXE",
+ "company": {
+  "name": "KLX Energy Services Holdings, Inc.",
+  "cik": 1738827,
+  "sic": 1389,
+  "industry": "Oil & Gas Field Services, NEC",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 1.28,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "KLXE",
+   "company_name": "KLX Energy Services Holdings, Inc.",
+   "owner_name": "Bouthillette Max",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 30000.0,
+   "price": 1.02,
+   "value": 30600.0,
+   "shares_after": 255697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1712741/0001712741-26-000011.txt",
+   "price_at_trade": 1.11,
+   "price_now": 1.28,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.3
+  },
+  {
+   "ticker": "KLXE",
+   "company_name": "KLX Energy Services Holdings, Inc.",
+   "owner_name": "Bouthillette Max",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 30000.0,
+   "price": 1.02,
+   "value": 30600.0,
+   "shares_after": 255697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1738827/0001712741-26-000011.txt",
+   "price_at_trade": 1.11,
+   "price_now": 1.28,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 15.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

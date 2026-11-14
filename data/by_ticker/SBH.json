@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "SBH",
+ "company": {
+  "name": "Sally Beauty Holdings, Inc.",
+  "cik": 1368458,
+  "sic": 5990,
+  "industry": "Retail-Retail Stores, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 18.96,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SBH",
+   "company_name": "Sally Beauty Holdings, Inc.",
+   "owner_name": "Goss John Howard JR",
+   "owner_title": "SVP & President Sally Beauty",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 50000.0,
+   "price": 20.0,
+   "value": 1000000.0,
+   "shares_after": 65484.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1368458/0001833119-26-000006.txt",
+   "price_at_trade": 20.54,
+   "price_now": 18.96,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.7
+  },
+  {
+   "ticker": "SBH",
+   "company_name": "Sally Beauty Holdings, Inc.",
+   "owner_name": "Goss John Howard JR",
+   "owner_title": "SVP & President Sally Beauty",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 50000.0,
+   "price": 20.0,
+   "value": 1000000.0,
+   "shares_after": 65484.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1833119/0001833119-26-000006.txt",
+   "price_at_trade": 20.54,
+   "price_now": 18.96,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

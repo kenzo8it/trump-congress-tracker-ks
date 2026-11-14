@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "NSLR",
  "company": {
   "name": "Neostellar Capital Corp.",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 6.02,
- "price_date": "2026-11-12",
+ "price_now": 5.98,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NSLR",
+   "company_name": "Neostellar Capital Corp.",
+   "owner_name": "Mazur Marc",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 6.1,
+   "value": 30500.0,
+   "shares_after": 73950.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1361226/0001493152-26-051304.txt",
+   "price_at_trade": 6.15,
+   "price_now": 5.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.8
+  },
+  {
+   "ticker": "NSLR",
+   "company_name": "Neostellar Capital Corp.",
+   "owner_name": "Mazur Marc",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 5000.0,
+   "price": 6.1,
+   "value": 30500.0,
+   "shares_after": 73950.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1509470/0001493152-26-051304.txt",
+   "price_at_trade": 6.15,
+   "price_now": 5.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.8
+  },
   {
    "ticker": "NSLR",
    "company_name": "Neostellar Capital Corp.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1476217/0001493152-26-050692.txt",
    "price_at_trade": 5.76,
-   "price_now": 6.02,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.5
+   "price_now": 5.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "NSLR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1509470/0001493152-26-050692.txt",
    "price_at_trade": 5.76,
-   "price_now": 6.02,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.5
+   "price_now": 5.98,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.8
   }
  ],
  "trump_trades": [],

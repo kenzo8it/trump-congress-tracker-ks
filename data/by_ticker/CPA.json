@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "CPA",
  "company": {
   "name": "Copa Holdings, S.A.",
@@ -8,8 +8,8 @@
   "industry": "Air Transportation, Scheduled",
   "sector": "Transport & Autos"
  },
- "price_now": 142.82,
- "price_date": "2026-11-12",
+ "price_now": 140.87,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CPA",
+   "company_name": "Copa Holdings, S.A.",
+   "owner_name": "Toro Silva Julio",
+   "owner_title": "Chief Information Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-06-18",
+   "reported_date": "2026-11-12",
+   "shares": 4000.0,
+   "price": 150.45,
+   "value": 601800.0,
+   "shares_after": 12405.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1345105/0002117587-26-000004.txt",
+   "price_at_trade": 149.05,
+   "price_now": 140.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.5
+  },
+  {
+   "ticker": "CPA",
+   "company_name": "Copa Holdings, S.A.",
+   "owner_name": "Toro Silva Julio",
+   "owner_title": "Chief Information Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-06-18",
+   "reported_date": "2026-11-12",
+   "shares": 4000.0,
+   "price": 150.45,
+   "value": 601800.0,
+   "shares_after": 12405.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2117587/0002117587-26-000004.txt",
+   "price_at_trade": 149.05,
+   "price_now": 140.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.5
+  },
   {
    "ticker": "CPA",
    "company_name": "Copa Holdings, S.A.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1345105/0002117311-26-000004.txt",
    "price_at_trade": 149.05,
-   "price_now": 142.82,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.2
+   "price_now": 140.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.5
   },
   {
    "ticker": "CPA",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2117311/0002117311-26-000004.txt",
    "price_at_trade": 149.05,
-   "price_now": 142.82,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.2
+   "price_now": 140.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.5
   }
  ],
  "trump_trades": [],

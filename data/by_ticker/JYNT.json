@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "JYNT",
  "company": {
   "name": "JOINT Corp",
@@ -8,8 +8,8 @@
   "industry": "Patent Owners & Lessors",
   "sector": "Financials"
  },
- "price_now": 6.69,
- "price_date": "2026-11-12",
+ "price_now": 6.94,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "JOBSON CHARLES E",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 236116.0,
+   "price": 6.65,
+   "value": 1570171.4,
+   "shares_after": 2030149.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1232587/0001214659-26-014038.txt",
+   "price_at_trade": 6.65,
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "JYNT",
+   "company_name": "JOINT Corp",
+   "owner_name": "JOBSON CHARLES E",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 236116.0,
+   "price": 6.65,
+   "value": 1570171.4,
+   "shares_after": 2030149.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1612630/0001214659-26-014038.txt",
+   "price_at_trade": 6.65,
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "JYNT",
+   "company_name": "JOINT Corp",
+   "owner_name": "JOBSON CHARLES E",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-06",
    "reported_date": "2026-11-10",
    "shares": 179.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1232587/0001214659-26-013937.txt",
    "price_at_trade": 6.85,
-   "price_now": 6.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.3
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "JYNT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1612630/0001214659-26-013937.txt",
    "price_at_trade": 6.85,
-   "price_now": 6.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.3
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
   }
  ],
  "trump_trades": [],

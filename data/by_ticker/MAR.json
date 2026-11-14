@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "MAR",
  "company": {
   "name": "MARRIOTT INTERNATIONAL INC /MD/",
@@ -8,8 +8,8 @@
   "industry": "Hotels & Motels",
   "sector": "Retail & Consumer"
  },
- "price_now": 424.66,
- "price_date": "2026-11-12",
+ "price_now": 423.16,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,129 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 259.68,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 63.5,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 63.0,
    "days_to_disclose": 17,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Harrison Deborah Marriott",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 11985.0,
+   "price": 421.3536,
+   "value": 5049922.9,
+   "shares_after": 163225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008892.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Lee Felitia",
+   "owner_title": "Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 314.0,
+   "price": 427.0,
+   "value": 134078.0,
+   "shares_after": 6055.7386,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008893.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Lee Felitia",
+   "owner_title": "Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 422.0,
+   "price": 425.0,
+   "value": 179350.0,
+   "shares_after": 5633.7386,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008893.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Harrison Deborah Marriott",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 11985.0,
+   "price": 421.3536,
+   "value": 5049922.9,
+   "shares_after": 163225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1359807/0001225208-26-008892.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Lee Felitia",
+   "owner_title": "Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 314.0,
+   "price": 427.0,
+   "value": 134078.0,
+   "shares_after": 6055.7386,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818268/0001225208-26-008893.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "MAR",
+   "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "owner_name": "Lee Felitia",
+   "owner_title": "Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 422.0,
+   "price": 425.0,
+   "value": 179350.0,
+   "shares_after": 5633.7386,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818268/0001225208-26-008893.txt",
+   "price_at_trade": 428.26,
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "MAR",
    "company_name": "MARRIOTT INTERNATIONAL INC /MD/",
@@ -66,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008741.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -85,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008741.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -104,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008742.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -123,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -142,9 +256,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -161,9 +275,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -180,9 +294,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -199,9 +313,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -218,9 +332,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -237,9 +351,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -256,9 +370,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -275,9 +389,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -294,9 +408,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -313,9 +427,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -332,9 +446,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -351,9 +465,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -370,9 +484,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -389,9 +503,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -408,9 +522,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -427,9 +541,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -446,9 +560,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -465,9 +579,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -484,9 +598,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1461996/0001225208-26-008743.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -503,9 +617,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1497635/0001225208-26-008741.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -522,9 +636,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1497635/0001225208-26-008741.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "MAR",
@@ -541,9 +655,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1891273/0001225208-26-008742.txt",
    "price_at_trade": 424.87,
-   "price_now": 424.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -0.0
+   "price_now": 423.16,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
   }
  ],
  "trump_trades": [],

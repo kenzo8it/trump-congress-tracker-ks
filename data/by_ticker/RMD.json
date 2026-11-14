@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "RMD",
  "company": {
   "name": "RESMED INC",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 238.89,
- "price_date": "2026-11-12",
+ "price_now": 239.53,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RMD",
+   "company_name": "RESMED INC",
+   "owner_name": "Farrell Michael J.",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4993.0,
+   "price": 235.3473,
+   "value": 1175089.07,
+   "shares_after": 479803.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1485164/0000943819-26-000091.txt",
+   "price_at_trade": 235.09,
+   "price_now": 239.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "RMD",
+   "company_name": "RESMED INC",
+   "owner_name": "Farrell Michael J.",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 4993.0,
+   "price": 235.3473,
+   "value": 1175089.07,
+   "shares_after": 479803.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943819/0000943819-26-000091.txt",
+   "price_at_trade": 235.09,
+   "price_now": 239.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "RMD",
    "company_name": "RESMED INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1982205/0000943819-26-000086.txt",
    "price_at_trade": 252.16,
-   "price_now": 238.89,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -5.3
+   "price_now": 239.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "RMD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/943819/0000943819-26-000086.txt",
    "price_at_trade": 252.16,
-   "price_now": 238.89,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -5.3
+   "price_now": 239.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.0
   }
  ],
  "trump_trades": [],

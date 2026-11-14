@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "EGBN",
  "company": {
   "name": "EAGLE BANCORP INC",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 34.38,
- "price_date": "2026-11-12",
+ "price_now": 34.44,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "Curley Stephen Russell",
+   "owner_title": "Director, President/CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 4393.0,
+   "price": 34.05,
+   "value": 149581.65,
+   "shares_after": 54682.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001441890-26-000007.txt",
+   "price_at_trade": 34.04,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "Curley Stephen Russell",
+   "owner_title": "Director, President/CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 4393.0,
+   "price": 34.05,
+   "value": 149581.65,
+   "shares_after": 54682.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1441890/0001441890-26-000007.txt",
+   "price_at_trade": 34.04,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
   {
    "ticker": "EGBN",
    "company_name": "EAGLE BANCORP INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001523145-26-000009.txt",
    "price_at_trade": 34.04,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.0
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
   },
   {
    "ticker": "EGBN",
@@ -54,9 +92,85 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1523145/0001523145-26-000009.txt",
    "price_at_trade": 34.04,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.0
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "LaPlaca Theresa G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 106.0,
+   "price": 34.435,
+   "value": 3650.11,
+   "shares_after": 46692.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001783612-26-000005.txt",
+   "price_at_trade": 34.15,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "LaPlaca Theresa G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7894.0,
+   "price": 34.38,
+   "value": 271395.72,
+   "shares_after": 38798.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001783612-26-000005.txt",
+   "price_at_trade": 34.15,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "LaPlaca Theresa G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 106.0,
+   "price": 34.435,
+   "value": 3650.11,
+   "shares_after": 46692.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783612/0001783612-26-000005.txt",
+   "price_at_trade": 34.15,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "LaPlaca Theresa G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7894.0,
+   "price": 34.38,
+   "value": 271395.72,
+   "shares_after": 38798.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783612/0001783612-26-000005.txt",
+   "price_at_trade": 34.15,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "EGBN",
@@ -73,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001783608-26-000006.txt",
    "price_at_trade": 33.81,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.7
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
   },
   {
    "ticker": "EGBN",
@@ -92,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001783608-26-000006.txt",
    "price_at_trade": 33.81,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.7
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
   },
   {
    "ticker": "EGBN",
@@ -111,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783608/0001783608-26-000006.txt",
    "price_at_trade": 33.81,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.7
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
   },
   {
    "ticker": "EGBN",
@@ -130,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783608/0001783608-26-000006.txt",
    "price_at_trade": 33.81,
-   "price_now": 34.38,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 1.7
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
   }
  ],
  "trump_trades": [],

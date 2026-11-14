@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "DTI",
  "company": {
   "name": "Drilling Tools International Corp",
@@ -8,8 +8,8 @@
   "industry": "Oil & Gas Field Machinery & Equipment",
   "sector": "Construction & Industrials"
  },
- "price_now": 1.72,
- "price_date": "2026-11-12",
+ "price_now": 1.79,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DTI",
+   "company_name": "Drilling Tools International Corp",
+   "owner_name": "FURST JACK D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 14441.0,
+   "price": 1.651,
+   "value": 23842.09,
+   "shares_after": 77920.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1062103/0001193125-26-458256.txt",
+   "price_at_trade": 1.61,
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.2
+  },
+  {
+   "ticker": "DTI",
+   "company_name": "Drilling Tools International Corp",
+   "owner_name": "FURST JACK D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 14441.0,
+   "price": 1.651,
+   "value": 23842.09,
+   "shares_after": 77920.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-458256.txt",
+   "price_at_trade": 1.61,
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.2
+  },
+  {
+   "ticker": "DTI",
+   "company_name": "Drilling Tools International Corp",
+   "owner_name": "FURST JACK D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2531.0,
+   "price": 1.509,
+   "value": 3819.28,
+   "shares_after": 63479.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1062103/0001193125-26-456634.txt",
+   "price_at_trade": 1.48,
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 20.9
+  },
+  {
+   "ticker": "DTI",
+   "company_name": "Drilling Tools International Corp",
+   "owner_name": "FURST JACK D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2531.0,
+   "price": 1.509,
+   "value": 3819.28,
+   "shares_after": 63479.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-456634.txt",
+   "price_at_trade": 1.48,
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 20.9
+  },
   {
    "ticker": "DTI",
    "company_name": "Drilling Tools International Corp",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-455713.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-455731.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-455731.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-455760.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1884516/0001193125-26-455760.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1981986/0001193125-26-455713.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1982629/0001193125-26-455760.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1982629/0001193125-26-455760.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109606/0001193125-26-455731.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   },
   {
    "ticker": "DTI",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109606/0001193125-26-455731.txt",
    "price_at_trade": 1.58,
-   "price_now": 1.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 8.9
+   "price_now": 1.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.3
   }
  ],
  "trump_trades": [],

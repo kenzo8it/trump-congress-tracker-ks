@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "RPC",
  "company": {
   "name": "Ridgepost Capital, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 9.52,
- "price_date": "2026-11-12",
+ "price_now": 9.53,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RPC",
+   "company_name": "Ridgepost Capital, Inc.",
+   "owner_name": "Abell Alexander I.",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 29168.0,
+   "price": 9.8,
+   "value": 285846.4,
+   "shares_after": 300000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1841968/0001213900-26-118662.txt",
+   "price_at_trade": 9.96,
+   "price_now": 9.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
+  },
+  {
+   "ticker": "RPC",
+   "company_name": "Ridgepost Capital, Inc.",
+   "owner_name": "Abell Alexander I.",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 29168.0,
+   "price": 9.8,
+   "value": 285846.4,
+   "shares_after": 300000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1888941/0001213900-26-118662.txt",
+   "price_at_trade": 9.96,
+   "price_now": 9.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
+  },
   {
    "ticker": "RPC",
    "company_name": "Ridgepost Capital, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1841968/0001213900-26-118074.txt",
    "price_at_trade": 9.7,
-   "price_now": 9.52,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.9
+   "price_now": 9.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "RPC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1889330/0001213900-26-118074.txt",
    "price_at_trade": 9.7,
-   "price_now": 9.52,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.9
+   "price_now": 9.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

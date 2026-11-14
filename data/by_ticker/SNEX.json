@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "SNEX",
  "company": {
   "name": "StoneX Group Inc.",
@@ -8,8 +8,8 @@
   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
   "sector": "Financials"
  },
- "price_now": 57.11,
- "price_date": "2026-11-12",
+ "price_now": 57.24,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1318349/0001318349-26-000024.txt",
    "price_at_trade": 53.62,
-   "price_now": 57.11,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.5
+   "price_now": 57.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "SNEX",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/913760/0001318349-26-000024.txt",
    "price_at_trade": 53.62,
-   "price_now": 57.11,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.5
-  },
-  {
-   "ticker": "SNEX",
-   "company_name": "StoneX Group Inc.",
-   "owner_name": "Smith Philip Andrew",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-15",
-   "shares": 45000.0,
-   "price": 59.4997,
-   "value": 2677486.5,
-   "shares_after": 738216.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1569789/0001569789-26-000017.txt",
-   "price_at_trade": 59.92,
-   "price_now": 57.11,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.7
-  },
-  {
-   "ticker": "SNEX",
-   "company_name": "StoneX Group Inc.",
-   "owner_name": "Smith Philip Andrew",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-15",
-   "shares": 45000.0,
-   "price": 59.4997,
-   "value": 2677486.5,
-   "shares_after": 738216.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/913760/0001569789-26-000017.txt",
-   "price_at_trade": 59.92,
-   "price_now": 57.11,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.7
+   "price_now": 57.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.8
   }
  ],
  "trump_trades": [],

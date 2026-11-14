@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "JOF",
  "company": {
   "name": "JAPAN SMALLER CAPITALIZATION FUND INC",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": "Other"
  },
- "price_now": 10.8,
- "price_date": "2026-11-12",
+ "price_now": 10.9,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Saba Capital Management, L.P.",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1300.0,
+   "price": 10.8,
+   "value": 14040.0,
+   "shares_after": 2838140.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000433.txt",
+   "price_at_trade": 10.84,
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-12",
+   "shares": 1300.0,
+   "price": 10.8,
+   "value": 14040.0,
+   "shares_after": 2838140.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000433.txt",
+   "price_at_trade": 10.84,
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "JOF",
+   "company_name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-05",
    "reported_date": "2026-11-06",
    "shares": 28208.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000420.txt",
    "price_at_trade": 10.59,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.0
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "JOF",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000420.txt",
    "price_at_trade": 10.59,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.0
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "JOF",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000411.txt",
    "price_at_trade": 11.05,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.3
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "JOF",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000411.txt",
    "price_at_trade": 11.05,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.3
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "JOF",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000405.txt",
    "price_at_trade": 11.11,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.9
   },
   {
    "ticker": "JOF",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000405.txt",
    "price_at_trade": 11.11,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.9
   },
   {
    "ticker": "JOF",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000402.txt",
    "price_at_trade": 11.0,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
   },
   {
    "ticker": "JOF",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000402.txt",
    "price_at_trade": 11.0,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -1.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
   },
   {
    "ticker": "JOF",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000402.txt",
    "price_at_trade": 11.3,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.4
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "JOF",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000402.txt",
    "price_at_trade": 11.3,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.4
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "JOF",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000391.txt",
    "price_at_trade": 11.39,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -5.2
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "JOF",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000391.txt",
    "price_at_trade": 11.39,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -5.2
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "JOF",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
    "price_at_trade": 11.92,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -9.4
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "JOF",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000363.txt",
    "price_at_trade": 11.92,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -9.4
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "JOF",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000363.txt",
    "price_at_trade": 11.89,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -9.2
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.3
   },
   {
    "ticker": "JOF",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000363.txt",
    "price_at_trade": 11.89,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -9.2
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.3
   },
   {
    "ticker": "JOF",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000353.txt",
    "price_at_trade": 12.1,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -10.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -9.9
   },
   {
    "ticker": "JOF",
@@ -358,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/859796/0001510281-26-000353.txt",
    "price_at_trade": 12.1,
-   "price_now": 10.8,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -10.8
+   "price_now": 10.9,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -9.9
   }
  ],
  "trump_trades": [],

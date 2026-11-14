@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "NVMI",
+ "company": {
+  "name": "NOVA LTD.",
+  "cik": 1109345,
+  "sic": 3827,
+  "industry": "Optical Instruments & Lenses",
+  "sector": "Technology"
+ },
+ "price_now": 317.86,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "NVMI",
+   "company_name": "NOVA LTD.",
+   "owner_name": "Cohen Raanan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2456.0,
+   "price": 326.0,
+   "value": 800656.0,
+   "shares_after": 3595.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1109345/0001178913-26-005193.txt",
+   "price_at_trade": 325.7,
+   "price_now": 317.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "NVMI",
+   "company_name": "NOVA LTD.",
+   "owner_name": "Cohen Raanan",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 2456.0,
+   "price": 326.0,
+   "value": 800656.0,
+   "shares_after": 3595.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1960005/0001178913-26-005193.txt",
+   "price_at_trade": 325.7,
+   "price_now": 317.86,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "ticker": "NVCR",
  "company": {
   "name": "NovoCure Ltd",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 11.72,
- "price_date": "2026-11-12",
+ "price_now": 11.83,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NVCR",
+   "company_name": "NovoCure Ltd",
+   "owner_name": "Paravasthu Mukund",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 3079.0,
+   "price": 12.862,
+   "value": 39602.1,
+   "shares_after": 69753.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645113/0002039078-26-000007.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  },
+  {
+   "ticker": "NVCR",
+   "company_name": "NovoCure Ltd",
+   "owner_name": "Brackmann Christoph",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7343.0,
+   "price": 12.862,
+   "value": 94445.67,
+   "shares_after": 175499.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645113/0002048634-26-000003.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  },
+  {
+   "ticker": "NVCR",
+   "company_name": "NovoCure Ltd",
+   "owner_name": "Paravasthu Mukund",
+   "owner_title": "Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 3079.0,
+   "price": 12.862,
+   "value": 39602.1,
+   "shares_after": 69753.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2039078/0002039078-26-000007.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  },
+  {
+   "ticker": "NVCR",
+   "company_name": "NovoCure Ltd",
+   "owner_name": "Brackmann Christoph",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 7343.0,
+   "price": 12.862,
+   "value": 94445.67,
+   "shares_after": 175499.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2048634/0002048634-26-000003.txt",
+   "price_at_trade": 12.53,
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  },
   {
    "ticker": "NVCR",
    "company_name": "NovoCure Ltd",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1645113/0001997032-26-000009.txt",
    "price_at_trade": 13.21,
-   "price_now": 11.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -11.3
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -10.4
   },
   {
    "ticker": "NVCR",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1997032/0001997032-26-000009.txt",
    "price_at_trade": 13.21,
-   "price_now": 11.72,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -11.3
+   "price_now": 11.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -10.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:51+00:00",
+ "updated": "2026-11-14T02:53+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -94,10 +94,10 @@
    "ticker": "NVDA",
    "est_shares": 87.1,
    "avg_price": 183.74,
-   "price_now": 166.19,
-   "est_position_value": 14473,
-   "total_return_pct": -9.6,
-   "total_return_usd": -1528,
+   "price_now": 162.85,
+   "est_position_value": 14182,
+   "total_return_pct": -11.4,
+   "total_return_usd": -1819,
    "first_buy": "2025-08-01",
    "last_trade": "2026-06-25"
   },
@@ -105,23 +105,12 @@
    "ticker": "KO",
    "est_shares": 115.2,
    "avg_price": 69.46,
-   "price_now": 97.44,
-   "est_position_value": 11223,
-   "total_return_pct": 40.3,
-   "total_return_usd": 3223,
+   "price_now": 99.25,
+   "est_position_value": 11432,
+   "total_return_pct": 42.9,
+   "total_return_usd": 3431,
    "first_buy": "2025-12-03",
    "last_trade": "2025-12-03"
-  },
-  {
-   "ticker": "EQIX",
-   "est_shares": 7.7,
-   "avg_price": 1037.66,
-   "price_now": 1072.77,
-   "est_position_value": 8271,
-   "total_return_pct": 3.4,
-   "total_return_usd": 271,
-   "first_buy": "2026-08-07",
-   "last_trade": "2026-08-07"
   },
   {
    "ticker": "META",
@@ -135,13 +124,24 @@
    "last_trade": "2026-05-06"
   },
   {
+   "ticker": "EQIX",
+   "est_shares": 7.7,
+   "avg_price": 1037.66,
+   "price_now": 1053.79,
+   "est_position_value": 8125,
+   "total_return_pct": 1.6,
+   "total_return_usd": 124,
+   "first_buy": "2026-08-07",
+   "last_trade": "2026-08-07"
+  },
+  {
    "ticker": "GS",
    "est_shares": 7.7,
    "avg_price": 1037.93,
-   "price_now": 913.6,
-   "est_position_value": 7042,
-   "total_return_pct": -12.0,
-   "total_return_usd": -958,
+   "price_now": 916.56,
+   "est_position_value": 7065,
+   "total_return_pct": -11.7,
+   "total_return_usd": -936,
    "first_buy": "2026-09-03",
    "last_trade": "2026-09-03"
   },
@@ -149,10 +149,10 @@
    "ticker": "ORCL",
    "est_shares": 52.3,
    "avg_price": 153.1,
-   "price_now": 127.11,
-   "est_position_value": 6642,
-   "total_return_pct": -17.0,
-   "total_return_usd": -1358,
+   "price_now": 125.35,
+   "est_position_value": 6550,
+   "total_return_pct": -18.1,
+   "total_return_usd": -1450,
    "first_buy": "2025-01-14",
    "last_trade": "2025-01-14"
   },
@@ -160,10 +160,10 @@
    "ticker": "MU",
    "est_shares": 6.6,
    "avg_price": 1213.18,
-   "price_now": 798.44,
-   "est_position_value": 5265,
-   "total_return_pct": -34.2,
-   "total_return_usd": -2735,
+   "price_now": 778.31,
+   "est_position_value": 5133,
+   "total_return_pct": -35.8,
+   "total_return_usd": -2868,
    "first_buy": "2026-06-25",
    "last_trade": "2026-06-25"
   },
@@ -171,21 +171,21 @@
    "ticker": "KLAC",
    "est_shares": 30.1,
    "avg_price": 265.89,
-   "price_now": 157.3,
-   "est_position_value": 4733,
-   "total_return_pct": -40.8,
-   "total_return_usd": -3267,
+   "price_now": 152.32,
+   "est_position_value": 4583,
+   "total_return_pct": -42.7,
+   "total_return_usd": -3417,
    "first_buy": "2026-07-01",
    "last_trade": "2026-07-01"
   },
   {
    "ticker": "LLY",
    "est_shares": 0.7,
-   "avg_price": 1075.17,
-   "price_now": 1427.28,
-   "est_position_value": 1025,
-   "total_return_pct": 32.7,
-   "total_return_usd": 253,
+   "avg_price": 1073.86,
+   "price_now": 1443.5,
+   "est_position_value": 1038,
+   "total_return_pct": 34.4,
+   "total_return_usd": 266,
    "first_buy": "2026-01-02",
    "last_trade": "2026-07-01"
   }
@@ -247,9 +247,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 37.22,
-   "price_now": 38.4,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.2,
+   "price_now": 38.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.7,
    "days_to_disclose": 3,
    "late_filing": false
   },
@@ -277,9 +277,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1037.93,
-   "price_now": 913.6,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -12.0,
+   "price_now": 916.56,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -11.7,
    "days_to_disclose": 29,
    "late_filing": false
   },
@@ -309,9 +309,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 509.22,
-   "price_now": 523.0,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.7,
+   "price_now": 523.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 2.9,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -339,9 +339,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 88.66,
-   "price_now": 85.76,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -3.3,
+   "price_now": 86.05,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.9,
    "days_to_disclose": 29,
    "late_filing": false
   },
@@ -369,9 +369,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 254.78,
-   "price_now": 266.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 4.7,
+   "price_now": 267.64,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.0,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -399,9 +399,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 1037.66,
-   "price_now": 1072.77,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.4,
+   "price_now": 1053.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6,
    "days_to_disclose": 26,
    "late_filing": false
   },
@@ -431,9 +431,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 347.84,
-   "price_now": 298.7,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -14.1,
+   "price_now": 295.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -15.0,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -463,9 +463,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 353.42,
-   "price_now": 298.7,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -15.5,
+   "price_now": 295.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -16.3,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -495,9 +495,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 343.49,
-   "price_now": 298.7,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -13.0,
+   "price_now": 295.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -13.9,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -527,9 +527,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 178.9,
-   "price_now": 298.7,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 67.0,
+   "price_now": 295.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 65.3,
    "days_to_disclose": 400,
    "late_filing": true
   },
@@ -557,9 +557,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 223.41,
-   "price_now": 267.44,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 19.7,
+   "price_now": 266.66,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 19.4,
    "days_to_disclose": 400,
    "late_filing": true
   },
@@ -587,9 +587,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 227.01,
-   "price_now": 267.44,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 17.8,
+   "price_now": 266.66,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 17.5,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -619,9 +619,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 274.7,
-   "price_now": 354.88,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 29.2,
+   "price_now": 356.27,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 29.7,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -651,9 +651,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 267.62,
-   "price_now": 354.88,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 32.6,
+   "price_now": 356.27,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 33.1,
    "days_to_disclose": 284,
    "late_filing": true
   },
@@ -683,9 +683,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 201.25,
-   "price_now": 354.88,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 76.3,
+   "price_now": 356.27,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 77.0,
    "days_to_disclose": 371,
    "late_filing": true
   },
@@ -713,9 +713,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 69.46,
-   "price_now": 97.44,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 40.3,
+   "price_now": 99.25,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 42.9,
    "days_to_disclose": 247,
    "late_filing": true
   },
@@ -743,9 +743,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 73.85,
-   "price_now": 89.69,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 21.5,
+   "price_now": 90.83,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 23.0,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -774,10 +774,10 @@
    "committee_overlap": [
     "House Committee on Energy and Commerce"
    ],
-   "price_at_trade": 1041.09,
-   "price_now": 1427.28,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 37.1,
+   "price_at_trade": 1039.83,
+   "price_now": 1443.5,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 38.8,
    "days_to_disclose": 248,
    "late_filing": true
   },
@@ -806,10 +806,10 @@
    "committee_overlap": [
     "House Committee on Energy and Commerce"
    ],
-   "price_at_trade": 1190.03,
-   "price_now": 1427.28,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 19.9,
+   "price_at_trade": 1188.59,
+   "price_now": 1443.5,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 21.4,
    "days_to_disclose": 37,
    "late_filing": false
   },
@@ -838,10 +838,10 @@
    "committee_overlap": [
     "House Committee on Energy and Commerce"
    ],
-   "price_at_trade": 1075.17,
-   "price_now": 1427.28,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 32.7,
+   "price_at_trade": 1073.86,
+   "price_now": 1443.5,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 34.4,
    "days_to_disclose": 217,
    "late_filing": true
   },
@@ -901,9 +901,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 265.89,
-   "price_now": 157.3,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -40.8,
+   "price_now": 152.32,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -42.7,
    "days_to_disclose": 37,
    "late_filing": false
   },
@@ -1029,9 +1029,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 1213.18,
-   "price_now": 798.44,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -34.2,
+   "price_now": 778.31,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -35.8,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -1061,9 +1061,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 352.17,
-   "price_now": 523.0,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 48.5,
+   "price_now": 523.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 48.8,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -1093,9 +1093,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 395.63,
-   "price_now": 523.0,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 32.2,
+   "price_now": 523.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 32.4,
    "days_to_disclose": 168,
    "late_filing": true
   },
@@ -1125,9 +1125,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 391.19,
-   "price_now": 523.0,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 33.7,
+   "price_now": 523.88,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 33.9,
    "days_to_disclose": 183,
    "late_filing": true
   },
@@ -1157,9 +1157,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 195.52,
-   "price_now": 166.19,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -15.0,
+   "price_now": 162.85,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -16.7,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -1189,9 +1189,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 173.3,
-   "price_now": 166.19,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -4.1,
+   "price_now": 162.85,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.0,
    "days_to_disclose": 371,
    "late_filing": true
   },
@@ -1221,9 +1221,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 177.43,
-   "price_now": 166.19,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -6.3,
+   "price_now": 162.85,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -8.2,
    "days_to_disclose": 372,
    "late_filing": true
   },
@@ -1253,9 +1253,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 153.1,
-   "price_now": 127.11,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -17.0,
+   "price_now": 125.35,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -18.1,
    "days_to_disclose": 570,
    "late_filing": true
   },
@@ -1349,9 +1349,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 22.52,
-   "price_now": 28.83,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 28.0,
+   "price_now": 28.89,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 28.3,
    "days_to_disclose": 619,
    "late_filing": true
   },
@@ -1379,9 +1379,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 93.73,
-   "price_now": 122.41,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 30.6,
+   "price_now": 123.55,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 31.8,
    "days_to_disclose": 457,
    "late_filing": true
   },
@@ -1443,9 +1443,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 521.32,
-   "price_now": 699.44,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 34.2,
+   "price_now": 700.22,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 34.3,
    "days_to_disclose": 603,
    "late_filing": true
   }

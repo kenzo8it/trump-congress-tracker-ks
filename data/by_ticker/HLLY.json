@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-14T02:53+00:00",
+ "ticker": "HLLY",
+ "company": {
+  "name": "Holley Inc.",
+  "cik": 1822928,
+  "sic": 3714,
+  "industry": "Motor Vehicle Parts & Accessories",
+  "sector": "Transport & Autos"
+ },
+ "price_now": 2.48,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "HLLY",
+   "company_name": "Holley Inc.",
+   "owner_name": "WEAVER JESSE",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 9000.0,
+   "price": 2.53,
+   "value": 22770.0,
+   "shares_after": 670695.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1822928/0001822928-26-000091.txt",
+   "price_at_trade": 2.61,
+   "price_now": 2.48,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "HLLY",
+   "company_name": "Holley Inc.",
+   "owner_name": "WEAVER JESSE",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-12",
+   "shares": 9000.0,
+   "price": 2.53,
+   "value": 22770.0,
+   "shares_after": 670695.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1956264/0001822928-26-000091.txt",
+   "price_at_trade": 2.61,
+   "price_now": 2.48,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
