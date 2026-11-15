@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "VIAV",
  "company": {
   "name": "VIAVI SOLUTIONS INC.",
@@ -170,7 +170,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "VIAV",
+   "company_name": "VIAVI SOLUTIONS INC.",
+   "owner_name": "McNab Paul",
+   "owner_title": "EVP, Chief Mktg & Stgy Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 13806.0,
+   "price": 32.12,
+   "value": 443448.72,
+   "shares_after": 46026.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1619901/0000912093-26-000098.txt",
+   "price_at_trade": 32.54,
+   "price_now": 30.72,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  },
+  {
+   "ticker": "VIAV",
+   "company_name": "VIAVI SOLUTIONS INC.",
+   "owner_name": "McNab Paul",
+   "owner_title": "EVP, Chief Mktg & Stgy Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 13806.0,
+   "price": 32.12,
+   "value": 443448.72,
+   "shares_after": 46026.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000098.txt",
+   "price_at_trade": 32.54,
+   "price_now": 30.72,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -5.6
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "ENVA",
  "company": {
   "name": "Enova International, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ENVA",
+   "company_name": "Enova International, Inc.",
+   "owner_name": "RICE LINDA JOHNSON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1200.0,
+   "price": 170.005,
+   "value": 204006.0,
+   "shares_after": 5077.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1188735/0001193125-26-460763.txt",
+   "price_at_trade": 171.16,
+   "price_now": 169.85,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "ENVA",
+   "company_name": "Enova International, Inc.",
+   "owner_name": "RICE LINDA JOHNSON",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1200.0,
+   "price": 170.005,
+   "value": 204006.0,
+   "shares_after": 5077.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1529864/0001193125-26-460763.txt",
+   "price_at_trade": 171.16,
+   "price_now": 169.85,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "ENVA",
    "company_name": "Enova International, Inc.",

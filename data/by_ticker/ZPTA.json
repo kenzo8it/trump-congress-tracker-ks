@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "ZPTA",
+ "company": {
+  "name": "Zapata Quantum, Inc.",
+  "cik": 1843714,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 0.6,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ZPTA",
+   "company_name": "Zapata Quantum, Inc.",
+   "owner_name": "Golestani Clark",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 40000.0,
+   "price": 0.75,
+   "value": 30000.0,
+   "shares_after": 32666288.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1563786/0001079973-26-001494.txt",
+   "price_at_trade": 0.72,
+   "price_now": 0.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -17.8
+  },
+  {
+   "ticker": "ZPTA",
+   "company_name": "Zapata Quantum, Inc.",
+   "owner_name": "Golestani Clark",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 40000.0,
+   "price": 0.75,
+   "value": 30000.0,
+   "shares_after": 32666288.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1843714/0001079973-26-001494.txt",
+   "price_at_trade": 0.72,
+   "price_now": 0.6,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -17.8
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

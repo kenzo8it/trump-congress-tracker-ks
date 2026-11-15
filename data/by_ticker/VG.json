@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "VG",
  "company": {
   "name": "Venture Global, Inc.",
@@ -72,6 +72,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "VG",
+   "company_name": "Venture Global, Inc.",
+   "owner_name": "Musser Fory",
+   "owner_title": "Senior VP, Development",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 500000.0,
+   "price": 13.1648,
+   "value": 6582400.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2007855/0002050372-26-000017.txt",
+   "price_at_trade": 13.26,
+   "price_now": 13.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "VG",
+   "company_name": "Venture Global, Inc.",
+   "owner_name": "Musser Fory",
+   "owner_title": "Senior VP, Development",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 500000.0,
+   "price": 13.1648,
+   "value": 6582400.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2050372/0002050372-26-000017.txt",
+   "price_at_trade": 13.26,
+   "price_now": 13.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.9
+  },
   {
    "ticker": "VG",
    "company_name": "Venture Global, Inc.",

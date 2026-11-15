@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "QTWO",
+ "company": {
+  "name": "Q2 Holdings, Inc.",
+  "cik": 1410384,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 73.95,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "QTWO",
+   "company_name": "Q2 Holdings, Inc.",
+   "owner_name": "Kerr Michael S",
+   "owner_title": "General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 2655.0,
+   "price": 74.81,
+   "value": 198620.55,
+   "shares_after": 78084.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1410384/0001938943-26-000013.txt",
+   "price_at_trade": 74.14,
+   "price_now": 73.95,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "QTWO",
+   "company_name": "Q2 Holdings, Inc.",
+   "owner_name": "Kerr Michael S",
+   "owner_title": "General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 2655.0,
+   "price": 74.81,
+   "value": 198620.55,
+   "shares_after": 78084.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1938943/0001938943-26-000013.txt",
+   "price_at_trade": 74.14,
+   "price_now": 73.95,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

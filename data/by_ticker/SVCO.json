@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "SVCO",
  "company": {
   "name": "Silvaco Group, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SVCO",
+   "company_name": "Silvaco Group, Inc.",
+   "owner_name": "Jackson Candace",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 3000.0,
+   "price": 7.4508,
+   "value": 22352.4,
+   "shares_after": 41722.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1943289/0001628280-26-073827.txt",
+   "price_at_trade": 7.45,
+   "price_now": 7.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
+  },
+  {
+   "ticker": "SVCO",
+   "company_name": "Silvaco Group, Inc.",
+   "owner_name": "Jackson Candace",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 3000.0,
+   "price": 7.4508,
+   "value": 22352.4,
+   "shares_after": 41722.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2039235/0001628280-26-073827.txt",
+   "price_at_trade": 7.45,
+   "price_now": 7.13,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.3
+  },
   {
    "ticker": "SVCO",
    "company_name": "Silvaco Group, Inc.",

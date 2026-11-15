@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CHD",
  "company": {
   "name": "CHURCH & DWIGHT CO INC /DE/",
@@ -81,6 +81,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CHD",
+   "company_name": "CHURCH & DWIGHT CO INC /DE/",
+   "owner_name": "Vergis Janet S.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 11590.0,
+   "price": 112.0,
+   "value": 1298080.0,
+   "shares_after": 21188.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1590794/0001012975-26-001053.txt",
+   "price_at_trade": 111.71,
+   "price_now": 113.0,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "CHD",
+   "company_name": "CHURCH & DWIGHT CO INC /DE/",
+   "owner_name": "Vergis Janet S.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 11590.0,
+   "price": 112.0,
+   "value": 1298080.0,
+   "shares_after": 21188.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313927/0001012975-26-001053.txt",
+   "price_at_trade": 111.71,
+   "price_now": 113.0,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
   {
    "ticker": "CHD",
    "company_name": "CHURCH & DWIGHT CO INC /DE/",

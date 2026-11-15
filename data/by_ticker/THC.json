@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "THC",
  "company": {
   "name": "TENET HEALTHCARE CORP",
@@ -170,7 +170,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "THC",
+   "company_name": "TENET HEALTHCARE CORP",
+   "owner_name": "Blunt Roy",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 293.0,
+   "value": 293000.0,
+   "shares_after": 3589.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1986272/0001193125-26-461336.txt",
+   "price_at_trade": 292.97,
+   "price_now": 286.03,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "THC",
+   "company_name": "TENET HEALTHCARE CORP",
+   "owner_name": "Blunt Roy",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 293.0,
+   "value": 293000.0,
+   "shares_after": 3589.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/70318/0001193125-26-461336.txt",
+   "price_at_trade": 292.97,
+   "price_now": 286.03,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.4
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

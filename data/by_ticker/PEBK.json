@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "PEBK",
  "company": {
   "name": "PEOPLES BANCORP OF NORTH CAROLINA INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PEBK",
+   "company_name": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "owner_name": "ABERNETHY JAMES S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 42.84,
+   "value": 42840.0,
+   "shares_after": 63626.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1093672/0001654954-26-009777.txt",
+   "price_at_trade": 43.35,
+   "price_now": 43.41,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "PEBK",
+   "company_name": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "owner_name": "ABERNETHY JAMES S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 42.84,
+   "value": 42840.0,
+   "shares_after": 63626.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1244172/0001654954-26-009777.txt",
+   "price_at_trade": 43.35,
+   "price_now": 43.41,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
   {
    "ticker": "PEBK",
    "company_name": "PEOPLES BANCORP OF NORTH CAROLINA INC",

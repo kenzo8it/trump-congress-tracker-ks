@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "SBGI",
  "company": {
   "name": "Sinclair, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SBGI",
+   "company_name": "Sinclair, Inc.",
+   "owner_name": "Weisbord Robert",
+   "owner_title": "COO & President of Local Media",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 10000.0,
+   "price": 15.0173,
+   "value": 150173.0,
+   "shares_after": 289408.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1600353/0001600353-26-000007.txt",
+   "price_at_trade": 15.0,
+   "price_now": 15.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.9
+  },
+  {
+   "ticker": "SBGI",
+   "company_name": "Sinclair, Inc.",
+   "owner_name": "Weisbord Robert",
+   "owner_title": "COO & President of Local Media",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 10000.0,
+   "price": 15.0173,
+   "value": 150173.0,
+   "shares_after": 289408.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1971213/0001600353-26-000007.txt",
+   "price_at_trade": 15.0,
+   "price_now": 15.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.9
+  },
   {
    "ticker": "SBGI",
    "company_name": "Sinclair, Inc.",

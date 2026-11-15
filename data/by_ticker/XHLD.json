@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "XHLD",
+ "company": {
+  "name": "TEN Holdings, Inc.",
+  "cik": 2030954,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 0.76,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "XHLD",
+   "company_name": "TEN Holdings, Inc.",
+   "owner_name": "V-Cube, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-03",
+   "reported_date": "2026-11-13",
+   "shares": 322738.0,
+   "price": 9.3281,
+   "value": 3010532.34,
+   "shares_after": 1197261.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030954/0002049674-26-000007.txt",
+   "price_at_trade": 9.23,
+   "price_now": 0.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -91.7
+  },
+  {
+   "ticker": "XHLD",
+   "company_name": "TEN Holdings, Inc.",
+   "owner_name": "V-Cube, Inc.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-03",
+   "reported_date": "2026-11-13",
+   "shares": 322738.0,
+   "price": 9.3281,
+   "value": 3010532.34,
+   "shares_after": 1197261.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2049674/0002049674-26-000007.txt",
+   "price_at_trade": 9.23,
+   "price_now": 0.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -91.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

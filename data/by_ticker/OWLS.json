@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "OWLS",
  "company": {
   "name": "OBOOK HOLDINGS INC.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 6171.0,
+   "price": 2.172,
+   "value": 13403.41,
+   "shares_after": 3157147.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000016.txt",
+   "price_at_trade": 2.26,
+   "price_now": 2.18,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
+  },
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 6171.0,
+   "price": 2.172,
+   "value": 13403.41,
+   "shares_after": 3157147.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000016.txt",
+   "price_at_trade": 2.26,
+   "price_now": 2.18,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5
+  },
   {
    "ticker": "OWLS",
    "company_name": "OBOOK HOLDINGS INC.",

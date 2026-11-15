@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "FDSB",
+ "company": {
+  "name": "Fifth District Bancorp, Inc.",
+  "cik": 2012726,
+  "sic": 6035,
+  "industry": "Savings Institution, Federally Chartered",
+  "sector": "Financials"
+ },
+ "price_now": 17.72,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FDSB",
+   "company_name": "Fifth District Bancorp, Inc.",
+   "owner_name": "Sins Linda A.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 2223.0,
+   "price": 17.55,
+   "value": 39013.65,
+   "shares_after": 8895.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012726/0001437749-26-036772.txt",
+   "price_at_trade": 17.55,
+   "price_now": 17.72,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "FDSB",
+   "company_name": "Fifth District Bancorp, Inc.",
+   "owner_name": "Sins Linda A.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 2223.0,
+   "price": 17.55,
+   "value": 39013.65,
+   "shares_after": 8895.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030701/0001437749-26-036772.txt",
+   "price_at_trade": 17.55,
+   "price_now": 17.72,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

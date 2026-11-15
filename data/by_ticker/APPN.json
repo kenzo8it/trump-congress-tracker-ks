@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "APPN",
  "company": {
   "name": "APPIAN CORP",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "APPN",
+   "company_name": "APPIAN CORP",
+   "owner_name": "Lynch Mark Steven",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 9533.0,
+   "price": 53.14,
+   "value": 506583.62,
+   "shares_after": 37981.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1441683/0001707384-26-000010.txt",
+   "price_at_trade": 53.6,
+   "price_now": 54.51,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.7
+  },
+  {
+   "ticker": "APPN",
+   "company_name": "APPIAN CORP",
+   "owner_name": "Lynch Mark Steven",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 9533.0,
+   "price": 53.14,
+   "value": 506583.62,
+   "shares_after": 37981.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1707384/0001707384-26-000010.txt",
+   "price_at_trade": 53.6,
+   "price_now": 54.51,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.7
+  },
   {
    "ticker": "APPN",
    "company_name": "APPIAN CORP",

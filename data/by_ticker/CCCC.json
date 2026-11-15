@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "CCCC",
+ "company": {
+  "name": "C4 Therapeutics, Inc.",
+  "cik": 1662579,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 2.76,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CCCC",
+   "company_name": "C4 Therapeutics, Inc.",
+   "owner_name": "Adams Kendra",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 45173.0,
+   "price": 2.7115,
+   "value": 122486.59,
+   "shares_after": 337150.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1662579/0001470831-26-001003.txt",
+   "price_at_trade": 2.77,
+   "price_now": 2.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "CCCC",
+   "company_name": "C4 Therapeutics, Inc.",
+   "owner_name": "Adams Kendra",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 45173.0,
+   "price": 2.7115,
+   "value": 122486.59,
+   "shares_after": 337150.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991929/0001470831-26-001003.txt",
+   "price_at_trade": 2.77,
+   "price_now": 2.76,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

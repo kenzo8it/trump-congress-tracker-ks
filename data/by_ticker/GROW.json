@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "GROW",
  "company": {
   "name": "U S GLOBAL INVESTORS INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GROW",
+   "company_name": "U S GLOBAL INVESTORS INC",
+   "owner_name": "Gator Capital Management, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-13",
+   "shares": 33034.0,
+   "price": 2.5032,
+   "value": 82690.71,
+   "shares_after": 1162333.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1570284/0001062993-26-006003.txt",
+   "price_at_trade": 2.5,
+   "price_now": 2.67,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.8
+  },
+  {
+   "ticker": "GROW",
+   "company_name": "U S GLOBAL INVESTORS INC",
+   "owner_name": "Gator Capital Management, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-06",
+   "reported_date": "2026-11-13",
+   "shares": 33034.0,
+   "price": 2.5032,
+   "value": 82690.71,
+   "shares_after": 1162333.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/754811/0001062993-26-006003.txt",
+   "price_at_trade": 2.5,
+   "price_now": 2.67,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.8
+  },
   {
    "ticker": "GROW",
    "company_name": "U S GLOBAL INVESTORS INC",

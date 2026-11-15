@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "VLY",
  "company": {
   "name": "VALLEY NATIONAL BANCORP",
@@ -52,7 +52,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "VLY",
+   "company_name": "VALLEY NATIONAL BANCORP",
+   "owner_name": "SANI SURESH L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-04-14",
+   "reported_date": "2026-11-13",
+   "shares": 22828.0,
+   "price": 13.15,
+   "value": 300188.2,
+   "shares_after": 21562.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1421170/0001421170-26-000004.txt",
+   "price_at_trade": 12.9,
+   "price_now": 14.34,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.2
+  },
+  {
+   "ticker": "VLY",
+   "company_name": "VALLEY NATIONAL BANCORP",
+   "owner_name": "SANI SURESH L",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-04-14",
+   "reported_date": "2026-11-13",
+   "shares": 22828.0,
+   "price": 13.15,
+   "value": 300188.2,
+   "shares_after": 21562.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/714310/0001421170-26-000004.txt",
+   "price_at_trade": 12.9,
+   "price_now": 14.34,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 11.2
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

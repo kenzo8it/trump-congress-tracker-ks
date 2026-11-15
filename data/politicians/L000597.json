@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -114,10 +114,10 @@
    "ticker": "NOKBF",
    "est_shares": 3048.8,
    "avg_price": 10.66,
-   "price_now": 8.0,
-   "est_position_value": 24391,
-   "total_return_pct": -25.0,
-   "total_return_usd": -8110,
+   "price_now": 8.11,
+   "est_position_value": 24726,
+   "total_return_pct": -23.9,
+   "total_return_usd": -7775,
    "first_buy": "2026-09-18",
    "last_trade": "2026-09-18"
   }
@@ -180,9 +180,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 10.66,
-   "price_now": 8.0,
+   "price_now": 8.11,
    "price_now_date": "2026-11-13",
-   "total_return_pct": -24.9,
+   "total_return_pct": -23.9,
    "days_to_disclose": 28,
    "late_filing": false
   },

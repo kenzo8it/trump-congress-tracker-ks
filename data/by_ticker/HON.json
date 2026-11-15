@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "HON",
  "company": {
   "name": "HONEYWELL INTERNATIONAL INC",
@@ -303,24 +303,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [
-    "House Committee on Armed Services"
-   ],
-   "ticker": "HON",
-   "est_shares": 40.5,
-   "avg_price": 197.49,
-   "price_now": 222.46,
-   "est_position_value": 9012,
-   "total_return_pct": 12.6,
-   "total_return_usd": 1012,
-   "first_buy": "2025-11-18",
-   "last_trade": "2025-11-18"
-  },
-  {
    "name": "Julie Johnson",
    "party": "Democrat",
    "chamber": "House",
@@ -338,6 +320,24 @@
    "total_return_usd": 798,
    "first_buy": "2025-09-23",
    "last_trade": "2025-09-23"
+  },
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [
+    "House Committee on Armed Services"
+   ],
+   "ticker": "HON",
+   "est_shares": 40.5,
+   "avg_price": 197.49,
+   "price_now": 222.46,
+   "est_position_value": 9012,
+   "total_return_pct": 12.6,
+   "total_return_usd": 1012,
+   "first_buy": "2025-11-18",
+   "last_trade": "2025-11-18"
   },
   {
    "name": "Dan Newhouse",

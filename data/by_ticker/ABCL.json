@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "ABCL",
  "company": {
   "name": "AbCellera Biologics Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ABCL",
+   "company_name": "AbCellera Biologics Inc.",
+   "owner_name": "Booth Andrew",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 8600.0,
+   "price": 11.33,
+   "value": 97438.0,
+   "shares_after": 491400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1703057/0001834411-26-000010.txt",
+   "price_at_trade": 11.49,
+   "price_now": 11.49,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ABCL",
+   "company_name": "AbCellera Biologics Inc.",
+   "owner_name": "Booth Andrew",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 8600.0,
+   "price": 11.33,
+   "value": 97438.0,
+   "shares_after": 491400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1834411/0001834411-26-000010.txt",
+   "price_at_trade": 11.49,
+   "price_now": 11.49,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "ABCL",
    "company_name": "AbCellera Biologics Inc.",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "AUGO",
  "company": {
   "name": "Aura Minerals Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AUGO",
+   "company_name": "Aura Minerals Inc.",
+   "owner_name": "Sousa Mauad Bruno",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 11356.0,
+   "price": 79.7593,
+   "value": 905746.61,
+   "shares_after": 171690.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1468642/0002117905-26-000049.txt",
+   "price_at_trade": 77.94,
+   "price_now": 75.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.7
+  },
+  {
+   "ticker": "AUGO",
+   "company_name": "Aura Minerals Inc.",
+   "owner_name": "Sousa Mauad Bruno",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 11356.0,
+   "price": 79.7593,
+   "value": 905746.61,
+   "shares_after": 171690.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000049.txt",
+   "price_at_trade": 77.94,
+   "price_now": 75.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.7
+  },
   {
    "ticker": "AUGO",
    "company_name": "Aura Minerals Inc.",

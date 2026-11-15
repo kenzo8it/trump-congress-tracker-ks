@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "INDB",
  "company": {
   "name": "INDEPENDENT BANK CORP",
@@ -67,7 +67,46 @@
    "last_trade": "2026-05-29"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "INDB",
+   "company_name": "INDEPENDENT BANK CORP",
+   "owner_name": "Venables Thomas R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 84.3204,
+   "value": 84320.4,
+   "shares_after": 16649.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1319127/0001319127-26-000010.txt",
+   "price_at_trade": 84.47,
+   "price_now": 84.47,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "INDB",
+   "company_name": "INDEPENDENT BANK CORP",
+   "owner_name": "Venables Thomas R",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 1000.0,
+   "price": 84.3204,
+   "value": 84320.4,
+   "shares_after": 16649.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/776901/0001319127-26-000010.txt",
+   "price_at_trade": 84.47,
+   "price_now": 84.47,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "COST",
  "company": {
   "name": "COSTCO WHOLESALE CORP /NEW",
@@ -293,36 +293,6 @@
    "total_return_pct": 19.0,
    "days_to_disclose": 32,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Val T. Hoyle",
-   "state_district": "OR04",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
-   "owner": "spouse",
-   "asset": "Costco Wholesale Corporation - Common Stock",
-   "asset_type": "ST",
-   "ticker": "COST",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-23",
-   "notified_date": "2025-09-23",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "H001094",
-   "party": "Democrat",
-   "state": "OR",
-   "company_name": "COSTCO WHOLESALE CORP /NEW",
-   "sector": "Retail & Consumer",
-   "committee_overlap": [],
-   "price_at_trade": 936.74,
-   "price_now": 1106.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 18.1,
-   "days_to_disclose": 17,
-   "late_filing": false
   }
  ],
  "congress_holders": [
@@ -378,6 +348,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "COST",
+   "company_name": "COSTCO WHOLESALE CORP /NEW",
+   "owner_name": "George Sarah Catherine",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 756.439,
+   "price": 1096.01,
+   "value": 829064.71,
+   "shares_after": 3111.636,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2112687/0000909832-26-000138.txt",
+   "price_at_trade": 1092.21,
+   "price_now": 1106.21,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
+  },
+  {
+   "ticker": "COST",
+   "company_name": "COSTCO WHOLESALE CORP /NEW",
+   "owner_name": "George Sarah Catherine",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 756.439,
+   "price": 1096.01,
+   "value": 829064.71,
+   "shares_after": 3111.636,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/0000909832-26-000138.txt",
+   "price_at_trade": 1092.21,
+   "price_now": 1106.21,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.3
+  },
   {
    "ticker": "COST",
    "company_name": "COSTCO WHOLESALE CORP /NEW",

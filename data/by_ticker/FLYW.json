@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "FLYW",
  "company": {
   "name": "Flywire Corp",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "Orgel Rob",
+   "owner_title": "President and COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 125000.0,
+   "price": 21.8144,
+   "value": 2726800.0,
+   "shares_after": 916918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1580560/0001628280-26-073842.txt",
+   "price_at_trade": 22.35,
+   "price_now": 22.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "FLYW",
+   "company_name": "Flywire Corp",
+   "owner_name": "Orgel Rob",
+   "owner_title": "President and COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 125000.0,
+   "price": 21.8144,
+   "value": 2726800.0,
+   "shares_after": 916918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1862049/0001628280-26-073842.txt",
+   "price_at_trade": 22.35,
+   "price_now": 22.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  },
   {
    "ticker": "FLYW",
    "company_name": "Flywire Corp",

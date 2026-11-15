@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CSQR",
  "company": {
   "name": "Csquare, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CSQR",
+   "company_name": "Csquare, Inc.",
+   "owner_name": "Cook Steven R. E.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 2027.8053,
+   "price": 17.26,
+   "value": 34999.92,
+   "shares_after": 382979.8053,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2105398/0000950142-26-003016.txt",
+   "price_at_trade": 17.04,
+   "price_now": 16.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "CSQR",
+   "company_name": "Csquare, Inc.",
+   "owner_name": "Cook Steven R. E.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 2027.8053,
+   "price": 17.26,
+   "value": 34999.92,
+   "shares_after": 382979.8053,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2138432/0000950142-26-003016.txt",
+   "price_at_trade": 17.04,
+   "price_now": 16.87,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.0
+  },
   {
    "ticker": "CSQR",
    "company_name": "Csquare, Inc.",

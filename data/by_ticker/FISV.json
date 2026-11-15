@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "FISV",
  "company": {
   "name": "FISERV INC",
@@ -303,6 +303,22 @@
  ],
  "congress_holders": [
   {
+   "name": "Julie Johnson",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "TX",
+   "committee_overlap": [],
+   "ticker": "FISV",
+   "est_shares": 62.7,
+   "avg_price": 127.56,
+   "price_now": 63.78,
+   "est_position_value": 4000,
+   "total_return_pct": -50.0,
+   "total_return_usd": -4000,
+   "first_buy": "2025-10-03",
+   "last_trade": "2025-10-03"
+  },
+  {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
@@ -319,22 +335,6 @@
    "total_return_usd": 539,
    "first_buy": "2025-11-12",
    "last_trade": "2026-04-14"
-  },
-  {
-   "name": "Julie Johnson",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "TX",
-   "committee_overlap": [],
-   "ticker": "FISV",
-   "est_shares": 62.7,
-   "avg_price": 127.56,
-   "price_now": 63.78,
-   "est_position_value": 4000,
-   "total_return_pct": -50.0,
-   "total_return_usd": -4000,
-   "first_buy": "2025-10-03",
-   "last_trade": "2025-10-03"
   }
  ],
  "insider_trades": [],

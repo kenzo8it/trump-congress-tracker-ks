@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "FCX",
  "company": {
   "name": "FREEPORT-MCMORAN INC",
@@ -141,22 +141,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "FCX",
-   "est_shares": 398.0,
-   "avg_price": 40.21,
-   "price_now": 59.24,
-   "est_position_value": 23576,
-   "total_return_pct": 47.3,
-   "total_return_usd": 7575,
-   "first_buy": "2025-10-17",
-   "last_trade": "2025-11-18"
-  },
-  {
    "name": "Josh Gottheimer",
    "party": "Democrat",
    "chamber": "House",
@@ -171,6 +155,22 @@
    "total_return_usd": -1070,
    "first_buy": "2026-04-15",
    "last_trade": "2026-04-15"
+  },
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "FCX",
+   "est_shares": 398.0,
+   "avg_price": 40.21,
+   "price_now": 59.24,
+   "est_position_value": 23576,
+   "total_return_pct": 47.3,
+   "total_return_usd": 7575,
+   "first_buy": "2025-10-17",
+   "last_trade": "2025-11-18"
   }
  ],
  "insider_trades": [],

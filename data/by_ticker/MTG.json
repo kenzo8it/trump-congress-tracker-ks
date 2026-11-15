@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "MTG",
  "company": {
   "name": "MGIC INVESTMENT CORP",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MTG",
+   "company_name": "MGIC INVESTMENT CORP",
+   "owner_name": "Sperber Julie K.",
+   "owner_title": "VP-Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 8265.0,
+   "price": 27.791,
+   "value": 229692.61,
+   "shares_after": 74571.871,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1601481/0001601481-26-000006.txt",
+   "price_at_trade": 27.76,
+   "price_now": 27.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "MTG",
+   "company_name": "MGIC INVESTMENT CORP",
+   "owner_name": "Sperber Julie K.",
+   "owner_title": "VP-Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 8265.0,
+   "price": 27.791,
+   "value": 229692.61,
+   "shares_after": 74571.871,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/876437/0001601481-26-000006.txt",
+   "price_at_trade": 27.76,
+   "price_now": 27.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "MTG",
    "company_name": "MGIC INVESTMENT CORP",

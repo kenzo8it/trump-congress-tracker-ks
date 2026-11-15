@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "AIM",
  "company": {
   "name": "AIM ImmunoTech Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AIM",
+   "company_name": "AIM ImmunoTech Inc.",
+   "owner_name": "Equels Thomas K",
+   "owner_title": "Director, CEO & President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 35000.0,
+   "price": 0.149,
+   "value": 5215.0,
+   "shares_after": 328095.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1450324/0001493152-26-051542.txt",
+   "price_at_trade": 0.15,
+   "price_now": 0.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.7
+  },
+  {
+   "ticker": "AIM",
+   "company_name": "AIM ImmunoTech Inc.",
+   "owner_name": "Equels Thomas K",
+   "owner_title": "Director, CEO & President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 35000.0,
+   "price": 0.149,
+   "value": 5215.0,
+   "shares_after": 328095.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/946644/0001493152-26-051542.txt",
+   "price_at_trade": 0.15,
+   "price_now": 0.14,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.7
+  },
   {
    "ticker": "AIM",
    "company_name": "AIM ImmunoTech Inc.",

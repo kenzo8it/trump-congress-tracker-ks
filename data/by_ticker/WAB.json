@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "WAB",
  "company": {
   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
@@ -377,36 +377,6 @@
    "total_return_pct": 31.8,
    "days_to_disclose": 19,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Val T. Hoyle",
-   "state_district": "OR04",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
-   "owner": "spouse",
-   "asset": "Westinghouse Air Brake Technologies Corporation Common Stock",
-   "asset_type": "ST",
-   "ticker": "WAB",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-23",
-   "notified_date": "2025-09-23",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "H001094",
-   "party": "Democrat",
-   "state": "OR",
-   "company_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
-   "sector": "Other",
-   "committee_overlap": [],
-   "price_at_trade": 193.61,
-   "price_now": 297.96,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 53.9,
-   "days_to_disclose": 17,
-   "late_filing": false
   }
  ],
  "congress_holders": [
@@ -428,6 +398,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "WAB",
+   "company_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "owner_name": "Yates Kyra",
+   "owner_title": "VP - Investor Relations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 434.0,
+   "price": 303.665,
+   "value": 131790.61,
+   "shares_after": 2900.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2016958/0002016958-26-000004.txt",
+   "price_at_trade": 300.51,
+   "price_now": 297.96,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "WAB",
+   "company_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "owner_name": "Yates Kyra",
+   "owner_title": "VP - Investor Relations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 434.0,
+   "price": 303.665,
+   "value": 131790.61,
+   "shares_after": 2900.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/943452/0002016958-26-000004.txt",
+   "price_at_trade": 300.51,
+   "price_now": 297.96,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "WAB",
    "company_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",

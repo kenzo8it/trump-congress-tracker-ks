@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CLBT",
  "company": {
   "name": "Cellebrite DI Ltd.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CLBT",
+   "company_name": "Cellebrite DI Ltd.",
+   "owner_name": "GEE DAVID NICHOLAS",
+   "owner_title": "Chief Marketing Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 234.0,
+   "price": 13.3103,
+   "value": 3114.61,
+   "shares_after": 135047.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1547134/0001628280-26-073843.txt",
+   "price_at_trade": 10.89,
+   "price_now": 11.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "CLBT",
+   "company_name": "Cellebrite DI Ltd.",
+   "owner_name": "GEE DAVID NICHOLAS",
+   "owner_title": "Chief Marketing Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 234.0,
+   "price": 13.3103,
+   "value": 3114.61,
+   "shares_after": 135047.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-073843.txt",
+   "price_at_trade": 10.89,
+   "price_now": 11.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.9
+  },
   {
    "ticker": "CLBT",
    "company_name": "Cellebrite DI Ltd.",

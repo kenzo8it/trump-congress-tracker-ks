@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "PRIM",
  "company": {
   "name": "Primoris Services Corp",
@@ -200,46 +200,7 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "PRIM",
-   "company_name": "Primoris Services Corp",
-   "owner_name": "MCCALLISTER TERRY D",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-16",
-   "shares": 21.505,
-   "price": 79.98,
-   "value": 1719.97,
-   "shares_after": 21521.56,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1216725/0001216725-26-000014.txt",
-   "price_at_trade": 73.75,
-   "price_now": 69.3,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -6.0
-  },
-  {
-   "ticker": "PRIM",
-   "company_name": "Primoris Services Corp",
-   "owner_name": "MCCALLISTER TERRY D",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-16",
-   "shares": 21.505,
-   "price": 79.98,
-   "value": 1719.97,
-   "shares_after": 21521.56,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1361538/0001216725-26-000014.txt",
-   "price_at_trade": 73.75,
-   "price_now": 69.3,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -6.0
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

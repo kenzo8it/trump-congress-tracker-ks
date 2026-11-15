@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "VITL",
  "company": {
   "name": "Vital Farms, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "VITL",
+   "company_name": "Vital Farms, Inc.",
+   "owner_name": "OHAYER MATTHEW",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 23250.0,
+   "price": 9.56,
+   "value": 222270.0,
+   "shares_after": 6238720.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1025680/0001193125-26-460914.txt",
+   "price_at_trade": 9.47,
+   "price_now": 9.07,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.2
+  },
+  {
+   "ticker": "VITL",
+   "company_name": "Vital Farms, Inc.",
+   "owner_name": "OHAYER MATTHEW",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 23250.0,
+   "price": 9.56,
+   "value": 222270.0,
+   "shares_after": 6238720.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579733/0001193125-26-460914.txt",
+   "price_at_trade": 9.47,
+   "price_now": 9.07,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.2
+  },
   {
    "ticker": "VITL",
    "company_name": "Vital Farms, Inc.",

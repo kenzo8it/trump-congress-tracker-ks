@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "MPWR",
  "company": {
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
@@ -131,7 +131,46 @@
    "last_trade": "2025-10-20"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "MPWR",
+   "company_name": "MONOLITHIC POWER SYSTEMS, INC.",
+   "owner_name": "Balow Frank Anthony III",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 20.0,
+   "price": 1434.31,
+   "value": 28686.2,
+   "shares_after": 2921.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1280452/0001214659-26-014159.txt",
+   "price_at_trade": 1478.69,
+   "price_now": 1390.54,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.0
+  },
+  {
+   "ticker": "MPWR",
+   "company_name": "MONOLITHIC POWER SYSTEMS, INC.",
+   "owner_name": "Balow Frank Anthony III",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 20.0,
+   "price": 1434.31,
+   "value": 28686.2,
+   "shares_after": 2921.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2159561/0001214659-26-014159.txt",
+   "price_at_trade": 1478.69,
+   "price_now": 1390.54,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "TIMB",
  "company": {
   "name": "TIM S.A.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TIMB",
+   "company_name": "TIM S.A.",
+   "owner_name": "Viegas Marques Andrea Palma",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 18000.0,
+   "price": 3.91,
+   "value": 70380.0,
+   "shares_after": 91301.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1826168/0001292814-26-005317.txt",
+   "price_at_trade": 19.53,
+   "price_now": 19.08,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
+  },
+  {
+   "ticker": "TIMB",
+   "company_name": "TIM S.A.",
+   "owner_name": "Viegas Marques Andrea Palma",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 18000.0,
+   "price": 3.91,
+   "value": 70380.0,
+   "shares_after": 91301.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2118923/0001292814-26-005317.txt",
+   "price_at_trade": 19.53,
+   "price_now": 19.08,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.3
+  },
   {
    "ticker": "TIMB",
    "company_name": "TIM S.A.",

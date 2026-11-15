@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "SNAP",
  "company": {
   "name": "Snap Inc",
@@ -57,6 +57,44 @@
    "price_now": 5.26,
    "price_now_date": "2026-11-13",
    "total_return_pct": 0.8
+  },
+  {
+   "ticker": "SNAP",
+   "company_name": "Snap Inc",
+   "owner_name": "Hott Douglas",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 5.0183,
+   "value": 75274.5,
+   "shares_after": 2309563.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1564408/0002133255-26-000018.txt",
+   "price_at_trade": 5.34,
+   "price_now": 5.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "SNAP",
+   "company_name": "Snap Inc",
+   "owner_name": "Hott Douglas",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 5.0183,
+   "value": 75274.5,
+   "shares_after": 2309563.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2133255/0002133255-26-000018.txt",
+   "price_at_trade": 5.34,
+   "price_now": 5.26,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SNAP",

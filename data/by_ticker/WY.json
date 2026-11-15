@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "WY",
  "company": {
   "name": "WEYERHAEUSER CO",
@@ -140,7 +140,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "WY",
+   "company_name": "WEYERHAEUSER CO",
+   "owner_name": "BECKWITT RICHARD",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 20.44,
+   "value": 306600.0,
+   "shares_after": 47020.0027,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/106535/0001197193-26-000008.txt",
+   "price_at_trade": 20.65,
+   "price_now": 20.81,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "WY",
+   "company_name": "WEYERHAEUSER CO",
+   "owner_name": "BECKWITT RICHARD",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 15000.0,
+   "price": 20.44,
+   "value": 306600.0,
+   "shares_after": 47020.0027,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1197193/0001197193-26-000008.txt",
+   "price_at_trade": 20.65,
+   "price_now": 20.81,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.8
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

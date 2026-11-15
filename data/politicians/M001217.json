@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -89,10 +89,10 @@
    "ticker": "DELL",
    "est_shares": 326.7,
    "avg_price": 148.47,
-   "price_now": 371.17,
-   "est_position_value": 121252,
-   "total_return_pct": 150.0,
-   "total_return_usd": 72751,
+   "price_now": 344.53,
+   "est_position_value": 112549,
+   "total_return_pct": 132.1,
+   "total_return_usd": 64048,
    "first_buy": "2025-10-10",
    "last_trade": "2025-10-10"
   },
@@ -144,10 +144,10 @@
    "ticker": "PANW",
    "est_shares": 147.4,
    "avg_price": 162.79,
-   "price_now": 322.66,
-   "est_position_value": 47573,
-   "total_return_pct": 98.2,
-   "total_return_usd": 23572,
+   "price_now": 322.24,
+   "est_position_value": 47511,
+   "total_return_pct": 98.0,
+   "total_return_usd": 23510,
    "first_buy": "2026-03-23",
    "last_trade": "2026-03-31"
   },
@@ -276,10 +276,10 @@
    "ticker": "META",
    "est_shares": 28.2,
    "avg_price": 567.13,
-   "price_now": 623.61,
-   "est_position_value": 17595,
-   "total_return_pct": 10.0,
-   "total_return_usd": 1594,
+   "price_now": 641.69,
+   "est_position_value": 18105,
+   "total_return_pct": 13.1,
+   "total_return_usd": 2104,
    "first_buy": "2026-06-17",
    "last_trade": "2026-06-17"
   },
@@ -361,17 +361,6 @@
    "last_trade": "2026-03-31"
   },
   {
-   "ticker": "SPCX",
-   "est_shares": 49.7,
-   "avg_price": 160.95,
-   "price_now": 139.94,
-   "est_position_value": 6956,
-   "total_return_pct": -13.1,
-   "total_return_usd": -1044,
-   "first_buy": "2026-06-12",
-   "last_trade": "2026-06-12"
-  },
-  {
    "ticker": "TJX",
    "est_shares": 51.6,
    "avg_price": 154.95,
@@ -381,6 +370,17 @@
    "total_return_usd": -1063,
    "first_buy": "2026-03-23",
    "last_trade": "2026-03-23"
+  },
+  {
+   "ticker": "SPCX",
+   "est_shares": 49.7,
+   "avg_price": 160.95,
+   "price_now": 139.11,
+   "est_position_value": 6915,
+   "total_return_pct": -13.6,
+   "total_return_usd": -1086,
+   "first_buy": "2026-06-12",
+   "last_trade": "2026-06-12"
   },
   {
    "ticker": "COR",
@@ -699,9 +699,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 567.13,
-   "price_now": 623.61,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.0,
+   "price_now": 641.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.1,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -731,9 +731,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 567.13,
-   "price_now": 623.61,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 10.0,
+   "price_now": 641.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 13.1,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -977,9 +977,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 160.95,
-   "price_now": 139.94,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -13.1,
+   "price_now": 139.11,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -13.6,
    "days_to_disclose": 44,
    "late_filing": false
   },
@@ -2256,9 +2256,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 160.32,
-   "price_now": 322.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 101.3,
+   "price_now": 322.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 101.0,
    "days_to_disclose": 30,
    "late_filing": false
   },
@@ -2288,9 +2288,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 164.05,
-   "price_now": 322.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 96.7,
+   "price_now": 322.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 96.4,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -2320,9 +2320,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 164.05,
-   "price_now": 322.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 96.7,
+   "price_now": 322.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 96.4,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -3173,9 +3173,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 55.56,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -3203,9 +3203,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 55.56,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -3233,9 +3233,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 55.56,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.5,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -3361,9 +3361,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 371.17,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 150.0,
+   "price_now": 344.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 132.1,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -3393,9 +3393,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 371.17,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 150.0,
+   "price_now": 344.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 132.1,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -3425,9 +3425,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 371.17,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 150.0,
+   "price_now": 344.53,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 132.1,
    "days_to_disclose": 43,
    "late_filing": false
   },

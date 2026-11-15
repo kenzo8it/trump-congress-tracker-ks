@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -147,17 +147,6 @@
    "last_trade": "2025-09-23"
   },
   {
-   "ticker": "GOOG",
-   "est_shares": 35.0,
-   "avg_price": 266.41,
-   "price_now": 295.35,
-   "est_position_value": 10327,
-   "total_return_pct": 10.9,
-   "total_return_usd": 1012,
-   "first_buy": "2025-10-21",
-   "last_trade": "2025-12-18"
-  },
-  {
    "ticker": "CL",
    "est_shares": 102.9,
    "avg_price": 77.75,
@@ -167,6 +156,17 @@
    "total_return_usd": 2256,
    "first_buy": "2025-09-23",
    "last_trade": "2025-09-23"
+  },
+  {
+   "ticker": "GOOG",
+   "est_shares": 35.0,
+   "avg_price": 266.41,
+   "price_now": 292.52,
+   "est_position_value": 10228,
+   "total_return_pct": 9.8,
+   "total_return_usd": 913,
+   "first_buy": "2025-10-21",
+   "last_trade": "2025-12-18"
   },
   {
    "ticker": "KEY",
@@ -194,8 +194,8 @@
    "ticker": "PAYC",
    "est_shares": 36.8,
    "avg_price": 217.6,
-   "price_now": 248.84,
-   "est_position_value": 9149,
+   "price_now": 248.86,
+   "est_position_value": 9150,
    "total_return_pct": 14.4,
    "total_return_usd": 1149,
    "first_buy": "2025-09-23",
@@ -260,10 +260,10 @@
    "ticker": "NOW",
    "est_shares": 46.9,
    "avg_price": 170.7,
-   "price_now": 100.66,
-   "est_position_value": 4718,
-   "total_return_pct": -41.0,
-   "total_return_usd": -3283,
+   "price_now": 102.25,
+   "est_position_value": 4792,
+   "total_return_pct": -40.1,
+   "total_return_usd": -3208,
    "first_buy": "2025-12-08",
    "last_trade": "2025-12-08"
   },
@@ -753,9 +753,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 58.5,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -7.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3,
    "days_to_disclose": 306,
    "late_filing": true
   },
@@ -783,9 +783,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 58.5,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -7.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.3,
    "days_to_disclose": 306,
    "late_filing": true
   },
@@ -2014,8 +2014,8 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 217.6,
-   "price_now": 248.84,
-   "price_now_date": "2026-11-12",
+   "price_now": 248.86,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 14.4,
    "days_to_disclose": 316,
    "late_filing": true
@@ -2046,8 +2046,8 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 217.6,
-   "price_now": 248.84,
-   "price_now_date": "2026-11-12",
+   "price_now": 248.86,
+   "price_now_date": "2026-11-13",
    "total_return_pct": 14.4,
    "days_to_disclose": 316,
    "late_filing": true
@@ -2262,9 +2262,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 170.7,
-   "price_now": 100.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -41.0,
+   "price_now": 102.25,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -40.1,
    "days_to_disclose": 240,
    "late_filing": true
   },
@@ -2294,9 +2294,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 170.7,
-   "price_now": 100.66,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -41.0,
+   "price_now": 102.25,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -40.1,
    "days_to_disclose": 240,
    "late_filing": true
   },
@@ -2816,9 +2816,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 216.35,
-   "price_now": 294.45,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 36.1,
+   "price_now": 295.03,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 36.4,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -2878,9 +2878,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 303.16,
-   "price_now": 295.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -2.6,
+   "price_now": 292.52,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -3.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -3153,9 +3153,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 52.37,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 3.8,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -4712,9 +4712,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 225.54,
-   "price_now": 294.45,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 30.6,
+   "price_now": 295.03,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 30.8,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -4806,9 +4806,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 278.39,
-   "price_now": 295.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.1,
+   "price_now": 292.52,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.1,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -5048,9 +5048,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 54.3,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.1,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.2,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -6614,9 +6614,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 250.69,
-   "price_now": 295.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 17.8,
+   "price_now": 292.52,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 16.7,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -6646,9 +6646,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 269.23,
-   "price_now": 295.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 9.7,
+   "price_now": 292.52,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 8.7,
    "days_to_disclose": 18,
    "late_filing": false
   },
@@ -6678,9 +6678,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 281.09,
-   "price_now": 295.35,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 5.1,
+   "price_now": 292.52,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.1,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -6708,9 +6708,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 58.65,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -7.3,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -7.6,
    "days_to_disclose": 39,
    "late_filing": false
   },
@@ -6738,9 +6738,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 58.03,
-   "price_now": 54.37,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": -6.3,
+   "price_now": 54.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -6.6,
    "days_to_disclose": 38,
    "late_filing": false
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "ST",
  "company": {
   "name": "Sensata Technologies Holding plc",
@@ -157,7 +157,46 @@
    "last_trade": "2026-05-12"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ST",
+   "company_name": "Sensata Technologies Holding plc",
+   "owner_name": "Caljouw Lynne J",
+   "owner_title": "EVP, Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 7726.0,
+   "price": 40.019,
+   "value": 309186.79,
+   "shares_after": 58679.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477294/0001818333-26-000014.txt",
+   "price_at_trade": 40.35,
+   "price_now": 38.56,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.4
+  },
+  {
+   "ticker": "ST",
+   "company_name": "Sensata Technologies Holding plc",
+   "owner_name": "Caljouw Lynne J",
+   "owner_title": "EVP, Chief HR Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 7726.0,
+   "price": 40.019,
+   "value": 309186.79,
+   "shares_after": 58679.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818333/0001818333-26-000014.txt",
+   "price_at_trade": 40.35,
+   "price_now": 38.56,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -4.4
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

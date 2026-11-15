@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "NXPI",
  "company": {
   "name": "NXP Semiconductors N.V.",
@@ -261,36 +261,6 @@
    "total_return_pct": 25.9,
    "days_to_disclose": 32,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Val T. Hoyle",
-   "state_district": "OR04",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
-   "owner": "spouse",
-   "asset": "NXP Semiconductors N.V. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "NXPI",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-23",
-   "notified_date": "2025-09-23",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "H001094",
-   "party": "Democrat",
-   "state": "OR",
-   "company_name": "NXP Semiconductors N.V.",
-   "sector": "Technology",
-   "committee_overlap": [],
-   "price_at_trade": 221.7,
-   "price_now": 265.09,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 19.6,
-   "days_to_disclose": 17,
-   "late_filing": false
   }
  ],
  "congress_holders": [
@@ -328,6 +298,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "NXPI",
+   "company_name": "NXP Semiconductors N.V.",
+   "owner_name": "Hardy Andrew",
+   "owner_title": "EVP, Chief Sales Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1643.0,
+   "price": 266.49,
+   "value": 437843.07,
+   "shares_after": 4064.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/0002054266-26-000012.txt",
+   "price_at_trade": 269.51,
+   "price_now": 265.09,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "NXPI",
+   "company_name": "NXP Semiconductors N.V.",
+   "owner_name": "Hardy Andrew",
+   "owner_title": "EVP, Chief Sales Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 1643.0,
+   "price": 266.49,
+   "value": 437843.07,
+   "shares_after": 4064.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2054266/0002054266-26-000012.txt",
+   "price_at_trade": 269.51,
+   "price_now": 265.09,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.6
+  },
   {
    "ticker": "NXPI",
    "company_name": "NXP Semiconductors N.V.",

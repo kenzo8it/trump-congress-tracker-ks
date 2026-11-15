@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CSTL",
  "company": {
   "name": "CASTLE BIOSCIENCES INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "Juvenal Tobin W",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 3195.0,
+   "price": 35.07,
+   "value": 112048.65,
+   "shares_after": 32737.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-073814.txt",
+   "price_at_trade": 33.99,
+   "price_now": 33.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "Juvenal Tobin W",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 3195.0,
+   "price": 35.07,
+   "value": 112048.65,
+   "shares_after": 32737.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-073814.txt",
+   "price_at_trade": 33.99,
+   "price_now": 33.79,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.6
+  },
   {
    "ticker": "CSTL",
    "company_name": "CASTLE BIOSCIENCES INC",

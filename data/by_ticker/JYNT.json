@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "JYNT",
  "company": {
   "name": "JOINT Corp",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "JYNT",
+   "company_name": "JOINT Corp",
+   "owner_name": "JOBSON CHARLES E",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 2825.0,
+   "price": 6.65,
+   "value": 18786.25,
+   "shares_after": 20322974.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1232587/0001214659-26-014168.txt",
+   "price_at_trade": 6.83,
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "JYNT",
+   "company_name": "JOINT Corp",
+   "owner_name": "JOBSON CHARLES E",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 2825.0,
+   "price": 6.65,
+   "value": 18786.25,
+   "shares_after": 20322974.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1612630/0001214659-26-014168.txt",
+   "price_at_trade": 6.83,
+   "price_now": 6.94,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.6
+  },
   {
    "ticker": "JYNT",
    "company_name": "JOINT Corp",

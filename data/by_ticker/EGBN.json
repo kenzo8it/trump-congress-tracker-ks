@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "EGBN",
  "company": {
   "name": "EAGLE BANCORP INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "Montano Trevor",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 3000.0,
+   "price": 33.9767,
+   "value": 101930.1,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050441/0001628280-26-073661.txt",
+   "price_at_trade": 34.04,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "EGBN",
+   "company_name": "EAGLE BANCORP INC",
+   "owner_name": "Montano Trevor",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 3000.0,
+   "price": 33.9767,
+   "value": 101930.1,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2019441/0001628280-26-073661.txt",
+   "price_at_trade": 34.04,
+   "price_now": 34.44,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.2
+  },
   {
    "ticker": "EGBN",
    "company_name": "EAGLE BANCORP INC",

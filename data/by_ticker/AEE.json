@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "AEE",
  "company": {
   "name": "AMEREN CORP",
@@ -104,6 +104,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "AEE",
+   "company_name": "AMEREN CORP",
+   "owner_name": "Martin Ryan J",
+   "owner_title": "SVP Finance",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 800.0,
+   "price": 114.12,
+   "value": 91296.0,
+   "shares_after": 24839.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1002910/0002093849-26-000010.txt",
+   "price_at_trade": 113.52,
+   "price_now": 114.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "AEE",
+   "company_name": "AMEREN CORP",
+   "owner_name": "Martin Ryan J",
+   "owner_title": "SVP Finance",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 800.0,
+   "price": 114.12,
+   "value": 91296.0,
+   "shares_after": 24839.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2093849/0002093849-26-000010.txt",
+   "price_at_trade": 113.52,
+   "price_now": 114.77,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "AEE",
    "company_name": "AMEREN CORP",

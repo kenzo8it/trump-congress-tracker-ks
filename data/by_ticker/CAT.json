@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CAT",
  "company": {
   "name": "CATERPILLAR INC",
@@ -187,22 +187,6 @@
    "last_trade": "2025-02-07"
   },
   {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "CAT",
-   "est_shares": 30.1,
-   "avg_price": 531.5,
-   "price_now": 600.2,
-   "est_position_value": 18069,
-   "total_return_pct": 12.9,
-   "total_return_usd": 2068,
-   "first_buy": "2025-10-17",
-   "last_trade": "2025-11-18"
-  },
-  {
    "name": "Lisa C. McClain",
    "party": "Republican",
    "chamber": "House",
@@ -217,9 +201,63 @@
    "total_return_usd": -2130,
    "first_buy": "2026-09-28",
    "last_trade": "2026-09-28"
+  },
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "CAT",
+   "est_shares": 30.1,
+   "avg_price": 531.5,
+   "price_now": 600.2,
+   "est_position_value": 18069,
+   "total_return_pct": 12.9,
+   "total_return_usd": 2068,
+   "first_buy": "2025-10-17",
+   "last_trade": "2025-11-18"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "CAT",
+   "company_name": "CATERPILLAR INC",
+   "owner_name": "MacLennan David",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 350.0,
+   "price": 596.1,
+   "value": 208635.0,
+   "shares_after": 8773.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1498535/0001104659-26-127088.txt",
+   "price_at_trade": 605.28,
+   "price_now": 600.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "CAT",
+   "company_name": "CATERPILLAR INC",
+   "owner_name": "MacLennan David",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 350.0,
+   "price": 596.1,
+   "value": 208635.0,
+   "shares_after": 8773.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/18230/0001104659-26-127088.txt",
+   "price_at_trade": 605.28,
+   "price_now": 600.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "CAT",
    "company_name": "CATERPILLAR INC",

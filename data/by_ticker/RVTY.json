@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "RVTY",
  "company": {
   "name": "REVVITY, INC.",
@@ -197,36 +197,6 @@
    "total_return_pct": 78.3,
    "days_to_disclose": 7,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Gilbert Ray Cisneros, Jr.",
-   "state_district": "CA31",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032248.pdf",
-   "owner": "self",
-   "asset": "Revvity, Inc. Common Stock",
-   "asset_type": "ST",
-   "ticker": "RVTY",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-12",
-   "notified_date": "2025-10-08",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "C001123",
-   "party": "Democrat",
-   "state": "CA",
-   "company_name": "REVVITY, INC.",
-   "sector": "Technology",
-   "committee_overlap": [],
-   "price_at_trade": 82.6,
-   "price_now": 154.39,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 86.9,
-   "days_to_disclose": 28,
-   "late_filing": false
   }
  ],
  "congress_holders": [
@@ -237,13 +207,13 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "RVTY",
-   "est_shares": 130.6,
-   "avg_price": 85.79,
+   "est_shares": 33.8,
+   "avg_price": 86.45,
    "price_now": 154.39,
-   "est_position_value": 20166,
-   "total_return_pct": 80.0,
-   "total_return_usd": 8960,
-   "first_buy": "2025-09-12",
+   "est_position_value": 5212,
+   "total_return_pct": 78.6,
+   "total_return_usd": 2293,
+   "first_buy": "2026-05-01",
    "last_trade": "2026-10-27"
   }
  ],

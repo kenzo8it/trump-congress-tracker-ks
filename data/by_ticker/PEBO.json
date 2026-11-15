@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "PEBO",
  "company": {
   "name": "PEOPLES BANCORP INC",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Kirkham Michael Ryan",
+   "owner_title": "EVP/General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 632.0,
+   "price": 38.27,
+   "value": 24186.64,
+   "shares_after": 15686.915,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1801924/0000318300-26-000250.txt",
+   "price_at_trade": 38.27,
+   "price_now": 38.46,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "PEBO",
+   "company_name": "PEOPLES BANCORP INC",
+   "owner_name": "Kirkham Michael Ryan",
+   "owner_title": "EVP/General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 632.0,
+   "price": 38.27,
+   "value": 24186.64,
+   "shares_after": 15686.915,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318300/0000318300-26-000250.txt",
+   "price_at_trade": 38.27,
+   "price_now": 38.46,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.5
+  },
   {
    "ticker": "PEBO",
    "company_name": "PEOPLES BANCORP INC",

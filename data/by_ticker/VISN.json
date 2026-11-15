@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "VISN",
  "company": {
   "name": "Vistance Networks, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "VISN",
+   "company_name": "Vistance Networks, Inc.",
+   "owner_name": "Yates Timothy T",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 3.9473,
+   "value": 98682.5,
+   "shares_after": 248751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1354697/0001193125-26-460596.txt",
+   "price_at_trade": 4.0,
+   "price_now": 4.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.0
+  },
+  {
+   "ticker": "VISN",
+   "company_name": "Vistance Networks, Inc.",
+   "owner_name": "Yates Timothy T",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 3.9473,
+   "value": 98682.5,
+   "shares_after": 248751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1517228/0001193125-26-460596.txt",
+   "price_at_trade": 4.0,
+   "price_now": 4.24,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 6.0
+  },
   {
    "ticker": "VISN",
    "company_name": "Vistance Networks, Inc.",

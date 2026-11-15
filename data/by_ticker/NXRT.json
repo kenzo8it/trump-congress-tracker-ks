@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "NXRT",
  "company": {
   "name": "NexPoint Residential Trust, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NXRT",
+   "company_name": "NexPoint Residential Trust, Inc.",
+   "owner_name": "McGraner Matt",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 6365.0,
+   "price": 15.7,
+   "value": 99930.5,
+   "shares_after": 379961.6,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1620393/0001437749-26-036918.txt",
+   "price_at_trade": 15.79,
+   "price_now": 15.49,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "NXRT",
+   "company_name": "NexPoint Residential Trust, Inc.",
+   "owner_name": "McGraner Matt",
+   "owner_title": "See Remarks",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-10",
+   "reported_date": "2026-11-13",
+   "shares": 6365.0,
+   "price": 15.7,
+   "value": 99930.5,
+   "shares_after": 379961.6,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1636187/0001437749-26-036918.txt",
+   "price_at_trade": 15.79,
+   "price_now": 15.49,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.9
+  },
   {
    "ticker": "NXRT",
    "company_name": "NexPoint Residential Trust, Inc.",

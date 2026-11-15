@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "AKAM",
  "company": {
   "name": "AKAMAI TECHNOLOGIES INC",
@@ -110,7 +110,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "AKAM",
+   "company_name": "AKAMAI TECHNOLOGIES INC",
+   "owner_name": "LEIGHTON F THOMSON",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 30000.0,
+   "price": 85.08,
+   "value": 2552400.0,
+   "shares_after": 2559963.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/0001106232-26-000012.txt",
+   "price_at_trade": 85.4,
+   "price_now": 85.4,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "AKAM",
+   "company_name": "AKAMAI TECHNOLOGIES INC",
+   "owner_name": "LEIGHTON F THOMSON",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-13",
+   "shares": 30000.0,
+   "price": 85.08,
+   "value": 2552400.0,
+   "shares_after": 2559963.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1106232/0001106232-26-000012.txt",
+   "price_at_trade": 85.4,
+   "price_now": 85.4,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

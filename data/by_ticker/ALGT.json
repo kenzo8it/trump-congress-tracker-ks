@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "ALGT",
  "company": {
   "name": "Allegiant Travel CO",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ALGT",
+   "company_name": "Allegiant Travel CO",
+   "owner_name": "Anderson Gregory Clark",
+   "owner_title": "Director, CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 2640.0,
+   "price": 92.92,
+   "value": 245308.8,
+   "shares_after": 118209.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1362468/0001632467-26-000006.txt",
+   "price_at_trade": 92.51,
+   "price_now": 92.15,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "ALGT",
+   "company_name": "Allegiant Travel CO",
+   "owner_name": "Anderson Gregory Clark",
+   "owner_title": "Director, CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 2640.0,
+   "price": 92.92,
+   "value": 245308.8,
+   "shares_after": 118209.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1632467/0001632467-26-000006.txt",
+   "price_at_trade": 92.51,
+   "price_now": 92.15,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.4
+  },
   {
    "ticker": "ALGT",
    "company_name": "Allegiant Travel CO",

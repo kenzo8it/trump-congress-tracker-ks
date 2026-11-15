@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "FRPH",
  "company": {
   "name": "FRP HOLDINGS, INC.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "Baker John D. III",
+   "owner_title": "Director, CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 50.0,
+   "price": 18.61,
+   "value": 930.5,
+   "shares_after": 308904.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1785797/0000897069-26-001928.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.47,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "Baker John D. III",
+   "owner_title": "Director, CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 50.0,
+   "price": 18.61,
+   "value": 930.5,
+   "shares_after": 308904.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001928.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.47,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.1
+  },
   {
    "ticker": "FRPH",
    "company_name": "FRP HOLDINGS, INC.",

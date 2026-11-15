@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "PAYX",
  "company": {
   "name": "PAYCHEX INC",
@@ -413,46 +413,7 @@
    "last_trade": "2025-11-12"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "PAYX",
-   "company_name": "PAYCHEX INC",
-   "owner_name": "VELLI JOSEPH M",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-14",
-   "reported_date": "2026-10-16",
-   "shares": 7839.0,
-   "price": 107.68,
-   "value": 844103.52,
-   "shares_after": 81725.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1209494/0001193125-26-424044.txt",
-   "price_at_trade": 107.28,
-   "price_now": 115.68,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 7.8
-  },
-  {
-   "ticker": "PAYX",
-   "company_name": "PAYCHEX INC",
-   "owner_name": "VELLI JOSEPH M",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-14",
-   "reported_date": "2026-10-16",
-   "shares": 7839.0,
-   "price": 107.68,
-   "value": 844103.52,
-   "shares_after": 81725.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/723531/0001193125-26-424044.txt",
-   "price_at_trade": 107.28,
-   "price_now": 115.68,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 7.8
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

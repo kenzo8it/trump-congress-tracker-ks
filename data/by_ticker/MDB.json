@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "MDB",
  "company": {
   "name": "MongoDB, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 339.78,
- "price_date": "2026-11-12",
+ "price_now": 334.2,
+ "price_date": "2026-11-13",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 303.09,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 12.1,
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 10.3,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 337.86,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 0.6,
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -1.1,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,40 +102,10 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 318.53,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 6.7,
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 4.9,
    "days_to_disclose": 32,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Gilbert Ray Cisneros, Jr.",
-   "state_district": "CA31",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032248.pdf",
-   "owner": "self",
-   "asset": "MongoDB, Inc. - Class A Common Stock",
-   "asset_type": "ST",
-   "ticker": "MDB",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-12",
-   "notified_date": "2025-10-08",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "C001123",
-   "party": "Democrat",
-   "state": "CA",
-   "company_name": "MongoDB, Inc.",
-   "sector": "Technology",
-   "committee_overlap": [],
-   "price_at_trade": 330.1,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.9,
-   "days_to_disclose": 28,
    "late_filing": false
   }
  ],
@@ -147,13 +117,13 @@
    "state": "CA",
    "committee_overlap": [],
    "ticker": "MDB",
-   "est_shares": 46.6,
-   "avg_price": 328.64,
-   "price_now": 339.78,
-   "est_position_value": 15846,
-   "total_return_pct": 3.4,
-   "total_return_usd": 520,
-   "first_buy": "2025-09-12",
+   "est_shares": 22.4,
+   "avg_price": 327.91,
+   "price_now": 334.2,
+   "est_position_value": 7486,
+   "total_return_pct": 1.9,
+   "total_return_usd": 141,
+   "first_buy": "2025-10-17",
    "last_trade": "2026-05-14"
   }
  ],
@@ -173,9 +143,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -192,9 +162,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -211,9 +181,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -230,9 +200,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -249,9 +219,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -268,9 +238,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -287,9 +257,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -306,9 +276,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -325,9 +295,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -344,9 +314,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -363,9 +333,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -382,9 +352,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -401,9 +371,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -420,9 +390,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -439,9 +409,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -458,9 +428,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -477,9 +447,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1237858/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -496,9 +466,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1339247/0001628280-26-070237.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -515,9 +485,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070237.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -534,9 +504,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -553,9 +523,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -572,9 +542,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -591,9 +561,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -610,9 +580,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -629,9 +599,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -648,9 +618,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -667,9 +637,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -686,9 +656,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -705,9 +675,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -724,9 +694,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -743,9 +713,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -762,9 +732,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -781,9 +751,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -800,9 +770,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -819,9 +789,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "MDB",
@@ -838,9 +808,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/0001628280-26-070241.txt",
    "price_at_trade": 330.43,
-   "price_now": 339.78,
-   "price_now_date": "2026-11-12",
-   "total_return_pct": 2.8
+   "price_now": 334.2,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "MGNI",
  "company": {
   "name": "MAGNITE, INC.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MGNI",
+   "company_name": "MAGNITE, INC.",
+   "owner_name": "Yu Diane",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 20000.0,
+   "price": 29.17,
+   "value": 583400.0,
+   "shares_after": 61279.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1595974/0001917981-26-000003.txt",
+   "price_at_trade": 29.34,
+   "price_now": 29.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "MGNI",
+   "company_name": "MAGNITE, INC.",
+   "owner_name": "Yu Diane",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 20000.0,
+   "price": 29.17,
+   "value": 583400.0,
+   "shares_after": 61279.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1917981/0001917981-26-000003.txt",
+   "price_at_trade": 29.34,
+   "price_now": 29.29,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.2
+  },
   {
    "ticker": "MGNI",
    "company_name": "MAGNITE, INC.",

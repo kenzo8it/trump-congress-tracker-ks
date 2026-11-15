@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CVX",
  "company": {
   "name": "CHEVRON CORP",
@@ -730,6 +730,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "CVX",
+   "company_name": "CHEVRON CORP",
+   "owner_name": "Booth Thomas Ryder",
+   "owner_title": "Chief Technology & Eng Ofr",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 6000.0,
+   "price": 212.137,
+   "value": 1272822.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2071610/0000093410-26-000204.txt",
+   "price_at_trade": 213.28,
+   "price_now": 219.89,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.1
+  },
+  {
+   "ticker": "CVX",
+   "company_name": "CHEVRON CORP",
+   "owner_name": "Booth Thomas Ryder",
+   "owner_title": "Chief Technology & Eng Ofr",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 6000.0,
+   "price": 212.137,
+   "value": 1272822.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/0000093410-26-000204.txt",
+   "price_at_trade": 213.28,
+   "price_now": 219.89,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 3.1
+  },
   {
    "ticker": "CVX",
    "company_name": "CHEVRON CORP",

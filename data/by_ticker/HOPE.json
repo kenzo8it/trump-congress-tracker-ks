@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "HOPE",
+ "company": {
+  "name": "HOPE BANCORP INC",
+  "cik": 1128361,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 13.02,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "HOPE",
+   "company_name": "HOPE BANCORP INC",
+   "owner_name": "Harris Angelee",
+   "owner_title": "EVP, General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 3200.0,
+   "price": 13.1009,
+   "value": 41922.88,
+   "shares_after": 27552.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1128361/0001193125-26-461144.txt",
+   "price_at_trade": 13.06,
+   "price_now": 13.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "HOPE",
+   "company_name": "HOPE BANCORP INC",
+   "owner_name": "Harris Angelee",
+   "owner_title": "EVP, General Counsel",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 3200.0,
+   "price": 13.1009,
+   "value": 41922.88,
+   "shares_after": 27552.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1316204/0001193125-26-461144.txt",
+   "price_at_trade": 13.06,
+   "price_now": 13.02,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -0.3
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

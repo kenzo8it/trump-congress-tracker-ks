@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "BKNG",
  "company": {
   "name": "Booking Holdings Inc.",
@@ -227,38 +227,6 @@
    "total_return_pct": -15.8,
    "days_to_disclose": 27,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Val T. Hoyle",
-   "state_district": "OR04",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
-   "owner": "spouse",
-   "asset": "Booking Holdings Inc. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "BKNG",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-23",
-   "notified_date": "2025-09-23",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "H001094",
-   "party": "Democrat",
-   "state": "OR",
-   "company_name": "Booking Holdings Inc.",
-   "sector": "Transport & Autos",
-   "committee_overlap": [
-    "House Committee on Transportation and Infrastructure"
-   ],
-   "price_at_trade": 218.36,
-   "price_now": 159.58,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -26.9,
-   "days_to_disclose": 17,
-   "late_filing": false
   }
  ],
  "congress_holders": [
@@ -279,46 +247,7 @@
    "last_trade": "2026-05-15"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "BKNG",
-   "company_name": "Booking Holdings Inc.",
-   "owner_name": "Pisano Paulo",
-   "owner_title": "CHIEF HUMAN RESOURCES OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-16",
-   "shares": 1500.0,
-   "price": 163.06,
-   "value": 244590.0,
-   "shares_after": 70400.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/0001875741-26-000010.txt",
-   "price_at_trade": 165.8,
-   "price_now": 159.58,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.8
-  },
-  {
-   "ticker": "BKNG",
-   "company_name": "Booking Holdings Inc.",
-   "owner_name": "Pisano Paulo",
-   "owner_title": "CHIEF HUMAN RESOURCES OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-16",
-   "shares": 1500.0,
-   "price": 163.06,
-   "value": 244590.0,
-   "shares_after": 70400.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1875741/0001875741-26-000010.txt",
-   "price_at_trade": 165.8,
-   "price_now": 159.58,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.8
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "CRVL",
  "company": {
   "name": "CORVEL CORP",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CRVL",
+   "company_name": "CORVEL CORP",
+   "owner_name": "HAMERSLAG STEVEN J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 11000.0,
+   "price": 84.0428,
+   "value": 924470.8,
+   "shares_after": 276000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1056168/0001056168-26-000006.txt",
+   "price_at_trade": 84.12,
+   "price_now": 85.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CRVL",
+   "company_name": "CORVEL CORP",
+   "owner_name": "HAMERSLAG STEVEN J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 11000.0,
+   "price": 84.0428,
+   "value": 924470.8,
+   "shares_after": 276000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/874866/0001056168-26-000006.txt",
+   "price_at_trade": 84.12,
+   "price_now": 85.69,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "CRVL",
    "company_name": "CORVEL CORP",

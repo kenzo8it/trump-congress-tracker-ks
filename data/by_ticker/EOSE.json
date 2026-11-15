@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "EOSE",
  "company": {
   "name": "Eos Energy Enterprises, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EOSE",
+   "company_name": "Eos Energy Enterprises, Inc.",
+   "owner_name": "DIMITRIEF ALEXANDER",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 1.86,
+   "value": 46500.0,
+   "shares_after": 294296.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614732/0001628280-26-073597.txt",
+   "price_at_trade": 1.81,
+   "price_now": 1.91,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
+  },
+  {
+   "ticker": "EOSE",
+   "company_name": "Eos Energy Enterprises, Inc.",
+   "owner_name": "DIMITRIEF ALEXANDER",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 1.86,
+   "value": 46500.0,
+   "shares_after": 294296.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1805077/0001628280-26-073597.txt",
+   "price_at_trade": 1.81,
+   "price_now": 1.91,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 5.5
+  },
   {
    "ticker": "EOSE",
    "company_name": "Eos Energy Enterprises, Inc.",

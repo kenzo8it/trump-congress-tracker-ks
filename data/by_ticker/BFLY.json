@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "BFLY",
  "company": {
   "name": "Butterfly Network, Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BFLY",
+   "company_name": "Butterfly Network, Inc.",
+   "owner_name": "Doherty John N.",
+   "owner_title": "EVP, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 50000.0,
+   "price": 7.0,
+   "value": 350000.0,
+   "shares_after": 1347276.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645756/0002064832-26-000337.txt",
+   "price_at_trade": 7.14,
+   "price_now": 6.08,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.8
+  },
+  {
+   "ticker": "BFLY",
+   "company_name": "Butterfly Network, Inc.",
+   "owner_name": "Doherty John N.",
+   "owner_title": "EVP, CFO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 50000.0,
+   "price": 7.0,
+   "value": 350000.0,
+   "shares_after": 1347276.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000337.txt",
+   "price_at_trade": 7.14,
+   "price_now": 6.08,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -14.8
+  },
   {
    "ticker": "BFLY",
    "company_name": "Butterfly Network, Inc.",

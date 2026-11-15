@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-15T02:19+00:00",
+ "ticker": "JHX",
+ "company": {
+  "name": "James Hardie Industries plc",
+  "cik": 1159152,
+  "sic": 3272,
+  "industry": "Concrete Products, Except Block & Brick",
+  "sector": "Other"
+ },
+ "price_now": 27.8,
+ "price_date": "2026-11-13",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "JHX",
+   "company_name": "James Hardie Industries plc",
+   "owner_name": "Singh Jesse G",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 28.82,
+   "value": 720500.0,
+   "shares_after": 333797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1159152/0001628280-26-073583.txt",
+   "price_at_trade": 28.43,
+   "price_now": 27.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "JHX",
+   "company_name": "James Hardie Industries plc",
+   "owner_name": "Singh Jesse G",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-11",
+   "reported_date": "2026-11-13",
+   "shares": 25000.0,
+   "price": 28.82,
+   "value": 720500.0,
+   "shares_after": 333797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-073583.txt",
+   "price_at_trade": 28.43,
+   "price_now": 27.8,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": -2.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

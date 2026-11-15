@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:53+00:00",
+ "updated": "2026-11-15T02:19+00:00",
  "ticker": "BSX",
  "company": {
   "name": "BOSTON SCIENTIFIC CORP",
@@ -661,55 +661,9 @@
    "total_return_pct": -55.3,
    "days_to_disclose": 32,
    "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Val T. Hoyle",
-   "state_district": "OR04",
-   "reported_date": "2025-10-10",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
-   "owner": "spouse",
-   "asset": "Boston Scientific Corporation Common Stock",
-   "asset_type": "ST",
-   "ticker": "BSX",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-23",
-   "notified_date": "2025-09-23",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "H001094",
-   "party": "Democrat",
-   "state": "OR",
-   "company_name": "BOSTON SCIENTIFIC CORP",
-   "sector": "Healthcare",
-   "committee_overlap": [],
-   "price_at_trade": 97.69,
-   "price_now": 44.34,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -54.6,
-   "days_to_disclose": 17,
-   "late_filing": false
   }
  ],
  "congress_holders": [
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "BSX",
-   "est_shares": 886.2,
-   "avg_price": 60.32,
-   "price_now": 44.34,
-   "est_position_value": 39293,
-   "total_return_pct": -26.5,
-   "total_return_usd": -14160,
-   "first_buy": "2025-10-17",
-   "last_trade": "2026-08-18"
-  },
   {
    "name": "Lisa C. McClain",
    "party": "Republican",
@@ -725,6 +679,22 @@
    "total_return_usd": -7,
    "first_buy": "2025-10-30",
    "last_trade": "2025-10-31"
+  },
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "BSX",
+   "est_shares": 886.2,
+   "avg_price": 60.32,
+   "price_now": 44.34,
+   "est_position_value": 39293,
+   "total_return_pct": -26.5,
+   "total_return_usd": -14160,
+   "first_buy": "2025-10-17",
+   "last_trade": "2026-08-18"
   }
  ],
  "insider_trades": [],
