@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "KTOS",
  "company": {
   "name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Guided Missiles & Space Vehicles & Parts",
   "sector": "Defense & Aerospace"
  },
- "price_now": 33.91,
- "price_date": "2026-11-13",
+ "price_now": 31.66,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KTOS",
+   "company_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
+   "owner_name": "King David Arnold",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 6000.0,
+   "price": 33.5152,
+   "value": 201091.2,
+   "shares_after": 6000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1069258/0001803860-26-000005.txt",
+   "price_at_trade": 33.91,
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.6
+  },
+  {
+   "ticker": "KTOS",
+   "company_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
+   "owner_name": "King David Arnold",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 6000.0,
+   "price": 33.5152,
+   "value": 201091.2,
+   "shares_after": 6000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1803860/0001803860-26-000005.txt",
+   "price_at_trade": 33.91,
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.6
+  },
   {
    "ticker": "KTOS",
    "company_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1069258/0001695434-26-000012.txt",
    "price_at_trade": 33.91,
-   "price_now": 33.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.0
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "KTOS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1695434/0001695434-26-000012.txt",
    "price_at_trade": 33.91,
-   "price_now": 33.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.0
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "KTOS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1069258/0001094718-26-000011.txt",
    "price_at_trade": 40.43,
-   "price_now": 33.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -16.1
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -21.7
   },
   {
    "ticker": "KTOS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094718/0001094718-26-000011.txt",
    "price_at_trade": 40.43,
-   "price_now": 33.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -16.1
+   "price_now": 31.66,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -21.7
   }
  ],
  "trump_trades": [],

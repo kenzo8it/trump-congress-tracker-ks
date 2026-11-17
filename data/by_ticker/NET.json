@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "NET",
  "company": {
   "name": "Cloudflare, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 305.81,
- "price_date": "2026-11-13",
+ "price_now": 293.59,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 301.36,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 1.5,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -2.6,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 166.88,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 83.3,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 75.9,
    "days_to_disclose": 40,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 177.35,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 72.4,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 65.5,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.66,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 50.9,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 44.9,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -164,9 +164,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 196.53,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 55.6,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 49.4,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -194,9 +194,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 210.01,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 45.6,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 39.8,
    "days_to_disclose": 32,
    "late_filing": false
   }
@@ -211,10 +211,10 @@
    "ticker": "NET",
    "est_shares": 57.9,
    "avg_price": 189.32,
-   "price_now": 305.81,
-   "est_position_value": 17704,
-   "total_return_pct": 61.5,
-   "total_return_usd": 6744,
+   "price_now": 293.59,
+   "est_position_value": 16996,
+   "total_return_pct": 55.1,
+   "total_return_usd": 6036,
    "first_buy": "2025-10-17",
    "last_trade": "2026-08-18"
   }
@@ -223,6 +223,44 @@
   {
    "ticker": "NET",
    "company_name": "Cloudflare, Inc.",
+   "owner_name": "Suder Katrin",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 800.0,
+   "price": 299.97,
+   "value": 239976.0,
+   "shares_after": 37472.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001786926-26-000006.txt",
+   "price_at_trade": 293.59,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "NET",
+   "company_name": "Cloudflare, Inc.",
+   "owner_name": "Suder Katrin",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 800.0,
+   "price": 299.97,
+   "value": 239976.0,
+   "shares_after": 37472.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786926/0001786926-26-000006.txt",
+   "price_at_trade": 293.59,
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "NET",
+   "company_name": "Cloudflare, Inc.",
    "owner_name": "Ledbetter Carl",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -235,9 +273,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1366574/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -254,9 +292,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1366574/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -273,9 +311,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1366574/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -292,9 +330,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -311,9 +349,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -330,9 +368,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -349,9 +387,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -368,9 +406,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -387,9 +425,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -406,9 +444,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1473289/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -425,9 +463,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -444,9 +482,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -463,9 +501,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001366574-26-000026.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -482,9 +520,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -501,9 +539,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -520,9 +558,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -539,9 +577,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -558,9 +596,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -577,9 +615,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "NET",
@@ -596,9 +634,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/0001473289-26-000031.txt",
    "price_at_trade": 297.58,
-   "price_now": 305.81,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.8
+   "price_now": 293.59,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.3
   }
  ],
  "trump_trades": [],

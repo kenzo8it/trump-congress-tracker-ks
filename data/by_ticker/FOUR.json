@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "FOUR",
+ "company": {
+  "name": "Shift4 Payments, Inc.",
+  "cik": 1794669,
+  "sic": 7389,
+  "industry": "Services-Business Services, NEC",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 42.48,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FOUR",
+   "company_name": "Shift4 Payments, Inc.",
+   "owner_name": "Lauber David Taylor",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 19058.0,
+   "price": 44.3779,
+   "value": 845754.02,
+   "shares_after": 431499.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1794669/0001794669-26-000053.txt",
+   "price_at_trade": 42.48,
+   "price_now": 42.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "FOUR",
+   "company_name": "Shift4 Payments, Inc.",
+   "owner_name": "Lauber David Taylor",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 19058.0,
+   "price": 44.3779,
+   "value": 845754.02,
+   "shares_after": 431499.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1805630/0001794669-26-000053.txt",
+   "price_at_trade": 42.48,
+   "price_now": 42.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

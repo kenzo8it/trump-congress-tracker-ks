@@ -1,0 +1,59 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "JBGS",
+ "company": {
+  "name": "JBG SMITH Properties",
+  "cik": 1689796,
+  "sic": 6798,
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate"
+ },
+ "price_now": 12.79,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "J. French Hill",
+   "state_district": "AR02",
+   "reported_date": "2026-11-13",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf",
+   "owner": "self",
+   "asset": "JBG SMITH Properties Common Shares",
+   "asset_type": "ST",
+   "ticker": "JBGS",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-11-09",
+   "notified_date": "2026-11-09",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001072",
+   "party": "Republican",
+   "state": "AR",
+   "company_name": "JBG SMITH Properties",
+   "sector": "Real Estate",
+   "committee_overlap": [
+    "House Committee on Financial Services"
+   ],
+   "price_at_trade": 12.2,
+   "price_now": 12.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 4.8,
+   "days_to_disclose": 4,
+   "late_filing": false
+  }
+ ],
+ "congress_holders": [],
+ "insider_trades": [],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

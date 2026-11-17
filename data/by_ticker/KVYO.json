@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "KVYO",
  "company": {
   "name": "Klaviyo, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 22.13,
- "price_date": "2026-11-13",
+ "price_now": 22.89,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KVYO",
+   "company_name": "Klaviyo, Inc.",
+   "owner_name": "Edmond Landon",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 18891.0,
+   "price": 23.17,
+   "value": 437704.47,
+   "shares_after": 434611.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-001012.txt",
+   "price_at_trade": 22.89,
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "KVYO",
+   "company_name": "Klaviyo, Inc.",
+   "owner_name": "Edmond Landon",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 1900.0,
+   "price": 22.64,
+   "value": 43016.0,
+   "shares_after": 432711.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-001012.txt",
+   "price_at_trade": 22.89,
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "KVYO",
+   "company_name": "Klaviyo, Inc.",
+   "owner_name": "Edmond Landon",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 18891.0,
+   "price": 23.17,
+   "value": 437704.47,
+   "shares_after": 434611.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991399/0001470831-26-001012.txt",
+   "price_at_trade": 22.89,
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "KVYO",
+   "company_name": "Klaviyo, Inc.",
+   "owner_name": "Edmond Landon",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 1900.0,
+   "price": 22.64,
+   "value": 43016.0,
+   "shares_after": 432711.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991399/0001470831-26-001012.txt",
+   "price_at_trade": 22.89,
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "KVYO",
    "company_name": "Klaviyo, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1523073/0001470831-26-000988.txt",
    "price_at_trade": 20.71,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.9
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "KVYO",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-000988.txt",
    "price_at_trade": 20.71,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.9
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.5
   },
   {
    "ticker": "KVYO",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835830/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1991125/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1991125/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -187,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1991125/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KVYO",
@@ -206,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1991125/0001470831-26-000989.txt",
    "price_at_trade": 20.81,
-   "price_now": 22.13,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.3
+   "price_now": 22.89,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.0
   }
  ],
  "trump_trades": [],

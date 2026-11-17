@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "DGX",
  "company": {
   "name": "QUEST DIAGNOSTICS INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 259.6,
- "price_date": "2026-11-13",
+ "price_now": 262.21,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 175.88,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 47.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 49.1,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 172.84,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 50.2,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 51.7,
    "days_to_disclose": 279,
    "late_filing": true
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 172.84,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 50.2,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 51.7,
    "days_to_disclose": 279,
    "late_filing": true
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 168.31,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 54.2,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 55.8,
    "days_to_disclose": 173,
    "late_filing": true
   },
@@ -162,9 +162,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 172.21,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 50.7,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 52.3,
    "days_to_disclose": 260,
    "late_filing": true
   },
@@ -194,9 +194,9 @@
     "House Committee on Ways and Means"
    ],
    "price_at_trade": 167.92,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 54.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 56.2,
    "days_to_disclose": 521,
    "late_filing": true
   }
@@ -211,10 +211,10 @@
    "ticker": "DGX",
    "est_shares": 0.8,
    "avg_price": 172.84,
-   "price_now": 259.6,
-   "est_position_value": 208,
-   "total_return_pct": 50.2,
-   "total_return_usd": 69,
+   "price_now": 262.21,
+   "est_position_value": 210,
+   "total_return_pct": 51.7,
+   "total_return_usd": 72,
    "first_buy": "2025-10-30",
    "last_trade": "2025-11-03"
   }
@@ -223,6 +223,82 @@
   {
    "ticker": "DGX",
    "company_name": "QUEST DIAGNOSTICS INC",
+   "owner_name": "Deppe Michael J",
+   "owner_title": "SVP, Corp. Controller & CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 6261.0,
+   "price": 260.17,
+   "value": 1628924.37,
+   "shares_after": 35203.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000127.txt",
+   "price_at_trade": 259.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "DGX",
+   "company_name": "QUEST DIAGNOSTICS INC",
+   "owner_name": "Deppe Michael J",
+   "owner_title": "SVP, Corp. Controller & CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 5515.0,
+   "price": 260.17,
+   "value": 1434837.55,
+   "shares_after": 35203.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000127.txt",
+   "price_at_trade": 259.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "DGX",
+   "company_name": "QUEST DIAGNOSTICS INC",
+   "owner_name": "Deppe Michael J",
+   "owner_title": "SVP, Corp. Controller & CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 6261.0,
+   "price": 260.17,
+   "value": 1628924.37,
+   "shares_after": 35203.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1771759/0001022079-26-000127.txt",
+   "price_at_trade": 259.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "DGX",
+   "company_name": "QUEST DIAGNOSTICS INC",
+   "owner_name": "Deppe Michael J",
+   "owner_title": "SVP, Corp. Controller & CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 5515.0,
+   "price": 260.17,
+   "value": 1434837.55,
+   "shares_after": 35203.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1771759/0001022079-26-000127.txt",
+   "price_at_trade": 259.6,
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "DGX",
+   "company_name": "QUEST DIAGNOSTICS INC",
    "owner_name": "Plewman Patrick",
    "owner_title": "SVP for Diagnostic Services",
    "trade_type": "SELL",
@@ -235,9 +311,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -254,9 +330,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -273,9 +349,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -292,9 +368,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1497368/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -311,9 +387,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1497368/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -330,9 +406,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1497368/0001022079-26-000125.txt",
    "price_at_trade": 259.67,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -0.0
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "DGX",
@@ -349,9 +425,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -368,9 +444,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -387,9 +463,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -406,9 +482,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -425,9 +501,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -444,9 +520,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -463,9 +539,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -482,9 +558,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -501,9 +577,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -520,9 +596,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -539,9 +615,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -558,9 +634,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -577,9 +653,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -596,9 +672,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520897/0001022079-26-000122.txt",
    "price_at_trade": 247.06,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 5.1
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "DGX",
@@ -615,9 +691,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022079/0001022079-26-000118.txt",
    "price_at_trade": 242.95,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.9
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.9
   },
   {
    "ticker": "DGX",
@@ -634,9 +710,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1127304/0001022079-26-000118.txt",
    "price_at_trade": 242.95,
-   "price_now": 259.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 6.9
+   "price_now": 262.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.9
   }
  ],
  "trump_trades": [],

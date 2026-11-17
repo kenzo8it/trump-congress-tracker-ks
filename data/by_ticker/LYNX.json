@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "LYNX",
+ "company": {
+  "name": "Lyntris Inc.",
+  "cik": 2132582,
+  "sic": 3812,
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "sector": "Defense & Aerospace"
+ },
+ "price_now": 12.9,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LYNX",
+   "company_name": "Lyntris Inc.",
+   "owner_name": "Morrison Brian",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 1705.0,
+   "price": 14.55,
+   "value": 24807.75,
+   "shares_after": 1288688.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2132582/0000899140-26-001346.txt",
+   "price_at_trade": 14.27,
+   "price_now": 12.9,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.6
+  },
+  {
+   "ticker": "LYNX",
+   "company_name": "Lyntris Inc.",
+   "owner_name": "Morrison Brian",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 1705.0,
+   "price": 14.55,
+   "value": 24807.75,
+   "shares_after": 1288688.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2147076/0000899140-26-001346.txt",
+   "price_at_trade": 14.27,
+   "price_now": 12.9,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

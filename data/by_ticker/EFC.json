@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "EFC",
  "company": {
   "name": "Ellington Financial Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate",
   "sector": "Real Estate"
  },
- "price_now": 11.11,
- "price_date": "2026-11-13",
+ "price_now": 10.88,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 12.31,
-   "price_now": 11.11,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -9.7,
+   "price_now": 10.88,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -11.6,
    "days_to_disclose": 6,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "EFC",
    "est_shares": 649.9,
    "avg_price": 12.31,
-   "price_now": 11.11,
-   "est_position_value": 7221,
-   "total_return_pct": -9.7,
-   "total_return_usd": -780,
+   "price_now": 10.88,
+   "est_position_value": 7071,
+   "total_return_pct": -11.6,
+   "total_return_usd": -929,
    "first_buy": "2025-12-30",
    "last_trade": "2025-12-30"
   }

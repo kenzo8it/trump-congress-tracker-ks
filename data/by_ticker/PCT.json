@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "PCT",
+ "company": {
+  "name": "PureCycle Technologies, Inc.",
+  "cik": 1830033,
+  "sic": 2821,
+  "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "sector": "Materials & Mining"
+ },
+ "price_now": 1.68,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PCT",
+   "company_name": "PureCycle Technologies, Inc.",
+   "owner_name": "Musa Fernando",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 57600.0,
+   "price": 1.71,
+   "value": 98496.0,
+   "shares_after": 386957.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1830033/0001847066-26-000009.txt",
+   "price_at_trade": 1.71,
+   "price_now": 1.68,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "PCT",
+   "company_name": "PureCycle Technologies, Inc.",
+   "owner_name": "Musa Fernando",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 57600.0,
+   "price": 1.71,
+   "value": 98496.0,
+   "shares_after": 386957.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1847066/0001847066-26-000009.txt",
+   "price_at_trade": 1.71,
+   "price_now": 1.68,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

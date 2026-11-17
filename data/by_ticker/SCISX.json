@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "SCISX",
  "company": {},
  "price_now": 24.72,
- "price_date": "2026-11-13",
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -14,6 +14,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SCISX",
+   "company_name": "MA Specialty Credit Income Fund",
+   "owner_name": "MA Eagle II Holdings Fund",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 202429.15,
+   "price": 24.7,
+   "value": 5000000.0,
+   "shares_after": 3462755.523,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2015849/0000945621-26-001411.txt",
+   "price_at_trade": 24.7,
+   "price_now": 24.72,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.1
+  },
+  {
+   "ticker": "SCISX",
+   "company_name": "MA Specialty Credit Income Fund",
+   "owner_name": "MA Eagle II Holdings Fund",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 202429.15,
+   "price": 24.7,
+   "value": 5000000.0,
+   "shares_after": 3462755.523,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2049114/0000945621-26-001411.txt",
+   "price_at_trade": 24.7,
+   "price_now": 24.72,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.1
+  },
   {
    "ticker": "SCISX",
    "company_name": "MA Specialty Credit Income Fund",
@@ -30,7 +68,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/2015849/0000945621-26-001274.txt",
    "price_at_trade": 24.76,
    "price_now": 24.72,
-   "price_now_date": "2026-11-13",
+   "price_now_date": "2026-11-16",
    "total_return_pct": -0.2
   },
   {
@@ -49,7 +87,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/2049114/0000945621-26-001274.txt",
    "price_at_trade": 24.76,
    "price_now": 24.72,
-   "price_now_date": "2026-11-13",
+   "price_now_date": "2026-11-16",
    "total_return_pct": -0.2
   }
  ],

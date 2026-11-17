@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "FTK",
+ "company": {
+  "name": "FLOTEK INDUSTRIES INC/CN/",
+  "cik": 928054,
+  "sic": 2890,
+  "industry": "Miscellaneous Chemical Products",
+  "sector": "Other"
+ },
+ "price_now": 25.09,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "FTK",
+   "company_name": "FLOTEK INDUSTRIES INC/CN/",
+   "owner_name": "Agadi Harshavardhan V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 15000.0,
+   "price": 25.2695,
+   "value": 379042.5,
+   "shares_after": 187364.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1498132/0000928054-26-000105.txt",
+   "price_at_trade": 25.33,
+   "price_now": 25.09,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "FTK",
+   "company_name": "FLOTEK INDUSTRIES INC/CN/",
+   "owner_name": "Agadi Harshavardhan V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 15000.0,
+   "price": 25.2695,
+   "value": 379042.5,
+   "shares_after": 187364.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/928054/0000928054-26-000105.txt",
+   "price_at_trade": 25.33,
+   "price_now": 25.09,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

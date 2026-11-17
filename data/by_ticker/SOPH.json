@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "SOPH",
  "company": {
   "name": "SOPHiA GENETICS SA",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 8.21,
- "price_date": "2026-11-13",
+ "price_now": 7.44,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Xu Zhenyu",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 4000.0,
+   "price": 7.9553,
+   "value": 31821.2,
+   "shares_after": 537493.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000362.txt",
+   "price_at_trade": 8.21,
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.4
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Xu Zhenyu",
+   "owner_title": "Chief Scientific Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 4000.0,
+   "price": 7.9553,
+   "value": 31821.2,
+   "shares_after": 537493.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2006362/0001840706-26-000362.txt",
+   "price_at_trade": 8.21,
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.4
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Menu Philippe",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 5000.0,
+   "price": 7.6799,
+   "value": 38399.5,
+   "shares_after": 190993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000361.txt",
+   "price_at_trade": 7.86,
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
+  },
+  {
+   "ticker": "SOPH",
+   "company_name": "SOPHiA GENETICS SA",
+   "owner_name": "Menu Philippe",
+   "owner_title": "Chief Medical Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 5000.0,
+   "price": 7.6799,
+   "value": 38399.5,
+   "shares_after": 190993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2014308/0001840706-26-000361.txt",
+   "price_at_trade": 7.86,
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
+  },
   {
    "ticker": "SOPH",
    "company_name": "SOPHiA GENETICS SA",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1267487/0001840706-26-000358.txt",
    "price_at_trade": 7.86,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 4.5
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "SOPH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000357.txt",
    "price_at_trade": 7.86,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 4.5
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "SOPH",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000358.txt",
    "price_at_trade": 7.86,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 4.5
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "SOPH",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007050/0001840706-26-000357.txt",
    "price_at_trade": 7.86,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 4.5
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "SOPH",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000356.txt",
    "price_at_trade": 7.49,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 9.6
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "SOPH",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2006414/0001840706-26-000356.txt",
    "price_at_trade": 7.49,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 9.6
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "SOPH",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1518734/0001840706-26-000352.txt",
    "price_at_trade": 7.14,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 15.0
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 4.2
   },
   {
    "ticker": "SOPH",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000351.txt",
    "price_at_trade": 7.14,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 15.0
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 4.2
   },
   {
    "ticker": "SOPH",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840706/0001840706-26-000352.txt",
    "price_at_trade": 7.14,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 15.0
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 4.2
   },
   {
    "ticker": "SOPH",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2005463/0001840706-26-000351.txt",
    "price_at_trade": 7.14,
-   "price_now": 8.21,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 15.0
+   "price_now": 7.44,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 4.2
   }
  ],
  "trump_trades": [],

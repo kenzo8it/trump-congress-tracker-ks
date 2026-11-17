@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "MSC",
  "company": {
   "name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
@@ -8,8 +8,8 @@
   "industry": "Hotels & Motels",
   "sector": "Retail & Consumer"
  },
- "price_now": 0.96,
- "price_date": "2026-11-13",
+ "price_now": 0.95,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "HO LAWRENCE YAU LUNG",
    "owner_title": "Director",
    "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 49336.0,
+   "price": 0.2631,
+   "value": 12980.3,
+   "shares_after": 463575984.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1713334/0001193125-26-461836.txt",
+   "price_at_trade": 0.96,
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MSC",
+   "company_name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "owner_name": "HO LAWRENCE YAU LUNG",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 49336.0,
+   "price": 0.2631,
+   "value": 12980.3,
+   "shares_after": 463575984.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1958709/0001193125-26-461836.txt",
+   "price_at_trade": 0.96,
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MSC",
+   "company_name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "owner_name": "HO LAWRENCE YAU LUNG",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 62496.0,
+   "price": 0.2868,
+   "value": 17923.85,
+   "shares_after": 463526648.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1713334/0001193125-26-461836.txt",
+   "price_at_trade": 1.0,
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "MSC",
+   "company_name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "owner_name": "HO LAWRENCE YAU LUNG",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 62496.0,
+   "price": 0.2868,
+   "value": 17923.85,
+   "shares_after": 463526648.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1958709/0001193125-26-461836.txt",
+   "price_at_trade": 1.0,
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.0
+  },
+  {
+   "ticker": "MSC",
+   "company_name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "owner_name": "HO LAWRENCE YAU LUNG",
+   "owner_title": "Director",
+   "trade_type": "BUY",
    "traded_date": "2026-11-06",
    "reported_date": "2026-11-09",
    "shares": 63552.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1713334/0001193125-26-452558.txt",
    "price_at_trade": 0.98,
-   "price_now": 0.96,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.0
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "MSC",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1958709/0001193125-26-452558.txt",
    "price_at_trade": 0.98,
-   "price_now": 0.96,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.0
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "MSC",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1713334/0001193125-26-452558.txt",
    "price_at_trade": 1.06,
-   "price_now": 0.96,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -9.4
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -10.4
   },
   {
    "ticker": "MSC",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1958709/0001193125-26-452558.txt",
    "price_at_trade": 1.06,
-   "price_now": 0.96,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -9.4
+   "price_now": 0.95,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -10.4
   }
  ],
  "trump_trades": [],

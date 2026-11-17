@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "AFL",
  "company": {
   "name": "AFLAC INC",
@@ -8,8 +8,8 @@
   "industry": "Accident & Health Insurance",
   "sector": "Financials"
  },
- "price_now": 127.61,
- "price_date": "2026-11-13",
+ "price_now": 128.08,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,120 @@
    "owner_name": "Japan Post Holdings Co., Ltd.",
    "owner_title": "10% owner",
    "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 10027.0,
+   "price": 126.76,
+   "value": 1271022.52,
+   "shares_after": 50098302.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 2673.0,
+   "price": 127.72,
+   "value": 341395.56,
+   "shares_after": 50095629.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 200.0,
+   "price": 129.08,
+   "value": 25816.0,
+   "shares_after": 50095429.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 10027.0,
+   "price": 126.76,
+   "value": 1271022.52,
+   "shares_after": 50098302.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 2673.0,
+   "price": 127.72,
+   "value": 341395.56,
+   "shares_after": 50095629.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 200.0,
+   "price": 129.08,
+   "value": 25816.0,
+   "shares_after": 50095429.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-128252.txt",
+   "price_at_trade": 126.51,
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "AFL",
+   "company_name": "AFLAC INC",
+   "owner_name": "Japan Post Holdings Co., Ltd.",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
    "traded_date": "2026-11-11",
    "reported_date": "2026-11-13",
    "shares": 4596.0,
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-127035.txt",
    "price_at_trade": 127.11,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.4
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "AFL",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-127035.txt",
    "price_at_trade": 127.11,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.4
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "AFL",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-127035.txt",
    "price_at_trade": 127.11,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.4
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "AFL",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-127035.txt",
    "price_at_trade": 127.11,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.4
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "AFL",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-125899.txt",
    "price_at_trade": 126.64,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.8
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "AFL",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1639880/0000004977-26-000107.txt",
    "price_at_trade": 125.22,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 1.9
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
   },
   {
    "ticker": "AFL",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0000004977-26-000107.txt",
    "price_at_trade": 125.22,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 1.9
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
   },
   {
    "ticker": "AFL",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "AFL",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "AFL",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783464/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "AFL",
@@ -320,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "AFL",
@@ -339,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "AFL",
@@ -358,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-116752.txt",
    "price_at_trade": 118.05,
-   "price_now": 127.61,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.1
+   "price_now": 128.08,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 8.5
   }
  ],
  "trump_trades": [],

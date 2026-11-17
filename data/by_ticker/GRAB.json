@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "GRAB",
  "company": {
   "name": "Grab Holdings Ltd",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 3.24,
- "price_date": "2026-11-13",
+ "price_now": 3.21,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,120 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Kandal Philipp Wolfgang Josef",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 30000.0,
+   "price": 3.2378,
+   "value": 97134.0,
+   "shares_after": 3778735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1696555/0001855612-26-000157.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Kandal Philipp Wolfgang Josef",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 30000.0,
+   "price": 3.2378,
+   "value": 97134.0,
+   "shares_after": 3778735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001855612-26-000157.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Kandal Philipp Wolfgang Josef",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 120000.0,
+   "price": 3.2731,
+   "value": 392772.0,
+   "shares_after": 3808735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1696555/0001855612-26-000157.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Kandal Philipp Wolfgang Josef",
+   "owner_title": "Chief Product Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 120000.0,
+   "price": 3.2731,
+   "value": 392772.0,
+   "shares_after": 3808735.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001855612-26-000157.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Ong Chin Yin",
+   "owner_title": "Chief Org Capability Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 28000.0,
+   "price": 3.275,
+   "value": 91700.0,
+   "shares_after": 3528611.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001990865-26-000018.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "GRAB",
+   "company_name": "Grab Holdings Ltd",
+   "owner_name": "Ong Chin Yin",
+   "owner_title": "Chief Org Capability Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 28000.0,
+   "price": 3.275,
+   "value": 91700.0,
+   "shares_after": 3528611.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1990865/0001990865-26-000018.txt",
+   "price_at_trade": 3.24,
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
   {
    "ticker": "GRAB",
    "company_name": "Grab Holdings Ltd",
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001896497-26-000011.txt",
    "price_at_trade": 3.41,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -5.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "GRAB",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1896497/0001896497-26-000011.txt",
    "price_at_trade": 3.41,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -5.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "GRAB",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001990865-26-000015.txt",
    "price_at_trade": 3.12,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 3.8
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "GRAB",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1990865/0001990865-26-000015.txt",
    "price_at_trade": 3.12,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 3.8
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "GRAB",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696555/0001696555-26-000012.txt",
    "price_at_trade": 3.0,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GRAB",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001696555-26-000012.txt",
    "price_at_trade": 3.0,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GRAB",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855612/0001976718-26-000013.txt",
    "price_at_trade": 3.0,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GRAB",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1976718/0001976718-26-000013.txt",
    "price_at_trade": 3.0,
-   "price_now": 3.24,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 8.0
+   "price_now": 3.21,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 7.0
   }
  ],
  "trump_trades": [],

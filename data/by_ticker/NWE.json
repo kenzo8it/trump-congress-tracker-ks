@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "NWE",
  "company": {
   "name": "NorthWestern Energy Group, Inc.",
@@ -9,7 +9,7 @@
   "sector": "Energy & Utilities"
  },
  "price_now": 84.91,
- "price_date": "2026-11-13",
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,32 +41,15 @@
    "company_name": "NorthWestern Energy Group, Inc.",
    "sector": "Energy & Utilities",
    "committee_overlap": [],
-   "price_at_trade": 68.77,
+   "price_at_trade": null,
    "price_now": 84.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 23.5,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": null,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "NWE",
-   "est_shares": 116.3,
-   "avg_price": 68.77,
-   "price_now": 84.91,
-   "est_position_value": 9878,
-   "total_return_pct": 23.5,
-   "total_return_usd": 1878,
-   "first_buy": "2026-03-03",
-   "last_trade": "2026-03-03"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],

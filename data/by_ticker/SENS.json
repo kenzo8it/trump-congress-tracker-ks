@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "SENS",
+ "company": {
+  "name": "Senseonics Holdings, Inc.",
+  "cik": 1616543,
+  "sic": 3823,
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Technology"
+ },
+ "price_now": 10.9,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SENS",
+   "company_name": "Senseonics Holdings, Inc.",
+   "owner_name": "ROEDER DOUGLAS A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 17040.7157,
+   "price": 10.32,
+   "value": 175860.19,
+   "shares_after": 189712.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1270735/0001270735-26-000018.txt",
+   "price_at_trade": 10.58,
+   "price_now": 10.9,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.0
+  },
+  {
+   "ticker": "SENS",
+   "company_name": "Senseonics Holdings, Inc.",
+   "owner_name": "ROEDER DOUGLAS A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 17040.7157,
+   "price": 10.32,
+   "value": 175860.19,
+   "shares_after": 189712.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1616543/0001270735-26-000018.txt",
+   "price_at_trade": 10.58,
+   "price_now": 10.9,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

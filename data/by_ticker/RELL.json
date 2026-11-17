@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "RELL",
  "company": {
   "name": "RICHARDSON ELECTRONICS, LTD.",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Electronic Parts & Equipment, NEC",
   "sector": "Other"
  },
- "price_now": 18.15,
- "price_date": "2026-11-13",
+ "price_now": 17.79,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "Diddell Wendy",
+   "owner_title": "Director, COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 6993.0,
+   "price": 20.0286,
+   "value": 140060.0,
+   "shares_after": 107157.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1291981/0001193125-26-463361.txt",
+   "price_at_trade": 19.74,
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.9
+  },
+  {
+   "ticker": "RELL",
+   "company_name": "RICHARDSON ELECTRONICS, LTD.",
+   "owner_name": "Diddell Wendy",
+   "owner_title": "Director, COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 6993.0,
+   "price": 20.0286,
+   "value": 140060.0,
+   "shares_after": 107157.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-463361.txt",
+   "price_at_trade": 19.74,
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -9.9
+  },
   {
    "ticker": "RELL",
    "company_name": "RICHARDSON ELECTRONICS, LTD.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1191362/0001193125-26-455292.txt",
    "price_at_trade": 20.85,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.0
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -14.7
   },
   {
    "ticker": "RELL",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-455292.txt",
    "price_at_trade": 20.85,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.0
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -14.7
   },
   {
    "ticker": "RELL",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1588888/0001193125-26-443094.txt",
    "price_at_trade": 20.85,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.0
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -14.7
   },
   {
    "ticker": "RELL",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-443094.txt",
    "price_at_trade": 20.85,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.0
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -14.7
   },
   {
    "ticker": "RELL",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1512170/0001193125-26-440960.txt",
    "price_at_trade": 21.02,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.7
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -15.4
   },
   {
    "ticker": "RELL",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/0001193125-26-440960.txt",
    "price_at_trade": 21.02,
-   "price_now": 18.15,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -13.7
+   "price_now": 17.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -15.4
   }
  ],
  "trump_trades": [],

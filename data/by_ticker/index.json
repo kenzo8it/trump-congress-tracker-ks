@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "tickers": [
   {
    "ticker": "(CALX)",
@@ -96,6 +96,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 4,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "ABEO",
+   "company": "ABEONA THERAPEUTICS INC.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -277,6 +288,17 @@
    "contracts": 0
   },
   {
+   "ticker": "ADIG",
+   "company": "ADI GLOBAL DISTRIBUTION INC.",
+   "sector": "Other",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 12,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "ADM",
    "company": "Archer-Daniels-Midland Co",
    "sector": "Agriculture & Food",
@@ -293,7 +315,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 10,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -469,7 +491,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 24,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -513,7 +535,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 18,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -525,6 +547,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "AGRO",
+   "company": "Adecoagro S.A.",
+   "sector": "Agriculture & Food",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -689,7 +722,7 @@
    "sector": "Financials",
    "congress_trades": 9,
    "congress_holders": 1,
-   "insider_trades": 12,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -744,7 +777,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -981,6 +1014,17 @@
    "contracts": 0
   },
   {
+   "ticker": "AMBQ",
+   "company": "Ambiq Micro, Inc.",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 20,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "AMCR",
    "company": "Amcor plc",
    "sector": "Other",
@@ -1009,6 +1053,17 @@
    "congress_trades": 2,
    "congress_holders": 1,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "AMG",
+   "company": "AFFILIATED MANAGERS GROUP, INC.",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -1085,7 +1140,18 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 16,
+   "insider_trades": 20,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "AMSS",
+   "company": "AMASS BRANDS",
+   "sector": "Agriculture & Food",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 24,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -1206,7 +1272,7 @@
    "sector": "Real Estate",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -1294,7 +1360,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 40,
+   "insider_trades": 44,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -1371,7 +1437,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -1724,6 +1790,28 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "AUPH",
+   "company": "Aurinia Pharmaceuticals Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "AURA",
+   "company": "Aura Biosciences, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2350,7 +2438,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 24,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2455,6 +2543,17 @@
    "contracts": 0
   },
   {
+   "ticker": "BIVI",
+   "company": "BIOVIE INC.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "BJ",
    "company": "BJ's Wholesale Club Holdings, Inc.",
    "sector": "Retail & Consumer",
@@ -2515,7 +2614,7 @@
    "sector": "Construction & Industrials",
    "congress_trades": 2,
    "congress_holders": 1,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2581,7 +2680,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2612,6 +2711,17 @@
    "ticker": "BLND",
    "company": "Blend Labs, Inc.",
    "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "BLTE",
+   "company": "BELITE BIO, INC",
+   "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 8,
@@ -2755,7 +2865,7 @@
    "ticker": "BP",
    "company": "BP PLC",
    "sector": "Energy & Utilities",
-   "congress_trades": 5,
+   "congress_trades": 6,
    "congress_holders": 1,
    "insider_trades": 0,
    "trump_trades": 0,
@@ -2812,7 +2922,7 @@
    "sector": "Financials",
    "congress_trades": 26,
    "congress_holders": 4,
-   "insider_trades": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2835,6 +2945,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 64,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "BRSP",
+   "company": "BrightSpire Capital, Inc.",
+   "sector": "Real Estate",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -2999,7 +3120,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 25,
+   "insider_trades": 27,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -3120,7 +3241,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -3274,7 +3395,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -3494,7 +3615,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 22,
+   "insider_trades": 32,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -3770,6 +3891,17 @@
    "congress_trades": 11,
    "congress_holders": 1,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "CIA",
+   "company": "CITIZENS, INC.",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4083,6 +4215,17 @@
    "contracts": 0
   },
   {
+   "ticker": "CNH",
+   "company": "CNH Industrial N.V.",
+   "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "CNM",
    "company": "Core & Main, Inc.",
    "sector": "Other",
@@ -4242,7 +4385,7 @@
    "sector": "Healthcare",
    "congress_trades": 2,
    "congress_holders": 0,
-   "insider_trades": 0,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4396,7 +4539,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4600,6 +4743,17 @@
    "contracts": 0
   },
   {
+   "ticker": "CRMD",
+   "company": "CorMedix Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "CRML",
    "company": "Critical Metals Corp.",
    "sector": "Materials & Mining",
@@ -4671,7 +4825,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4759,7 +4913,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4825,7 +4979,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 64,
+   "insider_trades": 78,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4891,7 +5045,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 3,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4902,7 +5056,7 @@
    "sector": "Agriculture & Food",
    "congress_trades": 2,
    "congress_holders": 0,
-   "insider_trades": 0,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -4974,6 +5128,17 @@
    "contracts": 0
   },
   {
+   "ticker": "CVLG",
+   "company": "COVENANT LOGISTICS GROUP, INC.",
+   "sector": "Transport & Autos",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 12,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "CVLT",
    "company": "COMMVAULT SYSTEMS INC",
    "sector": "Technology",
@@ -5002,6 +5167,17 @@
    "congress_trades": 5,
    "congress_holders": 1,
    "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "CVSI",
+   "company": "CV Sciences, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 10,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5122,7 +5298,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 30,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5221,7 +5397,7 @@
    "sector": "Technology",
    "congress_trades": 2,
    "congress_holders": 1,
-   "insider_trades": 6,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5274,7 +5450,7 @@
    "ticker": "DDOG",
    "company": "Datadog, Inc.",
    "sector": "Technology",
-   "congress_trades": 9,
+   "congress_trades": 10,
    "congress_holders": 2,
    "insider_trades": 28,
    "trump_trades": 0,
@@ -5342,7 +5518,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 28,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5364,7 +5540,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 34,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5375,7 +5551,7 @@
    "sector": "Healthcare",
    "congress_trades": 6,
    "congress_holders": 1,
-   "insider_trades": 22,
+   "insider_trades": 26,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5463,7 +5639,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 10,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5595,7 +5771,18 @@
    "sector": "Technology",
    "congress_trades": 2,
    "congress_holders": 0,
-   "insider_trades": 16,
+   "insider_trades": 22,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "DPU",
+   "company": "Nexpu Ltd.",
+   "sector": "Retail & Consumer",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5661,7 +5848,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 36,
+   "insider_trades": 40,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5683,7 +5870,7 @@
    "sector": "Construction & Industrials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 20,
+   "insider_trades": 22,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5749,7 +5936,7 @@
    "sector": "Real Estate",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 12,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5772,6 +5959,17 @@
    "congress_trades": 1,
    "congress_holders": 1,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "DYN",
+   "company": "Dyne Therapeutics, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5848,7 +6046,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 22,
+   "insider_trades": 24,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -5876,6 +6074,17 @@
    "contracts": 0
   },
   {
+   "ticker": "ECOR",
+   "company": "electroCore, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "ECPG",
    "company": "ENCORE CAPITAL GROUP INC",
    "sector": "Financials",
@@ -5892,7 +6101,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6044,7 +6253,7 @@
    "ticker": "EL",
    "company": "ESTEE LAUDER COMPANIES INC",
    "sector": "Materials & Mining",
-   "congress_trades": 2,
+   "congress_trades": 3,
    "congress_holders": 1,
    "insider_trades": 26,
    "trump_trades": 0,
@@ -6068,7 +6277,7 @@
    "sector": "Materials & Mining",
    "congress_trades": 1,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6151,6 +6360,17 @@
    "contracts": 0
   },
   {
+   "ticker": "EMO",
+   "company": "ClearBridge Energy Midstream Opportunity Fund Inc.",
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "EMPD",
    "company": "Empery Digital Inc.",
    "sector": "Financials",
@@ -6167,7 +6387,7 @@
    "sector": "Construction & Industrials",
    "congress_trades": 5,
    "congress_holders": 1,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6211,7 +6431,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 18,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6288,7 +6508,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 22,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6343,7 +6563,7 @@
    "sector": "Real Estate",
    "congress_trades": 3,
    "congress_holders": 2,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6354,7 +6574,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6547,6 +6767,17 @@
    "contracts": 0
   },
   {
+   "ticker": "EVLV",
+   "company": "Evolv Technologies Holdings, Inc.",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "EVTC",
    "company": "EVERTEC, Inc.",
    "sector": "Technology",
@@ -6640,7 +6871,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 15,
+   "insider_trades": 25,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6651,7 +6882,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6729,6 +6960,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 7,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "FAC",
+   "company": "Factorial Energy Inc.",
+   "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -6943,6 +7185,17 @@
    "contracts": 0
   },
   {
+   "ticker": "FENC",
+   "company": "FENNEC PHARMACEUTICALS INC.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "FERG",
    "company": "Ferguson Enterprises Inc. /DE/",
    "sector": "Other",
@@ -6970,7 +7223,7 @@
    "sector": "Materials & Mining",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 10,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7157,7 +7410,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7289,7 +7542,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 68,
+   "insider_trades": 72,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7300,7 +7553,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 14,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7438,6 +7691,17 @@
    "contracts": 0
   },
   {
+   "ticker": "FOUR",
+   "company": "Shift4 Payments, Inc.",
+   "sector": "Retail & Consumer",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "FOX",
    "company": "Fox Corp",
    "sector": "Telecom",
@@ -7471,12 +7735,23 @@
    "contracts": 0
   },
   {
+   "ticker": "FPS",
+   "company": "Forgent Power Solutions, Inc.",
+   "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 10,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "FRMI",
    "company": "Fermi Inc.",
    "sector": "Real Estate",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 15,
+   "insider_trades": 21,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7598,6 +7873,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "FTK",
+   "company": "FLOTEK INDUSTRIES INC/CN/",
+   "sector": "Other",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7795,7 +8081,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 28,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7878,6 +8164,17 @@
    "contracts": 0
   },
   {
+   "ticker": "GERN",
+   "company": "GERON CORP",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
    "sector": "Construction & Industrials",
@@ -7894,7 +8191,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 16,
+   "insider_trades": 20,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7960,7 +8257,7 @@
    "sector": "Healthcare",
    "congress_trades": 3,
    "congress_holders": 2,
-   "insider_trades": 18,
+   "insider_trades": 26,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -7982,7 +8279,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 22,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8191,7 +8488,7 @@
    "sector": "Real Estate",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8213,7 +8510,7 @@
    "sector": "Technology",
    "congress_trades": 47,
    "congress_holders": 5,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 1,
    "contracts": 0
@@ -8290,7 +8587,18 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 14,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "GRAL",
+   "company": "GRAIL, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 12,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8356,7 +8664,7 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 20,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8466,7 +8774,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8489,6 +8797,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "GYRO",
+   "company": "Gyrodyne, LLC",
+   "sector": "Real Estate",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8532,7 +8851,7 @@
    "sector": "Healthcare",
    "congress_trades": 2,
    "congress_holders": 1,
-   "insider_trades": 0,
+   "insider_trades": 20,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -8553,6 +8872,17 @@
    "company": "HASBRO, INC.",
    "sector": "Other",
    "congress_trades": 3,
+   "congress_holders": 0,
+   "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "HAWK",
+   "company": "HawkEye 360, Inc.",
+   "sector": "Technology",
+   "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 8,
    "trump_trades": 0,
@@ -8769,6 +9099,17 @@
    "contracts": 0
   },
   {
+   "ticker": "HL",
+   "company": "HECLA MINING CO/DE/",
+   "sector": "Materials & Mining",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "HLI",
    "company": "HOULIHAN LOKEY, INC.",
    "sector": "Financials",
@@ -8939,7 +9280,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -9049,7 +9390,7 @@
    "sector": "Agriculture & Food",
    "congress_trades": 4,
    "congress_holders": 0,
-   "insider_trades": 202,
+   "insider_trades": 220,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -9093,7 +9434,7 @@
    "sector": "Technology",
    "congress_trades": 1,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -9335,7 +9676,7 @@
    "sector": "Healthcare",
    "congress_trades": 3,
    "congress_holders": 0,
-   "insider_trades": 42,
+   "insider_trades": 44,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -9506,6 +9847,17 @@
    "contracts": 0
   },
   {
+   "ticker": "IMRX",
+   "company": "Immuneering Corp",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "IMVT",
    "company": "Immunovant, Inc.",
    "sector": "Healthcare",
@@ -9666,6 +10018,17 @@
    "congress_trades": 15,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "INTZ",
+   "company": "INTRUSION INC",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10012,6 +10375,17 @@
    "contracts": 0
   },
   {
+   "ticker": "JBGS",
+   "company": "JBG SMITH Properties",
+   "sector": "Real Estate",
+   "congress_trades": 1,
+   "congress_holders": 0,
+   "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "JBL",
    "company": "JABIL INC",
    "sector": "Technology",
@@ -10061,7 +10435,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 110,
+   "insider_trades": 130,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10171,7 +10545,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 20,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10237,7 +10611,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10293,6 +10667,17 @@
    "congress_trades": 4,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "KINS",
+   "company": "KINGSTONE COMPANIES, INC.",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10446,7 +10831,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 36,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10469,6 +10854,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 44,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "KODK",
+   "company": "EASTMAN KODAK CO",
+   "sector": "Other",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10510,6 +10906,17 @@
    "ticker": "KRNT",
    "company": "Kornit Digital Ltd.",
    "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "KROS",
+   "company": "Keros Therapeutics, Inc.",
+   "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 2,
@@ -10589,6 +10996,17 @@
    "sector": "Defense & Aerospace",
    "congress_trades": 0,
    "congress_holders": 0,
+   "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "KURA",
+   "company": "Kura Oncology, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
    "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -10611,7 +11029,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10622,7 +11040,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10793,6 +11211,17 @@
    "contracts": 0
   },
   {
+   "ticker": "LCTX",
+   "company": "Lineage Cell Therapeutics, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "LCU",
    "company": "Lion Copper Corp.",
    "sector": "Materials & Mining",
@@ -10842,6 +11271,17 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
+   "insider_trades": 10,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "LEGN",
+   "company": "Legend Biotech Corp",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
    "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -10875,7 +11315,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 30,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10897,7 +11337,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -10906,6 +11346,17 @@
    "ticker": "LFUS",
    "company": "LITTELFUSE INC /DE",
    "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "LFVN",
+   "company": "Lifevantage Corp",
+   "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 2,
@@ -10952,7 +11403,7 @@
    "sector": "Healthcare",
    "congress_trades": 4,
    "congress_holders": 1,
-   "insider_trades": 52,
+   "insider_trades": 56,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -11332,6 +11783,17 @@
    "contracts": 0
   },
   {
+   "ticker": "LPTH",
+   "company": "LIGHTPATH TECHNOLOGIES INC",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "LPX",
    "company": "LOUISIANA-PACIFIC CORP",
    "sector": "Other",
@@ -11381,7 +11843,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 14,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -11513,7 +11975,7 @@
    "sector": "Agriculture & Food",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -11580,6 +12042,17 @@
    "congress_trades": 1,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "LYNX",
+   "company": "Lyntris Inc.",
+   "sector": "Defense & Aerospace",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -11788,7 +12261,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 14,
    "congress_holders": 2,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12162,7 +12635,7 @@
    "sector": "Technology",
    "congress_trades": 3,
    "congress_holders": 1,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12261,7 +12734,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12349,7 +12822,7 @@
    "sector": "Healthcare",
    "congress_trades": 1,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 1,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12382,7 +12855,18 @@
    "sector": "Materials & Mining",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 14,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "MPB",
+   "company": "MID PENN BANCORP INC",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12415,7 +12899,7 @@
    "sector": "Technology",
    "congress_trades": 3,
    "congress_holders": 1,
-   "insider_trades": 2,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12459,7 +12943,7 @@
    "sector": "Healthcare",
    "congress_trades": 8,
    "congress_holders": 3,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12536,7 +13020,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12569,7 +13053,7 @@
    "sector": "Technology",
    "congress_trades": 2,
    "congress_holders": 1,
-   "insider_trades": 116,
+   "insider_trades": 132,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 2
@@ -12690,7 +13174,7 @@
    "sector": "Technology",
    "congress_trades": 9,
    "congress_holders": 1,
-   "insider_trades": 88,
+   "insider_trades": 90,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12767,7 +13251,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 24,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12778,7 +13262,7 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 50,
+   "insider_trades": 54,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12899,7 +13383,7 @@
    "sector": "Financials",
    "congress_trades": 11,
    "congress_holders": 0,
-   "insider_trades": 16,
+   "insider_trades": 18,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12932,7 +13416,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 40,
+   "insider_trades": 44,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -12976,7 +13460,7 @@
    "sector": "Technology",
    "congress_trades": 6,
    "congress_holders": 1,
-   "insider_trades": 20,
+   "insider_trades": 22,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13076,6 +13560,17 @@
    "congress_trades": 3,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "NLCP",
+   "company": "NewLake Capital Partners, Inc.",
+   "sector": "Real Estate",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13317,7 +13812,18 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 10,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "NSP",
+   "company": "INSPERITY, INC.",
+   "sector": "Retail & Consumer",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13428,6 +13934,17 @@
    "congress_trades": 3,
    "congress_holders": 0,
    "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "NTWK",
+   "company": "NETSOL TECHNOLOGIES INC",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13580,7 +14097,7 @@
    "company": "NorthWestern Energy Group, Inc.",
    "sector": "Energy & Utilities",
    "congress_trades": 1,
-   "congress_holders": 1,
+   "congress_holders": 0,
    "insider_trades": 0,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -13708,6 +14225,17 @@
    "contracts": 0
   },
   {
+   "ticker": "NXST",
+   "company": "NEXSTAR MEDIA GROUP, INC.",
+   "sector": "Telecom",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "NXTC",
    "company": "NextCure, Inc.",
    "sector": "Healthcare",
@@ -13746,7 +14274,7 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 22,
+   "insider_trades": 26,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13787,6 +14315,17 @@
   {
    "ticker": "OACOX",
    "company": null,
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "OBDC",
+   "company": "Blue Owl Capital Corp",
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
@@ -13856,7 +14395,7 @@
    "sector": "Transport & Autos",
    "congress_trades": 1,
    "congress_holders": 0,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13911,7 +14450,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 24,
+   "insider_trades": 26,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13944,7 +14483,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 34,
+   "insider_trades": 36,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -13977,7 +14516,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 2,
    "congress_holders": 0,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14022,6 +14561,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 30,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "OPAL",
+   "company": "OPAL Fuels Inc.",
+   "sector": "Energy & Utilities",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14109,7 +14659,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 44,
+   "insider_trades": 56,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14121,6 +14671,17 @@
    "congress_trades": 8,
    "congress_holders": 0,
    "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "ORRF",
+   "company": "ORRSTOWN FINANCIAL SERVICES INC",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14175,7 +14736,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 14,
+   "insider_trades": 18,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14187,6 +14748,17 @@
    "congress_trades": 1,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "OTF",
+   "company": "Blue Owl Technology Finance Corp.",
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14263,7 +14835,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 14,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14373,7 +14945,18 @@
    "sector": "Energy & Utilities",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 14,
+   "insider_trades": 18,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "PANL",
+   "company": "Pangaea Logistics Solutions Ltd.",
+   "sector": "Transport & Autos",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14428,7 +15011,7 @@
    "sector": "Technology",
    "congress_trades": 4,
    "congress_holders": 1,
-   "insider_trades": 0,
+   "insider_trades": 6,
    "trump_trades": 1,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14544,12 +15127,34 @@
    "contracts": 0
   },
   {
+   "ticker": "PCQ",
+   "company": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "PCT",
+   "company": "PureCycle Technologies, Inc.",
+   "sector": "Materials & Mining",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "PCTY",
    "company": "Paylocity Holding Corp",
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 68,
+   "insider_trades": 70,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14588,6 +15193,17 @@
    "contracts": 0
   },
   {
+   "ticker": "PDFS",
+   "company": "PDF SOLUTIONS INC",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "PDI",
    "company": "PIMCO Dynamic Income Fund",
    "sector": null,
@@ -14604,7 +15220,7 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 28,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14627,6 +15243,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "PED",
+   "company": "PEDEVCO CORP",
+   "sector": "Energy & Utilities",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 5,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14802,7 +15429,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 12,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14879,7 +15506,7 @@
    "sector": "Other",
    "congress_trades": 8,
    "congress_holders": 0,
-   "insider_trades": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -14978,7 +15605,7 @@
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 22,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -15446,6 +16073,17 @@
    "contracts": 0
   },
   {
+   "ticker": "QNTO",
+   "company": "QUAINT OAK BANCORP, INC.",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 6,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "QSR",
    "company": "Restaurant Brands International Inc.",
    "sector": "Retail & Consumer",
@@ -15627,7 +16265,7 @@
    "sector": "Transport & Autos",
    "congress_trades": 1,
    "congress_holders": 1,
-   "insider_trades": 128,
+   "insider_trades": 144,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -15639,6 +16277,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "RDCM",
+   "company": "RADCOM LTD",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -15693,7 +16342,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 8,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -15721,12 +16370,23 @@
    "contracts": 0
   },
   {
+   "ticker": "REI",
+   "company": "RING ENERGY, INC.",
+   "sector": "Energy & Utilities",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "RELL",
    "company": "RICHARDSON ELECTRONICS, LTD.",
    "sector": "Other",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -16007,6 +16667,17 @@
    "contracts": 0
   },
   {
+   "ticker": "RMI",
+   "company": "RiverNorth Opportunistic Municipal Income Fund, Inc.",
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "RMNI",
    "company": "Rimini Street, Inc.",
    "sector": "Retail & Consumer",
@@ -16089,6 +16760,17 @@
    "sector": "Retail & Consumer",
    "congress_trades": 10,
    "congress_holders": 1,
+   "insider_trades": 4,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "ROOT",
+   "company": "Root, Inc.",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
    "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -16573,7 +17255,7 @@
    "sector": null,
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -16617,7 +17299,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 2,
    "congress_holders": 1,
-   "insider_trades": 162,
+   "insider_trades": 174,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -16628,7 +17310,7 @@
    "sector": "Construction & Industrials",
    "congress_trades": 1,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 12,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -16645,12 +17327,34 @@
    "contracts": 0
   },
   {
+   "ticker": "SELF",
+   "company": "Global Self Storage, Inc.",
+   "sector": "Real Estate",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "SENS",
+   "company": "Senseonics Holdings, Inc.",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "SEPN",
    "company": "Septerna, Inc.",
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 28,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -16970,6 +17674,17 @@
    "congress_trades": 2,
    "congress_holders": 1,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "SKYD",
+   "company": "Skydance Corp",
+   "sector": "Telecom",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -17327,6 +18042,17 @@
    "contracts": 0
   },
   {
+   "ticker": "SONO",
+   "company": "Sonos Inc",
+   "sector": "Construction & Industrials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "SONY",
    "company": "Sony Group Corp",
    "sector": "Construction & Industrials",
@@ -17343,7 +18069,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -17366,6 +18092,17 @@
    "congress_trades": 1,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "SPCB",
+   "company": "SuperCom Ltd",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -17418,8 +18155,8 @@
    "ticker": "SPHR",
    "company": "Sphere Entertainment Co.",
    "sector": "Retail & Consumer",
-   "congress_trades": 1,
-   "congress_holders": 1,
+   "congress_trades": 2,
+   "congress_holders": 0,
    "insider_trades": 0,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -17745,6 +18482,17 @@
    "contracts": 0
   },
   {
+   "ticker": "STNE",
+   "company": "StoneCo Ltd.",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "STNG",
    "company": "Scorpio Tankers Inc.",
    "sector": "Transport & Autos",
@@ -17891,6 +18639,17 @@
    "ticker": "SUNC",
    "company": "SunocoCorp LLC",
    "sector": "Energy & Utilities",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "SUNS",
+   "company": "Sunrise Realty Trust, Inc.",
+   "sector": "Real Estate",
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 2,
@@ -18075,6 +18834,17 @@
    "contracts": 0
   },
   {
+   "ticker": "TASK",
+   "company": "TaskUs, Inc.",
+   "sector": "Technology",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "TAVI",
    "company": "Tavia Acquisition Corp.",
    "sector": "Financials",
@@ -18113,7 +18883,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18123,7 +18893,7 @@
    "company": "TEXAS CAPITAL BANCSHARES INC/TX",
    "sector": "Financials",
    "congress_trades": 2,
-   "congress_holders": 0,
+   "congress_holders": 1,
    "insider_trades": 0,
    "trump_trades": 0,
    "trump_sponsor": 0,
@@ -18135,7 +18905,7 @@
    "sector": "Financials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18245,7 +19015,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 18,
+   "insider_trades": 28,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18289,7 +19059,7 @@
    "sector": "Technology",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 6,
+   "insider_trades": 18,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18355,7 +19125,7 @@
    "sector": "Materials & Mining",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18377,7 +19147,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18432,7 +19202,7 @@
    "sector": "Materials & Mining",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18476,7 +19246,7 @@
    "sector": "Telecom",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18559,6 +19329,17 @@
    "contracts": 0
   },
   {
+   "ticker": "TLSI",
+   "company": "TriSalus Life Sciences, Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "TM",
    "company": "TOYOTA MOTOR CORP/",
    "sector": "Transport & Autos",
@@ -18597,7 +19378,7 @@
    "sector": "Technology",
    "congress_trades": 9,
    "congress_holders": 2,
-   "insider_trades": 2,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -18707,7 +19488,7 @@
    "sector": "Construction & Industrials",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 2
@@ -19026,7 +19807,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 12,
+   "insider_trades": 14,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -19147,7 +19928,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 17,
    "congress_holders": 3,
-   "insider_trades": 0,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 1,
    "contracts": 0
@@ -19340,6 +20121,17 @@
    "contracts": 8
   },
   {
+   "ticker": "UNIT",
+   "company": "Uniti Group Inc.",
+   "sector": "Telecom",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
    "ticker": "UNM",
    "company": "Unum Group",
    "sector": "Financials",
@@ -19521,7 +20313,7 @@
    "sector": "Healthcare",
    "congress_trades": 3,
    "congress_holders": 0,
-   "insider_trades": 606,
+   "insider_trades": 630,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -19565,7 +20357,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 36,
+   "insider_trades": 38,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -19598,7 +20390,7 @@
    "sector": "Healthcare",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -19950,7 +20742,7 @@
    "sector": "Technology",
    "congress_trades": 12,
    "congress_holders": 1,
-   "insider_trades": 2,
+   "insider_trades": 8,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -19983,7 +20775,7 @@
    "sector": "Healthcare",
    "congress_trades": 3,
    "congress_holders": 1,
-   "insider_trades": 2,
+   "insider_trades": 4,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20126,7 +20918,7 @@
    "sector": "Retail & Consumer",
    "congress_trades": 3,
    "congress_holders": 1,
-   "insider_trades": 22,
+   "insider_trades": 38,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20258,7 +21050,7 @@
    "sector": "Technology",
    "congress_trades": 3,
    "congress_holders": 0,
-   "insider_trades": 26,
+   "insider_trades": 40,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20280,7 +21072,7 @@
    "sector": "Energy & Utilities",
    "congress_trades": 2,
    "congress_holders": 0,
-   "insider_trades": 4,
+   "insider_trades": 10,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20567,6 +21359,17 @@
    "congress_trades": 1,
    "congress_holders": 0,
    "insider_trades": 0,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "WTW",
+   "company": "WILLIS TOWERS WATSON PLC",
+   "sector": "Financials",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 2,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20885,7 +21688,18 @@
    "sector": "Retail & Consumer",
    "congress_trades": 0,
    "congress_holders": 0,
-   "insider_trades": 10,
+   "insider_trades": 12,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "Z AND ZG",
+   "company": null,
+   "sector": null,
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 16,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0
@@ -20996,6 +21810,17 @@
    "congress_trades": 0,
    "congress_holders": 0,
    "insider_trades": 8,
+   "trump_trades": 0,
+   "trump_sponsor": 0,
+   "contracts": 0
+  },
+  {
+   "ticker": "ZYME",
+   "company": "Zymeworks Inc.",
+   "sector": "Healthcare",
+   "congress_trades": 0,
+   "congress_holders": 0,
+   "insider_trades": 6,
    "trump_trades": 0,
    "trump_sponsor": 0,
    "contracts": 0

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "DDOG",
  "company": {
   "name": "Datadog, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 184.16,
- "price_date": "2026-11-13",
+ "price_now": 172.86,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Jonathan L. Jackson",
+   "state_district": "IL01",
+   "reported_date": "2026-11-13",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+   "owner": "self",
+   "asset": "Datadog, Inc. - Class A Common Stock",
+   "asset_type": "ST",
+   "ticker": "DDOG",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-22",
+   "notified_date": "2026-11-02",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "J000309",
+   "party": "Democrat",
+   "state": "IL",
+   "company_name": "Datadog, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [],
+   "price_at_trade": 257.75,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -32.9,
+   "days_to_disclose": 22,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Jonathan L. Jackson",
@@ -42,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 268.7,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -31.5,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -35.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 256.92,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -28.3,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -32.7,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 215.15,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -14.4,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -19.7,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -132,9 +162,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 215.15,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -14.4,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -19.7,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -162,9 +192,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 110.57,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 66.6,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 56.3,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -192,9 +222,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 124.52,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 47.9,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 38.8,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -222,9 +252,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 162.81,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 13.1,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.2,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -252,9 +282,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 157.07,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 17.2,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.1,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -282,9 +312,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 157.07,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 17.2,
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 10.1,
    "days_to_disclose": 22,
    "late_filing": false
   }
@@ -297,14 +327,14 @@
    "state": "IL",
    "committee_overlap": [],
    "ticker": "DDOG",
-   "est_shares": 279.1,
-   "avg_price": 268.7,
-   "price_now": 184.16,
-   "est_position_value": 51403,
-   "total_return_pct": -31.5,
-   "total_return_usd": -23597,
+   "est_shares": 310.2,
+   "avg_price": 267.6,
+   "price_now": 172.86,
+   "est_position_value": 53615,
+   "total_return_pct": -35.4,
+   "total_return_usd": -29386,
    "first_buy": "2026-09-28",
-   "last_trade": "2026-09-28"
+   "last_trade": "2026-10-22"
   },
   {
    "name": "Maria Elvira Salazar",
@@ -315,10 +345,10 @@
    "ticker": "DDOG",
    "est_shares": 157.1,
    "avg_price": 215.15,
-   "price_now": 184.16,
-   "est_position_value": 28933,
-   "total_return_pct": -14.4,
-   "total_return_usd": -4869,
+   "price_now": 172.86,
+   "est_position_value": 27157,
+   "total_return_pct": -19.7,
+   "total_return_usd": -6644,
    "first_buy": "2026-05-19",
    "last_trade": "2026-09-24"
   }
@@ -339,9 +369,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -358,9 +388,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -377,9 +407,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -396,9 +426,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -415,9 +445,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -434,9 +464,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -453,9 +483,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -472,9 +502,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -491,9 +521,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -510,9 +540,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001783984-26-000002.txt",
    "price_at_trade": 179.62,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.5
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "DDOG",
@@ -529,9 +559,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -548,9 +578,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -567,9 +597,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -586,9 +616,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -605,9 +635,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -624,9 +654,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -643,9 +673,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -662,9 +692,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -681,9 +711,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -700,9 +730,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -719,9 +749,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -738,9 +768,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -757,9 +787,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -776,9 +806,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -795,9 +825,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -814,9 +844,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -833,9 +863,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   },
   {
    "ticker": "DDOG",
@@ -852,9 +882,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000326.txt",
    "price_at_trade": 278.41,
-   "price_now": 184.16,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -33.9
+   "price_now": 172.86,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -37.9
   }
  ],
  "trump_trades": [],

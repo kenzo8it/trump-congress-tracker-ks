@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "AQST",
  "company": {
   "name": "Aquestive Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 3.91,
- "price_date": "2026-11-13",
+ "price_now": 3.76,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "AQST",
    "company_name": "Aquestive Therapeutics, Inc.",
+   "owner_name": "Davis Matthew W.",
+   "owner_title": "Chief Development Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 7197.0,
+   "price": 3.5468,
+   "value": 25526.32,
+   "shares_after": 87500.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1398733/0001214659-26-014337.txt",
+   "price_at_trade": 3.57,
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 5.3
+  },
+  {
+   "ticker": "AQST",
+   "company_name": "Aquestive Therapeutics, Inc.",
+   "owner_name": "Davis Matthew W.",
+   "owner_title": "Chief Development Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 7197.0,
+   "price": 3.5468,
+   "value": 25526.32,
+   "shares_after": 87500.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2094283/0001214659-26-014337.txt",
+   "price_at_trade": 3.57,
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 5.3
+  },
+  {
+   "ticker": "AQST",
+   "company_name": "Aquestive Therapeutics, Inc.",
    "owner_name": "Daly Richard J",
    "owner_title": "Director",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1398733/0001214659-26-014004.txt",
    "price_at_trade": 3.52,
-   "price_now": 3.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.1
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "AQST",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1398733/0001214659-26-014004.txt",
    "price_at_trade": 3.52,
-   "price_now": 3.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.1
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "AQST",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635393/0001214659-26-014004.txt",
    "price_at_trade": 3.52,
-   "price_now": 3.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.1
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.8
   },
   {
    "ticker": "AQST",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635393/0001214659-26-014004.txt",
    "price_at_trade": 3.52,
-   "price_now": 3.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.1
+   "price_now": 3.76,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.8
   }
  ],
  "trump_trades": [],

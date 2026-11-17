@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "LRMR",
  "company": {
   "name": "Larimar Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 3.02,
- "price_date": "2026-11-13",
+ "price_now": 3.0,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LRMR",
+   "company_name": "Larimar Therapeutics, Inc.",
+   "owner_name": "SHERMAN JEFFREY W",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 3289.4736,
+   "price": 3.0576,
+   "value": 10057.89,
+   "shares_after": 8289.4736,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1230482/0001193125-26-463941.txt",
+   "price_at_trade": 3.0,
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LRMR",
+   "company_name": "Larimar Therapeutics, Inc.",
+   "owner_name": "SHERMAN JEFFREY W",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-16",
+   "shares": 3289.4736,
+   "price": 3.0576,
+   "value": 10057.89,
+   "shares_after": 8289.4736,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-463941.txt",
+   "price_at_trade": 3.0,
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "LRMR",
    "company_name": "Larimar Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-459008.txt",
    "price_at_trade": 2.7,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.9
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "LRMR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1769848/0001193125-26-459008.txt",
    "price_at_trade": 2.7,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 11.9
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "LRMR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1242616/0001193125-26-458848.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458830.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458834.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458845.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458847.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458848.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1374690/0001193125-26-458853.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1377582/0001193125-26-458834.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1452429/0001193125-26-458847.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1529611/0001193125-26-458853.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1965014/0001193125-26-458830.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   },
   {
    "ticker": "LRMR",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2095554/0001193125-26-458845.txt",
    "price_at_trade": 2.73,
-   "price_now": 3.02,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 10.6
+   "price_now": 3.0,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 9.9
   }
  ],
  "trump_trades": [],

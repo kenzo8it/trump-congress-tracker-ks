@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "CTTH",
  "company": {
   "name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
@@ -20,6 +20,25 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CTTH",
+   "company_name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "owner_name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "owner_title": "Director, CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 1500.0,
+   "price": 0.054,
+   "value": 81.0,
+   "shares_after": 9454036.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035422/0001035422-26-000020.txt",
+   "price_at_trade": 0.06,
+   "price_now": 0.06,
+   "price_now_date": "2026-11-13",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "CTTH",
    "company_name": "CTT PHARMACEUTICAL HOLDINGS, INC.",

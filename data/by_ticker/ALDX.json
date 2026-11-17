@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "ALDX",
  "company": {
   "name": "Aldeyra Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.64,
- "price_date": "2026-11-13",
+ "price_now": 0.67,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ALDX",
+   "company_name": "Aldeyra Therapeutics, Inc.",
+   "owner_name": "DEPTULA-HICKS DARLENE M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 7500.0,
+   "price": 0.65,
+   "value": 4875.0,
+   "shares_after": 7500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1089409/0001193125-26-463942.txt",
+   "price_at_trade": 0.63,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.3
+  },
+  {
+   "ticker": "ALDX",
+   "company_name": "Aldeyra Therapeutics, Inc.",
+   "owner_name": "DEPTULA-HICKS DARLENE M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 7500.0,
+   "price": 0.65,
+   "value": 4875.0,
+   "shares_after": 7500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-463942.txt",
+   "price_at_trade": 0.63,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 6.3
+  },
   {
    "ticker": "ALDX",
    "company_name": "Aldeyra Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1021015/0001193125-26-460743.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.64,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.1
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "ALDX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-460743.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.64,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.1
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "ALDX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-460801.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.64,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.1
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "ALDX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744687/0001193125-26-460801.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.64,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.1
+   "price_now": 0.67,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.9
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "LFST",
  "company": {
   "name": "LifeStance Health Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Health Services",
   "sector": "Healthcare"
  },
- "price_now": 14.08,
- "price_date": "2026-11-13",
+ "price_now": 14.48,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,120 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "TPG GP A, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 37233110.0,
+   "price": 13.02,
+   "value": 484775092.2,
+   "shares_after": 42458592.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099776/0001999371-26-025503.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "TPG GP A, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 37233110.0,
+   "price": 13.02,
+   "value": 484775092.2,
+   "shares_after": 42458592.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1366946/0001999371-26-025503.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "Burdick Kenneth A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 159624.0,
+   "price": 14.31,
+   "value": 2284219.44,
+   "shares_after": 2774597.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1498992/0001193125-26-463918.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "Burdick Kenneth A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 159624.0,
+   "price": 14.31,
+   "value": 2284219.44,
+   "shares_after": 2774597.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-463918.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "TPG GP A, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 37233110.0,
+   "price": 13.02,
+   "value": 484775092.2,
+   "shares_after": 42458592.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001999371-26-025503.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
+  {
+   "ticker": "LFST",
+   "company_name": "LifeStance Health Group, Inc.",
+   "owner_name": "TPG GP A, LLC",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 37233110.0,
+   "price": 13.02,
+   "value": 484775092.2,
+   "shares_after": 42458592.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1903793/0001999371-26-025503.txt",
+   "price_at_trade": 14.15,
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 2.3
+  },
   {
    "ticker": "LFST",
    "company_name": "LifeStance Health Group, Inc.",
@@ -35,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-458678.txt",
    "price_at_trade": 14.37,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.0
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "LFST",
@@ -54,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2036749/0001193125-26-458678.txt",
    "price_at_trade": 14.37,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.0
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "LFST",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-461382.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-461382.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1865531/0001193125-26-461382.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1865531/0001193125-26-461382.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -149,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1498992/0001193125-26-458675.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -168,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-458675.txt",
    "price_at_trade": 14.56,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.3
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "LFST",
@@ -187,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1498992/0001193125-26-458675.txt",
    "price_at_trade": 14.6,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.6
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "LFST",
@@ -206,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1845257/0001193125-26-458675.txt",
    "price_at_trade": 14.6,
-   "price_now": 14.08,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -3.6
+   "price_now": 14.48,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.8
   }
  ],
  "trump_trades": [],

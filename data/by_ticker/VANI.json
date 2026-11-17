@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "VANI",
  "company": {
   "name": "Vivani Medical, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electromedical & Electrotherapeutic Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 1.01,
- "price_date": "2026-11-13",
+ "price_now": 1.02,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "VANI",
    "company_name": "Vivani Medical, Inc.",
+   "owner_name": "Williams Gregg",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 48100.0,
+   "price": 0.993,
+   "value": 47763.3,
+   "shares_after": 36960836.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1266806/0001753926-26-002141.txt",
+   "price_at_trade": 1.01,
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "VANI",
+   "company_name": "Vivani Medical, Inc.",
+   "owner_name": "Williams Gregg",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 48100.0,
+   "price": 0.993,
+   "value": 47763.3,
+   "shares_after": 36960836.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1624919/0001753926-26-002141.txt",
+   "price_at_trade": 1.01,
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "VANI",
+   "company_name": "Vivani Medical, Inc.",
    "owner_name": "Dwyer Donald",
    "owner_title": "Chief Business Officer",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1266806/0001753926-26-002139.txt",
    "price_at_trade": 0.98,
-   "price_now": 1.01,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.7
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "VANI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1266806/0001753926-26-002139.txt",
    "price_at_trade": 0.98,
-   "price_now": 1.01,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.7
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "VANI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1940425/0001753926-26-002139.txt",
    "price_at_trade": 0.98,
-   "price_now": 1.01,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.7
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "VANI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1940425/0001753926-26-002139.txt",
    "price_at_trade": 0.98,
-   "price_now": 1.01,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.7
+   "price_now": 1.02,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 3.8
   }
  ],
  "trump_trades": [],

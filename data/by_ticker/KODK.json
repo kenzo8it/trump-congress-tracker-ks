@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "KODK",
+ "company": {
+  "name": "EASTMAN KODAK CO",
+  "cik": 31235,
+  "sic": 3861,
+  "industry": "Photographic Equipment & Supplies",
+  "sector": "Other"
+ },
+ "price_now": 8.04,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "KODK",
+   "company_name": "EASTMAN KODAK CO",
+   "owner_name": "Katz Philippe D",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 3000.0,
+   "price": 8.48,
+   "value": 25440.0,
+   "shares_after": 190026.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579836/0000891839-26-000488.txt",
+   "price_at_trade": 8.5,
+   "price_now": 8.04,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.4
+  },
+  {
+   "ticker": "KODK",
+   "company_name": "EASTMAN KODAK CO",
+   "owner_name": "Katz Philippe D",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 3000.0,
+   "price": 8.48,
+   "value": 25440.0,
+   "shares_after": 190026.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/31235/0000891839-26-000488.txt",
+   "price_at_trade": 8.5,
+   "price_now": 8.04,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -5.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

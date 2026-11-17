@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "TBI",
  "company": {
   "name": "TrueBlue, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Help Supply Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 12.41,
- "price_date": "2026-11-13",
+ "price_now": 12.16,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Ferencz Garrett",
    "owner_title": "EVP, Chief Legal Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 600.0,
+   "price": 12.34,
+   "value": 7404.0,
+   "shares_after": 224829.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1816171/0001816171-26-000012.txt",
+   "price_at_trade": 12.35,
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "TBI",
+   "company_name": "TrueBlue, Inc.",
+   "owner_name": "Ferencz Garrett",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 600.0,
+   "price": 12.34,
+   "value": 7404.0,
+   "shares_after": 224829.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/768899/0001816171-26-000012.txt",
+   "price_at_trade": 12.35,
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "TBI",
+   "company_name": "TrueBlue, Inc.",
+   "owner_name": "Ferencz Garrett",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-10",
    "reported_date": "2026-11-12",
    "shares": 2400.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816171/0001816171-26-000010.txt",
    "price_at_trade": 12.68,
-   "price_now": 12.41,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.1
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "TBI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/768899/0001816171-26-000010.txt",
    "price_at_trade": 12.68,
-   "price_now": 12.41,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.1
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "TBI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816171/0001816171-26-000010.txt",
    "price_at_trade": 12.15,
-   "price_now": 12.41,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.1
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.1
   },
   {
    "ticker": "TBI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/768899/0001816171-26-000010.txt",
    "price_at_trade": 12.15,
-   "price_now": 12.41,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 2.1
+   "price_now": 12.16,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.1
   }
  ],
  "trump_trades": [],

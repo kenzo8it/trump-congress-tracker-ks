@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-17T04:46+00:00",
+ "ticker": "STNE",
+ "company": {
+  "name": "StoneCo Ltd.",
+  "cik": 1745431,
+  "sic": 7374,
+  "industry": "Services-Computer Processing & Data Preparation",
+  "sector": "Technology"
+ },
+ "price_now": 8.01,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "STNE",
+   "company_name": "StoneCo Ltd.",
+   "owner_name": "Fresco Gutierrez Diego",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 1366.0,
+   "price": 7.95,
+   "value": 10859.7,
+   "shares_after": 23314.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1745431/0002070979-26-000298.txt",
+   "price_at_trade": 7.92,
+   "price_now": 8.01,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "STNE",
+   "company_name": "StoneCo Ltd.",
+   "owner_name": "Fresco Gutierrez Diego",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 1366.0,
+   "price": 7.95,
+   "value": 10859.7,
+   "shares_after": 23314.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2085762/0002070979-26-000298.txt",
+   "price_at_trade": 7.92,
+   "price_now": 8.01,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 1.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

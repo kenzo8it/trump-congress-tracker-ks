@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "VRTX",
  "company": {
   "name": "VERTEX PHARMACEUTICALS INC / MA",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 538.6,
- "price_date": "2026-11-13",
+ "price_now": 537.79,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 547.29,
-   "price_now": 538.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.6,
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 475.68,
-   "price_now": 538.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 13.2,
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 13.1,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 470.05,
-   "price_now": 538.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 14.6,
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 14.4,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -119,15 +119,53 @@
    "ticker": "VRTX",
    "est_shares": 17.0,
    "avg_price": 470.05,
-   "price_now": 538.6,
-   "est_position_value": 9167,
-   "total_return_pct": 14.6,
-   "total_return_usd": 1167,
+   "price_now": 537.79,
+   "est_position_value": 9153,
+   "total_return_pct": 14.4,
+   "total_return_usd": 1153,
    "first_buy": "2024-10-23",
    "last_trade": "2024-10-23"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "VRTX",
+   "company_name": "VERTEX PHARMACEUTICALS INC / MA",
+   "owner_name": "WAGNER CHARLES F JR",
+   "owner_title": "EVP, CO & FO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 15286.0,
+   "price": 547.87,
+   "value": 8374740.82,
+   "shares_after": 31764.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1223348/0000875320-26-000295.txt",
+   "price_at_trade": 542.62,
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "VRTX",
+   "company_name": "VERTEX PHARMACEUTICALS INC / MA",
+   "owner_name": "WAGNER CHARLES F JR",
+   "owner_title": "EVP, CO & FO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 15286.0,
+   "price": 547.87,
+   "value": 8374740.82,
+   "shares_after": 31764.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/875320/0000875320-26-000295.txt",
+   "price_at_trade": 542.62,
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -0.9
+  },
   {
    "ticker": "VRTX",
    "company_name": "VERTEX PHARMACEUTICALS INC / MA",
@@ -143,9 +181,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1735944/0000875320-26-000293.txt",
    "price_at_trade": 547.09,
-   "price_now": 538.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.6
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "VRTX",
@@ -162,9 +200,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/875320/0000875320-26-000293.txt",
    "price_at_trade": 547.09,
-   "price_now": 538.6,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.6
+   "price_now": 537.79,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   }
  ],
  "trump_trades": [],

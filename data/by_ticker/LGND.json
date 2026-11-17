@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:16+00:00",
+ "updated": "2026-11-17T04:46+00:00",
  "ticker": "LGND",
  "company": {
   "name": "LIGAND PHARMACEUTICALS INC",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 308.79,
- "price_date": "2026-11-13",
+ "price_now": 301.71,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 231.96,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 33.1,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 30.1,
    "days_to_disclose": 10,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 204.24,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 51.2,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 47.7,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 196.08,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 57.5,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 53.9,
    "days_to_disclose": 29,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 192.03,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 60.8,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 57.1,
    "days_to_disclose": 39,
    "late_filing": false
   }
@@ -149,10 +149,10 @@
    "ticker": "LGND",
    "est_shares": 156.1,
    "avg_price": 204.97,
-   "price_now": 308.79,
-   "est_position_value": 48211,
-   "total_return_pct": 50.6,
-   "total_return_usd": 16209,
+   "price_now": 301.71,
+   "est_position_value": 47105,
+   "total_return_pct": 47.2,
+   "total_return_usd": 15103,
    "first_buy": "2026-01-05",
    "last_trade": "2026-05-29"
   }
@@ -161,6 +161,82 @@
   {
    "ticker": "LGND",
    "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "KOZARICH JOHN W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 500.0,
+   "price": 325.0,
+   "value": 162500.0,
+   "shares_after": 42122.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1223000/0001223000-26-000002.txt",
+   "price_at_trade": 316.27,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "Zimmermann Martine",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 2000.0,
+   "price": 318.1681,
+   "value": 636336.2,
+   "shares_after": 1782.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1994049/0001994049-26-000002.txt",
+   "price_at_trade": 316.27,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "KOZARICH JOHN W",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 500.0,
+   "price": 325.0,
+   "value": 162500.0,
+   "shares_after": 42122.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001223000-26-000002.txt",
+   "price_at_trade": 316.27,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
+   "owner_name": "Zimmermann Martine",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 2000.0,
+   "price": 318.1681,
+   "value": 636336.2,
+   "shares_after": 1782.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001994049-26-000002.txt",
+   "price_at_trade": 316.27,
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "LGND",
+   "company_name": "LIGAND PHARMACEUTICALS INC",
    "owner_name": "Aryeh Jason",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -173,9 +249,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -192,9 +268,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -211,9 +287,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -230,9 +306,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -249,9 +325,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -268,9 +344,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -287,9 +363,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -306,9 +382,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -325,9 +401,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -344,9 +420,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -363,9 +439,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -382,9 +458,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000008.txt",
    "price_at_trade": 314.16,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -1.7
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "LGND",
@@ -401,9 +477,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000006.txt",
    "price_at_trade": 316.13,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "LGND",
@@ -420,9 +496,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000006.txt",
    "price_at_trade": 316.13,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -2.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "LGND",
@@ -439,9 +515,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -458,9 +534,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -477,9 +553,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -496,9 +572,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -515,9 +591,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -534,9 +610,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -553,9 +629,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -572,9 +648,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -591,9 +667,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -610,9 +686,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -629,9 +705,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -648,9 +724,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -667,9 +743,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1950232/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -686,9 +762,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -705,9 +781,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -724,9 +800,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -743,9 +819,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -762,9 +838,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -781,9 +857,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -800,9 +876,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -819,9 +895,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -838,9 +914,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -857,9 +933,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -876,9 +952,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -895,9 +971,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -914,9 +990,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001950232-26-000006.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -933,9 +1009,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -952,9 +1028,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 307.02,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 0.6
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "LGND",
@@ -971,9 +1047,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -990,9 +1066,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1009,9 +1085,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1028,9 +1104,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1047,9 +1123,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1376960/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1066,9 +1142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1085,9 +1161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1104,9 +1180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1123,9 +1199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   },
   {
    "ticker": "LGND",
@@ -1142,9 +1218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/886163/0001376960-26-000005.txt",
    "price_at_trade": 322.75,
-   "price_now": 308.79,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": -4.3
+   "price_now": 301.71,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": -6.5
   }
  ],
  "trump_trades": [],
