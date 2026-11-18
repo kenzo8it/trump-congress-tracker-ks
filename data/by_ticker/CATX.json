@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "CATX",
  "company": {
   "name": "Perspective Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.92,
- "price_date": "2026-11-16",
+ "price_now": 0.86,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CATX",
+   "company_name": "Perspective Therapeutics, Inc.",
+   "owner_name": "Morich Frank",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 15000.0,
+   "price": 0.9364,
+   "value": 14046.0,
+   "shares_after": 30000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1748615/0001193125-26-464834.txt",
+   "price_at_trade": 0.92,
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -6.5
+  },
+  {
+   "ticker": "CATX",
+   "company_name": "Perspective Therapeutics, Inc.",
+   "owner_name": "Morich Frank",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 15000.0,
+   "price": 0.9364,
+   "value": 14046.0,
+   "shares_after": 30000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-464834.txt",
+   "price_at_trade": 0.92,
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -6.5
+  },
   {
    "ticker": "CATX",
    "company_name": "Perspective Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1393007/0001193125-26-462219.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1397331/0001193125-26-462220.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1397331/0001193125-26-462220.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748615/0001193125-26-462221.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-462219.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-462220.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-462220.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-462221.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1965071/0001193125-26-459395.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-459395.txt",
    "price_at_trade": 0.84,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 9.5
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.4
   },
   {
    "ticker": "CATX",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1965071/0001193125-26-459395.txt",
    "price_at_trade": 0.83,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 10.8
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "CATX",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-459395.txt",
    "price_at_trade": 0.83,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 10.8
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "CATX",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535289/0001193125-26-457093.txt",
    "price_at_trade": 0.83,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 10.8
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "CATX",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/728387/0001193125-26-457093.txt",
    "price_at_trade": 0.83,
-   "price_now": 0.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 10.8
+   "price_now": 0.86,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.6
   }
  ],
  "trump_trades": [],

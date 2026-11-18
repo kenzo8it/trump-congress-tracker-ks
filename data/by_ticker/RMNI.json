@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "RMNI",
  "company": {
   "name": "Rimini Street, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 5.5,
- "price_date": "2026-11-16",
+ "price_now": 5.43,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Maddock Kevin",
    "owner_title": "EVP,ChiefRecurringRev.Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 2440.0,
+   "price": 5.5716,
+   "value": 13594.7,
+   "shares_after": 197761.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635282/0001717514-26-000019.txt",
+   "price_at_trade": 5.53,
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "RMNI",
+   "company_name": "Rimini Street, Inc.",
+   "owner_name": "Maddock Kevin",
+   "owner_title": "EVP,ChiefRecurringRev.Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 2440.0,
+   "price": 5.5716,
+   "value": 13594.7,
+   "shares_after": 197761.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1717514/0001717514-26-000019.txt",
+   "price_at_trade": 5.53,
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "RMNI",
+   "company_name": "Rimini Street, Inc.",
+   "owner_name": "Maddock Kevin",
+   "owner_title": "EVP,ChiefRecurringRev.Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-04",
    "reported_date": "2026-11-09",
    "shares": 20000.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635282/0001717514-26-000017.txt",
    "price_at_trade": 5.26,
-   "price_now": 5.5,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 4.6
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "RMNI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1717514/0001717514-26-000017.txt",
    "price_at_trade": 5.26,
-   "price_now": 5.5,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 4.6
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 3.2
   },
   {
    "ticker": "RMNI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1635282/0002020161-26-000015.txt",
    "price_at_trade": 4.88,
-   "price_now": 5.5,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 12.7
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 11.3
   },
   {
    "ticker": "RMNI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020161/0002020161-26-000015.txt",
    "price_at_trade": 4.88,
-   "price_now": 5.5,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 12.7
+   "price_now": 5.43,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 11.3
   }
  ],
  "trump_trades": [],

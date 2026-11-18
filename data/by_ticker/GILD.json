@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "GILD",
  "company": {
   "name": "GILEAD SCIENCES, INC.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 167.58,
- "price_date": "2026-11-16",
+ "price_now": 170.26,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 134.65,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 24.5,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 26.4,
    "days_to_disclose": 44,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 134.65,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 24.5,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 26.4,
    "days_to_disclose": 44,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 138.48,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 21.0,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 23.0,
    "days_to_disclose": 30,
    "late_filing": false
   }
@@ -119,10 +119,10 @@
    "ticker": "GILD",
    "est_shares": 57.8,
    "avg_price": 138.48,
-   "price_now": 167.58,
-   "est_position_value": 9682,
-   "total_return_pct": 21.0,
-   "total_return_usd": 1681,
+   "price_now": 170.26,
+   "est_position_value": 9837,
+   "total_return_pct": 22.9,
+   "total_return_usd": 1836,
    "first_buy": "2026-01-27",
    "last_trade": "2026-01-27"
   },
@@ -135,10 +135,10 @@
    "ticker": "GILD",
    "est_shares": 118.8,
    "avg_price": 134.65,
-   "price_now": 167.58,
-   "est_position_value": 19914,
-   "total_return_pct": 24.5,
-   "total_return_usd": 3913,
+   "price_now": 170.26,
+   "est_position_value": 20233,
+   "total_return_pct": 26.4,
+   "total_return_usd": 4232,
    "first_buy": "2026-05-06",
    "last_trade": "2026-05-06"
   }
@@ -147,6 +147,158 @@
   {
    "ticker": "GILD",
    "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Dickinson Andrew D",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 3000.0,
+   "price": 171.47,
+   "value": 514410.0,
+   "shares_after": 158096.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1310204/0001310204-26-000033.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 13922.0,
+   "price": 169.9711,
+   "value": 2366337.65,
+   "shares_after": 124762.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782135/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 13178.0,
+   "price": 171.0937,
+   "value": 2254672.78,
+   "shares_after": 111584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782135/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 900.0,
+   "price": 171.6856,
+   "value": 154517.04,
+   "shares_after": 110684.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782135/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Dickinson Andrew D",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 3000.0,
+   "price": 171.47,
+   "value": 514410.0,
+   "shares_after": 158096.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001310204-26-000033.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 13922.0,
+   "price": 169.9711,
+   "value": 2366337.65,
+   "shares_after": 124762.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 13178.0,
+   "price": 171.0937,
+   "value": 2254672.78,
+   "shares_after": 111584.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
+   "owner_name": "Mercier Johanna",
+   "owner_title": "Chief Comm & Corp Aff Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 900.0,
+   "price": 171.6856,
+   "value": 154517.04,
+   "shares_after": 110684.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001782135-26-000037.txt",
+   "price_at_trade": 167.58,
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "GILD",
+   "company_name": "GILEAD SCIENCES, INC.",
    "owner_name": "Kramer Kelly A.",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -159,9 +311,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1629885/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -178,9 +330,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1629885/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -197,9 +349,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1629885/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -216,9 +368,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1629885/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -235,9 +387,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -254,9 +406,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -273,9 +425,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -292,9 +444,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001629885-26-000008.txt",
    "price_at_trade": 167.95,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.2
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "GILD",
@@ -311,9 +463,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2110603/0002110603-26-000015.txt",
    "price_at_trade": 166.89,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.4
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "GILD",
@@ -330,9 +482,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0002110603-26-000015.txt",
    "price_at_trade": 166.89,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.4
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "GILD",
@@ -349,9 +501,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000040.txt",
    "price_at_trade": 167.57,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "GILD",
@@ -368,9 +520,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000040.txt",
    "price_at_trade": 167.57,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.6
   },
   {
    "ticker": "GILD",
@@ -387,9 +539,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000040.txt",
    "price_at_trade": 174.48,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.0
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "GILD",
@@ -406,9 +558,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000040.txt",
    "price_at_trade": 174.48,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.0
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "GILD",
@@ -425,9 +577,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -444,9 +596,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -463,9 +615,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -482,9 +634,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -501,9 +653,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -520,9 +672,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -539,9 +691,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -558,9 +710,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -577,9 +729,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -596,9 +748,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.33,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.6
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.0
   },
   {
    "ticker": "GILD",
@@ -615,9 +767,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1638643/0001638643-26-000038.txt",
    "price_at_trade": 170.68,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.8
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "GILD",
@@ -634,9 +786,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/882095/0001638643-26-000038.txt",
    "price_at_trade": 170.68,
-   "price_now": 167.58,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.8
+   "price_now": 170.26,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.2
   }
  ],
  "trump_trades": [],

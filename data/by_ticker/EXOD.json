@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "EXOD",
  "company": {
   "name": "Exodus Movement, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 3.84,
- "price_date": "2026-11-16",
+ "price_now": 3.81,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EXOD",
+   "company_name": "Exodus Movement, Inc.",
+   "owner_name": "Di Giacomo Gerardo",
+   "owner_title": "Chief Security Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 7473.0,
+   "price": 4.58,
+   "value": 34226.34,
+   "shares_after": 72235.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1821534/0001628280-26-074390.txt",
+   "price_at_trade": 4.39,
+   "price_now": 3.81,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
+  },
+  {
+   "ticker": "EXOD",
+   "company_name": "Exodus Movement, Inc.",
+   "owner_name": "Di Giacomo Gerardo",
+   "owner_title": "Chief Security Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 7473.0,
+   "price": 4.58,
+   "value": 34226.34,
+   "shares_after": 72235.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2085767/0001628280-26-074390.txt",
+   "price_at_trade": 4.39,
+   "price_now": 3.81,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
+  },
   {
    "ticker": "EXOD",
    "company_name": "Exodus Movement, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821534/0001628280-26-070137.txt",
    "price_at_trade": 4.84,
-   "price_now": 3.84,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -20.7
+   "price_now": 3.81,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -21.3
   },
   {
    "ticker": "EXOD",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1966811/0001628280-26-070137.txt",
    "price_at_trade": 4.84,
-   "price_now": 3.84,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -20.7
+   "price_now": 3.81,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -21.3
   }
  ],
  "trump_trades": [],

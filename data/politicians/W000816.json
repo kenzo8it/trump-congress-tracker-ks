@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -61,24 +61,24 @@
  },
  "positions": [
   {
-   "ticker": "JPM",
-   "est_shares": 25.2,
-   "avg_price": 316.98,
-   "price_now": 338.21,
-   "est_position_value": 8536,
-   "total_return_pct": 6.7,
-   "total_return_usd": 536,
+   "ticker": "RTX",
+   "est_shares": 43.6,
+   "avg_price": 183.69,
+   "price_now": 198.0,
+   "est_position_value": 8624,
+   "total_return_pct": 7.8,
+   "total_return_usd": 623,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   },
   {
-   "ticker": "RTX",
-   "est_shares": 43.6,
-   "avg_price": 183.69,
-   "price_now": 194.89,
-   "est_position_value": 8488,
-   "total_return_pct": 6.1,
-   "total_return_usd": 488,
+   "ticker": "JPM",
+   "est_shares": 25.2,
+   "avg_price": 316.98,
+   "price_now": 329.96,
+   "est_position_value": 8328,
+   "total_return_pct": 4.1,
+   "total_return_usd": 328,
    "first_buy": "2025-12-22",
    "last_trade": "2025-12-22"
   }
@@ -108,9 +108,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 145.73,
-   "price_now": 217.14,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 49.0,
+   "price_now": 216.13,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 48.3,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -138,9 +138,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 145.02,
-   "price_now": 177.41,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 22.3,
+   "price_now": 177.07,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 22.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -170,9 +170,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 316.98,
-   "price_now": 338.21,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.7,
+   "price_now": 329.96,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 4.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -200,9 +200,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 183.69,
-   "price_now": 194.89,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.1,
+   "price_now": 198.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 7.8,
    "days_to_disclose": 24,
    "late_filing": false
   }

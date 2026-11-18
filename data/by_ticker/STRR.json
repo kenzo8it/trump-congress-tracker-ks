@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "STRR",
  "company": {
   "name": "Star Equity Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Help Supply Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 9.34,
- "price_date": "2026-11-16",
+ "price_now": 9.46,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000057.txt",
    "price_at_trade": 9.81,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.8
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "STRR",
@@ -54,9 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000057.txt",
    "price_at_trade": 9.81,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.8
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "STRR",
@@ -73,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000055.txt",
    "price_at_trade": 9.7,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.7
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "STRR",
@@ -92,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000055.txt",
    "price_at_trade": 9.7,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.7
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "STRR",
@@ -111,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000053.txt",
    "price_at_trade": 9.79,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.6
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.4
   },
   {
    "ticker": "STRR",
@@ -130,8 +130,65 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000053.txt",
    "price_at_trade": 9.79,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.4
+  },
+  {
+   "ticker": "STRR",
+   "company_name": "Star Equity Holdings, Inc.",
+   "owner_name": "Eberwein Jeffrey E.",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 1000.0,
+   "price": 9.1,
+   "value": 9100.0,
+   "shares_after": 751936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000053.txt",
+   "price_at_trade": 9.94,
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.8
+  },
+  {
+   "ticker": "STRR",
+   "company_name": "Star Equity Holdings, Inc.",
+   "owner_name": "Eberwein Jeffrey E.",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-20",
+   "reported_date": "2026-10-21",
+   "shares": 1000.0,
+   "price": 9.1,
+   "value": 9100.0,
+   "shares_after": 751936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000053.txt",
+   "price_at_trade": 9.94,
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.8
+  },
+  {
+   "ticker": "STRR",
+   "company_name": "Star Equity Holdings, Inc.",
+   "owner_name": "Eberwein Jeffrey E.",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-10-19",
+   "reported_date": "2026-10-21",
+   "shares": 1000.0,
+   "price": 9.11,
+   "value": 9110.0,
+   "shares_after": 752936.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000053.txt",
+   "price_at_trade": 9.92,
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
    "total_return_pct": -4.6
   },
   {
@@ -140,63 +197,6 @@
    "owner_name": "Eberwein Jeffrey E.",
    "owner_title": "Director, Chief Executive Officer, 10% owner",
    "trade_type": "SELL",
-   "traded_date": "2026-10-20",
-   "reported_date": "2026-10-21",
-   "shares": 1000.0,
-   "price": 9.1,
-   "value": 9100.0,
-   "shares_after": 751936.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000053.txt",
-   "price_at_trade": 9.94,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.0
-  },
-  {
-   "ticker": "STRR",
-   "company_name": "Star Equity Holdings, Inc.",
-   "owner_name": "Eberwein Jeffrey E.",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-20",
-   "reported_date": "2026-10-21",
-   "shares": 1000.0,
-   "price": 9.1,
-   "value": 9100.0,
-   "shares_after": 751936.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000053.txt",
-   "price_at_trade": 9.94,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.0
-  },
-  {
-   "ticker": "STRR",
-   "company_name": "Star Equity Holdings, Inc.",
-   "owner_name": "Eberwein Jeffrey E.",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-19",
-   "reported_date": "2026-10-21",
-   "shares": 1000.0,
-   "price": 9.11,
-   "value": 9110.0,
-   "shares_after": 752936.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1210708/0001548312-26-000053.txt",
-   "price_at_trade": 9.92,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -5.8
-  },
-  {
-   "ticker": "STRR",
-   "company_name": "Star Equity Holdings, Inc.",
-   "owner_name": "Eberwein Jeffrey E.",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "SELL",
    "traded_date": "2026-10-19",
    "reported_date": "2026-10-21",
    "shares": 1000.0,
@@ -206,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548312/0001548312-26-000053.txt",
    "price_at_trade": 9.92,
-   "price_now": 9.34,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -5.8
+   "price_now": 9.46,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.6
   }
  ],
  "trump_trades": [],

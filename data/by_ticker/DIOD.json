@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-18T04:02+00:00",
+ "ticker": "DIOD",
+ "company": {
+  "name": "DIODES INC /DEL/",
+  "cik": 29002,
+  "sic": 3674,
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Technology"
+ },
+ "price_now": 83.66,
+ "price_date": "2026-11-17",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "DIOD",
+   "company_name": "DIODES INC /DEL/",
+   "owner_name": "Yu Gary",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 5715.0,
+   "price": 92.0,
+   "value": 525780.0,
+   "shares_after": 102432.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1848176/0001193125-26-464977.txt",
+   "price_at_trade": 87.25,
+   "price_now": 83.66,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.1
+  },
+  {
+   "ticker": "DIOD",
+   "company_name": "DIODES INC /DEL/",
+   "owner_name": "Yu Gary",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 5715.0,
+   "price": 92.0,
+   "value": 525780.0,
+   "shares_after": 102432.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/29002/0001193125-26-464977.txt",
+   "price_at_trade": 87.25,
+   "price_now": 83.66,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.1
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

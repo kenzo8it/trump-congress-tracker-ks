@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "LCTX",
  "company": {
   "name": "Lineage Cell Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 0.8,
- "price_date": "2026-11-16",
+ "price_now": 0.82,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LCTX",
+   "company_name": "Lineage Cell Therapeutics, Inc.",
+   "owner_name": "Culley Brian M",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 40500.0,
+   "price": 0.916,
+   "value": 37098.0,
+   "shares_after": 296016.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1310683/0001193125-26-464849.txt",
+   "price_at_trade": 0.8,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "LCTX",
+   "company_name": "Lineage Cell Therapeutics, Inc.",
+   "owner_name": "ANDREWS DEBORAH J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "shares_after": 40578.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1325697/0001193125-26-465809.txt",
+   "price_at_trade": 0.8,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "LCTX",
+   "company_name": "Lineage Cell Therapeutics, Inc.",
+   "owner_name": "Culley Brian M",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 40500.0,
+   "price": 0.916,
+   "value": 37098.0,
+   "shares_after": 296016.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/876343/0001193125-26-464849.txt",
+   "price_at_trade": 0.8,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "LCTX",
+   "company_name": "Lineage Cell Therapeutics, Inc.",
+   "owner_name": "ANDREWS DEBORAH J",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "shares_after": 40578.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/876343/0001193125-26-465809.txt",
+   "price_at_trade": 0.8,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
+  },
   {
    "ticker": "LCTX",
    "company_name": "Lineage Cell Therapeutics, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1892397/0001193125-26-463787.txt",
    "price_at_trade": 0.8,
-   "price_now": 0.8,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "LCTX",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/876343/0001193125-26-463787.txt",
    "price_at_trade": 0.8,
-   "price_now": 0.8,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 0.82,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.5
   }
  ],
  "trump_trades": [],

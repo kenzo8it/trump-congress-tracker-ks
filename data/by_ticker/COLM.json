@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "COLM",
  "company": {
   "name": "COLUMBIA SPORTSWEAR CO",
@@ -8,8 +8,8 @@
   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
   "sector": "Retail & Consumer"
  },
- "price_now": 75.63,
- "price_date": "2026-11-16",
+ "price_now": 75.03,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "COLM",
+   "company_name": "COLUMBIA SPORTSWEAR CO",
+   "owner_name": "Nelson Ronald E.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1000.0,
+   "price": 75.285,
+   "value": 75285.0,
+   "shares_after": 21789.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000166.txt",
+   "price_at_trade": 75.63,
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "COLM",
+   "company_name": "COLUMBIA SPORTSWEAR CO",
+   "owner_name": "Nelson Ronald E.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1000.0,
+   "price": 75.285,
+   "value": 75285.0,
+   "shares_after": 21789.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1518939/0001050797-26-000166.txt",
+   "price_at_trade": 75.63,
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "COLM",
+   "company_name": "COLUMBIA SPORTSWEAR CO",
+   "owner_name": "BRYANT ANDY D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 7770.0,
+   "price": 73.535,
+   "value": 571366.95,
+   "shares_after": 44329.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000165.txt",
+   "price_at_trade": 73.47,
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.1
+  },
+  {
+   "ticker": "COLM",
+   "company_name": "COLUMBIA SPORTSWEAR CO",
+   "owner_name": "BRYANT ANDY D",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 7770.0,
+   "price": 73.535,
+   "value": 571366.95,
+   "shares_after": 44329.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1131061/0001050797-26-000165.txt",
+   "price_at_trade": 73.47,
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.1
+  },
   {
    "ticker": "COLM",
    "company_name": "COLUMBIA SPORTSWEAR CO",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000160.txt",
    "price_at_trade": 70.06,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 8.0
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "COLM",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711274/0001050797-26-000160.txt",
    "price_at_trade": 70.06,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 8.0
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "COLM",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000156.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "COLM",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000158.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "COLM",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/0001050797-26-000159.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "COLM",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1297763/0001050797-26-000156.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "COLM",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1649637/0001050797-26-000159.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   },
   {
    "ticker": "COLM",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1818109/0001050797-26-000158.txt",
    "price_at_trade": 71.12,
-   "price_now": 75.63,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 6.3
+   "price_now": 75.03,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 5.5
   }
  ],
  "trump_trades": [],

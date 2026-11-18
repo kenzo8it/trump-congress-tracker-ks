@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-18T04:02+00:00",
+ "ticker": "KRMD",
+ "company": {
+  "name": "KORU Medical Systems, Inc.",
+  "cik": 704440,
+  "sic": 3841,
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Healthcare"
+ },
+ "price_now": 3.49,
+ "price_date": "2026-11-17",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "KRMD",
+   "company_name": "KORU Medical Systems, Inc.",
+   "owner_name": "Schiller Eric",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 8546.09,
+   "price": 3.63,
+   "value": 31022.31,
+   "shares_after": 13546.09,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2105459/0001161697-26-000258.txt",
+   "price_at_trade": 3.7,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
+  },
+  {
+   "ticker": "KRMD",
+   "company_name": "KORU Medical Systems, Inc.",
+   "owner_name": "Schiller Eric",
+   "owner_title": "Chief Technology Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 8546.09,
+   "price": 3.63,
+   "value": 31022.31,
+   "shares_after": 13546.09,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/704440/0001161697-26-000258.txt",
+   "price_at_trade": 3.7,
+   "price_now": 3.49,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "NRDY",
  "company": {
   "name": "Nerdy Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Educational Services",
   "sector": "Other"
  },
- "price_now": 5.28,
- "price_date": "2026-11-16",
+ "price_now": 5.08,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Swenson Christopher C.",
    "owner_title": "Chief Legal Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1545.0,
+   "price": 5.36,
+   "value": 8281.2,
+   "shares_after": 157975.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1819404/0001628280-26-074566.txt",
+   "price_at_trade": 5.28,
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.8
+  },
+  {
+   "ticker": "NRDY",
+   "company_name": "Nerdy Inc.",
+   "owner_name": "Swenson Christopher C.",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1545.0,
+   "price": 5.36,
+   "value": 8281.2,
+   "shares_after": 157975.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1880166/0001628280-26-074566.txt",
+   "price_at_trade": 5.28,
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.8
+  },
+  {
+   "ticker": "NRDY",
+   "company_name": "Nerdy Inc.",
+   "owner_name": "Swenson Christopher C.",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-10-16",
    "reported_date": "2026-10-20",
    "shares": 3330.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1819404/0001628280-26-066571.txt",
    "price_at_trade": 6.17,
-   "price_now": 5.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -14.4
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -17.7
   },
   {
    "ticker": "NRDY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1819404/0001628280-26-066575.txt",
    "price_at_trade": 6.17,
-   "price_now": 5.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -14.4
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -17.7
   },
   {
    "ticker": "NRDY",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880166/0001628280-26-066571.txt",
    "price_at_trade": 6.17,
-   "price_now": 5.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -14.4
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -17.7
   },
   {
    "ticker": "NRDY",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2129766/0001628280-26-066575.txt",
    "price_at_trade": 6.17,
-   "price_now": 5.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -14.4
+   "price_now": 5.08,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -17.7
   }
  ],
  "trump_trades": [],

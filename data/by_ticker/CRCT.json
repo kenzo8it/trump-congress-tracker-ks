@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "CRCT",
  "company": {
   "name": "Cricut, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Special Industry Machinery, NEC",
   "sector": "Construction & Industrials"
  },
- "price_now": 8.65,
- "price_date": "2026-11-16",
+ "price_now": 8.5,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000047.txt",
    "price_at_trade": 8.65,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "CRCT",
@@ -54,8 +54,27 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000047.txt",
    "price_at_trade": 8.65,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.7
+  },
+  {
+   "ticker": "CRCT",
+   "company_name": "Cricut, Inc.",
+   "owner_name": "Ashish Arora",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-13",
+   "shares": 70000.0,
+   "price": 8.6202,
+   "value": 603414.0,
+   "shares_after": 4768740.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000047.txt",
+   "price_at_trade": 8.5,
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
    "total_return_pct": 0.0
   },
   {
@@ -71,30 +90,11 @@
    "value": 603414.0,
    "shares_after": 4768740.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000047.txt",
-   "price_at_trade": 8.5,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.8
-  },
-  {
-   "ticker": "CRCT",
-   "company_name": "Cricut, Inc.",
-   "owner_name": "Ashish Arora",
-   "owner_title": "Director, Chief Executive Officer, 10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-11-12",
-   "reported_date": "2026-11-13",
-   "shares": 70000.0,
-   "price": 8.6202,
-   "value": 603414.0,
-   "shares_after": 4768740.0,
-   "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000047.txt",
    "price_at_trade": 8.5,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.8
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "CRCT",
@@ -111,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000047.txt",
    "price_at_trade": 8.88,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -2.6
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "CRCT",
@@ -130,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000047.txt",
    "price_at_trade": 8.88,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -2.6
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "CRCT",
@@ -149,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000045.txt",
    "price_at_trade": 6.25,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 38.4
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 36.0
   },
   {
    "ticker": "CRCT",
@@ -168,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000045.txt",
    "price_at_trade": 6.25,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 38.4
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 36.0
   },
   {
    "ticker": "CRCT",
@@ -187,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000045.txt",
    "price_at_trade": 6.41,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 34.9
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 32.6
   },
   {
    "ticker": "CRCT",
@@ -206,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000045.txt",
    "price_at_trade": 6.41,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 34.9
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 32.6
   },
   {
    "ticker": "CRCT",
@@ -225,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828962/0001851564-26-000045.txt",
    "price_at_trade": 6.33,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 36.7
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 34.3
   },
   {
    "ticker": "CRCT",
@@ -244,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1851564/0001851564-26-000045.txt",
    "price_at_trade": 6.33,
-   "price_now": 8.65,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 36.7
+   "price_now": 8.5,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 34.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "CTM",
  "company": {
   "name": "Castellum, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Management Consulting Services",
   "sector": "Other"
  },
- "price_now": 0.42,
- "price_date": "2026-11-16",
+ "price_now": 0.41,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CTM",
+   "company_name": "Castellum, Inc.",
+   "owner_name": "Bell David T",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 51886.0,
+   "price": 0.4291,
+   "value": 22264.28,
+   "shares_after": 70537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1877939/0001877939-26-000104.txt",
+   "price_at_trade": 0.42,
+   "price_now": 0.41,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.2
+  },
+  {
+   "ticker": "CTM",
+   "company_name": "Castellum, Inc.",
+   "owner_name": "Bell David T",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 51886.0,
+   "price": 0.4291,
+   "value": 22264.28,
+   "shares_after": 70537.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1944338/0001877939-26-000104.txt",
+   "price_at_trade": 0.42,
+   "price_now": 0.41,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.2
+  },
   {
    "ticker": "CTM",
    "company_name": "Castellum, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1877939/0001877939-26-000102.txt",
    "price_at_trade": 0.45,
-   "price_now": 0.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.7
+   "price_now": 0.41,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -7.8
   },
   {
    "ticker": "CTM",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2036177/0001877939-26-000102.txt",
    "price_at_trade": 0.45,
-   "price_now": 0.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.7
+   "price_now": 0.41,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -7.8
   }
  ],
  "trump_trades": [],

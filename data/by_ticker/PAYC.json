@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "PAYC",
  "company": {
   "name": "Paycom Software, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 254.75,
- "price_date": "2026-11-16",
+ "price_now": 247.9,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 119.32,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 113.5,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 107.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 125.16,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 103.5,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 98.1,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 217.6,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 17.1,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 13.9,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -136,9 +136,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 217.6,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 17.1,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 13.9,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -155,10 +155,10 @@
    "ticker": "PAYC",
    "est_shares": 36.8,
    "avg_price": 217.6,
-   "price_now": 254.75,
-   "est_position_value": 9366,
-   "total_return_pct": 17.1,
-   "total_return_usd": 1366,
+   "price_now": 247.9,
+   "est_position_value": 9115,
+   "total_return_pct": 13.9,
+   "total_return_usd": 1114,
    "first_buy": "2025-09-23",
    "last_trade": "2025-09-23"
   }
@@ -167,6 +167,44 @@
   {
    "ticker": "PAYC",
    "company_name": "Paycom Software, Inc.",
+   "owner_name": "Foster Robert D.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 2105.0,
+   "price": 251.26,
+   "value": 528902.3,
+   "shares_after": 34059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/0001193125-26-465612.txt",
+   "price_at_trade": 247.9,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "PAYC",
+   "company_name": "Paycom Software, Inc.",
+   "owner_name": "Foster Robert D.",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 2105.0,
+   "price": 251.26,
+   "value": 528902.3,
+   "shares_after": 34059.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2056628/0001193125-26-465612.txt",
+   "price_at_trade": 247.9,
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "PAYC",
+   "company_name": "Paycom Software, Inc.",
    "owner_name": "Peck Randall",
    "owner_title": "Chief Operating Officer",
    "trade_type": "SELL",
@@ -179,9 +217,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "PAYC",
@@ -198,9 +236,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "PAYC",
@@ -217,9 +255,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "PAYC",
@@ -236,9 +274,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025321/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "PAYC",
@@ -255,9 +293,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025321/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "PAYC",
@@ -274,9 +312,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025321/0001193125-26-463505.txt",
    "price_at_trade": 248.86,
-   "price_now": 254.75,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 2.4
+   "price_now": 247.9,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -0.4
   }
  ],
  "trump_trades": [
@@ -293,8 +331,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 126.04,
    "price_basis": "price on trade date",
-   "price_now": 254.75,
-   "total_return_pct": 102.1
+   "price_now": 247.9,
+   "total_return_pct": 96.7
   }
  ],
  "trump_sponsor": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "TLSI",
  "company": {
   "name": "TriSalus Life Sciences, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 2.27,
- "price_date": "2026-11-16",
+ "price_now": 2.3,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TLSI",
+   "company_name": "TriSalus Life Sciences, Inc.",
+   "owner_name": "Marshak Richard",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 544.0,
+   "price": 2.43,
+   "value": 1321.92,
+   "shares_after": 127450.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1826667/0001628280-26-074470.txt",
+   "price_at_trade": 2.27,
+   "price_now": 2.3,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "TLSI",
+   "company_name": "TriSalus Life Sciences, Inc.",
+   "owner_name": "Marshak Richard",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 544.0,
+   "price": 2.43,
+   "value": 1321.92,
+   "shares_after": 127450.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1982638/0001628280-26-074470.txt",
+   "price_at_trade": 2.27,
+   "price_now": 2.3,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "TLSI",
    "company_name": "TriSalus Life Sciences, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1459154/0001628280-26-074009.txt",
    "price_at_trade": 2.52,
-   "price_now": 2.27,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -9.9
+   "price_now": 2.3,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "TLSI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1826667/0001628280-26-074009.txt",
    "price_at_trade": 2.52,
-   "price_now": 2.27,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -9.9
+   "price_now": 2.3,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.9
   }
  ],
  "trump_trades": [],

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-18T04:02+00:00",
+ "ticker": "PRAA",
+ "company": {
+  "name": "PRA GROUP INC",
+  "cik": 1185348,
+  "sic": 6153,
+  "industry": "Short-Term Business Credit Institutions",
+  "sector": "Financials"
+ },
+ "price_now": 11.17,
+ "price_date": "2026-11-17",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "PRAA",
+   "company_name": "PRA GROUP INC",
+   "owner_name": "FREDRICKSON STEVEN D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 25000.0,
+   "price": 11.8,
+   "value": 295000.0,
+   "shares_after": 25000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1185348/0001185352-26-000002.txt",
+   "price_at_trade": 11.84,
+   "price_now": 11.17,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
+  },
+  {
+   "ticker": "PRAA",
+   "company_name": "PRA GROUP INC",
+   "owner_name": "FREDRICKSON STEVEN D",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 25000.0,
+   "price": 11.8,
+   "value": 295000.0,
+   "shares_after": 25000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1185352/0001185352-26-000002.txt",
+   "price_at_trade": 11.84,
+   "price_now": 11.17,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

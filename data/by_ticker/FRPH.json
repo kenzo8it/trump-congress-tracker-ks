@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "FRPH",
  "company": {
   "name": "FRP HOLDINGS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate",
   "sector": "Real Estate"
  },
- "price_now": 18.28,
- "price_date": "2026-11-16",
+ "price_now": 18.02,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "BAKER JOHN D II",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 2825.0,
+   "price": 18.45,
+   "value": 52121.25,
+   "shares_after": 3064995.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1190089/0000897069-26-001942.txt",
+   "price_at_trade": 18.28,
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
+  },
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "BAKER JOHN D II",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 2825.0,
+   "price": 18.45,
+   "value": 52121.25,
+   "shares_after": 3064995.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001942.txt",
+   "price_at_trade": 18.28,
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
+  },
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "BAKER JOHN D II",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 2781.0,
+   "price": 18.45,
+   "value": 51309.45,
+   "shares_after": 3062170.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1190089/0000897069-26-001942.txt",
+   "price_at_trade": 18.47,
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "FRPH",
+   "company_name": "FRP HOLDINGS, INC.",
+   "owner_name": "BAKER JOHN D II",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 2781.0,
+   "price": 18.45,
+   "value": 51309.45,
+   "shares_after": 3062170.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001942.txt",
+   "price_at_trade": 18.47,
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
+  },
   {
    "ticker": "FRPH",
    "company_name": "FRP HOLDINGS, INC.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1785797/0000897069-26-001928.txt",
    "price_at_trade": 18.45,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.9
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "FRPH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001928.txt",
    "price_at_trade": 18.45,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -0.9
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.3
   },
   {
    "ticker": "FRPH",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1785797/0000897069-26-001921.txt",
    "price_at_trade": 18.9,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.3
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "FRPH",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001921.txt",
    "price_at_trade": 18.9,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.3
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "FRPH",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1785797/0000897069-26-001921.txt",
    "price_at_trade": 19.0,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.8
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "FRPH",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/844059/0000897069-26-001921.txt",
    "price_at_trade": 19.0,
-   "price_now": 18.28,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.8
+   "price_now": 18.02,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.2
   }
  ],
  "trump_trades": [],

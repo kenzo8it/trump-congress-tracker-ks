@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "LPTH",
  "company": {
   "name": "LIGHTPATH TECHNOLOGIES INC",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 6.16,
- "price_date": "2026-11-16",
+ "price_now": 6.23,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LPTH",
+   "company_name": "LIGHTPATH TECHNOLOGIES INC",
+   "owner_name": "Caylor Mark A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 3961.965,
+   "price": 6.31,
+   "value": 25000.0,
+   "shares_after": 3961.965,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1559097/0001437749-26-037384.txt",
+   "price_at_trade": 6.23,
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LPTH",
+   "company_name": "LIGHTPATH TECHNOLOGIES INC",
+   "owner_name": "Crider Kimberly Anne",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 100.0,
+   "price": 6.36,
+   "value": 636.0,
+   "shares_after": 69251.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2011553/0001437749-26-037387.txt",
+   "price_at_trade": 6.23,
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LPTH",
+   "company_name": "LIGHTPATH TECHNOLOGIES INC",
+   "owner_name": "Caylor Mark A",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 3961.965,
+   "price": 6.31,
+   "value": 25000.0,
+   "shares_after": 3961.965,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/889971/0001437749-26-037384.txt",
+   "price_at_trade": 6.23,
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LPTH",
+   "company_name": "LIGHTPATH TECHNOLOGIES INC",
+   "owner_name": "Crider Kimberly Anne",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 100.0,
+   "price": 6.36,
+   "value": 636.0,
+   "shares_after": 69251.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/889971/0001437749-26-037387.txt",
+   "price_at_trade": 6.23,
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "LPTH",
    "company_name": "LIGHTPATH TECHNOLOGIES INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1806183/0001437749-26-037219.txt",
    "price_at_trade": 6.84,
-   "price_now": 6.16,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -9.9
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "LPTH",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889971/0001437749-26-037219.txt",
    "price_at_trade": 6.84,
-   "price_now": 6.16,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -9.9
+   "price_now": 6.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.9
   }
  ],
  "trump_trades": [],

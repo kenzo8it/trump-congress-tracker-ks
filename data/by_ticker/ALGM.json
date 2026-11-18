@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "ALGM",
  "company": {
   "name": "ALLEGRO MICROSYSTEMS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 28.11,
- "price_date": "2026-11-16",
+ "price_now": 28.23,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 36.6,
-   "price_now": 28.11,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -23.2,
+   "price_now": 28.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -22.9,
    "days_to_disclose": 13,
    "late_filing": false
   }
@@ -59,15 +59,54 @@
    "ticker": "ALGM",
    "est_shares": 218.6,
    "avg_price": 36.6,
-   "price_now": 28.11,
-   "est_position_value": 6145,
-   "total_return_pct": -23.2,
-   "total_return_usd": -1856,
+   "price_now": 28.23,
+   "est_position_value": 6171,
+   "total_return_pct": -22.9,
+   "total_return_usd": -1830,
    "first_buy": "2026-09-29",
    "last_trade": "2026-09-29"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ALGM",
+   "company_name": "ALLEGRO MICROSYSTEMS, INC.",
+   "owner_name": "Kent Ian",
+   "owner_title": "SVP, Global Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1356.0,
+   "price": 28.65,
+   "value": 38849.4,
+   "shares_after": 22832.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2104292/0001193125-26-465595.txt",
+   "price_at_trade": 28.11,
+   "price_now": 28.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "ALGM",
+   "company_name": "ALLEGRO MICROSYSTEMS, INC.",
+   "owner_name": "Kent Ian",
+   "owner_title": "SVP, Global Operations",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1356.0,
+   "price": 28.65,
+   "value": 38849.4,
+   "shares_after": 22832.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/866291/0001193125-26-465595.txt",
+   "price_at_trade": 28.11,
+   "price_now": 28.23,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.4
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

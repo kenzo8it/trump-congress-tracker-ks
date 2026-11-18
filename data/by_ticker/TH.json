@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "TH",
  "company": {
   "name": "Target Hospitality Corp.",
@@ -8,8 +8,8 @@
   "industry": "Hotels, Rooming Houses, Camps & Other Lodging Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 11.6,
- "price_date": "2026-11-16",
+ "price_now": 12.14,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "TH",
    "company_name": "Target Hospitality Corp.",
+   "owner_name": "PATENAUDE PAMELA H.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 4000.0,
+   "price": 11.39,
+   "value": 45560.0,
+   "shares_after": 73375.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1712189/0001712189-26-000067.txt",
+   "price_at_trade": 11.59,
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "TH",
+   "company_name": "Target Hospitality Corp.",
+   "owner_name": "PATENAUDE PAMELA H.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 4000.0,
+   "price": 11.39,
+   "value": 45560.0,
+   "shares_after": 73375.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1815221/0001712189-26-000067.txt",
+   "price_at_trade": 11.59,
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 4.7
+  },
+  {
+   "ticker": "TH",
+   "company_name": "Target Hospitality Corp.",
    "owner_name": "Schrenk Troy C.",
    "owner_title": "Chief Commercial Officer",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1712189/0001712189-26-000065.txt",
    "price_at_trade": 11.59,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.1
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 4.7
   },
   {
    "ticker": "TH",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1763047/0001712189-26-000065.txt",
    "price_at_trade": 11.59,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.1
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 4.7
   },
   {
    "ticker": "TH",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1712189/0001712189-26-000065.txt",
    "price_at_trade": 11.98,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.2
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "TH",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1763047/0001712189-26-000065.txt",
    "price_at_trade": 11.98,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.2
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "TH",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1712189/0001712189-26-000063.txt",
    "price_at_trade": 11.8,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.7
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "TH",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1763054/0001712189-26-000063.txt",
    "price_at_trade": 11.8,
-   "price_now": 11.6,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.7
+   "price_now": 12.14,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 2.9
   }
  ],
  "trump_trades": [],

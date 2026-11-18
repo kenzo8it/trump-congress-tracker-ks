@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "DKNG",
  "company": {
   "name": "DraftKings Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Miscellaneous Amusement & Recreation",
   "sector": "Retail & Consumer"
  },
- "price_now": 18.42,
- "price_date": "2026-11-16",
+ "price_now": 18.0,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DKNG",
+   "company_name": "DraftKings Inc.",
+   "owner_name": "Kalish Matthew",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 55000.0,
+   "price": 18.22,
+   "value": 1002100.0,
+   "shares_after": 5689845.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1810190/0001810190-26-000018.txt",
+   "price_at_trade": 18.0,
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "DKNG",
+   "company_name": "DraftKings Inc.",
+   "owner_name": "Kalish Matthew",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 55000.0,
+   "price": 18.22,
+   "value": 1002100.0,
+   "shares_after": 5689845.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1883685/0001810190-26-000018.txt",
+   "price_at_trade": 18.0,
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "DKNG",
    "company_name": "DraftKings Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1883685/0002088880-26-000008.txt",
    "price_at_trade": 19.64,
-   "price_now": 18.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.2
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "DKNG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2088880/0002088880-26-000008.txt",
    "price_at_trade": 19.64,
-   "price_now": 18.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -6.2
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "DKNG",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1883685/0002019299-26-000018.txt",
    "price_at_trade": 18.7,
-   "price_now": 18.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.5
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "DKNG",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2019299/0002019299-26-000018.txt",
    "price_at_trade": 18.7,
-   "price_now": 18.42,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -1.5
+   "price_now": 18.0,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -3.7
   }
  ],
  "trump_trades": [],

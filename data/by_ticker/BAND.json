@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "BAND",
  "company": {
   "name": "Bandwidth Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 40.92,
- "price_date": "2026-11-16",
+ "price_now": 40.19,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "BAND",
    "company_name": "Bandwidth Inc.",
+   "owner_name": "Roush Lukas M.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1500.0,
+   "price": 42.1,
+   "value": 63150.0,
+   "shares_after": 57269.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1514416/0001758209-26-000020.txt",
+   "price_at_trade": 40.92,
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "BAND",
+   "company_name": "Bandwidth Inc.",
+   "owner_name": "Roush Lukas M.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 1500.0,
+   "price": 42.1,
+   "value": 63150.0,
+   "shares_after": 57269.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1758209/0001758209-26-000020.txt",
+   "price_at_trade": 40.92,
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.8
+  },
+  {
+   "ticker": "BAND",
+   "company_name": "Bandwidth Inc.",
    "owner_name": "Suriano Douglas A",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1514416/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   },
   {
    "ticker": "BAND",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1514416/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   },
   {
    "ticker": "BAND",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1514416/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   },
   {
    "ticker": "BAND",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1527937/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   },
   {
    "ticker": "BAND",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1527937/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   },
   {
    "ticker": "BAND",
@@ -130,47 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1527937/0001527937-26-000014.txt",
    "price_at_trade": 46.29,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -11.6
-  },
-  {
-   "ticker": "BAND",
-   "company_name": "Bandwidth Inc.",
-   "owner_name": "Roush Lukas M.",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-16",
-   "reported_date": "2026-10-19",
-   "shares": 1500.0,
-   "price": 49.04,
-   "value": 73560.0,
-   "shares_after": 58769.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1514416/0001758209-26-000018.txt",
-   "price_at_trade": 43.34,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -5.6
-  },
-  {
-   "ticker": "BAND",
-   "company_name": "Bandwidth Inc.",
-   "owner_name": "Roush Lukas M.",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-16",
-   "reported_date": "2026-10-19",
-   "shares": 1500.0,
-   "price": 49.04,
-   "value": 73560.0,
-   "shares_after": 58769.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1758209/0001758209-26-000018.txt",
-   "price_at_trade": 43.34,
-   "price_now": 40.92,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -5.6
+   "price_now": 40.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -13.2
   }
  ],
  "trump_trades": [],

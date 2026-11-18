@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-18T04:02+00:00",
+ "ticker": "ACH",
+ "company": {
+  "name": "ACCENDRA HEALTH INC/VA/",
+  "cik": 75252,
+  "sic": 5047,
+  "industry": "Wholesale-Medical, Dental & Hospital Equipment & Supplies",
+  "sector": "Other"
+ },
+ "price_now": 0.09,
+ "price_date": "2026-11-16",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ACH",
+   "company_name": "ACCENDRA HEALTH INC/VA/",
+   "owner_name": "Bernocchi Perry A",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 33161.0,
+   "price": 0.122,
+   "value": 4045.64,
+   "shares_after": 280752.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1967402/0000075252-26-000047.txt",
+   "price_at_trade": 0.09,
+   "price_now": 0.09,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ACH",
+   "company_name": "ACCENDRA HEALTH INC/VA/",
+   "owner_name": "Bernocchi Perry A",
+   "owner_title": null,
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 33161.0,
+   "price": 0.122,
+   "value": 4045.64,
+   "shares_after": 280752.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/75252/0000075252-26-000047.txt",
+   "price_at_trade": 0.09,
+   "price_now": 0.09,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

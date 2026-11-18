@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-18T04:02+00:00",
+ "ticker": "WWW",
+ "company": {
+  "name": "WOLVERINE WORLD WIDE INC /DE/",
+  "cik": 110471,
+  "sic": 3140,
+  "industry": "Footwear, (No Rubber)",
+  "sector": "Other"
+ },
+ "price_now": 24.67,
+ "price_date": "2026-11-17",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "WWW",
+   "company_name": "WOLVERINE WORLD WIDE INC /DE/",
+   "owner_name": "Hufnagel Christopher",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 72711.0,
+   "price": 25.21,
+   "value": 1833044.31,
+   "shares_after": 135984.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/110471/0001628280-26-074503.txt",
+   "price_at_trade": 25.29,
+   "price_now": 24.67,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.5
+  },
+  {
+   "ticker": "WWW",
+   "company_name": "WOLVERINE WORLD WIDE INC /DE/",
+   "owner_name": "Hufnagel Christopher",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 72711.0,
+   "price": 25.21,
+   "value": 1833044.31,
+   "shares_after": 135984.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1811182/0001628280-26-074503.txt",
+   "price_at_trade": 25.29,
+   "price_now": 24.67,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

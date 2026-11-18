@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "PTON",
  "company": {
   "name": "PELOTON INTERACTIVE, INC.",
@@ -8,8 +8,8 @@
   "industry": "Sporting & Athletic Goods, NEC",
   "sector": "Other"
  },
- "price_now": 5.33,
- "price_date": "2026-11-16",
+ "price_now": 5.19,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 4.79,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 11.3,
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 8.4,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 4.06,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 31.3,
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 27.8,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 4.06,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 31.3,
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 27.8,
    "days_to_disclose": 33,
    "late_filing": false
   }
@@ -119,15 +119,53 @@
    "ticker": "PTON",
    "est_shares": 2270.9,
    "avg_price": 4.06,
-   "price_now": 5.33,
-   "est_position_value": 12104,
-   "total_return_pct": 31.3,
-   "total_return_usd": 2884,
+   "price_now": 5.19,
+   "est_position_value": 11786,
+   "total_return_pct": 27.8,
+   "total_return_usd": 2566,
    "first_buy": "2026-03-19",
    "last_trade": "2026-09-24"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "PTON",
+   "company_name": "PELOTON INTERACTIVE, INC.",
+   "owner_name": "Baig Saqib",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 52326.0,
+   "price": 5.6249,
+   "value": 294328.52,
+   "shares_after": 301137.47,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/0001954584-26-000031.txt",
+   "price_at_trade": 5.33,
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.6
+  },
+  {
+   "ticker": "PTON",
+   "company_name": "PELOTON INTERACTIVE, INC.",
+   "owner_name": "Baig Saqib",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-17",
+   "shares": 52326.0,
+   "price": 5.6249,
+   "value": 294328.52,
+   "shares_after": 301137.47,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1954584/0001954584-26-000031.txt",
+   "price_at_trade": 5.33,
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.6
+  },
   {
    "ticker": "PTON",
    "company_name": "PELOTON INTERACTIVE, INC.",
@@ -143,9 +181,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/0001954584-26-000029.txt",
    "price_at_trade": 5.81,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -8.3
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -10.7
   },
   {
    "ticker": "PTON",
@@ -162,9 +200,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1954584/0001954584-26-000029.txt",
    "price_at_trade": 5.81,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -8.3
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -10.7
   },
   {
    "ticker": "PTON",
@@ -181,9 +219,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/0001954584-26-000026.txt",
    "price_at_trade": 5.45,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -2.2
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.8
   },
   {
    "ticker": "PTON",
@@ -200,47 +238,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1954584/0001954584-26-000026.txt",
    "price_at_trade": 5.45,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -2.2
-  },
-  {
-   "ticker": "PTON",
-   "company_name": "PELOTON INTERACTIVE, INC.",
-   "owner_name": "Kirol Charles Peter",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 28849.0,
-   "price": 5.33,
-   "value": 153765.17,
-   "shares_after": 197334.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1639825/0002065340-26-000023.txt",
-   "price_at_trade": 5.33,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
-  },
-  {
-   "ticker": "PTON",
-   "company_name": "PELOTON INTERACTIVE, INC.",
-   "owner_name": "Kirol Charles Peter",
-   "owner_title": "Chief Operating Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 28849.0,
-   "price": 5.33,
-   "value": 153765.17,
-   "shares_after": 197334.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2065340/0002065340-26-000023.txt",
-   "price_at_trade": 5.33,
-   "price_now": 5.33,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 5.19,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -4.8
   }
  ],
  "trump_trades": [],

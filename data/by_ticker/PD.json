@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "PD",
  "company": {
   "name": "PagerDuty, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 16.02,
- "price_date": "2026-11-16",
+ "price_now": 15.34,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/0001736979-26-000025.txt",
    "price_at_trade": 17.95,
-   "price_now": 16.02,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -10.8
+   "price_now": 15.34,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -14.5
   },
   {
    "ticker": "PD",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736979/0001736979-26-000025.txt",
    "price_at_trade": 17.95,
-   "price_now": 16.02,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -10.8
-  },
-  {
-   "ticker": "PD",
-   "company_name": "PagerDuty, Inc.",
-   "owner_name": "Tejada Jennifer",
-   "owner_title": "Director, Executive Chair",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 57500.0,
-   "price": 17.165,
-   "value": 986987.5,
-   "shares_after": 1434541.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/0001736979-26-000023.txt",
-   "price_at_trade": 17.25,
-   "price_now": 16.02,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -7.1
-  },
-  {
-   "ticker": "PD",
-   "company_name": "PagerDuty, Inc.",
-   "owner_name": "Tejada Jennifer",
-   "owner_title": "Director, Executive Chair",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 57500.0,
-   "price": 17.165,
-   "value": 986987.5,
-   "shares_after": 1434541.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1736979/0001736979-26-000023.txt",
-   "price_at_trade": 17.25,
-   "price_now": 16.02,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -7.1
+   "price_now": 15.34,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -14.5
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "RARE",
  "company": {
   "name": "Ultragenyx Pharmaceutical Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 15.9,
- "price_date": "2026-11-16",
+ "price_now": 16.7,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 15.32,
-   "price_now": 15.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 3.8,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 9.0,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 22.07,
-   "price_now": 15.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -28.0,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -24.3,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 20.45,
-   "price_now": 15.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -22.2,
+   "price_now": 16.7,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -18.3,
    "days_to_disclose": 19,
    "late_filing": false
   }
@@ -119,54 +119,15 @@
    "ticker": "RARE",
    "est_shares": 1276.0,
    "avg_price": 18.81,
-   "price_now": 15.9,
-   "est_position_value": 20288,
-   "total_return_pct": -15.5,
-   "total_return_usd": -3714,
+   "price_now": 16.7,
+   "est_position_value": 21308,
+   "total_return_pct": -11.2,
+   "total_return_usd": -2693,
    "first_buy": "2026-02-18",
    "last_trade": "2026-09-29"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "RARE",
-   "company_name": "Ultragenyx Pharmaceutical Inc.",
-   "owner_name": "Horn Howard",
-   "owner_title": "Chief Financial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 7066.0,
-   "price": 15.27,
-   "value": 107897.82,
-   "shares_after": 89229.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1515673/0001193125-26-425032.txt",
-   "price_at_trade": 15.17,
-   "price_now": 15.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 4.8
-  },
-  {
-   "ticker": "RARE",
-   "company_name": "Ultragenyx Pharmaceutical Inc.",
-   "owner_name": "Horn Howard",
-   "owner_title": "Chief Financial Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 7066.0,
-   "price": 15.27,
-   "value": 107897.82,
-   "shares_after": 89229.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1786335/0001193125-26-425032.txt",
-   "price_at_trade": 15.17,
-   "price_now": 15.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 4.8
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

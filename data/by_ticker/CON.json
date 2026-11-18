@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "CON",
  "company": {
   "name": "Concentra Group Holdings Parent, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Specialty Outpatient Facilities, NEC",
   "sector": "Healthcare"
  },
- "price_now": 43.44,
- "price_date": "2026-11-16",
+ "price_now": 42.38,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 20.37,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 113.2,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 108.0,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -72,15 +72,91 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 21.96,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 97.8,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 93.0,
    "days_to_disclose": 41,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CON",
+   "company_name": "Concentra Group Holdings Parent, Inc.",
+   "owner_name": "Newton Raymond Tanner",
+   "owner_title": "EVP & Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 2843.0,
+   "price": 42.93,
+   "value": 122049.99,
+   "shares_after": 111255.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002014596-26-000086.txt",
+   "price_at_trade": 42.38,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CON",
+   "company_name": "Concentra Group Holdings Parent, Inc.",
+   "owner_name": "deLorimier John A.",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 17444.0,
+   "price": 42.865,
+   "value": 747737.06,
+   "shares_after": 130115.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002014596-26-000089.txt",
+   "price_at_trade": 42.38,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CON",
+   "company_name": "Concentra Group Holdings Parent, Inc.",
+   "owner_name": "deLorimier John A.",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 17444.0,
+   "price": 42.865,
+   "value": 747737.06,
+   "shares_after": 130115.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2030161/0002014596-26-000089.txt",
+   "price_at_trade": 42.38,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CON",
+   "company_name": "Concentra Group Holdings Parent, Inc.",
+   "owner_name": "Newton Raymond Tanner",
+   "owner_title": "EVP & Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-17",
+   "shares": 2843.0,
+   "price": 42.93,
+   "value": 122049.99,
+   "shares_after": 111255.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2163104/0002014596-26-000086.txt",
+   "price_at_trade": 42.38,
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "CON",
    "company_name": "Concentra Group Holdings Parent, Inc.",
@@ -96,9 +172,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002029838-26-000004.txt",
    "price_at_trade": 43.44,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "CON",
@@ -115,9 +191,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002031707-26-000004.txt",
    "price_at_trade": 43.44,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "CON",
@@ -134,9 +210,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2029838/0002029838-26-000004.txt",
    "price_at_trade": 43.44,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "CON",
@@ -153,9 +229,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2031707/0002031707-26-000004.txt",
    "price_at_trade": 43.44,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 0.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "CON",
@@ -172,9 +248,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002029684-26-000003.txt",
    "price_at_trade": 42.99,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "CON",
@@ -191,9 +267,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2014596/0002029837-26-000003.txt",
    "price_at_trade": 42.99,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "CON",
@@ -210,9 +286,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2029684/0002029684-26-000003.txt",
    "price_at_trade": 42.99,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
   },
   {
    "ticker": "CON",
@@ -229,9 +305,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2029837/0002029837-26-000003.txt",
    "price_at_trade": 42.99,
-   "price_now": 43.44,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": 1.0
+   "price_now": 42.38,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -1.4
   }
  ],
  "trump_trades": [],

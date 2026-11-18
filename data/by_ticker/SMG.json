@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "SMG",
  "company": {
   "name": "SCOTTS MIRACLE-GRO CO",
@@ -8,8 +8,8 @@
   "industry": "Agricultural Chemicals",
   "sector": "Agriculture & Food"
  },
- "price_now": 63.76,
- "price_date": "2026-11-16",
+ "price_now": 62.55,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SMG",
+   "company_name": "SCOTTS MIRACLE-GRO CO",
+   "owner_name": "Shumlin Peter E",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 3716.0,
+   "price": 64.507,
+   "value": 239708.01,
+   "shares_after": 27130.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1696706/0001696706-26-000010.txt",
+   "price_at_trade": 63.84,
+   "price_now": 62.55,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "SMG",
+   "company_name": "SCOTTS MIRACLE-GRO CO",
+   "owner_name": "Shumlin Peter E",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-17",
+   "shares": 3716.0,
+   "price": 64.507,
+   "value": 239708.01,
+   "shares_after": 27130.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/825542/0001696706-26-000010.txt",
+   "price_at_trade": 63.84,
+   "price_now": 62.55,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -2.0
+  },
   {
    "ticker": "SMG",
    "company_name": "SCOTTS MIRACLE-GRO CO",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1375909/0001375909-26-000013.txt",
    "price_at_trade": 66.34,
-   "price_now": 63.76,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.9
+   "price_now": 62.55,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "SMG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/825542/0001375909-26-000013.txt",
    "price_at_trade": 66.34,
-   "price_now": 63.76,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -3.9
+   "price_now": 62.55,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],

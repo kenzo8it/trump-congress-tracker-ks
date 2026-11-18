@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:46+00:00",
+ "updated": "2026-11-18T04:02+00:00",
  "ticker": "FVRR",
  "company": {
   "name": "Fiverr International Ltd.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 7.9,
- "price_date": "2026-11-16",
+ "price_now": 7.73,
+ "price_date": "2026-11-17",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1762301/0001178913-26-004892.txt",
    "price_at_trade": 8.31,
-   "price_now": 7.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.9
+   "price_now": 7.73,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "FVRR",
@@ -54,47 +54,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1800786/0001178913-26-004892.txt",
    "price_at_trade": 8.31,
-   "price_now": 7.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -4.9
-  },
-  {
-   "ticker": "FVRR",
-   "company_name": "Fiverr International Ltd.",
-   "owner_name": "Zohar Nir",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 4982.0,
-   "price": 8.81,
-   "value": 43891.42,
-   "shares_after": 76986.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1762301/0001178913-26-004792.txt",
-   "price_at_trade": 8.86,
-   "price_now": 7.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -10.8
-  },
-  {
-   "ticker": "FVRR",
-   "company_name": "Fiverr International Ltd.",
-   "owner_name": "Zohar Nir",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-15",
-   "reported_date": "2026-10-19",
-   "shares": 4982.0,
-   "price": 8.81,
-   "value": 43891.42,
-   "shares_after": 76986.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1975805/0001178913-26-004792.txt",
-   "price_at_trade": 8.86,
-   "price_now": 7.9,
-   "price_now_date": "2026-11-16",
-   "total_return_pct": -10.8
+   "price_now": 7.73,
+   "price_now_date": "2026-11-17",
+   "total_return_pct": -7.0
   }
  ],
  "trump_trades": [],
