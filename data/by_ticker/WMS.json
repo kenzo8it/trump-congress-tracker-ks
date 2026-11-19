@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "WMS",
  "company": {
   "name": "ADVANCED DRAINAGE SYSTEMS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Plastics Foam Products",
   "sector": "Other"
  },
- "price_now": 119.64,
- "price_date": "2026-11-17",
+ "price_now": 119.33,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "WMS",
+   "company_name": "ADVANCED DRAINAGE SYSTEMS, INC.",
+   "owner_name": "BARBOUR D. SCOTT",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 13800.0,
+   "price": 123.2265,
+   "value": 1700525.7,
+   "shares_after": 77268.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604028/0001193125-26-467082.txt",
+   "price_at_trade": 119.64,
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "WMS",
+   "company_name": "ADVANCED DRAINAGE SYSTEMS, INC.",
+   "owner_name": "BARBOUR D. SCOTT",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 13800.0,
+   "price": 123.2265,
+   "value": 1700525.7,
+   "shares_after": 77268.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1716232/0001193125-26-467082.txt",
+   "price_at_trade": 119.64,
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "WMS",
+   "company_name": "ADVANCED DRAINAGE SYSTEMS, INC.",
+   "owner_name": "BARBOUR D. SCOTT",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 5629.0,
+   "price": 123.4252,
+   "value": 694760.45,
+   "shares_after": 77268.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1604028/0001193125-26-467082.txt",
+   "price_at_trade": 121.13,
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.5
+  },
+  {
+   "ticker": "WMS",
+   "company_name": "ADVANCED DRAINAGE SYSTEMS, INC.",
+   "owner_name": "BARBOUR D. SCOTT",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 5629.0,
+   "price": 123.4252,
+   "value": 694760.45,
+   "shares_after": 77268.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1716232/0001193125-26-467082.txt",
+   "price_at_trade": 121.13,
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.5
+  },
   {
    "ticker": "WMS",
    "company_name": "ADVANCED DRAINAGE SYSTEMS, INC.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1604028/0001193125-26-465501.txt",
    "price_at_trade": 125.58,
-   "price_now": 119.64,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.7
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "WMS",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1672236/0001193125-26-465501.txt",
    "price_at_trade": 125.58,
-   "price_now": 119.64,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.7
+   "price_now": 119.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.0
   }
  ],
  "trump_trades": [],

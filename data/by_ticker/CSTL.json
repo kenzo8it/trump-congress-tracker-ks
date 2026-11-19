@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "CSTL",
  "company": {
   "name": "CASTLE BIOSCIENCES INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 32.98,
- "price_date": "2026-11-17",
+ "price_now": 33.38,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,120 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 3904.0,
+   "price": 32.92,
+   "value": 128519.68,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1642.0,
+   "price": 32.92,
+   "value": 54054.64,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1396.0,
+   "price": 32.92,
+   "value": 45956.32,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 3904.0,
+   "price": 32.92,
+   "value": 128519.68,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1642.0,
+   "price": 32.92,
+   "value": 54054.64,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "CSTL",
+   "company_name": "CASTLE BIOSCIENCES INC",
+   "owner_name": "MAETZOLD DEREK J",
+   "owner_title": "Director, Pres. & Chief Exec. Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1396.0,
+   "price": 32.92,
+   "value": 45956.32,
+   "shares_after": 0.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-074791.txt",
+   "price_at_trade": 32.75,
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
+  },
   {
    "ticker": "CSTL",
    "company_name": "CASTLE BIOSCIENCES INC",
@@ -35,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-073814.txt",
    "price_at_trade": 33.99,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "CSTL",
@@ -54,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-073814.txt",
    "price_at_trade": 33.99,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "CSTL",
@@ -73,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-073402.txt",
    "price_at_trade": 33.99,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "CSTL",
@@ -92,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-073402.txt",
    "price_at_trade": 33.99,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "CSTL",
@@ -111,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-073402.txt",
    "price_at_trade": 34.38,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "CSTL",
@@ -130,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-073402.txt",
    "price_at_trade": 34.38,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "CSTL",
@@ -149,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -168,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -187,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -206,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -225,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -244,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -263,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -282,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -301,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -320,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -339,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -358,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-070131.txt",
    "price_at_trade": 34.94,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.6
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "CSTL",
@@ -377,9 +491,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-068566.txt",
    "price_at_trade": 36.68,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "CSTL",
@@ -396,9 +510,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-068566.txt",
    "price_at_trade": 36.68,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "CSTL",
@@ -415,9 +529,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-068566.txt",
    "price_at_trade": 36.68,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "CSTL",
@@ -434,9 +548,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-068566.txt",
    "price_at_trade": 36.68,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.1
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -9.0
   },
   {
    "ticker": "CSTL",
@@ -453,9 +567,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-067887.txt",
    "price_at_trade": 33.3,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "CSTL",
@@ -472,9 +586,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-067887.txt",
    "price_at_trade": 33.3,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "CSTL",
@@ -491,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "CSTL",
@@ -510,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "CSTL",
@@ -529,9 +643,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1239501/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "CSTL",
@@ -548,9 +662,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "CSTL",
@@ -567,9 +681,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   },
   {
    "ticker": "CSTL",
@@ -586,9 +700,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-066724.txt",
    "price_at_trade": 32.17,
-   "price_now": 32.98,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 2.5
+   "price_now": 33.38,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.8
   }
  ],
  "trump_trades": [],

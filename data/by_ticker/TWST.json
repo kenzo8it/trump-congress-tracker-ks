@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "TWST",
  "company": {
   "name": "Twist Bioscience Corp",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 112.0,
- "price_date": "2026-11-17",
+ "price_now": 116.35,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,234 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Laponis Adam",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 6359.0,
+   "price": 103.688,
+   "value": 659351.99,
+   "shares_after": 118501.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014543.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "WERNER ROBERT F.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1637.0,
+   "price": 103.688,
+   "value": 169737.26,
+   "shares_after": 49571.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014544.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Leproust Emily M.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 19045.0,
+   "price": 103.688,
+   "value": 1974737.96,
+   "shares_after": 634493.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014545.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Green Paula",
+   "owner_title": "SVP of Human Resources",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 4281.0,
+   "price": 103.688,
+   "value": 443888.33,
+   "shares_after": 121773.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014546.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Finn Patrick John",
+   "owner_title": "President and COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 12752.0,
+   "price": 103.688,
+   "value": 1322229.38,
+   "shares_after": 221161.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014547.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Cho Dennis",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 5427.0,
+   "price": 103.688,
+   "value": 562714.78,
+   "shares_after": 80238.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014548.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "WERNER ROBERT F.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1637.0,
+   "price": 103.688,
+   "value": 169737.26,
+   "shares_after": 49571.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1590947/0001214659-26-014544.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Leproust Emily M.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 19045.0,
+   "price": 103.688,
+   "value": 1974737.96,
+   "shares_after": 634493.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1753655/0001214659-26-014545.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Green Paula",
+   "owner_title": "SVP of Human Resources",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 4281.0,
+   "price": 103.688,
+   "value": 443888.33,
+   "shares_after": 121773.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-014546.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Finn Patrick John",
+   "owner_title": "President and COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 12752.0,
+   "price": 103.688,
+   "value": 1322229.38,
+   "shares_after": 221161.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-014547.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Laponis Adam",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 6359.0,
+   "price": 103.688,
+   "value": 659351.99,
+   "shares_after": 118501.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1827198/0001214659-26-014543.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "Cho Dennis",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 5427.0,
+   "price": 103.688,
+   "value": 562714.78,
+   "shares_after": 80238.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1883451/0001214659-26-014548.txt",
+   "price_at_trade": 105.04,
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 10.8
+  },
   {
    "ticker": "TWST",
    "company_name": "Twist Bioscience Corp",
@@ -35,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014382.txt",
    "price_at_trade": 114.22,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.9
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
   },
   {
    "ticker": "TWST",
@@ -54,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-014382.txt",
    "price_at_trade": 114.22,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.9
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.9
   },
   {
    "ticker": "TWST",
@@ -73,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013780.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -92,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013781.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -111,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013782.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -130,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013783.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -149,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013784.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -168,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590947/0001214659-26-013780.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -187,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753655/0001214659-26-013781.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -206,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-013782.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -225,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-013783.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -244,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1883451/0001214659-26-013784.txt",
    "price_at_trade": 140.3,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.2
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.1
   },
   {
    "ticker": "TWST",
@@ -263,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013283.txt",
    "price_at_trade": 139.92,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.0
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -16.8
   },
   {
    "ticker": "TWST",
@@ -282,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-013283.txt",
    "price_at_trade": 139.92,
-   "price_now": 112.0,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -20.0
+   "price_now": 116.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -16.8
   }
  ],
  "trump_trades": [],

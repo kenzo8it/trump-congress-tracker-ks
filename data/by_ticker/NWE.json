@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "NWE",
  "company": {
   "name": "NorthWestern Energy Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electric & Other Services Combined",
   "sector": "Energy & Utilities"
  },
- "price_now": 84.91,
- "price_date": "2026-11-13",
+ "price_now": 84.24,
+ "price_date": "2026-11-16",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -41,32 +41,15 @@
    "company_name": "NorthWestern Energy Group, Inc.",
    "sector": "Energy & Utilities",
    "committee_overlap": [],
-   "price_at_trade": 68.77,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
-   "total_return_pct": 23.5,
+   "price_at_trade": null,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
+   "total_return_pct": null,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "NWE",
-   "est_shares": 116.3,
-   "avg_price": 68.77,
-   "price_now": 84.91,
-   "est_position_value": 9878,
-   "total_return_pct": 23.5,
-   "total_return_usd": 1878,
-   "first_buy": "2026-03-03",
-   "last_trade": "2026-03-03"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "NWE",
@@ -82,9 +65,9 @@
    "shares_after": 0.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1271670/0001271670-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -101,9 +84,9 @@
    "shares_after": 3133.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1450010/0001450010-26-000006.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -120,9 +103,9 @@
    "shares_after": 0.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1450010/0001450010-26-000006.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -139,9 +122,9 @@
    "shares_after": 35192.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1656678/0001656678-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -158,9 +141,9 @@
    "shares_after": 4079.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1960374/0001960374-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -177,9 +160,9 @@
    "shares_after": 0.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1993004/0001271670-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -196,9 +179,9 @@
    "shares_after": 3133.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1993004/0001450010-26-000006.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -215,9 +198,9 @@
    "shares_after": 0.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1993004/0001450010-26-000006.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -234,9 +217,9 @@
    "shares_after": 35192.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1993004/0001656678-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   },
   {
@@ -253,9 +236,9 @@
    "shares_after": 4079.0,
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1993004/0001960374-26-000008.txt",
-   "price_at_trade": 84.91,
-   "price_now": 84.91,
-   "price_now_date": "2026-11-13",
+   "price_at_trade": 84.24,
+   "price_now": 84.24,
+   "price_now_date": "2026-11-16",
    "total_return_pct": 0.0
   }
  ],

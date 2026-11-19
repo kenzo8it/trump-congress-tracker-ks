@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,14 +8,14 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5168,
+  "congress_trades": 5153,
   "recent_congress_trades": 522,
   "members_with_positions": 44,
-  "insider_trades": 19150,
+  "insider_trades": 20777,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 170,
-  "tickers": 2038
+  "contracts": 171,
+  "tickers": 2105
  },
  "unparsed_filings": [
   {
@@ -766,16 +766,6 @@
    "filed": "2025-10-16",
    "year": 2025,
    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115689.pdf",
-   "reason": "scanned paper filing"
-  },
-  {
-   "doc_id": "9115686",
-   "first": "Keith Alan",
-   "last": "Self",
-   "state_district": "TX03",
-   "filed": "2025-10-14",
-   "year": 2025,
-   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115686.pdf",
    "reason": "scanned paper filing"
   }
  ],

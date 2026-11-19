@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "LKQ",
  "company": {
   "name": "LKQ CORP",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies",
   "sector": "Other"
  },
- "price_now": 18.79,
- "price_date": "2026-11-17",
+ "price_now": 19.1,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LKQ",
+   "company_name": "LKQ CORP",
+   "owner_name": "Urbain Xavier",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 26000.0,
+   "price": 19.0808,
+   "value": 496100.8,
+   "shares_after": 64121.5,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/0001214659-26-014549.txt",
+   "price_at_trade": 19.1,
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LKQ",
+   "company_name": "LKQ CORP",
+   "owner_name": "Urbain Xavier",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 26000.0,
+   "price": 19.0808,
+   "value": 496100.8,
+   "shares_after": 64121.5,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1796256/0001214659-26-014549.txt",
+   "price_at_trade": 19.1,
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "LKQ",
    "company_name": "LKQ CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/0001214659-26-013801.txt",
    "price_at_trade": 20.94,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.3
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "LKQ",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1187773/0001214659-26-013801.txt",
    "price_at_trade": 20.94,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -10.3
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "LKQ",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/0001214659-26-013691.txt",
    "price_at_trade": 19.93,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.7
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "LKQ",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2057533/0001214659-26-013691.txt",
    "price_at_trade": 19.93,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.7
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "LKQ",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/0001214659-26-013690.txt",
    "price_at_trade": 18.56,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 1.2
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 2.9
   },
   {
    "ticker": "LKQ",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1182292/0001214659-26-013690.txt",
    "price_at_trade": 18.56,
-   "price_now": 18.79,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 1.2
+   "price_now": 19.1,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 2.9
   }
  ],
  "trump_trades": [],

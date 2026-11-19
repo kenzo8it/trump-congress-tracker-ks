@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "OBK",
  "company": {
   "name": "Origin Bancorp, Inc.",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 52.45,
- "price_date": "2026-11-17",
+ "price_now": 52.47,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OBK",
+   "company_name": "Origin Bancorp, Inc.",
+   "owner_name": "Jones Cecil W.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 3800.0,
+   "price": 52.55,
+   "value": 199690.0,
+   "shares_after": 21447.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1516912/0002040255-26-000008.txt",
+   "price_at_trade": 52.47,
+   "price_now": 52.47,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "OBK",
+   "company_name": "Origin Bancorp, Inc.",
+   "owner_name": "Jones Cecil W.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 3800.0,
+   "price": 52.55,
+   "value": 199690.0,
+   "shares_after": 21447.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2040255/0002040255-26-000008.txt",
+   "price_at_trade": 52.47,
+   "price_now": 52.47,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "OBK",
    "company_name": "Origin Bancorp, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1516912/0001839920-26-000008.txt",
    "price_at_trade": 52.96,
-   "price_now": 52.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 52.47,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.9
   },
   {
    "ticker": "OBK",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1839920/0001839920-26-000008.txt",
    "price_at_trade": 52.96,
-   "price_now": 52.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 52.47,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.9
   }
  ],
  "trump_trades": [],

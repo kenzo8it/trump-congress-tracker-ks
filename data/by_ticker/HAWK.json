@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "HAWK",
  "company": {
   "name": "HawkEye 360, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 18.45,
- "price_date": "2026-11-17",
+ "price_now": 18.37,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Finelli Francis Alphonse",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 2700.0,
+   "price": 18.22,
+   "value": 49194.0,
+   "shares_after": 42726.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0002127442-26-000011.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Zeitouni Patrick Elie",
+   "owner_title": "Chief Strategy Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 266.0,
+   "price": 18.6,
+   "value": 4947.6,
+   "shares_after": 85046.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0002127470-26-000006.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Finelli Francis Alphonse",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 2700.0,
+   "price": 18.22,
+   "value": 49194.0,
+   "shares_after": 42726.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2127442/0002127442-26-000011.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Zeitouni Patrick Elie",
+   "owner_title": "Chief Strategy Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 266.0,
+   "price": 18.6,
+   "value": 4947.6,
+   "shares_after": 85046.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2127470/0002127470-26-000006.txt",
+   "price_at_trade": 18.45,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
+  },
   {
    "ticker": "HAWK",
    "company_name": "HawkEye 360, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1206844/0001206844-26-000014.txt",
    "price_at_trade": 18.45,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.0
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "HAWK",
@@ -54,9 +130,85 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0001206844-26-000014.txt",
    "price_at_trade": 18.45,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.0
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Shames Jonathan",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 2672.0,
+   "price": 18.67,
+   "value": 49886.24,
+   "shares_after": 2672.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0001978936-26-000006.txt",
+   "price_at_trade": 18.51,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Sweeney Janine Virginia",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 541.0,
+   "price": 18.21,
+   "value": 9851.61,
+   "shares_after": 85994.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0002127244-26-000008.txt",
+   "price_at_trade": 18.51,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Shames Jonathan",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 2672.0,
+   "price": 18.67,
+   "value": 49886.24,
+   "shares_after": 2672.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1978936/0001978936-26-000006.txt",
+   "price_at_trade": 18.51,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "HAWK",
+   "company_name": "HawkEye 360, Inc.",
+   "owner_name": "Sweeney Janine Virginia",
+   "owner_title": "Chief Human Resources Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 541.0,
+   "price": 18.21,
+   "value": 9851.61,
+   "shares_after": 85994.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2127244/0002127244-26-000008.txt",
+   "price_at_trade": 18.51,
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -73,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1322083/0001322083-26-000009.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -92,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0001322083-26-000009.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -111,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0001832883-26-000008.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -130,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0002127284-26-000008.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -149,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1750704/0002127288-26-000010.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -168,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1832883/0001832883-26-000008.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -187,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127284/0002127284-26-000008.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "HAWK",
@@ -206,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127288/0002127288-26-000010.txt",
    "price_at_trade": 18.51,
-   "price_now": 18.45,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 18.37,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.8
   }
  ],
  "trump_trades": [],

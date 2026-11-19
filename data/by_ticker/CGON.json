@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "CGON",
  "company": {
   "name": "CG Oncology, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 78.94,
- "price_date": "2026-11-17",
+ "price_now": 80.0,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CGON",
+   "company_name": "CG Oncology, Inc.",
+   "owner_name": "Kalofonos Isabel",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 3751.0,
+   "price": 79.755,
+   "value": 299161.01,
+   "shares_after": 3751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1975163/0001193125-26-467159.txt",
+   "price_at_trade": 80.0,
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CGON",
+   "company_name": "CG Oncology, Inc.",
+   "owner_name": "Kalofonos Isabel",
+   "owner_title": "Chief Commercial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 3751.0,
+   "price": 79.755,
+   "value": 299161.01,
+   "shares_after": 3751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991792/0001193125-26-467159.txt",
+   "price_at_trade": 80.0,
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CGON",
+   "company_name": "CG Oncology, Inc.",
+   "owner_name": "Kuan Arthur",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 30000.32,
+   "price": 78.88,
+   "value": 2366425.24,
+   "shares_after": 228916.32,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1991792/0001193125-26-467162.txt",
+   "price_at_trade": 80.0,
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CGON",
+   "company_name": "CG Oncology, Inc.",
+   "owner_name": "Kuan Arthur",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-18",
+   "shares": 30000.32,
+   "price": 78.88,
+   "value": 2366425.24,
+   "shares_after": 228916.32,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2007101/0001193125-26-467162.txt",
+   "price_at_trade": 80.0,
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "CGON",
    "company_name": "CG Oncology, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1235862/0001193125-26-465593.txt",
    "price_at_trade": 84.78,
-   "price_now": 78.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -6.9
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.6
   },
   {
    "ticker": "CGON",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1991792/0001193125-26-465593.txt",
    "price_at_trade": 84.78,
-   "price_now": 78.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -6.9
+   "price_now": 80.0,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.6
   }
  ],
  "trump_trades": [],

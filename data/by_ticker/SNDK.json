@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "SNDK",
  "company": {
   "name": "Sandisk Corp",
@@ -8,8 +8,8 @@
   "industry": "Computer Storage Devices",
   "sector": "Technology"
  },
- "price_now": 797.24,
- "price_date": "2026-11-17",
+ "price_now": 776.22,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -43,10 +43,10 @@
    "committee_overlap": [
     "House Permanent Select Committee on Intelligence"
    ],
-   "price_at_trade": 1339.96,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -40.5,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -73,10 +73,10 @@
    "company_name": "Sandisk Corp",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 661.62,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 20.5,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -103,10 +103,10 @@
    "company_name": "Sandisk Corp",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 377.41,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 111.2,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -133,10 +133,10 @@
    "company_name": "Sandisk Corp",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 199.33,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 300.0,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -163,10 +163,10 @@
    "company_name": "Sandisk Corp",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 195.82,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 307.1,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -193,66 +193,15 @@
    "company_name": "Sandisk Corp",
    "sector": "Technology",
    "committee_overlap": [],
-   "price_at_trade": 195.82,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 307.1,
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null,
    "days_to_disclose": 22,
    "late_filing": false
   }
  ],
- "congress_holders": [
-  {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "SNDK",
-   "est_shares": 0.7,
-   "avg_price": 195.82,
-   "price_now": 797.24,
-   "est_position_value": 574,
-   "total_return_pct": 307.1,
-   "total_return_usd": 433,
-   "first_buy": "2025-10-30",
-   "last_trade": "2025-10-31"
-  },
-  {
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "committee_overlap": [
-    "House Permanent Select Committee on Intelligence"
-   ],
-   "ticker": "SNDK",
-   "est_shares": 6.0,
-   "avg_price": 1339.96,
-   "price_now": 797.24,
-   "est_position_value": 4760,
-   "total_return_pct": -40.5,
-   "total_return_usd": -3240,
-   "first_buy": "2026-05-07",
-   "last_trade": "2026-05-07"
-  },
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "SNDK",
-   "est_shares": 33.3,
-   "avg_price": 480.64,
-   "price_now": 797.24,
-   "est_position_value": 26541,
-   "total_return_pct": 65.9,
-   "total_return_usd": 10540,
-   "first_buy": "2026-01-09",
-   "last_trade": "2026-03-13"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "SNDK",
@@ -268,10 +217,10 @@
    "shares_after": 24666.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2023554/0001242648-26-000049.txt",
-   "price_at_trade": 1075.08,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -25.8
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null
   },
   {
    "ticker": "SNDK",
@@ -287,10 +236,10 @@
    "shares_after": 24666.0,
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2060144/0001242648-26-000049.txt",
-   "price_at_trade": 1075.08,
-   "price_now": 797.24,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -25.8
+   "price_at_trade": null,
+   "price_now": 776.22,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": null
   }
  ],
  "trump_trades": [],

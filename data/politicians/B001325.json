@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -118,10 +118,10 @@
    "ticker": "IBIT",
    "est_shares": 4223.0,
    "avg_price": 41.44,
-   "price_now": 36.14,
-   "est_position_value": 152619,
-   "total_return_pct": -12.8,
-   "total_return_usd": -22382,
+   "price_now": 35.36,
+   "est_position_value": 149325,
+   "total_return_pct": -14.7,
+   "total_return_usd": -25676,
    "first_buy": "2026-03-04",
    "last_trade": "2026-03-04"
   }
@@ -427,9 +427,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 41.44,
-   "price_now": 36.14,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -12.8,
+   "price_now": 35.36,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -14.7,
    "days_to_disclose": 43,
    "late_filing": false
   },

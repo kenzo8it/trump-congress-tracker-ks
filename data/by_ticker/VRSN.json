@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "VRSN",
  "company": {
   "name": "VERISIGN INC/CA",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming Services",
   "sector": "Technology"
  },
- "price_now": 305.7,
- "price_date": "2026-11-17",
+ "price_now": 307.12,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 237.27,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 28.8,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 29.4,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 218.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 40.2,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 40.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 241.77,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 26.4,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 27.0,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 269.62,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 13.4,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 13.9,
    "days_to_disclose": 306,
    "late_filing": true
   },
@@ -166,9 +166,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 269.62,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 13.4,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 13.9,
    "days_to_disclose": 306,
    "late_filing": true
   }
@@ -183,10 +183,10 @@
    "ticker": "VRSN",
    "est_shares": 36.1,
    "avg_price": 229.29,
-   "price_now": 305.7,
-   "est_position_value": 11025,
-   "total_return_pct": 33.3,
-   "total_return_usd": 2756,
+   "price_now": 307.12,
+   "est_position_value": 11076,
+   "total_return_pct": 33.9,
+   "total_return_usd": 2807,
    "first_buy": "2025-12-19",
    "last_trade": "2026-03-13"
   }
@@ -198,6 +198,234 @@
    "owner_name": "BIDZOS D JAMES",
    "owner_title": "Director, Exec. Chairman, Pres, & CEO",
    "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 80.0,
+   "price": 300.145,
+   "value": 24011.6,
+   "shares_after": 360192.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 360.0,
+   "price": 302.3537,
+   "value": 108847.33,
+   "shares_after": 359832.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 360.0,
+   "price": 303.2067,
+   "value": 109154.41,
+   "shares_after": 359472.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 400.0,
+   "price": 304.477,
+   "value": 121790.8,
+   "shares_after": 359072.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 900.0,
+   "price": 305.2976,
+   "value": 274767.84,
+   "shares_after": 358172.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 1200.0,
+   "price": 306.4193,
+   "value": 367703.16,
+   "shares_after": 356972.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 80.0,
+   "price": 300.145,
+   "value": 24011.6,
+   "shares_after": 360192.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 360.0,
+   "price": 302.3537,
+   "value": 108847.33,
+   "shares_after": 359832.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 360.0,
+   "price": 303.2067,
+   "value": 109154.41,
+   "shares_after": 359472.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 400.0,
+   "price": 304.477,
+   "value": 121790.8,
+   "shares_after": 359072.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 900.0,
+   "price": 305.2976,
+   "value": 274767.84,
+   "shares_after": 358172.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 1200.0,
+   "price": 306.4193,
+   "value": 367703.16,
+   "shares_after": 356972.5079,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000066.txt",
+   "price_at_trade": 305.7,
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.5
+  },
+  {
+   "ticker": "VRSN",
+   "company_name": "VERISIGN INC/CA",
+   "owner_name": "BIDZOS D JAMES",
+   "owner_title": "Director, Exec. Chairman, Pres, & CEO",
+   "trade_type": "SELL",
    "traded_date": "2026-11-10",
    "reported_date": "2026-11-12",
    "shares": 280.0,
@@ -207,9 +435,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -226,9 +454,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -245,9 +473,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -264,9 +492,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -283,9 +511,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -302,9 +530,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -321,9 +549,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -340,9 +568,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -359,9 +587,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -378,9 +606,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -397,9 +625,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -416,9 +644,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000062.txt",
    "price_at_trade": 311.12,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.7
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "VRSN",
@@ -435,9 +663,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001624651-26-000057.txt",
    "price_at_trade": 305.84,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.0
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "VRSN",
@@ -454,9 +682,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1624651/0001624651-26-000057.txt",
    "price_at_trade": 305.84,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.0
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "VRSN",
@@ -473,9 +701,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -492,9 +720,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -511,9 +739,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -530,9 +758,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -549,9 +777,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -568,9 +796,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -587,9 +815,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -606,9 +834,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -625,9 +853,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -644,9 +872,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -663,9 +891,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -682,9 +910,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -701,9 +929,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -720,9 +948,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -739,9 +967,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -758,9 +986,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000059.txt",
    "price_at_trade": 313.88,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -2.6
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "VRSN",
@@ -777,9 +1005,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001624651-26-000055.txt",
    "price_at_trade": 308.4,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.9
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "VRSN",
@@ -796,9 +1024,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1624651/0001624651-26-000055.txt",
    "price_at_trade": 308.4,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.9
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "VRSN",
@@ -815,9 +1043,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -834,9 +1062,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -853,9 +1081,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -872,9 +1100,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -891,9 +1119,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -910,9 +1138,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -929,9 +1157,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -948,9 +1176,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -967,9 +1195,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -986,9 +1214,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000057.txt",
    "price_at_trade": 304.04,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 0.5
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "VRSN",
@@ -1005,9 +1233,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001940987-26-000022.txt",
    "price_at_trade": 308.72,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "VRSN",
@@ -1024,9 +1252,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1940987/0001940987-26-000022.txt",
    "price_at_trade": 308.72,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -1.0
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "VRSN",
@@ -1043,9 +1271,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1062,9 +1290,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1081,9 +1309,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1100,9 +1328,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1014473/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1119,9 +1347,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1138,9 +1366,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1157,9 +1385,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "VRSN",
@@ -1176,9 +1404,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1204816/0001204816-26-000055.txt",
    "price_at_trade": 306.53,
-   "price_now": 305.7,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -0.3
+   "price_now": 307.12,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.2
   }
  ],
  "trump_trades": [],

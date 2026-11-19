@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "FIG",
  "company": {
   "name": "Figma, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 18.18,
- "price_date": "2026-11-17",
+ "price_now": 17.33,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 38.54,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -52.8,
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -55.0,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 38.54,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -52.8,
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -55.0,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,15 +102,53 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 61.06,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -70.2,
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -71.6,
    "days_to_disclose": 20,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FIG",
+   "company_name": "Figma, Inc.",
+   "owner_name": "Radakovich Lynn Vojvodich",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 20266.0,
+   "price": 19.5131,
+   "value": 395452.48,
+   "shares_after": 84809.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0001662205-26-000023.txt",
+   "price_at_trade": 19.41,
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -10.7
+  },
+  {
+   "ticker": "FIG",
+   "company_name": "Figma, Inc.",
+   "owner_name": "Radakovich Lynn Vojvodich",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 20266.0,
+   "price": 19.5131,
+   "value": 395452.48,
+   "shares_after": 84809.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1662205/0001662205-26-000023.txt",
+   "price_at_trade": 19.41,
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -10.7
+  },
   {
    "ticker": "FIG",
    "company_name": "Figma, Inc.",
@@ -126,9 +164,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0001193125-26-460671.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -145,9 +183,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0001193125-26-460674.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -164,9 +202,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1591294/0001193125-26-460674.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -183,9 +221,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1754862/0001193125-26-460674.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -202,9 +240,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1754871/0001193125-26-460674.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -221,9 +259,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755035/0001193125-26-460674.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -240,9 +278,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1948678/0001193125-26-460671.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.2
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -8.6
   },
   {
    "ticker": "FIG",
@@ -259,9 +297,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0002073587-26-000045.txt",
    "price_at_trade": 22.13,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -17.8
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -21.7
   },
   {
    "ticker": "FIG",
@@ -278,9 +316,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2073587/0002073587-26-000045.txt",
    "price_at_trade": 22.13,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -17.8
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -21.7
   },
   {
    "ticker": "FIG",
@@ -297,9 +335,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0002073587-26-000045.txt",
    "price_at_trade": 21.03,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -13.6
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.6
   },
   {
    "ticker": "FIG",
@@ -316,9 +354,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579878/0002073801-26-000052.txt",
    "price_at_trade": 21.03,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -13.6
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.6
   },
   {
    "ticker": "FIG",
@@ -335,9 +373,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2073587/0002073587-26-000045.txt",
    "price_at_trade": 21.03,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -13.6
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.6
   },
   {
    "ticker": "FIG",
@@ -354,9 +392,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2073801/0002073801-26-000052.txt",
    "price_at_trade": 21.03,
-   "price_now": 18.18,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -13.6
+   "price_now": 17.33,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -17.6
   }
  ],
  "trump_trades": [],

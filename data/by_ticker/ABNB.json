@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "ABNB",
  "company": {
   "name": "Airbnb, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-To Dwellings & Other Buildings",
   "sector": "Retail & Consumer"
  },
- "price_now": 180.94,
- "price_date": "2026-11-17",
+ "price_now": 180.21,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 132.01,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 37.1,
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 36.5,
    "days_to_disclose": 241,
    "late_filing": true
   }
@@ -54,6 +54,44 @@
   {
    "ticker": "ABNB",
    "company_name": "Airbnb, Inc.",
+   "owner_name": "Bernstein David C",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1743.0,
+   "price": 184.38,
+   "value": 321374.34,
+   "shares_after": 42156.054,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1288881/0001193125-26-467173.txt",
+   "price_at_trade": 186.19,
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -3.2
+  },
+  {
+   "ticker": "ABNB",
+   "company_name": "Airbnb, Inc.",
+   "owner_name": "Bernstein David C",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 1743.0,
+   "price": 184.38,
+   "value": 321374.34,
+   "shares_after": 42156.054,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-467173.txt",
+   "price_at_trade": 186.19,
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -3.2
+  },
+  {
+   "ticker": "ABNB",
+   "company_name": "Airbnb, Inc.",
    "owner_name": "Blecharczyk Nathan",
    "owner_title": "Director, Chief Strategy Officer, 10% owner",
    "trade_type": "SELL",
@@ -66,9 +104,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -85,9 +123,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -104,9 +142,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -123,9 +161,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -142,9 +180,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -161,9 +199,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -180,9 +218,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -199,9 +237,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -218,9 +256,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -237,9 +275,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 190.29,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.9
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "ABNB",
@@ -256,9 +294,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 189.99,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ABNB",
@@ -275,9 +313,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-455964.txt",
    "price_at_trade": 189.99,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ABNB",
@@ -294,9 +332,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 189.99,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ABNB",
@@ -313,9 +351,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-455964.txt",
    "price_at_trade": 189.99,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -4.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "ABNB",
@@ -332,9 +370,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1288881/0001193125-26-447402.txt",
    "price_at_trade": 171.11,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.7
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.3
   },
   {
    "ticker": "ABNB",
@@ -351,9 +389,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-447402.txt",
    "price_at_trade": 171.11,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.7
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.3
   },
   {
    "ticker": "ABNB",
@@ -370,9 +408,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -389,9 +427,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -408,9 +446,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -427,9 +465,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1559720/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -446,9 +484,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -465,9 +503,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -484,9 +522,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "ABNB",
@@ -503,9 +541,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834147/0001193125-26-436212.txt",
    "price_at_trade": 171.05,
-   "price_now": 180.94,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 5.8
+   "price_now": 180.21,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 5.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "BEN",
  "company": {
   "name": "FRANKLIN TEMPLETON INC",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 34.41,
- "price_date": "2026-11-17",
+ "price_now": 34.44,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -17,38 +17,7 @@
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
- "congress_trades": [
-  {
-   "chamber": "House",
-   "politician_name": "Thomas H. Kean, Jr.",
-   "state_district": "NJ07",
-   "reported_date": "2025-10-14",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032269.pdf",
-   "owner": "self",
-   "asset": "Franklin Resources, Inc. Common Stock",
-   "asset_type": "ST",
-   "ticker": "BEN",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-03",
-   "notified_date": "2025-10-04",
-   "size_lower": 15001,
-   "size_upper": 50000,
-   "size_mid": 32500.5,
-   "bioguide": "K000398",
-   "party": "Republican",
-   "state": "NJ",
-   "company_name": "FRANKLIN TEMPLETON INC",
-   "sector": "Financials",
-   "committee_overlap": [],
-   "price_at_trade": 23.99,
-   "price_now": 34.41,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 43.4,
-   "days_to_disclose": 41,
-   "late_filing": false
-  }
- ],
+ "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
   {
@@ -66,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1773856/0000038777-26-000290.txt",
    "price_at_trade": 36.3,
-   "price_now": 34.41,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.2
+   "price_now": 34.44,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "BEN",
@@ -85,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/38777/0000038777-26-000290.txt",
    "price_at_trade": 36.3,
-   "price_now": 34.41,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -5.2
+   "price_now": 34.44,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -5.1
   }
  ],
  "trump_trades": [],

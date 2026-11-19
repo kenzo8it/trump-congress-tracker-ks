@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "ARM",
  "company": {
   "name": "ARM HOLDINGS PLC /UK",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 183.39,
- "price_date": "2026-11-17",
+ "price_now": 182.76,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 136.14,
-   "price_now": 183.39,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 34.7,
+   "price_now": 182.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 34.2,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -72,15 +72,54 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 132.34,
-   "price_now": 183.39,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": 38.6,
+   "price_now": 182.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 38.1,
    "days_to_disclose": 43,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ARM",
+   "company_name": "ARM HOLDINGS PLC /UK",
+   "owner_name": "Grisenthwaite Richard Roy",
+   "owner_title": "Chief Architect",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 5762.0,
+   "price": 180.4,
+   "value": 1039464.8,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1973239/0001973239-26-000144.txt",
+   "price_at_trade": 183.39,
+   "price_now": 182.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "ARM",
+   "company_name": "ARM HOLDINGS PLC /UK",
+   "owner_name": "Grisenthwaite Richard Roy",
+   "owner_title": "Chief Architect",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-18",
+   "shares": 5762.0,
+   "price": 180.4,
+   "value": 1039464.8,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2112445/0001973239-26-000144.txt",
+   "price_at_trade": 183.39,
+   "price_now": 182.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -0.3
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

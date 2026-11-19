@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:02+00:00",
+ "updated": "2026-11-19T03:42+00:00",
  "ticker": "CDXS",
  "company": {
   "name": "CODEXIS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Industrial Organic Chemicals",
   "sector": "Materials & Mining"
  },
- "price_now": 1.07,
- "price_date": "2026-11-17",
+ "price_now": 1.15,
+ "price_date": "2026-11-18",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CDXS",
+   "company_name": "CODEXIS, INC.",
+   "owner_name": "MOORE ALISON",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 10651.0,
+   "price": 1.1371,
+   "value": 12111.25,
+   "shares_after": 233520.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1200375/0001610717-26-000463.txt",
+   "price_at_trade": 1.06,
+   "price_now": 1.15,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 8.5
+  },
+  {
+   "ticker": "CDXS",
+   "company_name": "CODEXIS, INC.",
+   "owner_name": "MOORE ALISON",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-16",
+   "reported_date": "2026-11-18",
+   "shares": 10651.0,
+   "price": 1.1371,
+   "value": 12111.25,
+   "shares_after": 233520.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754937/0001610717-26-000463.txt",
+   "price_at_trade": 1.06,
+   "price_now": 1.15,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 8.5
+  },
   {
    "ticker": "CDXS",
    "company_name": "CODEXIS, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1200375/0001610717-26-000451.txt",
    "price_at_trade": 1.11,
-   "price_now": 1.07,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.6
+   "price_now": 1.15,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.6
   },
   {
    "ticker": "CDXS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2043287/0001610717-26-000451.txt",
    "price_at_trade": 1.11,
-   "price_now": 1.07,
-   "price_now_date": "2026-11-17",
-   "total_return_pct": -3.6
+   "price_now": 1.15,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 3.6
   }
  ],
  "trump_trades": [],
