@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-20T03:29+00:00",
+ "ticker": "SEER",
+ "company": {
+  "name": "Seer, Inc.",
+  "cik": 1726445,
+  "sic": 3826,
+  "industry": "Laboratory Analytical Instruments",
+  "sector": "Technology"
+ },
+ "price_now": 1.44,
+ "price_date": "2026-11-18",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SEER",
+   "company_name": "Seer, Inc.",
+   "owner_name": "Endweiss Charles",
+   "owner_title": "VP Financial Planning Analysis",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 2447.0,
+   "price": 1.4624,
+   "value": 3578.49,
+   "shares_after": 140194.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1726445/0002157949-26-000006.txt",
+   "price_at_trade": 1.44,
+   "price_now": 1.44,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SEER",
+   "company_name": "Seer, Inc.",
+   "owner_name": "Endweiss Charles",
+   "owner_title": "VP Financial Planning Analysis",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 2447.0,
+   "price": 1.4624,
+   "value": 3578.49,
+   "shares_after": 140194.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2157949/0002157949-26-000006.txt",
+   "price_at_trade": 1.44,
+   "price_now": 1.44,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

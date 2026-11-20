@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "NSPR",
  "company": {
   "name": "InspireMD, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 0.69,
- "price_date": "2026-11-18",
+ "price_now": 0.62,
+ "price_date": "2026-11-19",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NSPR",
+   "company_name": "InspireMD, Inc.",
+   "owner_name": "Stuka Paul",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 30000.0,
+   "price": 0.58,
+   "value": 17400.0,
+   "shares_after": 697871.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-053246.txt",
+   "price_at_trade": 0.65,
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "NSPR",
+   "company_name": "InspireMD, Inc.",
+   "owner_name": "Stuka Paul",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 30000.0,
+   "price": 0.58,
+   "value": 17400.0,
+   "shares_after": 697871.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1528577/0001493152-26-053246.txt",
+   "price_at_trade": 0.65,
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -4.6
+  },
   {
    "ticker": "NSPR",
    "company_name": "InspireMD, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1162533/0001493152-26-052820.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186801/0001493152-26-052825.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-052820.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-052823.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-052825.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-052826.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433607/0001493152-26-052827.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1528577/0001493152-26-052827.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796908/0001493152-26-052823.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "NSPR",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1947077/0001493152-26-052826.txt",
    "price_at_trade": 0.64,
-   "price_now": 0.69,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 7.8
+   "price_now": 0.62,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -3.1
   }
  ],
  "trump_trades": [],

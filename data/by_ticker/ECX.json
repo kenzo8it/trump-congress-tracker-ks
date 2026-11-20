@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "ECX",
  "company": {
   "name": "ECARX Holdings Inc.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ECX",
+   "company_name": "ECARX Holdings Inc.",
+   "owner_name": "Shen Ziyu",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 13000.0,
+   "price": 0.7494,
+   "value": 9742.2,
+   "shares_after": 13000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1861974/0001104659-26-129915.txt",
+   "price_at_trade": 0.78,
+   "price_now": 0.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "ECX",
+   "company_name": "ECARX Holdings Inc.",
+   "owner_name": "Shen Ziyu",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 13000.0,
+   "price": 0.7494,
+   "value": 9742.2,
+   "shares_after": 13000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1965904/0001104659-26-129915.txt",
+   "price_at_trade": 0.78,
+   "price_now": 0.76,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -1.9
+  },
   {
    "ticker": "ECX",
    "company_name": "ECARX Holdings Inc.",

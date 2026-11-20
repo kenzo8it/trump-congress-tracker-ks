@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -103,10 +103,10 @@
    "ticker": "PTA",
    "est_shares": 432.5,
    "avg_price": 18.5,
-   "price_now": 16.59,
-   "est_position_value": 7175,
+   "price_now": 16.6,
+   "est_position_value": 7179,
    "total_return_pct": -10.3,
-   "total_return_usd": -826,
+   "total_return_usd": -822,
    "first_buy": "2026-04-21",
    "last_trade": "2026-04-21"
   }
@@ -242,8 +242,8 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 18.5,
-   "price_now": 16.59,
-   "price_now_date": "2026-11-18",
+   "price_now": 16.6,
+   "price_now_date": "2026-11-19",
    "total_return_pct": -10.3,
    "days_to_disclose": 7,
    "late_filing": false
@@ -297,9 +297,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 327.02,
-   "price_now": 466.1,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 42.5,
+   "price_now": 456.48,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 39.6,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -393,9 +393,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 274.96,
-   "price_now": 352.45,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 28.2,
+   "price_now": 349.21,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 27.0,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -423,9 +423,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 194.61,
-   "price_now": 222.7,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 14.4,
+   "price_now": 217.84,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 11.9,
    "days_to_disclose": 12,
    "late_filing": false
   },

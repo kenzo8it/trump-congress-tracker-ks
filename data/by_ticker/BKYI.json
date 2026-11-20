@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-20T03:29+00:00",
+ "ticker": "BKYI",
+ "company": {
+  "name": "BIO KEY INTERNATIONAL INC",
+  "cik": 1019034,
+  "sic": 7372,
+  "industry": "Services-Prepackaged Software",
+  "sector": "Technology"
+ },
+ "price_now": 2.1,
+ "price_date": "2026-11-19",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BKYI",
+   "company_name": "BIO KEY INTERNATIONAL INC",
+   "owner_name": "DEPASQUALE MICHAEL W",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 1986.0,
+   "price": 1.91,
+   "value": 3793.26,
+   "shares_after": 12764.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1019034/0001437749-26-037627.txt",
+   "price_at_trade": 1.94,
+   "price_now": 2.1,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 8.2
+  },
+  {
+   "ticker": "BKYI",
+   "company_name": "BIO KEY INTERNATIONAL INC",
+   "owner_name": "DEPASQUALE MICHAEL W",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 1986.0,
+   "price": 1.91,
+   "value": 3793.26,
+   "shares_after": 12764.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1246138/0001437749-26-037627.txt",
+   "price_at_trade": 1.94,
+   "price_now": 2.1,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 8.2
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "BHE",
  "company": {
   "name": "BENCHMARK ELECTRONICS INC",
@@ -8,8 +8,8 @@
   "industry": "Printed Circuit Boards",
   "sector": "Technology"
  },
- "price_now": 62.03,
- "price_date": "2026-11-18",
+ "price_now": 61.37,
+ "price_date": "2026-11-19",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 79.34,
-   "price_now": 62.03,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -21.8,
+   "price_now": 61.37,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -22.6,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -74,14 +74,30 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 84.62,
-   "price_now": 62.03,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -26.7,
+   "price_now": 61.37,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -27.5,
    "days_to_disclose": 11,
    "late_filing": false
   }
  ],
  "congress_holders": [
+  {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "BHE",
+   "est_shares": 384.1,
+   "avg_price": 84.62,
+   "price_now": 61.37,
+   "est_position_value": 23571,
+   "total_return_pct": -27.5,
+   "total_return_usd": -8930,
+   "first_buy": "2026-10-01",
+   "last_trade": "2026-10-01"
+  },
   {
    "name": "Josh Gottheimer",
    "party": "Democrat",
@@ -93,28 +109,12 @@
    "ticker": "BHE",
    "est_shares": 100.8,
    "avg_price": 79.34,
-   "price_now": 62.03,
-   "est_position_value": 6255,
-   "total_return_pct": -21.8,
-   "total_return_usd": -1746,
+   "price_now": 61.37,
+   "est_position_value": 6188,
+   "total_return_pct": -22.6,
+   "total_return_usd": -1812,
    "first_buy": "2026-10-12",
    "last_trade": "2026-10-12"
-  },
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "BHE",
-   "est_shares": 384.1,
-   "avg_price": 84.62,
-   "price_now": 62.03,
-   "est_position_value": 23824,
-   "total_return_pct": -26.7,
-   "total_return_usd": -8676,
-   "first_buy": "2026-10-01",
-   "last_trade": "2026-10-01"
   }
  ],
  "insider_trades": [],

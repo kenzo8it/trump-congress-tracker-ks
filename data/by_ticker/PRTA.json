@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "PRTA",
  "company": {
   "name": "PROTHENA CORP PUBLIC LTD CO",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PRTA",
+   "company_name": "PROTHENA CORP PUBLIC LTD CO",
+   "owner_name": "SCULLY WILLIAM P",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 50000.0,
+   "price": 8.0936,
+   "value": 404680.0,
+   "shares_after": 1027000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1045463/0001045463-26-000027.txt",
+   "price_at_trade": 8.26,
+   "price_now": 8.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "PRTA",
+   "company_name": "PROTHENA CORP PUBLIC LTD CO",
+   "owner_name": "SCULLY WILLIAM P",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 50000.0,
+   "price": 8.0936,
+   "value": 404680.0,
+   "shares_after": 1027000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1559053/0001045463-26-000027.txt",
+   "price_at_trade": 8.26,
+   "price_now": 8.35,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "PRTA",
    "company_name": "PROTHENA CORP PUBLIC LTD CO",

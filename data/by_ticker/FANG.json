@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "FANG",
  "company": {
   "name": "Diamondback Energy, Inc.",
@@ -50,7 +50,46 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "FANG",
+   "company_name": "Diamondback Energy, Inc.",
+   "owner_name": "Van't Hof Matthew Kaes",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 175.2372,
+   "value": 876186.0,
+   "shares_after": 110940.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/0001539838-26-000185.txt",
+   "price_at_trade": 174.32,
+   "price_now": 174.32,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "FANG",
+   "company_name": "Diamondback Energy, Inc.",
+   "owner_name": "Van't Hof Matthew Kaes",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 5000.0,
+   "price": 175.2372,
+   "value": 876186.0,
+   "shares_after": 110940.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1704666/0001539838-26-000185.txt",
+   "price_at_trade": 174.32,
+   "price_now": 174.32,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

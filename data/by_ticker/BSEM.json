@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-20T03:29+00:00",
+ "ticker": "BSEM",
+ "company": {
+  "name": "BioStem Technologies, Inc.",
+  "cik": 1658678,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 0.82,
+ "price_date": "2026-11-18",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "BSEM",
+   "company_name": "BioStem Technologies, Inc.",
+   "owner_name": "Matuszewski Jason",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 14300.0,
+   "price": 1.0,
+   "value": 14300.0,
+   "shares_after": 1539251.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1634730/0001193125-26-468654.txt",
+   "price_at_trade": 0.94,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -12.5
+  },
+  {
+   "ticker": "BSEM",
+   "company_name": "BioStem Technologies, Inc.",
+   "owner_name": "Matuszewski Jason",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-17",
+   "reported_date": "2026-11-19",
+   "shares": 14300.0,
+   "price": 1.0,
+   "value": 14300.0,
+   "shares_after": 1539251.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1658678/0001193125-26-468654.txt",
+   "price_at_trade": 0.94,
+   "price_now": 0.82,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -12.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

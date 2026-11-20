@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "CSW",
  "company": {
   "name": "CSW INDUSTRIALS, INC.",
@@ -231,22 +231,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "committee_overlap": [],
-   "ticker": "CSW",
-   "est_shares": 33.3,
-   "avg_price": 240.35,
-   "price_now": 281.66,
-   "est_position_value": 9376,
-   "total_return_pct": 17.2,
-   "total_return_usd": 1375,
-   "first_buy": "2025-11-17",
-   "last_trade": "2025-11-17"
-  },
-  {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
@@ -261,6 +245,22 @@
    "total_return_usd": 1687,
    "first_buy": "2025-11-06",
    "last_trade": "2026-07-16"
+  },
+  {
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "committee_overlap": [],
+   "ticker": "CSW",
+   "est_shares": 33.3,
+   "avg_price": 240.35,
+   "price_now": 281.66,
+   "est_position_value": 9376,
+   "total_return_pct": 17.2,
+   "total_return_usd": 1375,
+   "first_buy": "2025-11-17",
+   "last_trade": "2025-11-17"
   }
  ],
  "insider_trades": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "AKAM",
  "company": {
   "name": "AKAMAI TECHNOLOGIES INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 91.7,
- "price_date": "2026-11-18",
+ "price_now": 91.71,
+ "price_date": "2026-11-19",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,8 +42,8 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 75.1,
-   "price_now": 91.7,
-   "price_now_date": "2026-11-18",
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
    "total_return_pct": 22.1,
    "days_to_disclose": 21,
    "late_filing": false
@@ -72,8 +72,8 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 73.93,
-   "price_now": 91.7,
-   "price_now_date": "2026-11-18",
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
    "total_return_pct": 24.0,
    "days_to_disclose": 22,
    "late_filing": false
@@ -102,8 +102,8 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 73.93,
-   "price_now": 91.7,
-   "price_now_date": "2026-11-18",
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
    "total_return_pct": 24.0,
    "days_to_disclose": 22,
    "late_filing": false
@@ -111,6 +111,44 @@
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AKAM",
+   "company_name": "AKAMAI TECHNOLOGIES INC",
+   "owner_name": "Joseph Paul C",
+   "owner_title": "EVP - Global Sales",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 3100.0,
+   "price": 85.42,
+   "value": 264802.0,
+   "shares_after": 25372.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/0001845574-26-000020.txt",
+   "price_at_trade": 91.7,
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "AKAM",
+   "company_name": "AKAMAI TECHNOLOGIES INC",
+   "owner_name": "Joseph Paul C",
+   "owner_title": "EVP - Global Sales",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 3100.0,
+   "price": 85.42,
+   "value": 264802.0,
+   "shares_after": 25372.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1845574/0001845574-26-000020.txt",
+   "price_at_trade": 91.7,
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "AKAM",
    "company_name": "AKAMAI TECHNOLOGIES INC",
@@ -126,8 +164,8 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/0001106232-26-000012.txt",
    "price_at_trade": 85.4,
-   "price_now": 91.7,
-   "price_now_date": "2026-11-18",
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
    "total_return_pct": 7.4
   },
   {
@@ -145,8 +183,8 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1106232/0001106232-26-000012.txt",
    "price_at_trade": 85.4,
-   "price_now": 91.7,
-   "price_now_date": "2026-11-18",
+   "price_now": 91.71,
+   "price_now_date": "2026-11-19",
    "total_return_pct": 7.4
   }
  ],

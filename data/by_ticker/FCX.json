@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "FCX",
  "company": {
   "name": "FREEPORT-MCMORAN INC",
@@ -8,8 +8,8 @@
   "industry": "Metal Mining",
   "sector": "Materials & Mining"
  },
- "price_now": 51.45,
- "price_date": "2026-11-18",
+ "price_now": 49.12,
+ "price_date": "2026-11-19",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 68.39,
-   "price_now": 51.45,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -24.8,
+   "price_now": 49.12,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -28.2,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 39.63,
-   "price_now": 51.45,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 29.8,
+   "price_now": 49.12,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 23.9,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 40.8,
-   "price_now": 51.45,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 26.1,
+   "price_now": 49.12,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 20.4,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -132,30 +132,14 @@
    "sector": "Materials & Mining",
    "committee_overlap": [],
    "price_at_trade": 34.89,
-   "price_now": 51.45,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 47.5,
+   "price_now": 49.12,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 40.8,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [
-  {
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "committee_overlap": [],
-   "ticker": "FCX",
-   "est_shares": 117.0,
-   "avg_price": 68.39,
-   "price_now": 51.45,
-   "est_position_value": 6019,
-   "total_return_pct": -24.8,
-   "total_return_usd": -1982,
-   "first_buy": "2026-04-15",
-   "last_trade": "2026-04-15"
-  },
   {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
@@ -165,12 +149,28 @@
    "ticker": "FCX",
    "est_shares": 398.0,
    "avg_price": 40.21,
-   "price_now": 51.45,
-   "est_position_value": 20476,
-   "total_return_pct": 28.0,
-   "total_return_usd": 4475,
+   "price_now": 49.12,
+   "est_position_value": 19548,
+   "total_return_pct": 22.2,
+   "total_return_usd": 3547,
    "first_buy": "2025-10-17",
    "last_trade": "2025-11-18"
+  },
+  {
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "committee_overlap": [],
+   "ticker": "FCX",
+   "est_shares": 117.0,
+   "avg_price": 68.39,
+   "price_now": 49.12,
+   "est_position_value": 5746,
+   "total_return_pct": -28.2,
+   "total_return_usd": -2254,
+   "first_buy": "2026-04-15",
+   "last_trade": "2026-04-15"
   }
  ],
  "insider_trades": [],

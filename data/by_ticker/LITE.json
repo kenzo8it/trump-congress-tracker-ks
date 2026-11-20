@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "LITE",
  "company": {
   "name": "Lumentum Holdings Inc.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Michael A. Rulli",
+   "state_district": "OH06",
+   "reported_date": "2026-11-18",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+   "owner": "self",
+   "asset": "Lumentum Holdings Inc. - Common Stock",
+   "asset_type": "ST",
+   "ticker": "LITE",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-11-04",
+   "notified_date": "2026-11-04",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "R000619",
+   "party": "Republican",
+   "state": "OH",
+   "company_name": "Lumentum Holdings Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "price_at_trade": 626.75,
+   "price_now": 551.07,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": -12.1,
+   "days_to_disclose": 14,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",
@@ -143,6 +175,22 @@
  ],
  "congress_holders": [
   {
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "committee_overlap": [],
+   "ticker": "LITE",
+   "est_shares": 9.7,
+   "avg_price": 822.51,
+   "price_now": 551.07,
+   "est_position_value": 5360,
+   "total_return_pct": -33.0,
+   "total_return_usd": -2640,
+   "first_buy": "2026-04-14",
+   "last_trade": "2026-10-20"
+  },
+  {
    "name": "Josh Gottheimer",
    "party": "Democrat",
    "chamber": "House",
@@ -159,22 +207,6 @@
    "total_return_usd": -3344,
    "first_buy": "2026-05-22",
    "last_trade": "2026-05-22"
-  },
-  {
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "committee_overlap": [],
-   "ticker": "LITE",
-   "est_shares": 9.7,
-   "avg_price": 822.51,
-   "price_now": 551.07,
-   "est_position_value": 5360,
-   "total_return_pct": -33.0,
-   "total_return_usd": -2640,
-   "first_buy": "2026-04-14",
-   "last_trade": "2026-10-20"
   }
  ],
  "insider_trades": [

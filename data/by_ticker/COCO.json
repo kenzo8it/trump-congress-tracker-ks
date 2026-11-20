@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "COCO",
  "company": {
   "name": "Vita Coco Company, Inc.",
@@ -158,6 +158,44 @@
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "COCO",
+   "company_name": "Vita Coco Company, Inc.",
+   "owner_name": "Sadowsky Kenneth",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 3900.0,
+   "price": 64.43,
+   "value": 251277.0,
+   "shares_after": 576396.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1482981/0001482981-26-000189.txt",
+   "price_at_trade": 67.61,
+   "price_now": 67.61,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "COCO",
+   "company_name": "Vita Coco Company, Inc.",
+   "owner_name": "Sadowsky Kenneth",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-19",
+   "shares": 3900.0,
+   "price": 64.43,
+   "value": 251277.0,
+   "shares_after": 576396.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1886372/0001482981-26-000189.txt",
+   "price_at_trade": 67.61,
+   "price_now": 67.61,
+   "price_now_date": "2026-11-18",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "COCO",
    "company_name": "Vita Coco Company, Inc.",

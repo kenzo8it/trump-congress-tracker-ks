@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:42+00:00",
+ "updated": "2026-11-20T03:29+00:00",
  "ticker": "MRK",
  "company": {
   "name": "Merck & Co., Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 137.78,
- "price_date": "2026-11-18",
+ "price_now": 132.81,
+ "price_date": "2026-11-19",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 147.98,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -6.9,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -10.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 151.31,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -8.9,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -12.2,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 151.31,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -8.9,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -12.2,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 115.94,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 18.8,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 14.6,
    "days_to_disclose": 40,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 99.05,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 39.1,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 34.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -192,9 +192,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 98.65,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 39.7,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 34.6,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -222,9 +222,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 93.68,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 47.1,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 41.8,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -252,30 +252,14 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 90.28,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 52.6,
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": 47.1,
    "days_to_disclose": 28,
    "late_filing": false
   }
  ],
  "congress_holders": [
-  {
-   "name": "Josh Gottheimer",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "NJ",
-   "committee_overlap": [],
-   "ticker": "MRK",
-   "est_shares": 69.0,
-   "avg_price": 115.94,
-   "price_now": 137.78,
-   "est_position_value": 9508,
-   "total_return_pct": 18.8,
-   "total_return_usd": 1507,
-   "first_buy": "2026-02-04",
-   "last_trade": "2026-02-04"
-  },
   {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
@@ -285,12 +269,28 @@
    "ticker": "MRK",
    "est_shares": 166.2,
    "avg_price": 96.29,
-   "price_now": 137.78,
-   "est_position_value": 22896,
-   "total_return_pct": 43.1,
-   "total_return_usd": 6895,
+   "price_now": 132.81,
+   "est_position_value": 22070,
+   "total_return_pct": 37.9,
+   "total_return_usd": 6069,
    "first_buy": "2025-11-18",
    "last_trade": "2025-12-19"
+  },
+  {
+   "name": "Josh Gottheimer",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "NJ",
+   "committee_overlap": [],
+   "ticker": "MRK",
+   "est_shares": 69.0,
+   "avg_price": 115.94,
+   "price_now": 132.81,
+   "est_position_value": 9165,
+   "total_return_pct": 14.6,
+   "total_return_usd": 1164,
+   "first_buy": "2026-02-04",
+   "last_trade": "2026-02-04"
   },
   {
    "name": "Maria Elvira Salazar",
@@ -301,10 +301,10 @@
    "ticker": "MRK",
    "est_shares": 375.5,
    "avg_price": 151.31,
-   "price_now": 137.78,
-   "est_position_value": 51740,
-   "total_return_pct": -8.9,
-   "total_return_usd": -5081,
+   "price_now": 132.81,
+   "est_position_value": 49873,
+   "total_return_pct": -12.2,
+   "total_return_usd": -6947,
    "first_buy": "2026-08-19",
    "last_trade": "2026-09-24"
   }
@@ -325,9 +325,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1421339/0000310158-26-000252.txt",
    "price_at_trade": 146.95,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -6.2
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -9.6
   },
   {
    "ticker": "MRK",
@@ -344,9 +344,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/310158/0000310158-26-000252.txt",
    "price_at_trade": 146.95,
-   "price_now": 137.78,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -6.2
+   "price_now": 132.81,
+   "price_now_date": "2026-11-19",
+   "total_return_pct": -9.6
   }
  ],
  "trump_trades": [],
