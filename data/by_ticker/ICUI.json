@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ICUI",
  "company": {
   "name": "ICU MEDICAL INC/DE",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 175.76,
- "price_date": "2026-11-19",
+ "price_now": 172.52,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "ICUI",
    "company_name": "ICU MEDICAL INC/DE",
+   "owner_name": "Greenberg David C.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 883.0,
+   "price": 176.12,
+   "value": 155513.96,
+   "shares_after": 9214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645866/0001645866-26-000002.txt",
+   "price_at_trade": 172.52,
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ICUI",
+   "company_name": "ICU MEDICAL INC/DE",
+   "owner_name": "Greenberg David C.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 883.0,
+   "price": 176.12,
+   "value": 155513.96,
+   "shares_after": 9214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/883984/0001645866-26-000002.txt",
+   "price_at_trade": 172.52,
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ICUI",
+   "company_name": "ICU MEDICAL INC/DE",
    "owner_name": "FINNEY ELISHA W",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217439/0001217439-26-000004.txt",
    "price_at_trade": 179.27,
-   "price_now": 175.76,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.0
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "ICUI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/883984/0001217439-26-000004.txt",
    "price_at_trade": 179.27,
-   "price_now": 175.76,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.0
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.8
   },
   {
    "ticker": "ICUI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1217439/0001217439-26-000004.txt",
    "price_at_trade": 177.3,
-   "price_now": 175.76,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.9
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "ICUI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/883984/0001217439-26-000004.txt",
    "price_at_trade": 177.3,
-   "price_now": 175.76,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.9
+   "price_now": 172.52,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   }
  ],
  "trump_trades": [],

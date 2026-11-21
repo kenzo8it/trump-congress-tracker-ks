@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "WEX",
  "company": {
   "name": "WEX Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 173.99,
- "price_date": "2026-11-19",
+ "price_now": 174.95,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "WEX",
+   "company_name": "WEX Inc.",
+   "owner_name": "Deshaies Robert Joseph",
+   "owner_title": "COO,  Benefits",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 846.0,
+   "price": 177.11,
+   "value": 149835.06,
+   "shares_after": 16442.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0001788329-26-000021.txt",
+   "price_at_trade": 173.99,
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.6
+  },
+  {
+   "ticker": "WEX",
+   "company_name": "WEX Inc.",
+   "owner_name": "Deshaies Robert Joseph",
+   "owner_title": "COO,  Benefits",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 846.0,
+   "price": 177.11,
+   "value": 149835.06,
+   "shares_after": 16442.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1788329/0001788329-26-000021.txt",
+   "price_at_trade": 173.99,
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.6
+  },
   {
    "ticker": "WEX",
    "company_name": "WEX Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0000921895-26-003222.txt",
    "price_at_trade": 181.62,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "WEX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699118/0000921895-26-003222.txt",
    "price_at_trade": 181.62,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "WEX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786731/0000921895-26-003222.txt",
    "price_at_trade": 181.62,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "WEX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786767/0000921895-26-003222.txt",
    "price_at_trade": 181.62,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "WEX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1787532/0000921895-26-003222.txt",
    "price_at_trade": 181.62,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "WEX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0001904058-26-000015.txt",
    "price_at_trade": 184.83,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.9
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "WEX",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1904058/0001904058-26-000015.txt",
    "price_at_trade": 184.83,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.9
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "WEX",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0001832333-26-000013.txt",
    "price_at_trade": 182.29,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.6
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1832333/0001832333-26-000013.txt",
    "price_at_trade": 182.29,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.6
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -206,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0001824593-26-000011.txt",
    "price_at_trade": 182.53,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.7
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "WEX",
@@ -225,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1824593/0001824593-26-000011.txt",
    "price_at_trade": 182.53,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.7
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "WEX",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0000921895-26-002975.txt",
    "price_at_trade": 182.22,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.5
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699118/0000921895-26-002975.txt",
    "price_at_trade": 182.22,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.5
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786731/0000921895-26-002975.txt",
    "price_at_trade": 182.22,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.5
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786767/0000921895-26-002975.txt",
    "price_at_trade": 182.22,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.5
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1787532/0000921895-26-002975.txt",
    "price_at_trade": 182.22,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.5
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.0
   },
   {
    "ticker": "WEX",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0000921895-26-002975.txt",
    "price_at_trade": 179.78,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "WEX",
@@ -358,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1699118/0000921895-26-002975.txt",
    "price_at_trade": 179.78,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "WEX",
@@ -377,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786731/0000921895-26-002975.txt",
    "price_at_trade": 179.78,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "WEX",
@@ -396,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786767/0000921895-26-002975.txt",
    "price_at_trade": 179.78,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "WEX",
@@ -415,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1787532/0000921895-26-002975.txt",
    "price_at_trade": 179.78,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.2
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.7
   },
   {
    "ticker": "WEX",
@@ -434,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1309108/0001676699-26-000011.txt",
    "price_at_trade": 181.97,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.4
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "WEX",
@@ -453,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1676699/0001676699-26-000011.txt",
    "price_at_trade": 181.97,
-   "price_now": 173.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.4
+   "price_now": 174.95,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.9
   }
  ],
  "trump_trades": [],

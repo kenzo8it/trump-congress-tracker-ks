@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "MPB",
  "company": {
   "name": "MID PENN BANCORP INC",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 34.27,
- "price_date": "2026-11-19",
+ "price_now": 33.93,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "MPB",
    "company_name": "MID PENN BANCORP INC",
+   "owner_name": "Stephon Kenneth John",
+   "owner_title": "Director, Chief Corp Development Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 1.1847,
+   "price": 34.2678,
+   "value": 40.6,
+   "shares_after": 38784.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1850485/0001850485-26-000008.txt",
+   "price_at_trade": 34.27,
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MPB",
+   "company_name": "MID PENN BANCORP INC",
+   "owner_name": "Stephon Kenneth John",
+   "owner_title": "Director, Chief Corp Development Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 1.1847,
+   "price": 34.2678,
+   "value": 40.6,
+   "shares_after": 38784.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/879635/0001850485-26-000008.txt",
+   "price_at_trade": 34.27,
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "MPB",
+   "company_name": "MID PENN BANCORP INC",
    "owner_name": "NORCROSS PHILIP A",
    "owner_title": "10% owner",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548007/0001193125-26-463507.txt",
    "price_at_trade": 34.94,
-   "price_now": 34.27,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.9
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "MPB",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/879635/0001193125-26-463507.txt",
    "price_at_trade": 34.94,
-   "price_now": 34.27,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.9
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "MPB",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1548007/0001193125-26-463507.txt",
    "price_at_trade": 34.78,
-   "price_now": 34.27,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.5
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "MPB",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/879635/0001193125-26-463507.txt",
    "price_at_trade": 34.78,
-   "price_now": 34.27,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.5
+   "price_now": 33.93,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.4
   }
  ],
  "trump_trades": [],

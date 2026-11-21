@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ARR",
  "company": {
   "name": "Armour Residential REIT, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 10.83,
- "price_date": "2026-11-19",
+ "price_now": 10.81,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ARR",
+   "company_name": "Armour Residential REIT, Inc.",
+   "owner_name": "Harper Gordon",
+   "owner_title": "CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 2500.0,
+   "price": 10.8989,
+   "value": 27247.25,
+   "shares_after": 36772.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1428205/0001698344-26-000010.txt",
+   "price_at_trade": 10.81,
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ARR",
+   "company_name": "Armour Residential REIT, Inc.",
+   "owner_name": "Harper Gordon",
+   "owner_title": "CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 2500.0,
+   "price": 10.8989,
+   "value": 27247.25,
+   "shares_after": 36772.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1698344/0001698344-26-000010.txt",
+   "price_at_trade": 10.81,
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "ARR",
    "company_name": "Armour Residential REIT, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428205/0001469064-26-000010.txt",
    "price_at_trade": 10.83,
-   "price_now": 10.83,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "ARR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469064/0001469064-26-000010.txt",
    "price_at_trade": 10.83,
-   "price_now": 10.83,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "ARR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1428205/0002016620-26-000011.txt",
    "price_at_trade": 11.69,
-   "price_now": 10.83,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.4
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.5
   },
   {
    "ticker": "ARR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2016620/0002016620-26-000011.txt",
    "price_at_trade": 11.69,
-   "price_now": 10.83,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.4
+   "price_now": 10.81,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.5
   }
  ],
  "trump_trades": [],

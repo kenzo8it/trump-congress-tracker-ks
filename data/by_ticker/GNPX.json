@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "GNPX",
  "company": {
   "name": "Genprex, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 1.71,
- "price_date": "2026-11-18",
+ "price_now": 1.45,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 43.12,
-   "price_now": 1.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -96.0,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -96.6,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 47.74,
-   "price_now": 1.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -96.4,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -97.0,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 92.62,
-   "price_now": 1.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -98.2,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -98.4,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 146.08,
-   "price_now": 1.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -98.8,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -99.0,
    "days_to_disclose": 14,
    "late_filing": false
   }
@@ -149,10 +149,10 @@
    "ticker": "GNPX",
    "est_shares": 662.0,
    "avg_price": 85.35,
-   "price_now": 1.71,
-   "est_position_value": 1132,
-   "total_return_pct": -98.0,
-   "total_return_usd": -55370,
+   "price_now": 1.45,
+   "est_position_value": 960,
+   "total_return_pct": -98.3,
+   "total_return_usd": -55542,
    "first_buy": "2025-10-29",
    "last_trade": "2026-02-05"
   }

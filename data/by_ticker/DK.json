@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-21T03:30+00:00",
+ "ticker": "DK",
+ "company": {
+  "name": "Delek US Holdings, Inc.",
+  "cik": 1694426,
+  "sic": 2911,
+  "industry": "Petroleum Refining",
+  "sector": "Energy & Utilities"
+ },
+ "price_now": 59.8,
+ "price_date": "2026-11-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "DK",
+   "company_name": "Delek US Holdings, Inc.",
+   "owner_name": "Spiegel Reuven",
+   "owner_title": "EVP, Delek Logistics",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 65.72,
+   "value": 657200.0,
+   "shares_after": 7952.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1615515/0001615515-26-000034.txt",
+   "price_at_trade": 60.32,
+   "price_now": 59.8,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.9
+  },
+  {
+   "ticker": "DK",
+   "company_name": "Delek US Holdings, Inc.",
+   "owner_name": "Spiegel Reuven",
+   "owner_title": "EVP, Delek Logistics",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 10000.0,
+   "price": 65.72,
+   "value": 657200.0,
+   "shares_after": 7952.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1694426/0001615515-26-000034.txt",
+   "price_at_trade": 60.32,
+   "price_now": 59.8,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

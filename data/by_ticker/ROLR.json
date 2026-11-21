@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-21T03:30+00:00",
+ "ticker": "ROLR",
+ "company": {
+  "name": "High Roller Technologies, Inc.",
+  "cik": 1947210,
+  "sic": 7900,
+  "industry": "Services-Amusement & Recreation Services",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 2.73,
+ "price_date": "2026-11-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "ROLR",
+   "company_name": "High Roller Technologies, Inc.",
+   "owner_name": "Felman Adam Jonathan",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 15600.0,
+   "price": 2.6066,
+   "value": 40662.96,
+   "shares_after": 141825.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1947210/0001753926-26-002215.txt",
+   "price_at_trade": 2.6,
+   "price_now": 2.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 5.0
+  },
+  {
+   "ticker": "ROLR",
+   "company_name": "High Roller Technologies, Inc.",
+   "owner_name": "Felman Adam Jonathan",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 15600.0,
+   "price": 2.6066,
+   "value": 40662.96,
+   "shares_after": 141825.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2066846/0001753926-26-002215.txt",
+   "price_at_trade": 2.6,
+   "price_now": 2.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 5.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

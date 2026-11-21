@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "CHH",
  "company": {
   "name": "CHOICE HOTELS INTERNATIONAL INC /DE",
@@ -8,8 +8,8 @@
   "industry": "Hotels & Motels",
   "sector": "Retail & Consumer"
  },
- "price_now": 120.05,
- "price_date": "2026-11-19",
+ "price_now": 117.17,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Oaksmith Scott E",
    "owner_title": "SVP, Chief Financial Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 3547.0,
+   "price": 125.18,
+   "value": 444013.46,
+   "shares_after": 27625.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-469371.txt",
+   "price_at_trade": 124.46,
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 3547.0,
+   "price": 125.18,
+   "value": 444013.46,
+   "shares_after": 27625.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1375380/0001193125-26-469371.txt",
+   "price_at_trade": 124.46,
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.9
+  },
+  {
+   "ticker": "CHH",
+   "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "owner_name": "Oaksmith Scott E",
+   "owner_title": "SVP, Chief Financial Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-04",
    "reported_date": "2026-11-05",
    "shares": 1998.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-449144.txt",
    "price_at_trade": 120.33,
-   "price_now": 120.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.2
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.6
   },
   {
    "ticker": "CHH",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046311/0001193125-26-449144.txt",
    "price_at_trade": 120.33,
-   "price_now": 120.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.2
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.6
   },
   {
    "ticker": "CHH",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1375380/0001193125-26-449144.txt",
    "price_at_trade": 120.33,
-   "price_now": 120.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.2
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.6
   },
   {
    "ticker": "CHH",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1375380/0001193125-26-449144.txt",
    "price_at_trade": 120.33,
-   "price_now": 120.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.2
+   "price_now": 117.17,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.6
   }
  ],
  "trump_trades": [],

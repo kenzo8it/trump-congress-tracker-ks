@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ISRG",
  "company": {
   "name": "INTUITIVE SURGICAL INC",
@@ -8,8 +8,8 @@
   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
   "sector": "Healthcare"
  },
- "price_now": 407.24,
- "price_date": "2026-11-19",
+ "price_now": 399.05,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 504.22,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -19.2,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -20.9,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 555.92,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -26.7,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -28.2,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 546.77,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -25.5,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -27.0,
    "days_to_disclose": 27,
    "late_filing": false
   }
@@ -119,10 +119,10 @@
    "ticker": "ISRG",
    "est_shares": 44.9,
    "avg_price": 534.66,
-   "price_now": 407.24,
-   "est_position_value": 18281,
-   "total_return_pct": -23.8,
-   "total_return_usd": -5720,
+   "price_now": 399.05,
+   "est_position_value": 17914,
+   "total_return_pct": -25.4,
+   "total_return_usd": -6088,
    "first_buy": "2025-11-18",
    "last_trade": "2026-01-30"
   }
@@ -134,6 +134,82 @@
    "owner_name": "Brosius Mark",
    "owner_title": "EVP & Chief Mfg and Supply Cha",
    "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 46.0,
+   "price": 407.24,
+   "value": 18733.04,
+   "shares_after": 227.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000041.txt",
+   "price_at_trade": 399.05,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 46.0,
+   "price": 407.24,
+   "value": 18733.04,
+   "shares_after": 227.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000041.txt",
+   "price_at_trade": 399.05,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 46.0,
+   "price": 420.95,
+   "value": 19363.7,
+   "shares_after": 273.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000041.txt",
+   "price_at_trade": 407.24,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 46.0,
+   "price": 420.95,
+   "value": 19363.7,
+   "shares_after": 273.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000041.txt",
+   "price_at_trade": 407.24,
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.0
+  },
+  {
+   "ticker": "ISRG",
+   "company_name": "INTUITIVE SURGICAL INC",
+   "owner_name": "Brosius Mark",
+   "owner_title": "EVP & Chief Mfg and Supply Cha",
+   "trade_type": "SELL",
    "traded_date": "2026-11-18",
    "reported_date": "2026-11-18",
    "shares": 46.0,
@@ -143,9 +219,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000039.txt",
    "price_at_trade": 420.95,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "ISRG",
@@ -162,9 +238,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000039.txt",
    "price_at_trade": 420.95,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "ISRG",
@@ -181,9 +257,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000039.txt",
    "price_at_trade": 430.53,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.4
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "ISRG",
@@ -200,9 +276,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000039.txt",
    "price_at_trade": 430.53,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.4
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.3
   },
   {
    "ticker": "ISRG",
@@ -219,9 +295,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000039.txt",
    "price_at_trade": 437.75,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "ISRG",
@@ -238,9 +314,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000039.txt",
    "price_at_trade": 437.75,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "ISRG",
@@ -257,9 +333,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001561733-26-000018.txt",
    "price_at_trade": 450.04,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.3
   },
   {
    "ticker": "ISRG",
@@ -276,9 +352,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561733/0001561733-26-000018.txt",
    "price_at_trade": 450.04,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.3
   },
   {
    "ticker": "ISRG",
@@ -295,9 +371,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001277620-26-000011.txt",
    "price_at_trade": 482.1,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -15.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.2
   },
   {
    "ticker": "ISRG",
@@ -314,9 +390,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001280628-26-000018.txt",
    "price_at_trade": 482.1,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -15.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.2
   },
   {
    "ticker": "ISRG",
@@ -333,9 +409,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1277620/0001277620-26-000011.txt",
    "price_at_trade": 482.1,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -15.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.2
   },
   {
    "ticker": "ISRG",
@@ -352,9 +428,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1280628/0001280628-26-000018.txt",
    "price_at_trade": 482.1,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -15.5
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.2
   },
   {
    "ticker": "ISRG",
@@ -371,9 +447,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001897970-26-000012.txt",
    "price_at_trade": 432.01,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "ISRG",
@@ -390,9 +466,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000037.txt",
    "price_at_trade": 432.01,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "ISRG",
@@ -409,9 +485,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897970/0001897970-26-000012.txt",
    "price_at_trade": 432.01,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "ISRG",
@@ -428,9 +504,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000037.txt",
    "price_at_trade": 432.01,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "ISRG",
@@ -447,9 +523,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000037.txt",
    "price_at_trade": 448.76,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.1
   },
   {
    "ticker": "ISRG",
@@ -466,9 +542,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000037.txt",
    "price_at_trade": 448.76,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.1
   },
   {
    "ticker": "ISRG",
@@ -485,9 +561,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
    "price_at_trade": 444.18,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -8.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -10.2
   },
   {
    "ticker": "ISRG",
@@ -504,9 +580,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
    "price_at_trade": 444.18,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -8.3
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -10.2
   },
   {
    "ticker": "ISRG",
@@ -523,9 +599,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
    "price_at_trade": 445.88,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -8.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -10.5
   },
   {
    "ticker": "ISRG",
@@ -542,9 +618,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
    "price_at_trade": 445.88,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -8.7
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -10.5
   },
   {
    "ticker": "ISRG",
@@ -561,9 +637,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0002010300-26-000035.txt",
    "price_at_trade": 451.63,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.8
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.6
   },
   {
    "ticker": "ISRG",
@@ -580,9 +656,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2010300/0002010300-26-000035.txt",
    "price_at_trade": 451.63,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.8
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.6
   },
   {
    "ticker": "ISRG",
@@ -599,9 +675,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001274559-26-000007.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -618,9 +694,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001277620-26-000009.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -637,9 +713,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001280628-26-000016.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -656,9 +732,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/0001897970-26-000010.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -675,9 +751,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1274559/0001274559-26-000007.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -694,9 +770,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1277620/0001277620-26-000009.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -713,9 +789,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1280628/0001280628-26-000016.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   },
   {
    "ticker": "ISRG",
@@ -732,9 +808,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897970/0001897970-26-000010.txt",
    "price_at_trade": 452.29,
-   "price_now": 407.24,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -10.0
+   "price_now": 399.05,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.8
   }
  ],
  "trump_trades": [],

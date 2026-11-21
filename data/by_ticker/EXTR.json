@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "EXTR",
  "company": {
   "name": "EXTREME NETWORKS INC",
@@ -8,8 +8,8 @@
   "industry": "Computer Communications Equipment",
   "sector": "Technology"
  },
- "price_now": 26.65,
- "price_date": "2026-11-19",
+ "price_now": 24.2,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EXTR",
+   "company_name": "EXTREME NETWORKS INC",
+   "owner_name": "RHODES KEVIN R",
+   "owner_title": "EVP Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 21804.0,
+   "price": 27.5,
+   "value": 599610.0,
+   "shares_after": 185462.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1078271/0001437749-26-037899.txt",
+   "price_at_trade": 26.65,
+   "price_now": 24.2,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -9.2
+  },
+  {
+   "ticker": "EXTR",
+   "company_name": "EXTREME NETWORKS INC",
+   "owner_name": "RHODES KEVIN R",
+   "owner_title": "EVP Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 21804.0,
+   "price": 27.5,
+   "value": 599610.0,
+   "shares_after": 185462.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1164420/0001437749-26-037899.txt",
+   "price_at_trade": 26.65,
+   "price_now": 24.2,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -9.2
+  },
   {
    "ticker": "EXTR",
    "company_name": "EXTREME NETWORKS INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1078271/0001437749-26-034656.txt",
    "price_at_trade": 22.29,
-   "price_now": 26.65,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 19.6
+   "price_now": 24.2,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 8.6
   },
   {
    "ticker": "EXTR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1179945/0001437749-26-034656.txt",
    "price_at_trade": 22.29,
-   "price_now": 26.65,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 19.6
+   "price_now": 24.2,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 8.6
   }
  ],
  "trump_trades": [],

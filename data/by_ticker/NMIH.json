@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "NMIH",
  "company": {
   "name": "NMI Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surety Insurance",
   "sector": "Financials"
  },
- "price_now": 38.62,
- "price_date": "2026-11-18",
+ "price_now": 38.41,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NMIH",
+   "company_name": "NMI Holdings, Inc.",
+   "owner_name": "SCHEID STEVEN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 15611.0,
+   "price": 38.521,
+   "value": 601351.33,
+   "shares_after": 63622.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1188413/0001188413-26-000006.txt",
+   "price_at_trade": 38.41,
+   "price_now": 38.41,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "NMIH",
+   "company_name": "NMI Holdings, Inc.",
+   "owner_name": "SCHEID STEVEN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 15611.0,
+   "price": 38.521,
+   "value": 601351.33,
+   "shares_after": 63622.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1547903/0001188413-26-000006.txt",
+   "price_at_trade": 38.41,
+   "price_now": 38.41,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "NMIH",
    "company_name": "NMI Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1422024/0001422024-26-000010.txt",
    "price_at_trade": 38.65,
-   "price_now": 38.62,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.1
+   "price_now": 38.41,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.6
   },
   {
    "ticker": "NMIH",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1547903/0001422024-26-000010.txt",
    "price_at_trade": 38.65,
-   "price_now": 38.62,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.1
+   "price_now": 38.41,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.6
   }
  ],
  "trump_trades": [],

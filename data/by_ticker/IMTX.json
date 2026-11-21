@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-21T03:30+00:00",
+ "ticker": "IMTX",
+ "company": {
+  "name": "Immatics N.V.",
+  "cik": 1809196,
+  "sic": 2836,
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Healthcare"
+ },
+ "price_now": 5.77,
+ "price_date": "2026-11-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "IMTX",
+   "company_name": "Immatics N.V.",
+   "owner_name": "Kramer Rainer",
+   "owner_title": "Chief Business Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 22868.0,
+   "price": 6.06,
+   "value": 138580.08,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1809196/0000950103-26-017950.txt",
+   "price_at_trade": 5.95,
+   "price_now": 5.77,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.0
+  },
+  {
+   "ticker": "IMTX",
+   "company_name": "Immatics N.V.",
+   "owner_name": "Kramer Rainer",
+   "owner_title": "Chief Business Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 22868.0,
+   "price": 6.06,
+   "value": 138580.08,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2110595/0000950103-26-017950.txt",
+   "price_at_trade": 5.95,
+   "price_now": 5.77,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

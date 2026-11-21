@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ELV",
  "company": {
   "name": "Elevance Health, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Hospital & Medical Service Plans",
   "sector": "Healthcare"
  },
- "price_now": 390.16,
- "price_date": "2026-11-19",
+ "price_now": 394.48,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ELV",
+   "company_name": "Elevance Health, Inc.",
+   "owner_name": "PERU RAMIRO G",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 383.86,
+   "value": 383860.0,
+   "shares_after": 11908.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001192045-26-000006.txt",
+   "price_at_trade": 390.16,
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "ELV",
+   "company_name": "Elevance Health, Inc.",
+   "owner_name": "PERU RAMIRO G",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 383.86,
+   "value": 383860.0,
+   "shares_after": 11908.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192045/0001192045-26-000006.txt",
+   "price_at_trade": 390.16,
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.1
+  },
   {
    "ticker": "ELV",
    "company_name": "Elevance Health, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001737620-26-000005.txt",
    "price_at_trade": 432.0,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.7
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.7
   },
   {
    "ticker": "ELV",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1737620/0001737620-26-000005.txt",
    "price_at_trade": 432.0,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -9.7
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.7
   },
   {
    "ticker": "ELV",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -358,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -377,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -396,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -415,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -434,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -453,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -472,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -491,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -510,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -529,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   },
   {
    "ticker": "ELV",
@@ -548,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748691/0001748691-26-000008.txt",
    "price_at_trade": 445.28,
-   "price_now": 390.16,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.4
+   "price_now": 394.48,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -11.4
   }
  ],
  "trump_trades": [],

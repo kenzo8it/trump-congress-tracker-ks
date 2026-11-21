@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "TISI",
  "company": {
   "name": "TEAM INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Miscellaneous Repair Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 24.79,
- "price_date": "2026-11-19",
+ "price_now": 25.73,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TISI",
+   "company_name": "TEAM INC",
+   "owner_name": "Hill Gary L.",
+   "owner_title": "Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 6000.0,
+   "price": 25.0,
+   "value": 150000.0,
+   "shares_after": 61887.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782810/0001782810-26-000013.txt",
+   "price_at_trade": 24.79,
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 3.8
+  },
+  {
+   "ticker": "TISI",
+   "company_name": "TEAM INC",
+   "owner_name": "Hill Gary L.",
+   "owner_title": "Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 6000.0,
+   "price": 25.0,
+   "value": 150000.0,
+   "shares_after": 61887.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318833/0001782810-26-000013.txt",
+   "price_at_trade": 24.79,
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 3.8
+  },
   {
    "ticker": "TISI",
    "company_name": "TEAM INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1733544/0001733544-26-000006.txt",
    "price_at_trade": 22.79,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 8.8
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 12.9
   },
   {
    "ticker": "TISI",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782810/0001782810-26-000011.txt",
    "price_at_trade": 22.79,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 8.8
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 12.9
   },
   {
    "ticker": "TISI",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/318833/0001733544-26-000006.txt",
    "price_at_trade": 22.79,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 8.8
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 12.9
   },
   {
    "ticker": "TISI",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/318833/0001782810-26-000011.txt",
    "price_at_trade": 22.79,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 8.8
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 12.9
   },
   {
    "ticker": "TISI",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1368766/0001368766-26-000005.txt",
    "price_at_trade": 24.2,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 2.4
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 6.3
   },
   {
    "ticker": "TISI",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/318833/0001368766-26-000005.txt",
    "price_at_trade": 24.2,
-   "price_now": 24.79,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 2.4
+   "price_now": 25.73,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 6.3
   }
  ],
  "trump_trades": [],

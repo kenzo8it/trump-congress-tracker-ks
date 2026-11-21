@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "CLIK",
  "company": {
   "name": "Click Holdings Ltd.",
@@ -8,8 +8,8 @@
   "industry": "Services-Employment Agencies",
   "sector": "Retail & Consumer"
  },
- "price_now": 0.71,
- "price_date": "2026-11-18",
+ "price_now": 0.67,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Chan Chun Sing",
    "owner_title": "Director, Chief Executive Officer, 10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 45000.0,
+   "price": 0.7373,
+   "value": 33178.5,
+   "shares_after": 4774220.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2020027/0001493152-26-053366.txt",
+   "price_at_trade": 0.71,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.5
+  },
+  {
+   "ticker": "CLIK",
+   "company_name": "Click Holdings Ltd.",
+   "owner_name": "Chan Chun Sing",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 45000.0,
+   "price": 0.7373,
+   "value": 33178.5,
+   "shares_after": 4774220.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2121160/0001493152-26-053366.txt",
+   "price_at_trade": 0.71,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.5
+  },
+  {
+   "ticker": "CLIK",
+   "company_name": "Click Holdings Ltd.",
+   "owner_name": "Chan Chun Sing",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 43020.0,
+   "price": 0.7131,
+   "value": 30677.56,
+   "shares_after": 4729220.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2020027/0001493152-26-053366.txt",
+   "price_at_trade": 0.71,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.5
+  },
+  {
+   "ticker": "CLIK",
+   "company_name": "Click Holdings Ltd.",
+   "owner_name": "Chan Chun Sing",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 43020.0,
+   "price": 0.7131,
+   "value": 30677.56,
+   "shares_after": 4729220.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2121160/0001493152-26-053366.txt",
+   "price_at_trade": 0.71,
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.5
+  },
+  {
+   "ticker": "CLIK",
+   "company_name": "Click Holdings Ltd.",
+   "owner_name": "Chan Chun Sing",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-11",
    "reported_date": "2026-11-12",
    "shares": 20000.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020027/0001493152-26-051250.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.7
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
   },
   {
    "ticker": "CLIK",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020027/0001493152-26-051250.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.7
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
   },
   {
    "ticker": "CLIK",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2121160/0001493152-26-051250.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.7
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
   },
   {
    "ticker": "CLIK",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2121160/0001493152-26-051250.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -0.7
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
   },
   {
    "ticker": "CLIK",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020027/0001493152-26-051250.txt",
    "price_at_trade": 0.66,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 6.9
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "CLIK",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2121160/0001493152-26-051250.txt",
    "price_at_trade": 0.66,
-   "price_now": 0.71,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": 6.9
+   "price_now": 0.67,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.1
   }
  ],
  "trump_trades": [],

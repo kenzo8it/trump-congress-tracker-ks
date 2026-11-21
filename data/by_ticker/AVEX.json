@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-21T03:30+00:00",
+ "ticker": "AVEX",
+ "company": {
+  "name": "AEVEX Corp.",
+  "cik": 2096300,
+  "sic": 3721,
+  "industry": "Aircraft",
+  "sector": "Defense & Aerospace"
+ },
+ "price_now": 11.04,
+ "price_date": "2026-11-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "AVEX",
+   "company_name": "AEVEX Corp.",
+   "owner_name": "Morrison Christine M.",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 7737.0,
+   "price": 13.23,
+   "value": 102360.51,
+   "shares_after": 35941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2096300/0001193125-26-470273.txt",
+   "price_at_trade": 13.4,
+   "price_now": 11.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.6
+  },
+  {
+   "ticker": "AVEX",
+   "company_name": "AEVEX Corp.",
+   "owner_name": "Morrison Christine M.",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 7737.0,
+   "price": 13.23,
+   "value": 102360.51,
+   "shares_after": 35941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2123068/0001193125-26-470273.txt",
+   "price_at_trade": 13.4,
+   "price_now": 11.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -17.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

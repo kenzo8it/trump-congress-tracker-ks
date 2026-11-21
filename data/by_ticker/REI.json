@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "REI",
  "company": {
   "name": "RING ENERGY, INC.",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 1.06,
- "price_date": "2026-11-19",
+ "price_now": 1.04,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "REI",
+   "company_name": "RING ENERGY, INC.",
+   "owner_name": "Tharp Carla Todd",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 25000.0,
+   "price": 1.07,
+   "value": 26750.0,
+   "shares_after": 245225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1384195/0001628280-26-075331.txt",
+   "price_at_trade": 1.06,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "REI",
+   "company_name": "RING ENERGY, INC.",
+   "owner_name": "Tharp Carla Todd",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 25000.0,
+   "price": 1.07,
+   "value": 26750.0,
+   "shares_after": 245225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2065744/0001628280-26-075331.txt",
+   "price_at_trade": 1.06,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.9
+  },
+  {
+   "ticker": "REI",
+   "company_name": "RING ENERGY, INC.",
+   "owner_name": "Tharp Carla Todd",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 25000.0,
+   "price": 1.07,
+   "value": 26750.0,
+   "shares_after": 220225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1384195/0001628280-26-075331.txt",
+   "price_at_trade": 1.07,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.8
+  },
+  {
+   "ticker": "REI",
+   "company_name": "RING ENERGY, INC.",
+   "owner_name": "Tharp Carla Todd",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 25000.0,
+   "price": 1.07,
+   "value": 26750.0,
+   "shares_after": 220225.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2065744/0001628280-26-075331.txt",
+   "price_at_trade": 1.07,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.8
+  },
   {
    "ticker": "REI",
    "company_name": "RING ENERGY, INC.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1384195/0001628280-26-074217.txt",
    "price_at_trade": 1.2,
-   "price_now": 1.06,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -11.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -13.3
   },
   {
    "ticker": "REI",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2111739/0001628280-26-074217.txt",
    "price_at_trade": 1.2,
-   "price_now": 1.06,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -11.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -13.3
   }
  ],
  "trump_trades": [],

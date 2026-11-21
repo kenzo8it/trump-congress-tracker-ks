@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-21T03:30+00:00",
+ "ticker": "VNRX",
+ "company": {
+  "name": "VOLITIONRX LTD",
+  "cik": 93314,
+  "sic": 2835,
+  "industry": "In Vitro & In Vivo Diagnostic Substances",
+  "sector": "Healthcare"
+ },
+ "price_now": 0.16,
+ "price_date": "2026-11-20",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "VNRX",
+   "company_name": "VOLITIONRX LTD",
+   "owner_name": "Reynolds Cameron John",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19-05:00",
+   "reported_date": "2026-11-20",
+   "shares": 40000.0,
+   "price": 0.1712,
+   "value": 6848.0,
+   "shares_after": 185781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1340610/0001477932-26-007198.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.16,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "VNRX",
+   "company_name": "VOLITIONRX LTD",
+   "owner_name": "Reynolds Cameron John",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19-05:00",
+   "reported_date": "2026-11-20",
+   "shares": 40000.0,
+   "price": 0.1712,
+   "value": 6848.0,
+   "shares_after": 185781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93314/0001477932-26-007198.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.16,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

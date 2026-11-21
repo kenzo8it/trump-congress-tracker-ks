@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "STUB",
  "company": {
   "name": "StubHub Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Miscellaneous Amusement & Recreation",
   "sector": "Retail & Consumer"
  },
- "price_now": 4.83,
- "price_date": "2026-11-18",
+ "price_now": 4.54,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Streams Mark",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 76891.0,
+   "price": 4.863,
+   "value": 373920.93,
+   "shares_after": 1003682.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-075335.txt",
+   "price_at_trade": 4.84,
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
+  },
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Streams Mark",
+   "owner_title": "Director, See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 76891.0,
+   "price": 4.863,
+   "value": 373920.93,
+   "shares_after": 1003682.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1885900/0001628280-26-075335.txt",
+   "price_at_trade": 4.84,
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
+  },
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Fitzgerald Scott Michael",
+   "owner_title": "Principal Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 21580.0,
+   "price": 4.6699,
+   "value": 100776.44,
+   "shares_after": 66295.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-075334.txt",
+   "price_at_trade": 4.83,
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.0
+  },
+  {
+   "ticker": "STUB",
+   "company_name": "StubHub Holdings, Inc.",
+   "owner_name": "Fitzgerald Scott Michael",
+   "owner_title": "Principal Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 21580.0,
+   "price": 4.6699,
+   "value": 100776.44,
+   "shares_after": 66295.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2063059/0001628280-26-075334.txt",
+   "price_at_trade": 4.83,
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.0
+  },
   {
    "ticker": "STUB",
    "company_name": "StubHub Holdings, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-074600.txt",
    "price_at_trade": 4.89,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -1.2
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.2
   },
   {
    "ticker": "STUB",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560034/0001628280-26-074600.txt",
    "price_at_trade": 4.89,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -1.2
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.2
   },
   {
    "ticker": "STUB",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-074600.txt",
    "price_at_trade": 5.31,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -9.0
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -14.5
   },
   {
    "ticker": "STUB",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1337634/0001628280-26-074602.txt",
    "price_at_trade": 5.31,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -9.0
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -14.5
   },
   {
    "ticker": "STUB",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1560034/0001628280-26-074600.txt",
    "price_at_trade": 5.31,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -9.0
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -14.5
   },
   {
    "ticker": "STUB",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028011/0001628280-26-074602.txt",
    "price_at_trade": 5.31,
-   "price_now": 4.83,
-   "price_now_date": "2026-11-18",
-   "total_return_pct": -9.0
+   "price_now": 4.54,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -14.5
   }
  ],
  "trump_trades": [],

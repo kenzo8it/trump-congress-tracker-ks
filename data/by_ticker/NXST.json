@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "NXST",
  "company": {
   "name": "NEXSTAR MEDIA GROUP, INC.",
@@ -8,8 +8,8 @@
   "industry": "Television Broadcasting Stations",
   "sector": "Telecom"
  },
- "price_now": 201.0,
- "price_date": "2026-11-19",
+ "price_now": 196.13,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NXST",
+   "company_name": "NEXSTAR MEDIA GROUP, INC.",
+   "owner_name": "WEITMAN GARY",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 205.727,
+   "value": 205727.0,
+   "shares_after": 3975.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1142417/0001193125-26-469534.txt",
+   "price_at_trade": 205.24,
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.4
+  },
+  {
+   "ticker": "NXST",
+   "company_name": "NEXSTAR MEDIA GROUP, INC.",
+   "owner_name": "WEITMAN GARY",
+   "owner_title": "See Remarks",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 1000.0,
+   "price": 205.727,
+   "value": 205727.0,
+   "shares_after": 3975.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1789720/0001193125-26-469534.txt",
+   "price_at_trade": 205.24,
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.4
+  },
   {
    "ticker": "NXST",
    "company_name": "NEXSTAR MEDIA GROUP, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1142417/0001193125-26-466772.txt",
    "price_at_trade": 204.95,
-   "price_now": 201.0,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.9
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "NXST",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789629/0001193125-26-466772.txt",
    "price_at_trade": 204.95,
-   "price_now": 201.0,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.9
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "NXST",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1142417/0001193125-26-462713.txt",
    "price_at_trade": 207.94,
-   "price_now": 201.0,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.3
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "NXST",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789720/0001193125-26-462713.txt",
    "price_at_trade": 207.94,
-   "price_now": 201.0,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.3
+   "price_now": 196.13,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],

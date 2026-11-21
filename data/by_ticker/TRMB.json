@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "TRMB",
  "company": {
   "name": "TRIMBLE INC.",
@@ -8,8 +8,8 @@
   "industry": "Measuring & Controlling Devices, NEC",
   "sector": "Technology"
  },
- "price_now": 51.99,
- "price_date": "2026-11-19",
+ "price_now": 50.62,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 59.43,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -12.5,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -14.8,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 55.13,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.7,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.2,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 66.51,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -21.8,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -23.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -136,9 +136,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 68.37,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -24.0,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -26.0,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -168,15 +168,53 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 70.07,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -25.8,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -27.8,
    "days_to_disclose": 5,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TRMB",
+   "company_name": "TRIMBLE INC.",
+   "owner_name": "PAINTER ROBERT G",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 9000.0,
+   "price": 53.62,
+   "value": 482580.0,
+   "shares_after": 137190.2039,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1665364/0001665364-26-000009.txt",
+   "price_at_trade": 53.94,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
+  },
+  {
+   "ticker": "TRMB",
+   "company_name": "TRIMBLE INC.",
+   "owner_name": "PAINTER ROBERT G",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-20",
+   "shares": 9000.0,
+   "price": 53.62,
+   "value": 482580.0,
+   "shares_after": 137190.2039,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/864749/0001665364-26-000009.txt",
+   "price_at_trade": 53.94,
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.2
+  },
   {
    "ticker": "TRMB",
    "company_name": "TRIMBLE INC.",
@@ -192,9 +230,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640371/0001640371-26-000004.txt",
    "price_at_trade": 65.34,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -20.4
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -22.5
   },
   {
    "ticker": "TRMB",
@@ -211,9 +249,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/864749/0001640371-26-000004.txt",
    "price_at_trade": 65.34,
-   "price_now": 51.99,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -20.4
+   "price_now": 50.62,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -22.5
   }
  ],
  "trump_trades": [],

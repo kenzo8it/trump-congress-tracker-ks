@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ZOMDF",
  "company": {
   "name": "Zomedica Corp.",
@@ -9,7 +9,7 @@
   "sector": "Healthcare"
  },
  "price_now": 0.08,
- "price_date": "2026-11-19",
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -36,8 +36,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1134545/0001654954-26-010009.txt",
    "price_at_trade": 0.08,
    "price_now": 0.08,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "ZOMDF",
@@ -55,8 +55,8 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1684144/0001654954-26-010009.txt",
    "price_at_trade": 0.08,
    "price_now": 0.08,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.5
   }
  ],
  "trump_trades": [],

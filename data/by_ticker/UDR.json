@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "UDR",
  "company": {
   "name": "UDR, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 35.33,
- "price_date": "2026-11-19",
+ "price_now": 35.45,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 35.47,
-   "price_now": 35.33,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.4,
+   "price_now": 35.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.1,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -72,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 35.47,
-   "price_now": 35.33,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -0.4,
+   "price_now": 35.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.1,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -89,10 +89,10 @@
    "ticker": "UDR",
    "est_shares": 225.6,
    "avg_price": 35.47,
-   "price_now": 35.33,
-   "est_position_value": 7969,
-   "total_return_pct": -0.4,
-   "total_return_usd": -32,
+   "price_now": 35.45,
+   "est_position_value": 7996,
+   "total_return_pct": -0.1,
+   "total_return_usd": -5,
    "first_buy": "2025-09-23",
    "last_trade": "2025-09-23"
   }
@@ -113,9 +113,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1827142/0001827142-26-000006.txt",
    "price_at_trade": 37.07,
-   "price_now": 35.33,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.7
+   "price_now": 35.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "UDR",
@@ -132,9 +132,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/74208/0001827142-26-000006.txt",
    "price_at_trade": 37.07,
-   "price_now": 35.33,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -4.7
+   "price_now": 35.45,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.4
   }
  ],
  "trump_trades": [],

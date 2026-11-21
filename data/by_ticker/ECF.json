@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "ECF",
  "company": {
   "name": "ELLSWORTH GROWTH & INCOME FUND LTD",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": "Other"
  },
- "price_now": 11.03,
- "price_date": "2026-11-19",
+ "price_now": 10.78,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Saba Capital Management, L.P.",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 14751.0,
+   "price": 11.05,
+   "value": 162998.55,
+   "shares_after": 1866550.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000463.txt",
+   "price_at_trade": 11.04,
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "ECF",
+   "company_name": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 14751.0,
+   "price": 11.05,
+   "value": 162998.55,
+   "shares_after": 1866550.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000463.txt",
+   "price_at_trade": 11.04,
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "ECF",
+   "company_name": "ELLSWORTH GROWTH & INCOME FUND LTD",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-17",
    "reported_date": "2026-11-18",
    "shares": 1154.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000449.txt",
    "price_at_trade": 11.19,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.4
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "ECF",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000449.txt",
    "price_at_trade": 11.19,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -1.4
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "ECF",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000444.txt",
    "price_at_trade": 11.3,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.3
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "ECF",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000444.txt",
    "price_at_trade": 11.3,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.3
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "ECF",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000434.txt",
    "price_at_trade": 11.44,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.5
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.8
   },
   {
    "ticker": "ECF",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000434.txt",
    "price_at_trade": 11.44,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.5
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -5.8
   },
   {
    "ticker": "ECF",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000418.txt",
    "price_at_trade": 11.3,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.3
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "ECF",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000418.txt",
    "price_at_trade": 11.3,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -2.3
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "ECF",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000401.txt",
    "price_at_trade": 11.72,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.8
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.0
   },
   {
    "ticker": "ECF",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000401.txt",
    "price_at_trade": 11.72,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.8
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.0
   },
   {
    "ticker": "ECF",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000396.txt",
    "price_at_trade": 11.89,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.2
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -9.3
   },
   {
    "ticker": "ECF",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000396.txt",
    "price_at_trade": 11.89,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -7.2
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -9.3
   },
   {
    "ticker": "ECF",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000389.txt",
    "price_at_trade": 11.82,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -6.6
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "ECF",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000389.txt",
    "price_at_trade": 11.82,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -6.6
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -8.8
   },
   {
    "ticker": "ECF",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000386.txt",
    "price_at_trade": 11.69,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.6
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.8
   },
   {
    "ticker": "ECF",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000386.txt",
    "price_at_trade": 11.69,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -5.6
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -7.8
   },
   {
    "ticker": "ECF",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000379.txt",
    "price_at_trade": 11.47,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.8
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "ECF",
@@ -358,47 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000379.txt",
    "price_at_trade": 11.47,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -3.8
-  },
-  {
-   "ticker": "ECF",
-   "company_name": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "owner_name": "Saba Capital Management, L.P.",
-   "owner_title": "10% owner",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-21",
-   "reported_date": "2026-10-22",
-   "shares": 2600.0,
-   "price": 11.58,
-   "value": 30108.0,
-   "shares_after": 1792455.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000370.txt",
-   "price_at_trade": 11.8,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -6.5
-  },
-  {
-   "ticker": "ECF",
-   "company_name": "ELLSWORTH GROWTH & INCOME FUND LTD",
-   "owner_name": "Saba Capital Management, L.P.",
-   "owner_title": "10% owner",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-21",
-   "reported_date": "2026-10-22",
-   "shares": 2600.0,
-   "price": 11.58,
-   "value": 30108.0,
-   "shares_after": 1792455.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/793040/0001510281-26-000370.txt",
-   "price_at_trade": 11.8,
-   "price_now": 11.03,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": -6.5
+   "price_now": 10.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -6.0
   }
  ],
  "trump_trades": [],

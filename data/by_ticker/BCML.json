@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "BCML",
  "company": {
   "name": "BayCom Corp",
@@ -8,8 +8,8 @@
   "industry": "State Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 30.05,
- "price_date": "2026-11-19",
+ "price_now": 29.78,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BCML",
+   "company_name": "BayCom Corp",
+   "owner_name": "Laverne Robert G.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 1300.0,
+   "price": 29.9,
+   "value": 38870.0,
+   "shares_after": 93928.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1730984/0001437749-26-037891.txt",
+   "price_at_trade": 29.78,
+   "price_now": 29.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BCML",
+   "company_name": "BayCom Corp",
+   "owner_name": "Laverne Robert G.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 1300.0,
+   "price": 29.9,
+   "value": 38870.0,
+   "shares_after": 93928.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1738152/0001437749-26-037891.txt",
+   "price_at_trade": 29.78,
+   "price_now": 29.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "BCML",
    "company_name": "BayCom Corp",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1188428/0001437749-26-037732.txt",
    "price_at_trade": 30.05,
-   "price_now": 30.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now": 29.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.9
   },
   {
    "ticker": "BCML",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1730984/0001437749-26-037732.txt",
    "price_at_trade": 30.05,
-   "price_now": 30.05,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.0
+   "price_now": 29.78,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.9
   }
  ],
  "trump_trades": [],

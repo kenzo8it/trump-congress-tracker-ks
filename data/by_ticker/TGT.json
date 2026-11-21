@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "TGT",
  "company": {
   "name": "TARGET CORP",
@@ -8,8 +8,8 @@
   "industry": "Retail-Variety Stores",
   "sector": "Retail & Consumer"
  },
- "price_now": 167.46,
- "price_date": "2026-11-19",
+ "price_now": 165.83,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,54 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 106.27,
-   "price_now": 167.46,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 57.6,
+   "price_now": 165.83,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 56.0,
    "days_to_disclose": 521,
    "late_filing": true
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "TGT",
+   "company_name": "TARGET CORP",
+   "owner_name": "Lee James",
+   "owner_title": "Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 17401.0,
+   "price": 166.1186,
+   "value": 2890629.76,
+   "shares_after": 66422.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1941816/0001941816-26-000007.txt",
+   "price_at_trade": 167.46,
+   "price_now": 165.83,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.0
+  },
+  {
+   "ticker": "TGT",
+   "company_name": "TARGET CORP",
+   "owner_name": "Lee James",
+   "owner_title": "Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 17401.0,
+   "price": 166.1186,
+   "value": 2890629.76,
+   "shares_after": 66422.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/0001941816-26-000007.txt",
+   "price_at_trade": 167.46,
+   "price_now": 165.83,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -1.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

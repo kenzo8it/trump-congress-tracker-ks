@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,14 +8,14 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5153,
-  "recent_congress_trades": 536,
+  "congress_trades": 5143,
+  "recent_congress_trades": 519,
   "members_with_positions": 44,
-  "insider_trades": 21619,
+  "insider_trades": 22358,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 170,
-  "tickers": 2152
+  "contracts": 171,
+  "tickers": 2200
  },
  "unparsed_filings": [
   {
@@ -756,16 +756,6 @@
    "filed": "2025-10-23",
    "year": 2025,
    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
-   "reason": "scanned paper filing"
-  },
-  {
-   "doc_id": "9115689",
-   "first": "Harold Dallas",
-   "last": "Rogers",
-   "state_district": "KY05",
-   "filed": "2025-10-16",
-   "year": 2025,
-   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115689.pdf",
    "reason": "scanned paper filing"
   }
  ],

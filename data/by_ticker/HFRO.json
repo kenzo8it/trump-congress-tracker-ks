@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:29+00:00",
+ "updated": "2026-11-21T03:30+00:00",
  "ticker": "HFRO",
  "company": {
   "name": "HIGHLAND OPPORTUNITIES & INCOME FUND",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 5.14,
- "price_date": "2026-11-19",
+ "price_now": 4.99,
+ "price_date": "2026-11-20",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Saba Capital Management, L.P.",
    "owner_title": "10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 72720.0,
+   "price": 5.16,
+   "value": 375235.2,
+   "shares_after": 6318497.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000461.txt",
+   "price_at_trade": 5.14,
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "HFRO",
+   "company_name": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 72720.0,
+   "price": 5.16,
+   "value": 375235.2,
+   "shares_after": 6318497.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1710680/0001510281-26-000461.txt",
+   "price_at_trade": 5.14,
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "HFRO",
+   "company_name": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+   "owner_name": "Saba Capital Management, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-18",
    "reported_date": "2026-11-19",
    "shares": 13234.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000455.txt",
    "price_at_trade": 5.1,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.8
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "HFRO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1710680/0001510281-26-000455.txt",
    "price_at_trade": 5.1,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 0.8
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "HFRO",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000451.txt",
    "price_at_trade": 5.01,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 2.6
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "HFRO",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1710680/0001510281-26-000451.txt",
    "price_at_trade": 5.01,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 2.6
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "HFRO",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1510281/0001510281-26-000448.txt",
    "price_at_trade": 4.9,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 4.9
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "HFRO",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1710680/0001510281-26-000448.txt",
    "price_at_trade": 4.9,
-   "price_now": 5.14,
-   "price_now_date": "2026-11-19",
-   "total_return_pct": 4.9
+   "price_now": 4.99,
+   "price_now_date": "2026-11-20",
+   "total_return_pct": 1.8
   }
  ],
  "trump_trades": [],
