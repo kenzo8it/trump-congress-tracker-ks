@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:30+00:00",
+ "updated": "2026-11-22T02:28+00:00",
  "ticker": "PEP",
  "company": {
   "name": "PEPSICO INC",
@@ -581,46 +581,7 @@
    "last_trade": "2026-07-30"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "PEP",
-   "company_name": "PEPSICO INC",
-   "owner_name": "Laguarta Ramon",
-   "owner_title": "Director, Chairman and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-21",
-   "reported_date": "2026-10-23",
-   "shares": 30000.0,
-   "price": 135.1297,
-   "value": 4053891.0,
-   "shares_after": 491645.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1630253/0001630253-26-000007.txt",
-   "price_at_trade": 134.7,
-   "price_now": 140.54,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 4.3
-  },
-  {
-   "ticker": "PEP",
-   "company_name": "PEPSICO INC",
-   "owner_name": "Laguarta Ramon",
-   "owner_title": "Director, Chairman and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-21",
-   "reported_date": "2026-10-23",
-   "shares": 30000.0,
-   "price": 135.1297,
-   "value": 4053891.0,
-   "shares_after": 491645.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/0001630253-26-000007.txt",
-   "price_at_trade": 134.7,
-   "price_now": 140.54,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 4.3
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

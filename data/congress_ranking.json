@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:30+00:00",
+ "updated": "2026-11-22T02:28+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -218,6 +218,17 @@
    "total_return_usd": 151
   },
   {
+   "bioguide": "C001123",
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "CA",
+   "positions": 268,
+   "est_portfolio_value": 5081463,
+   "total_return_pct": -0.1,
+   "total_return_usd": -2619
+  },
+  {
    "bioguide": "M001232",
    "name": "April McClain Delaney",
    "party": "Democrat",
@@ -356,9 +367,9 @@
    "chamber": "House",
    "state": "NC",
    "positions": 10,
-   "est_portfolio_value": 266196,
+   "est_portfolio_value": 266201,
    "total_return_pct": -16.0,
-   "total_return_usd": -50742
+   "total_return_usd": -50738
   },
   {
    "bioguide": "R000619",
@@ -449,17 +460,6 @@
    "total_return_usd": -10925
   },
   {
-   "bioguide": "L000597",
-   "name": "Laurel M. Lee",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "FL",
-   "positions": 1,
-   "est_portfolio_value": 21067,
-   "total_return_pct": -35.2,
-   "total_return_usd": -11433
-  },
-  {
    "bioguide": "S001214",
    "name": "W. Gregory Steube",
    "party": "Republican",
@@ -471,6 +471,17 @@
    "total_return_usd": -2881
   },
   {
+   "bioguide": "L000597",
+   "name": "Laurel M. Lee",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "FL",
+   "positions": 1,
+   "est_portfolio_value": 20580,
+   "total_return_pct": -36.7,
+   "total_return_usd": -11921
+  },
+  {
    "bioguide": "G000603",
    "name": "Brandon Gill",
    "party": "Republican",
@@ -480,17 +491,6 @@
    "est_portfolio_value": 17102,
    "total_return_pct": -47.4,
    "total_return_usd": -15398
-  },
-  {
-   "bioguide": "C001123",
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "CA",
-   "positions": 268,
-   "est_portfolio_value": 5081731,
-   "total_return_pct": -0.0,
-   "total_return_usd": -2349
   }
  ]
 }
