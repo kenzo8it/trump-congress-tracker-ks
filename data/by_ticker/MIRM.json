@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "MIRM",
  "company": {
   "name": "Mirum Pharmaceuticals, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 96.13,
- "price_date": "2026-11-20",
+ "price_now": 98.67,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,158 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1811.0,
+   "price": 95.099,
+   "value": 172224.29,
+   "shares_after": 224826.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614740/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1760.0,
+   "price": 96.51,
+   "value": 169857.6,
+   "shares_after": 223066.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614740/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 15315.0,
+   "price": 97.222,
+   "value": 1488954.93,
+   "shares_after": 207751.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614740/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1114.0,
+   "price": 97.897,
+   "value": 109057.26,
+   "shares_after": 206637.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1614740/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1811.0,
+   "price": 95.099,
+   "value": 172224.29,
+   "shares_after": 224826.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1760.0,
+   "price": 96.51,
+   "value": 169857.6,
+   "shares_after": 223066.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 15315.0,
+   "price": 97.222,
+   "value": 1488954.93,
+   "shares_after": 207751.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
+  {
+   "ticker": "MIRM",
+   "company_name": "Mirum Pharmaceuticals, Inc.",
+   "owner_name": "Peetz Christopher",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 1114.0,
+   "price": 97.897,
+   "value": 109057.26,
+   "shares_after": 206637.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001614740-26-000016.txt",
+   "price_at_trade": 96.13,
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6
+  },
   {
    "ticker": "MIRM",
    "company_name": "Mirum Pharmaceuticals, Inc.",
@@ -35,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1547959/0001547959-26-000019.txt",
    "price_at_trade": 91.58,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.0
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "MIRM",
@@ -54,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001547959-26-000019.txt",
    "price_at_trade": 91.58,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.0
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.7
   },
   {
    "ticker": "MIRM",
@@ -73,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1365619/0001365619-26-000007.txt",
    "price_at_trade": 94.61,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.6
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "MIRM",
@@ -92,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1365619/0001365619-26-000007.txt",
    "price_at_trade": 94.61,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.6
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "MIRM",
@@ -111,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001365619-26-000007.txt",
    "price_at_trade": 94.61,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.6
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "MIRM",
@@ -130,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001365619-26-000007.txt",
    "price_at_trade": 94.61,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.6
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "MIRM",
@@ -149,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1614740/0001614740-26-000015.txt",
    "price_at_trade": 96.97,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.9
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "MIRM",
@@ -168,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1759425/0001614740-26-000015.txt",
    "price_at_trade": 96.97,
-   "price_now": 96.13,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.9
+   "price_now": 98.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.8
   }
  ],
  "trump_trades": [],

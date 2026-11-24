@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "EMYB",
  "company": {
   "name": "Embassy Bancorp, Inc.",
@@ -9,7 +9,7 @@
   "sector": "Financials"
  },
  "price_now": 20.5,
- "price_date": "2026-11-20",
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "Lobach David M Jr",
    "owner_title": "Director, Chairman, President and CEO",
    "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 150.0,
+   "price": 20.55,
+   "value": 3082.5,
+   "shares_after": 378020.6166,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1449794/0001464631-26-000011.txt",
+   "price_at_trade": 20.5,
+   "price_now": 20.5,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "EMYB",
+   "company_name": "Embassy Bancorp, Inc.",
+   "owner_name": "Lobach David M Jr",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 200.0,
+   "price": 20.4452,
+   "value": 4089.04,
+   "shares_after": 119200.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1449794/0001464631-26-000011.txt",
+   "price_at_trade": 20.5,
+   "price_now": 20.5,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "EMYB",
+   "company_name": "Embassy Bancorp, Inc.",
+   "owner_name": "Lobach David M Jr",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 150.0,
+   "price": 20.55,
+   "value": 3082.5,
+   "shares_after": 378020.6166,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1464631/0001464631-26-000011.txt",
+   "price_at_trade": 20.5,
+   "price_now": 20.5,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "EMYB",
+   "company_name": "Embassy Bancorp, Inc.",
+   "owner_name": "Lobach David M Jr",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 200.0,
+   "price": 20.4452,
+   "value": 4089.04,
+   "shares_after": 119200.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1464631/0001464631-26-000011.txt",
+   "price_at_trade": 20.5,
+   "price_now": 20.5,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "EMYB",
+   "company_name": "Embassy Bancorp, Inc.",
+   "owner_name": "Lobach David M Jr",
+   "owner_title": "Director, Chairman, President and CEO",
+   "trade_type": "BUY",
    "traded_date": "2026-11-18",
    "reported_date": "2026-11-20",
    "shares": 50.0,
@@ -36,7 +112,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1449794/0001464631-26-000010.txt",
    "price_at_trade": 20.75,
    "price_now": 20.5,
-   "price_now_date": "2026-11-20",
+   "price_now_date": "2026-11-23",
    "total_return_pct": -1.2
   },
   {
@@ -55,7 +131,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1449794/0001464631-26-000010.txt",
    "price_at_trade": 20.75,
    "price_now": 20.5,
-   "price_now_date": "2026-11-20",
+   "price_now_date": "2026-11-23",
    "total_return_pct": -1.2
   },
   {
@@ -74,7 +150,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1464631/0001464631-26-000010.txt",
    "price_at_trade": 20.75,
    "price_now": 20.5,
-   "price_now_date": "2026-11-20",
+   "price_now_date": "2026-11-23",
    "total_return_pct": -1.2
   },
   {
@@ -93,7 +169,7 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1464631/0001464631-26-000010.txt",
    "price_at_trade": 20.75,
    "price_now": 20.5,
-   "price_now_date": "2026-11-20",
+   "price_now_date": "2026-11-23",
    "total_return_pct": -1.2
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "FOXA",
  "company": {
   "name": "Fox Corp",
@@ -8,8 +8,8 @@
   "industry": "Television Broadcasting Stations",
   "sector": "Telecom"
  },
- "price_now": 62.91,
- "price_date": "2026-11-20",
+ "price_now": 64.01,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 67.0,
-   "price_now": 62.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.1,
+   "price_now": 64.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.5,
    "days_to_disclose": 21,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "FOXA",
    "est_shares": 119.4,
    "avg_price": 67.0,
-   "price_now": 62.91,
-   "est_position_value": 7512,
-   "total_return_pct": -6.1,
-   "total_return_usd": -488,
+   "price_now": 64.01,
+   "est_position_value": 7643,
+   "total_return_pct": -4.5,
+   "total_return_usd": -357,
    "first_buy": "2026-10-20",
    "last_trade": "2026-10-20"
   }

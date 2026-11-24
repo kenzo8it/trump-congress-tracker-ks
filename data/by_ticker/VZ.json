@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "VZ",
  "company": {
   "name": "VERIZON COMMUNICATIONS INC",
@@ -8,8 +8,8 @@
   "industry": "Telephone Communications (No Radiotelephone)",
   "sector": "Telecom"
  },
- "price_now": 46.48,
- "price_date": "2026-11-20",
+ "price_now": 46.45,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Jennifer L. McClellan",
+   "state_district": "VA04",
+   "reported_date": "2026-11-20",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+   "owner": "self",
+   "asset": "Verizon Communications Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "VZ",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-11-19",
+   "notified_date": "2026-11-19",
+   "size_lower": 50001,
+   "size_upper": 100000,
+   "size_mid": 75000.5,
+   "bioguide": "M001227",
+   "party": "Democrat",
+   "state": "VA",
+   "company_name": "VERIZON COMMUNICATIONS INC",
+   "sector": "Telecom",
+   "committee_overlap": [
+    "House Committee on Energy and Commerce"
+   ],
+   "price_at_trade": 45.74,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.6,
+   "days_to_disclose": 1,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Pete Sessions",
@@ -42,9 +74,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 45.22,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 2.8,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.7,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,9 +104,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 47.36,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.8,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -102,9 +134,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 42.92,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 8.3,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 8.2,
    "days_to_disclose": 49,
    "late_filing": true
   },
@@ -132,9 +164,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 45.72,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.7,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.6,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -162,9 +194,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 44.03,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.6,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.5,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -194,8 +226,8 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 46.38,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
    "total_return_pct": 0.2,
    "days_to_disclose": 9,
    "late_filing": false
@@ -224,9 +256,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 48.12,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.4,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -3.5,
    "days_to_disclose": 0,
    "late_filing": false
   },
@@ -254,9 +286,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 37.89,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 22.7,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 22.6,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -284,9 +316,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 37.43,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 24.2,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 24.1,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -314,9 +346,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 38.62,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 20.4,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 20.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -344,9 +376,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 38.54,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 20.6,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 20.5,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -374,9 +406,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 37.21,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 24.9,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 24.8,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -404,8 +436,8 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 37.26,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
    "total_return_pct": 24.7,
    "days_to_disclose": 12,
    "late_filing": false
@@ -434,9 +466,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 37.36,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 24.4,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 24.3,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -464,9 +496,9 @@
    "sector": "Telecom",
    "committee_overlap": [],
    "price_at_trade": 38.16,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 21.8,
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 21.7,
    "days_to_disclose": 36,
    "late_filing": false
   }
@@ -481,10 +513,10 @@
    "ticker": "VZ",
    "est_shares": 168.9,
    "avg_price": 47.36,
-   "price_now": 46.48,
-   "est_position_value": 7852,
+   "price_now": 46.45,
+   "est_position_value": 7847,
    "total_return_pct": -1.9,
-   "total_return_usd": -149,
+   "total_return_usd": -154,
    "first_buy": "2026-04-14",
    "last_trade": "2026-09-18"
   },
@@ -497,10 +529,10 @@
    "ticker": "VZ",
    "est_shares": 918.0,
    "avg_price": 37.44,
-   "price_now": 46.48,
-   "est_position_value": 42669,
+   "price_now": 46.45,
+   "est_position_value": 42641,
    "total_return_pct": 24.1,
-   "total_return_usd": 8297,
+   "total_return_usd": 8269,
    "first_buy": "2025-10-07",
    "last_trade": "2025-12-10"
   }
@@ -521,9 +553,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760581/0001760581-26-000083.txt",
    "price_at_trade": 45.93,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "VZ",
@@ -540,9 +572,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/732712/0001760581-26-000083.txt",
    "price_at_trade": 45.93,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.1
   },
   {
    "ticker": "VZ",
@@ -559,9 +591,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760581/0001760581-26-000081.txt",
    "price_at_trade": 46.31,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "VZ",
@@ -578,9 +610,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/732712/0001760581-26-000081.txt",
    "price_at_trade": 46.31,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "VZ",
@@ -597,8 +629,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760581/0001760581-26-000077.txt",
    "price_at_trade": 45.24,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
    "total_return_pct": 2.7
   },
   {
@@ -616,8 +648,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/732712/0001760581-26-000077.txt",
    "price_at_trade": 45.24,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
    "total_return_pct": 2.7
   },
   {
@@ -635,9 +667,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760581/0001760581-26-000075.txt",
    "price_at_trade": 43.93,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.8
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.7
   },
   {
    "ticker": "VZ",
@@ -654,9 +686,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/732712/0001760581-26-000075.txt",
    "price_at_trade": 43.93,
-   "price_now": 46.48,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.8
+   "price_now": 46.45,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.7
   }
  ],
  "trump_trades": [
@@ -673,8 +705,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 47.39,
    "price_basis": "price on trade date",
-   "price_now": 46.48,
-   "total_return_pct": -1.9
+   "price_now": 46.45,
+   "total_return_pct": -2.0
   }
  ],
  "trump_sponsor": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "BOLT",
  "company": {
   "name": "Bolt Biotherapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 4.91,
- "price_date": "2026-11-20",
+ "price_now": 5.01,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "BOLT",
    "company_name": "Bolt Biotherapeutics, Inc.",
+   "owner_name": "Quinn William P.",
+   "owner_title": "Director, President, CEO and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 3000.0,
+   "price": 5.0,
+   "value": 15000.0,
+   "shares_after": 28384.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1641281/0001193125-26-472325.txt",
+   "price_at_trade": 4.91,
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
+  },
+  {
+   "ticker": "BOLT",
+   "company_name": "Bolt Biotherapeutics, Inc.",
+   "owner_name": "Quinn William P.",
+   "owner_title": "Director, President, CEO and CFO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 3000.0,
+   "price": 5.0,
+   "value": 15000.0,
+   "shares_after": 28384.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1724190/0001193125-26-472325.txt",
+   "price_at_trade": 4.91,
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
+  },
+  {
+   "ticker": "BOLT",
+   "company_name": "Bolt Biotherapeutics, Inc.",
    "owner_name": "Coastlands Capital LP",
    "owner_title": "10% owner",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1641281/0001104659-26-129252.txt",
    "price_at_trade": 5.65,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -13.1
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -11.3
   },
   {
    "ticker": "BOLT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2068530/0001104659-26-129252.txt",
    "price_at_trade": 5.65,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -13.1
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -11.3
   },
   {
    "ticker": "BOLT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1641281/0001104659-26-129252.txt",
    "price_at_trade": 5.8,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -15.3
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "BOLT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2068530/0001104659-26-129252.txt",
    "price_at_trade": 5.8,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -15.3
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -13.6
   },
   {
    "ticker": "BOLT",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1641281/0001104659-26-125077.txt",
    "price_at_trade": 6.43,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -23.6
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -22.1
   },
   {
    "ticker": "BOLT",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2068530/0001104659-26-125077.txt",
    "price_at_trade": 6.43,
-   "price_now": 4.91,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -23.6
+   "price_now": 5.01,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -22.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "EDRY",
  "company": {
   "name": "EuroDry Ltd.",
@@ -8,8 +8,8 @@
   "industry": "Water Transportation",
   "sector": "Transport & Autos"
  },
- "price_now": 33.32,
- "price_date": "2026-11-20",
+ "price_now": 35.27,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,18 +26,75 @@
    "owner_name": "Pittas Aristeidis P",
    "owner_title": "Director",
    "trade_type": "BUY",
-   "traded_date": "2026-11-19",
-   "reported_date": "2026-11-20",
-   "shares": 500.0,
-   "price": 38.31,
-   "value": 19155.0,
-   "shares_after": 78163.0,
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 900.0,
+   "price": 33.6221,
+   "value": 30259.89,
+   "shares_after": 79063.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000024.txt",
-   "price_at_trade": 33.39,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000026.txt",
+   "price_at_trade": 33.32,
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "EDRY",
+   "company_name": "EuroDry Ltd.",
+   "owner_name": "Pittas Aristeidis P",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 900.0,
+   "price": 33.6221,
+   "value": 30259.89,
+   "shares_after": 79063.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000026.txt",
+   "price_at_trade": 33.32,
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "EDRY",
+   "company_name": "EuroDry Ltd.",
+   "owner_name": "Pittas Aristeidis P",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 900.0,
+   "price": 33.6221,
+   "value": 30259.89,
+   "shares_after": 79063.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000026.txt",
+   "price_at_trade": 33.32,
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "EDRY",
+   "company_name": "EuroDry Ltd.",
+   "owner_name": "Pittas Aristeidis P",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 900.0,
+   "price": 33.6221,
+   "value": 30259.89,
+   "shares_after": 79063.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000026.txt",
+   "price_at_trade": 33.32,
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
   },
   {
    "ticker": "EDRY",
@@ -54,9 +111,28 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000024.txt",
    "price_at_trade": 33.39,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.6
+  },
+  {
+   "ticker": "EDRY",
+   "company_name": "EuroDry Ltd.",
+   "owner_name": "Pittas Aristeidis P",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-20",
+   "shares": 500.0,
+   "price": 38.31,
+   "value": 19155.0,
+   "shares_after": 78163.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000024.txt",
+   "price_at_trade": 33.39,
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "EDRY",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000024.txt",
    "price_at_trade": 33.39,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "EDRY",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000024.txt",
    "price_at_trade": 33.39,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "EDRY",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000022.txt",
    "price_at_trade": 37.22,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -10.5
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "EDRY",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002127484-26-000022.txt",
    "price_at_trade": 37.22,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -10.5
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "EDRY",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000022.txt",
    "price_at_trade": 37.22,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -10.5
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "EDRY",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2127484/0002127484-26-000022.txt",
    "price_at_trade": 37.22,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -10.5
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.2
   },
   {
    "ticker": "EDRY",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1731388/0002122308-26-000007.txt",
    "price_at_trade": 44.97,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -25.9
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -21.6
   },
   {
    "ticker": "EDRY",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2122308/0002122308-26-000007.txt",
    "price_at_trade": 44.97,
-   "price_now": 33.32,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -25.9
+   "price_now": 35.27,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -21.6
   }
  ],
  "trump_trades": [],

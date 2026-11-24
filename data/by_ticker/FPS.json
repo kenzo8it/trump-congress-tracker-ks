@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "FPS",
  "company": {
   "name": "Forgent Power Solutions, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electrical Industrial Apparatus",
   "sector": "Construction & Industrials"
  },
- "price_now": 18.0,
- "price_date": "2026-11-20",
+ "price_now": 20.3,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FPS",
+   "company_name": "Forgent Power Solutions, Inc.",
+   "owner_name": "SPIERKEL GREGORY M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 25000.0,
+   "price": 18.48,
+   "value": 462000.0,
+   "shares_after": 170215.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1191461/0002080126-26-000048.txt",
+   "price_at_trade": 18.0,
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 12.8
+  },
+  {
+   "ticker": "FPS",
+   "company_name": "Forgent Power Solutions, Inc.",
+   "owner_name": "SPIERKEL GREGORY M",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 25000.0,
+   "price": 18.48,
+   "value": 462000.0,
+   "shares_after": 170215.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0002080126-26-000048.txt",
+   "price_at_trade": 18.0,
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 12.8
+  },
   {
    "ticker": "FPS",
    "company_name": "Forgent Power Solutions, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2013393/0000950142-26-003126.txt",
    "price_at_trade": 21.2,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -15.1
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "FPS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003126.txt",
    "price_at_trade": 21.2,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -15.1
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.2
   },
   {
    "ticker": "FPS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802646/0000950142-26-003068.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1802646/0000950142-26-003068.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1865691/0000950142-26-003067.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1868343/0000950142-26-003077.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003067.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003068.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003068.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003069.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2080126/0000950142-26-003077.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   },
   {
    "ticker": "FPS",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2108514/0000950142-26-003069.txt",
    "price_at_trade": 20.57,
-   "price_now": 18.0,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -12.5
+   "price_now": 20.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.3
   }
  ],
  "trump_trades": [],

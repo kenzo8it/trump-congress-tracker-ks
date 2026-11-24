@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "AEON",
  "company": {
   "name": "AEON Biopharma, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.12,
- "price_date": "2026-11-20",
+ "price_now": 0.2,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "AEON",
+   "company_name": "AEON Biopharma, Inc.",
+   "owner_name": "Bancroft Robert E.",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 37677.0,
+   "price": 0.1256,
+   "value": 4732.23,
+   "shares_after": 3367113.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1837607/0002066370-26-000004.txt",
+   "price_at_trade": 0.12,
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 65.0
+  },
+  {
+   "ticker": "AEON",
+   "company_name": "AEON Biopharma, Inc.",
+   "owner_name": "Bancroft Robert E.",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 37677.0,
+   "price": 0.1256,
+   "value": 4732.23,
+   "shares_after": 3367113.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2066370/0002066370-26-000004.txt",
+   "price_at_trade": 0.12,
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 65.0
+  },
   {
    "ticker": "AEON",
    "company_name": "AEON Biopharma, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837607/0001979602-26-000007.txt",
    "price_at_trade": 0.12,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.0
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 65.0
   },
   {
    "ticker": "AEON",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1979602/0001979602-26-000007.txt",
    "price_at_trade": 0.12,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.0
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 65.0
   },
   {
    "ticker": "AEON",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837607/0002023998-26-000007.txt",
    "price_at_trade": 0.13,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.5
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 52.6
   },
   {
    "ticker": "AEON",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1837607/0002066370-26-000002.txt",
    "price_at_trade": 0.13,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.5
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 52.6
   },
   {
    "ticker": "AEON",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2023998/0002023998-26-000007.txt",
    "price_at_trade": 0.13,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.5
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 52.6
   },
   {
    "ticker": "AEON",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2066370/0002066370-26-000002.txt",
    "price_at_trade": 0.13,
-   "price_now": 0.12,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.5
+   "price_now": 0.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 52.6
   }
  ],
  "trump_trades": [],

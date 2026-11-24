@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "UAVS",
  "company": {
   "name": "AgEagle Aerial Systems Inc.",
@@ -8,8 +8,8 @@
   "industry": "Aircraft",
   "sector": "Defense & Aerospace"
  },
- "price_now": 0.27,
- "price_date": "2026-11-20",
+ "price_now": 0.3,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2046493/0001437749-26-037914.txt",
    "price_at_trade": 0.27,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.0
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 11.1
   },
   {
    "ticker": "UAVS",
@@ -54,9 +54,47 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/8504/0001437749-26-037914.txt",
    "price_at_trade": 0.27,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.0
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 11.1
+  },
+  {
+   "ticker": "UAVS",
+   "company_name": "AgEagle Aerial Systems Inc.",
+   "owner_name": "DAY L B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 30000.0,
+   "price": 0.3036,
+   "value": 9108.0,
+   "shares_after": 105000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1181929/0001437749-26-038087.txt",
+   "price_at_trade": 0.29,
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
+  },
+  {
+   "ticker": "UAVS",
+   "company_name": "AgEagle Aerial Systems Inc.",
+   "owner_name": "DAY L B",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 30000.0,
+   "price": 0.3036,
+   "value": 9108.0,
+   "shares_after": 105000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/8504/0001437749-26-038087.txt",
+   "price_at_trade": 0.29,
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "UAVS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1670492/0001437749-26-037913.txt",
    "price_at_trade": 0.29,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.9
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "UAVS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012161/0001437749-26-037912.txt",
    "price_at_trade": 0.29,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.9
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "UAVS",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/8504/0001437749-26-037912.txt",
    "price_at_trade": 0.29,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.9
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "UAVS",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/8504/0001437749-26-037913.txt",
    "price_at_trade": 0.29,
-   "price_now": 0.27,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.9
+   "price_now": 0.3,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 3.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "GH",
  "company": {
   "name": "Guardant Health, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 145.83,
- "price_date": "2026-11-20",
+ "price_now": 154.17,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 177.33,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -17.8,
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -13.1,
    "days_to_disclose": 21,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "GH",
    "est_shares": 183.3,
    "avg_price": 177.33,
-   "price_now": 145.83,
-   "est_position_value": 26727,
-   "total_return_pct": -17.8,
-   "total_return_usd": -5773,
+   "price_now": 154.17,
+   "est_position_value": 28256,
+   "total_return_pct": -13.1,
+   "total_return_usd": -4245,
    "first_buy": "2026-09-28",
    "last_trade": "2026-09-28"
   }
@@ -71,6 +71,44 @@
   {
    "ticker": "GH",
    "company_name": "Guardant Health, Inc.",
+   "owner_name": "POTTER MYRTLE S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 9400.0,
+   "price": 145.14,
+   "value": 1364316.0,
+   "shares_after": 11571.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1214130/0001214130-26-000006.txt",
+   "price_at_trade": 145.59,
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "GH",
+   "company_name": "Guardant Health, Inc.",
+   "owner_name": "POTTER MYRTLE S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 9400.0,
+   "price": 145.14,
+   "value": 1364316.0,
+   "shares_after": 11571.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001214130-26-000006.txt",
+   "price_at_trade": 145.59,
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "GH",
+   "company_name": "Guardant Health, Inc.",
    "owner_name": "Monroe Terilyn J.",
    "owner_title": "Chief People Officer",
    "trade_type": "SELL",
@@ -83,9 +121,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -102,9 +140,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -121,9 +159,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -140,9 +178,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -159,9 +197,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -178,9 +216,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652956/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -197,9 +235,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652956/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -216,9 +254,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652956/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -235,9 +273,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652956/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -254,9 +292,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1652956/0001652956-26-000022.txt",
    "price_at_trade": 145.14,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.5
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 6.2
   },
   {
    "ticker": "GH",
@@ -273,9 +311,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402256/0001402256-26-000014.txt",
    "price_at_trade": 144.03,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GH",
@@ -292,9 +330,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001402256-26-000014.txt",
    "price_at_trade": 144.03,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GH",
@@ -311,9 +349,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576280/0001968281-26-000029.txt",
    "price_at_trade": 144.03,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.0
   },
   {
    "ticker": "GH",
@@ -330,9 +368,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1968281/0001968281-26-000029.txt",
    "price_at_trade": 144.03,
-   "price_now": 145.83,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 1.2
+   "price_now": 154.17,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 7.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "CCAP",
  "company": {
   "name": "Crescent Capital BDC, Inc.",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 9.8,
- "price_date": "2026-11-20",
+ "price_now": 9.92,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CCAP",
+   "company_name": "Crescent Capital BDC, Inc.",
+   "owner_name": "Barrios Erik G",
+   "owner_title": "Chief Compliance Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-23",
+   "shares": 2500.0,
+   "price": 9.91,
+   "value": 24775.0,
+   "shares_after": 5052.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633336/0001193125-26-472364.txt",
+   "price_at_trade": 9.92,
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CCAP",
+   "company_name": "Crescent Capital BDC, Inc.",
+   "owner_name": "Barrios Erik G",
+   "owner_title": "Chief Compliance Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-23",
+   "shares": 2500.0,
+   "price": 9.91,
+   "value": 24775.0,
+   "shares_after": 5052.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1732974/0001193125-26-472364.txt",
+   "price_at_trade": 9.92,
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "CCAP",
+   "company_name": "Crescent Capital BDC, Inc.",
+   "owner_name": "Chung Henry",
+   "owner_title": "Director, President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 9000.0,
+   "price": 9.82,
+   "value": 88380.0,
+   "shares_after": 33884.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633336/0001193125-26-472359.txt",
+   "price_at_trade": 9.8,
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.2
+  },
+  {
+   "ticker": "CCAP",
+   "company_name": "Crescent Capital BDC, Inc.",
+   "owner_name": "Chung Henry",
+   "owner_title": "Director, President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 9000.0,
+   "price": 9.82,
+   "value": 88380.0,
+   "shares_after": 33884.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2010011/0001193125-26-472359.txt",
+   "price_at_trade": 9.8,
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 1.2
+  },
   {
    "ticker": "CCAP",
    "company_name": "Crescent Capital BDC, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1633336/0001193125-26-467132.txt",
    "price_at_trade": 9.88,
-   "price_now": 9.8,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.8
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "CCAP",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640383/0001193125-26-467132.txt",
    "price_at_trade": 9.88,
-   "price_now": 9.8,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.8
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "CCAP",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1611114/0001193125-26-467108.txt",
    "price_at_trade": 10.08,
-   "price_now": 9.8,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.6
   },
   {
    "ticker": "CCAP",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1633336/0001193125-26-467108.txt",
    "price_at_trade": 10.08,
-   "price_now": 9.8,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 9.92,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.6
   }
  ],
  "trump_trades": [],

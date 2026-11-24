@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "HLI",
  "company": {
   "name": "HOULIHAN LOKEY, INC.",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 132.07,
- "price_date": "2026-11-20",
+ "price_now": 134.86,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 128.32,
-   "price_now": 132.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 2.9,
+   "price_now": 134.86,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.1,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 142.55,
-   "price_now": 132.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.4,
+   "price_now": 134.86,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.4,
    "days_to_disclose": 50,
    "late_filing": true
   },
@@ -102,9 +102,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 160.45,
-   "price_now": 132.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -17.7,
+   "price_now": 134.86,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -15.9,
    "days_to_disclose": 35,
    "late_filing": false
   }
@@ -119,10 +119,10 @@
    "ticker": "HLI",
    "est_shares": 168.3,
    "avg_price": 142.58,
-   "price_now": 132.07,
-   "est_position_value": 22232,
-   "total_return_pct": -7.4,
-   "total_return_usd": -1769,
+   "price_now": 134.86,
+   "est_position_value": 22702,
+   "total_return_pct": -5.4,
+   "total_return_usd": -1300,
    "first_buy": "2026-03-03",
    "last_trade": "2026-08-07"
   }

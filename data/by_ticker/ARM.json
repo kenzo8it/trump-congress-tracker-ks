@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "ARM",
  "company": {
   "name": "ARM HOLDINGS PLC /UK",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 152.2,
- "price_date": "2026-11-20",
+ "price_now": 176.67,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,53 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 136.14,
-   "price_now": 152.2,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 11.8,
+   "price_now": 176.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 29.8,
    "days_to_disclose": 6,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ARM",
+   "company_name": "ARM HOLDINGS PLC /UK",
+   "owner_name": "Child Jason",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 10400.0,
+   "price": 189.73,
+   "value": 1973192.0,
+   "shares_after": 161884.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1533913/0001973239-26-000157.txt",
+   "price_at_trade": 177.17,
+   "price_now": 176.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "ARM",
+   "company_name": "ARM HOLDINGS PLC /UK",
+   "owner_name": "Child Jason",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 10400.0,
+   "price": 189.73,
+   "value": 1973192.0,
+   "shares_after": 161884.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1973239/0001973239-26-000157.txt",
+   "price_at_trade": 177.17,
+   "price_now": 176.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.3
+  },
   {
    "ticker": "ARM",
    "company_name": "ARM HOLDINGS PLC /UK",
@@ -66,9 +104,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1973239/0001973239-26-000144.txt",
    "price_at_trade": 183.39,
-   "price_now": 152.2,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -17.0
+   "price_now": 176.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -3.7
   },
   {
    "ticker": "ARM",
@@ -85,9 +123,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2112445/0001973239-26-000144.txt",
    "price_at_trade": 183.39,
-   "price_now": 152.2,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -17.0
+   "price_now": 176.67,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -3.7
   }
  ],
  "trump_trades": [],

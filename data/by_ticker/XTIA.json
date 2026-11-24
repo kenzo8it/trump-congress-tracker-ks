@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "XTIA",
  "company": {
   "name": "XTI Aerospace, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming Services",
   "sector": "Technology"
  },
- "price_now": 0.77,
- "price_date": "2026-11-20",
+ "price_now": 0.84,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "XTIA",
    "company_name": "XTI Aerospace, Inc.",
+   "owner_name": "ORNSTEIN JONATHAN G",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 0.79,
+   "value": 7900.0,
+   "shares_after": 10000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1054973/0001213900-26-123344.txt",
+   "price_at_trade": 0.77,
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 9.5
+  },
+  {
+   "ticker": "XTIA",
+   "company_name": "XTI Aerospace, Inc.",
+   "owner_name": "ORNSTEIN JONATHAN G",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 10000.0,
+   "price": 0.79,
+   "value": 7900.0,
+   "shares_after": 10000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1529113/0001213900-26-123344.txt",
+   "price_at_trade": 0.77,
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 9.5
+  },
+  {
+   "ticker": "XTIA",
+   "company_name": "XTI Aerospace, Inc.",
    "owner_name": "Evans Allan Thomas",
    "owner_title": "Director",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1529113/0001213900-26-121959.txt",
    "price_at_trade": 0.85,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.9
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "XTIA",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840143/0001213900-26-121959.txt",
    "price_at_trade": 0.85,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.9
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "XTIA",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1529113/0001213900-26-121959.txt",
    "price_at_trade": 0.89,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -13.8
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.6
   },
   {
    "ticker": "XTIA",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1840143/0001213900-26-121959.txt",
    "price_at_trade": 0.89,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -13.8
+   "price_now": 0.84,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.6
   }
  ],
  "trump_trades": [],

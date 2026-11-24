@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "AMH",
  "company": {
   "name": "American Homes 4 Rent",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 31.98,
- "price_date": "2026-11-20",
+ "price_now": 32.1,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 30.31,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 5.5,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 30.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 3.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -108,9 +108,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 30.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 3.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 4.3,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -140,9 +140,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 31.28,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 2.2,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.6,
    "days_to_disclose": 27,
    "late_filing": false
   }
@@ -164,9 +164,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
    "price_at_trade": 32.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.4
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "AMH",
@@ -183,9 +183,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
    "price_at_trade": 32.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.4
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "AMH",
@@ -202,9 +202,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.4
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.1
   },
   {
    "ticker": "AMH",
@@ -221,8 +221,84 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.78,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.1
+  },
+  {
+   "ticker": "AMH",
+   "company_name": "American Homes 4 Rent",
+   "owner_name": "CORRIGAN JACK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 800.0,
+   "price": 21.04,
+   "value": 16832.0,
+   "shares_after": 21000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
+   "price_at_trade": 32.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "AMH",
+   "company_name": "American Homes 4 Rent",
+   "owner_name": "CORRIGAN JACK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 2000.0,
+   "price": 21.26,
+   "value": 42520.0,
+   "shares_after": 27000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
+   "price_at_trade": 32.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "AMH",
+   "company_name": "American Homes 4 Rent",
+   "owner_name": "CORRIGAN JACK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 100.0,
+   "price": 20.945,
+   "value": 2094.5,
+   "shares_after": 600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
+   "price_at_trade": 32.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
+  },
+  {
+   "ticker": "AMH",
+   "company_name": "American Homes 4 Rent",
+   "owner_name": "CORRIGAN JACK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-09",
+   "reported_date": "2026-11-12",
+   "shares": 100.0,
+   "price": 20.945,
+   "value": 2094.5,
+   "shares_after": 700.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
+   "price_at_trade": 32.9,
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
    "total_return_pct": -2.4
   },
   {
@@ -238,87 +314,11 @@
    "value": 16832.0,
    "shares_after": 21000.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
-   "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
-  },
-  {
-   "ticker": "AMH",
-   "company_name": "American Homes 4 Rent",
-   "owner_name": "CORRIGAN JACK E",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-09",
-   "reported_date": "2026-11-12",
-   "shares": 2000.0,
-   "price": 21.26,
-   "value": 42520.0,
-   "shares_after": 27000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
-   "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
-  },
-  {
-   "ticker": "AMH",
-   "company_name": "American Homes 4 Rent",
-   "owner_name": "CORRIGAN JACK E",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-09",
-   "reported_date": "2026-11-12",
-   "shares": 100.0,
-   "price": 20.945,
-   "value": 2094.5,
-   "shares_after": 600.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
-   "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
-  },
-  {
-   "ticker": "AMH",
-   "company_name": "American Homes 4 Rent",
-   "owner_name": "CORRIGAN JACK E",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-09",
-   "reported_date": "2026-11-12",
-   "shares": 100.0,
-   "price": 20.945,
-   "value": 2094.5,
-   "shares_after": 700.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1227454/0001227454-26-000018.txt",
-   "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
-  },
-  {
-   "ticker": "AMH",
-   "company_name": "American Homes 4 Rent",
-   "owner_name": "CORRIGAN JACK E",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-09",
-   "reported_date": "2026-11-12",
-   "shares": 800.0,
-   "price": 21.04,
-   "value": 16832.0,
-   "shares_after": 21000.0,
-   "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "AMH",
@@ -335,9 +335,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "AMH",
@@ -354,9 +354,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "AMH",
@@ -373,9 +373,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/0001227454-26-000018.txt",
    "price_at_trade": 32.9,
-   "price_now": 31.98,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -2.8
+   "price_now": 32.1,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.4
   }
  ],
  "trump_trades": [],

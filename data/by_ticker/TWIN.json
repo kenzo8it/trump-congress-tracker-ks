@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-24T06:19+00:00",
+ "ticker": "TWIN",
+ "company": {
+  "name": "TWIN DISC INC",
+  "cik": 100378,
+  "sic": 3560,
+  "industry": "General Industrial Machinery & Equipment",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 22.47,
+ "price_date": "2026-11-23",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "TWIN",
+   "company_name": "TWIN DISC INC",
+   "owner_name": "Giesselman Janet Plaut",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 2343.0,
+   "price": 21.38,
+   "value": 50093.34,
+   "shares_after": 53222.5022,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/100378/0001437749-26-038118.txt",
+   "price_at_trade": 21.21,
+   "price_now": 22.47,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  },
+  {
+   "ticker": "TWIN",
+   "company_name": "TWIN DISC INC",
+   "owner_name": "Giesselman Janet Plaut",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 2343.0,
+   "price": 21.38,
+   "value": 50093.34,
+   "shares_after": 53222.5022,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1635634/0001437749-26-038118.txt",
+   "price_at_trade": 21.21,
+   "price_now": 22.47,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 5.9
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

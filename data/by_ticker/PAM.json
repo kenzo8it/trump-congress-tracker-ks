@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "PAM",
  "company": {
   "name": "Pampa Energy Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electric Services",
   "sector": "Energy & Utilities"
  },
- "price_now": 60.63,
- "price_date": "2026-11-20",
+ "price_now": 62.16,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,272 @@
    "owner_name": "Mindlin Marcos Marcelo",
    "owner_title": "Director, 10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 20347.0,
+   "price": 60.8,
+   "value": 1237097.6,
+   "shares_after": 7381303.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000020.txt",
+   "price_at_trade": 60.63,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 20347.0,
+   "price": 60.8,
+   "value": 1237097.6,
+   "shares_after": 7381303.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000020.txt",
+   "price_at_trade": 60.63,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 60000.0,
+   "price": 62.4,
+   "value": 3744000.0,
+   "shares_after": 7360956.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000020.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Damian Miguel",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 62.4,
+   "value": 1248000.0,
+   "shares_after": 848038.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000017.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mariani Gustavo",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 62.4,
+   "value": 1248000.0,
+   "shares_after": 146952.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028917-26-000006.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 60000.0,
+   "price": 62.4,
+   "value": 3744000.0,
+   "shares_after": 7360956.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000020.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Damian Miguel",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 62.4,
+   "value": 1248000.0,
+   "shares_after": 848038.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000017.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mariani Gustavo",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 20000.0,
+   "price": 62.4,
+   "value": 1248000.0,
+   "shares_after": 146952.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2028917/0002028917-26-000006.txt",
+   "price_at_trade": 62.04,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 37605.0,
+   "price": 62.11,
+   "value": 2335646.55,
+   "shares_after": 7300956.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000020.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Damian Miguel",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 12464.0,
+   "price": 62.11,
+   "value": 774139.04,
+   "shares_after": 828038.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000017.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mariani Gustavo",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 12743.0,
+   "price": 62.11,
+   "value": 791467.73,
+   "shares_after": 126952.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028917-26-000006.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 37605.0,
+   "price": 62.11,
+   "value": 2335646.55,
+   "shares_after": 7300956.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000020.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Damian Miguel",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 12464.0,
+   "price": 62.11,
+   "value": 774139.04,
+   "shares_after": 828038.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000017.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mariani Gustavo",
+   "owner_title": "Vicepresident",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-18",
+   "reported_date": "2026-11-23",
+   "shares": 12743.0,
+   "price": 62.11,
+   "value": 791467.73,
+   "shares_after": 126952.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2028917/0002028917-26-000006.txt",
+   "price_at_trade": 62.42,
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "PAM",
+   "company_name": "Pampa Energy Inc.",
+   "owner_name": "Mindlin Marcos Marcelo",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-17",
    "reported_date": "2026-11-18",
    "shares": 32991.0,
@@ -35,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000019.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -54,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000016.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -73,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028917-26-000005.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -92,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000019.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -111,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000016.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -130,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028917/0002028917-26-000005.txt",
    "price_at_trade": 62.57,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -3.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "PAM",
@@ -149,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000019.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -168,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000016.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -187,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028917-26-000005.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -206,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000019.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -225,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000016.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -244,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028917/0002028917-26-000005.txt",
    "price_at_trade": 60.94,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 2.0
   },
   {
    "ticker": "PAM",
@@ -263,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028917-26-000004.txt",
    "price_at_trade": 65.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.0
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "PAM",
@@ -282,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028917/0002028917-26-000004.txt",
    "price_at_trade": 65.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.0
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "PAM",
@@ -301,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000015.txt",
    "price_at_trade": 65.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.0
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "PAM",
@@ -320,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000015.txt",
    "price_at_trade": 65.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.0
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "PAM",
@@ -339,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002022936-26-000018.txt",
    "price_at_trade": 63.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "PAM",
@@ -358,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022936/0002022936-26-000018.txt",
    "price_at_trade": 63.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "PAM",
@@ -377,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000015.txt",
    "price_at_trade": 63.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "PAM",
@@ -396,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000015.txt",
    "price_at_trade": 63.21,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.1
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "PAM",
@@ -415,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000014.txt",
    "price_at_trade": 63.56,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.6
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "PAM",
@@ -434,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000014.txt",
    "price_at_trade": 63.56,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.6
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "PAM",
@@ -453,9 +719,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000014.txt",
    "price_at_trade": 63.75,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.9
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "PAM",
@@ -472,9 +738,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000014.txt",
    "price_at_trade": 63.75,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.9
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "PAM",
@@ -491,9 +757,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000014.txt",
    "price_at_trade": 64.95,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.7
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "PAM",
@@ -510,9 +776,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000014.txt",
    "price_at_trade": 64.95,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.7
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "PAM",
@@ -529,9 +795,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000013.txt",
    "price_at_trade": 64.07,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -5.4
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -3.0
   },
   {
    "ticker": "PAM",
@@ -548,9 +814,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000013.txt",
    "price_at_trade": 64.07,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -5.4
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -3.0
   },
   {
    "ticker": "PAM",
@@ -567,9 +833,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000012.txt",
    "price_at_trade": 64.84,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "PAM",
@@ -586,9 +852,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000012.txt",
    "price_at_trade": 64.84,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "PAM",
@@ -605,9 +871,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002123147-26-000003.txt",
    "price_at_trade": 64.84,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "PAM",
@@ -624,9 +890,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2123147/0002123147-26-000003.txt",
    "price_at_trade": 64.84,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -6.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "PAM",
@@ -643,9 +909,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1469395/0002028916-26-000012.txt",
    "price_at_trade": 68.51,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -11.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -9.3
   },
   {
    "ticker": "PAM",
@@ -662,9 +928,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028916/0002028916-26-000012.txt",
    "price_at_trade": 68.51,
-   "price_now": 60.63,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -11.5
+   "price_now": 62.16,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -9.3
   }
  ],
  "trump_trades": [],

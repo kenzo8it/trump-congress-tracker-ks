@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "SUNS",
  "company": {
   "name": "Sunrise Realty Trust, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 6.41,
- "price_date": "2026-11-20",
+ "price_now": 6.6,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "TANNENBAUM LEONARD M",
    "owner_title": "Director, Executive Chairman, 10% owner",
    "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 50000.0,
+   "price": 6.89,
+   "value": 344500.0,
+   "shares_after": 637282.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1200461/0001628280-26-075460.txt",
+   "price_at_trade": 6.8,
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "SUNS",
+   "company_name": "Sunrise Realty Trust, Inc.",
+   "owner_name": "TANNENBAUM LEONARD M",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 50000.0,
+   "price": 6.89,
+   "value": 344500.0,
+   "shares_after": 637282.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012706/0001628280-26-075460.txt",
+   "price_at_trade": 6.8,
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -2.9
+  },
+  {
+   "ticker": "SUNS",
+   "company_name": "Sunrise Realty Trust, Inc.",
+   "owner_name": "TANNENBAUM LEONARD M",
+   "owner_title": "Director, Executive Chairman, 10% owner",
+   "trade_type": "BUY",
    "traded_date": "2026-11-17",
    "reported_date": "2026-11-19",
    "shares": 1601.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1200461/0001628280-26-075133.txt",
    "price_at_trade": 6.7,
-   "price_now": 6.41,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.3
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SUNS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012706/0001628280-26-075133.txt",
    "price_at_trade": 6.7,
-   "price_now": 6.41,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -4.3
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "SUNS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1842694/0001628280-26-074234.txt",
    "price_at_trade": 6.98,
-   "price_now": 6.41,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.2
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "SUNS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012706/0001628280-26-074234.txt",
    "price_at_trade": 6.98,
-   "price_now": 6.41,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.2
+   "price_now": 6.6,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -5.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "SG",
  "company": {
   "name": "Sweetgreen, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 12.16,
- "price_date": "2026-11-20",
+ "price_now": 12.2,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SG",
+   "company_name": "Sweetgreen, Inc.",
+   "owner_name": "OSTROFF DAWN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-23",
+   "shares": 12500.0,
+   "price": 12.176,
+   "value": 152200.0,
+   "shares_after": 25370.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0001815563-26-000005.txt",
+   "price_at_trade": 12.2,
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SG",
+   "company_name": "Sweetgreen, Inc.",
+   "owner_name": "OSTROFF DAWN",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-23",
+   "shares": 12500.0,
+   "price": 12.176,
+   "value": 152200.0,
+   "shares_after": 25370.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1815563/0001815563-26-000005.txt",
+   "price_at_trade": 12.2,
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "SG",
    "company_name": "Sweetgreen, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0001885246-26-000008.txt",
    "price_at_trade": 12.18,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "SG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1885246/0001885246-26-000008.txt",
    "price_at_trade": 12.18,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.2
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "SG",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0001885246-26-000006.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0002040500-26-000012.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0002066778-26-000010.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1885246/0001885246-26-000006.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2040500/0002040500-26-000012.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2066778/0002066778-26-000010.txt",
    "price_at_trade": 12.11,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": 0.4
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": 0.7
   },
   {
    "ticker": "SG",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477815/0002040500-26-000010.txt",
    "price_at_trade": 13.24,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.2
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.9
   },
   {
    "ticker": "SG",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2040500/0002040500-26-000010.txt",
    "price_at_trade": 13.24,
-   "price_now": 12.16,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -8.2
+   "price_now": 12.2,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.9
   }
  ],
  "trump_trades": [],

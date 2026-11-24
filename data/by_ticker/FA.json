@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "FA",
  "company": {
   "name": "FIRST ADVANTAGE CORP",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 21.07,
- "price_date": "2026-11-20",
+ "price_now": 21.04,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "FA",
+   "company_name": "FIRST ADVANTAGE CORP",
+   "owner_name": "Nairne Douglas",
+   "owner_title": "Global Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 6914.0,
+   "price": 21.45,
+   "value": 148305.3,
+   "shares_after": 54369.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/0001210677-26-000061.txt",
+   "price_at_trade": 21.16,
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "FA",
+   "company_name": "FIRST ADVANTAGE CORP",
+   "owner_name": "Nairne Douglas",
+   "owner_title": "Global Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-19",
+   "reported_date": "2026-11-23",
+   "shares": 6914.0,
+   "price": 21.45,
+   "value": 148305.3,
+   "shares_after": 54369.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2044531/0001210677-26-000061.txt",
+   "price_at_trade": 21.16,
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.6
+  },
   {
    "ticker": "FA",
    "company_name": "FIRST ADVANTAGE CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/0001193125-26-468659.txt",
    "price_at_trade": 21.14,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.3
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "FA",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1603955/0001193125-26-468659.txt",
    "price_at_trade": 21.14,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -0.3
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "FA",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1210677/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1418226/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1603955/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1737652/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1737657/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1811441/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   },
   {
    "ticker": "FA",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1866145/0001193125-26-460768.txt",
    "price_at_trade": 21.36,
-   "price_now": 21.07,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -1.4
+   "price_now": 21.04,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -1.5
   }
  ],
  "trump_trades": [],

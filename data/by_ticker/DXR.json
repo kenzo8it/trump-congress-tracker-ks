@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+00:00",
+ "updated": "2026-11-24T06:19+00:00",
  "ticker": "DXR",
  "company": {
   "name": "DAXOR CORP",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 7.45,
- "price_date": "2026-11-20",
+ "price_now": 6.89,
+ "price_date": "2026-11-23",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DXR",
+   "company_name": "DAXOR CORP",
+   "owner_name": "Feldschuh Michael Richard",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 2000.0,
+   "price": 7.2,
+   "value": 14400.0,
+   "shares_after": 250747.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1589491/0001493152-26-053606.txt",
+   "price_at_trade": 7.45,
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.5
+  },
+  {
+   "ticker": "DXR",
+   "company_name": "DAXOR CORP",
+   "owner_name": "Feldschuh Michael Richard",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 500.0,
+   "price": 7.0,
+   "value": 3500.0,
+   "shares_after": 251247.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1589491/0001493152-26-053606.txt",
+   "price_at_trade": 7.45,
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.5
+  },
+  {
+   "ticker": "DXR",
+   "company_name": "DAXOR CORP",
+   "owner_name": "Feldschuh Michael Richard",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 2000.0,
+   "price": 7.2,
+   "value": 14400.0,
+   "shares_after": 250747.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27367/0001493152-26-053606.txt",
+   "price_at_trade": 7.45,
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.5
+  },
+  {
+   "ticker": "DXR",
+   "company_name": "DAXOR CORP",
+   "owner_name": "Feldschuh Michael Richard",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-23",
+   "shares": 500.0,
+   "price": 7.0,
+   "value": 3500.0,
+   "shares_after": 251247.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27367/0001493152-26-053606.txt",
+   "price_at_trade": 7.45,
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -7.5
+  },
   {
    "ticker": "DXR",
    "company_name": "DAXOR CORP",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1458190/0001493152-26-053260.txt",
    "price_at_trade": 8.04,
-   "price_now": 7.45,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.3
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -14.3
   },
   {
    "ticker": "DXR",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/27367/0001493152-26-053260.txt",
    "price_at_trade": 8.04,
-   "price_now": 7.45,
-   "price_now_date": "2026-11-20",
-   "total_return_pct": -7.3
+   "price_now": 6.89,
+   "price_now_date": "2026-11-23",
+   "total_return_pct": -14.3
   }
  ],
  "trump_trades": [],
