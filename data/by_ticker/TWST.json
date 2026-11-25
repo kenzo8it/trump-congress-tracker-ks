@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "TWST",
  "company": {
   "name": "Twist Bioscience Corp",
@@ -8,8 +8,8 @@
   "industry": "Biological Products, (No Diagnostic Substances)",
   "sector": "Healthcare"
  },
- "price_now": 111.35,
- "price_date": "2026-11-23",
+ "price_now": 108.88,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "WERNER ROBERT F.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 8275.0,
+   "price": 104.031,
+   "value": 860856.53,
+   "shares_after": 44937.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014713.txt",
+   "price_at_trade": 103.32,
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 5.4
+  },
+  {
+   "ticker": "TWST",
+   "company_name": "Twist Bioscience Corp",
+   "owner_name": "WERNER ROBERT F.",
+   "owner_title": "Chief Accounting Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 8275.0,
+   "price": 104.031,
+   "value": 860856.53,
+   "shares_after": 44937.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1590947/0001214659-26-014713.txt",
+   "price_at_trade": 103.32,
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 5.4
+  },
   {
    "ticker": "TWST",
    "company_name": "Twist Bioscience Corp",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1227886/0001214659-26-014654.txt",
    "price_at_trade": 111.62,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.2
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "TWST",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014654.txt",
    "price_at_trade": 111.62,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.2
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -2.5
   },
   {
    "ticker": "TWST",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014543.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014544.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014545.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014546.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014547.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014548.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590947/0001214659-26-014544.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753655/0001214659-26-014545.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-014546.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-014547.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1827198/0001214659-26-014543.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1883451/0001214659-26-014548.txt",
    "price_at_trade": 105.04,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.0
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.7
   },
   {
    "ticker": "TWST",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-014382.txt",
    "price_at_trade": 114.22,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.5
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "TWST",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-014382.txt",
    "price_at_trade": 114.22,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.5
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "TWST",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013780.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -358,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013781.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -377,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013782.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -396,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013783.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -415,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013784.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -434,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590947/0001214659-26-013780.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -453,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753655/0001214659-26-013781.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -472,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1753672/0001214659-26-013782.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -491,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-013783.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -510,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1883451/0001214659-26-013784.txt",
    "price_at_trade": 140.3,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.4
   },
   {
    "ticker": "TWST",
@@ -529,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1581280/0001214659-26-013283.txt",
    "price_at_trade": 139.92,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.4
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.2
   },
   {
    "ticker": "TWST",
@@ -548,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1755970/0001214659-26-013283.txt",
    "price_at_trade": 139.92,
-   "price_now": 111.35,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.4
+   "price_now": 108.88,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -22.2
   }
  ],
  "trump_trades": [],

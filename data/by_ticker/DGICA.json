@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "DGICA",
  "company": {
   "name": "DONEGAL GROUP INC",
@@ -8,8 +8,8 @@
   "industry": "Fire, Marine & Casualty Insurance",
   "sector": "Financials"
  },
- "price_now": 18.96,
- "price_date": "2026-11-23",
+ "price_now": 19.02,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 18.9398,
+   "value": 189398.0,
+   "shares_after": 14517941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000033.txt",
+   "price_at_trade": 18.96,
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 18.9398,
+   "value": 189398.0,
+   "shares_after": 14517941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000033.txt",
+   "price_at_trade": 18.96,
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 7500.0,
+   "price": 19.0419,
+   "value": 142814.25,
+   "shares_after": 14507941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000033.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
+  },
+  {
+   "ticker": "DGICA",
+   "company_name": "DONEGAL GROUP INC",
+   "owner_name": "DONEGAL MUTUAL INSURANCE CO",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 7500.0,
+   "price": 19.0419,
+   "value": 142814.25,
+   "shares_after": 14507941.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000033.txt",
+   "price_at_trade": 18.97,
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
+  },
   {
    "ticker": "DGICA",
    "company_name": "DONEGAL GROUP INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590558/0001590558-26-000008.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1810400/0001810400-26-000003.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001590558-26-000008.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001810400-26-000003.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000032.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000032.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000032.txt",
    "price_at_trade": 18.94,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "DGICA",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000032.txt",
    "price_at_trade": 18.94,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "DGICA",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1810400/0001810400-26-000002.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000031.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001810400-26-000002.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000031.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -263,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590558/0001590558-26-000007.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -282,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1810400/0001810400-26-000002.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -301,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000031.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -320,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001590558-26-000007.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -339,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001810400-26-000002.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -358,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000031.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -377,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1839323/0001839323-26-000003.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -396,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001839323-26-000003.txt",
    "price_at_trade": 19.18,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "DGICA",
@@ -415,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1839323/0001839323-26-000003.txt",
    "price_at_trade": 19.06,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -434,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000030.txt",
    "price_at_trade": 19.06,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -453,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001839323-26-000003.txt",
    "price_at_trade": 19.06,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -472,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000030.txt",
    "price_at_trade": 19.06,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.2
   },
   {
    "ticker": "DGICA",
@@ -491,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000030.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -510,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000030.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -529,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2131696/0002131696-26-000001.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -548,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2131696/0002131696-26-000001.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -567,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0002131696-26-000001.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -586,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0002131696-26-000001.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -605,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
    "price_at_trade": 18.95,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "DGICA",
@@ -624,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
    "price_at_trade": 18.95,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.4
   },
   {
    "ticker": "DGICA",
@@ -643,9 +719,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1810662/0001810662-26-000003.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -662,9 +738,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -681,9 +757,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001810662-26-000003.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -700,9 +776,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
    "price_at_trade": 18.97,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.1
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -719,9 +795,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000029.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "DGICA",
@@ -738,9 +814,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000029.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "DGICA",
@@ -757,9 +833,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "DGICA",
@@ -776,9 +852,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.73,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "DGICA",
@@ -795,9 +871,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590558/0001590558-26-000006.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -814,9 +890,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -833,9 +909,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -852,9 +928,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001590558-26-000006.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -871,9 +947,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -890,9 +966,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000028.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -909,9 +985,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1360841/0001360841-26-000002.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -928,9 +1004,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0001360841-26-000002.txt",
    "price_at_trade": 18.96,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.0
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.3
   },
   {
    "ticker": "DGICA",
@@ -947,9 +1023,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000027.txt",
    "price_at_trade": 19.1,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.7
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "DGICA",
@@ -966,9 +1042,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000027.txt",
    "price_at_trade": 19.1,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.7
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.4
   },
   {
    "ticker": "DGICA",
@@ -985,9 +1061,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/800457/0000935596-26-000027.txt",
    "price_at_trade": 18.68,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "DGICA",
@@ -1004,9 +1080,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000027.txt",
    "price_at_trade": 18.68,
-   "price_now": 18.96,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 19.02,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.8
   }
  ],
  "trump_trades": [],

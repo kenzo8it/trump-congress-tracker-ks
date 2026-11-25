@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "OWLS",
  "company": {
   "name": "OBOOK HOLDINGS INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 2.1,
- "price_date": "2026-11-23",
+ "price_now": 2.07,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,82 @@
    "owner_name": "WANG CHUN KAI",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 1595.0,
+   "price": 2.1002,
+   "value": 3349.82,
+   "shares_after": 3192967.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000020.txt",
+   "price_at_trade": 2.1,
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.4
+  },
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 1595.0,
+   "price": 2.1002,
+   "value": 3349.82,
+   "shares_after": 3192967.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000020.txt",
+   "price_at_trade": 2.1,
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.4
+  },
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 22313.0,
+   "price": 2.0326,
+   "value": 45353.4,
+   "shares_after": 3191372.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000020.txt",
+   "price_at_trade": 2.01,
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.0
+  },
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 22313.0,
+   "price": 2.0326,
+   "value": 45353.4,
+   "shares_after": 3191372.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000020.txt",
+   "price_at_trade": 2.01,
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.0
+  },
+  {
+   "ticker": "OWLS",
+   "company_name": "OBOOK HOLDINGS INC.",
+   "owner_name": "WANG CHUN KAI",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
    "traded_date": "2026-11-19",
    "reported_date": "2026-11-20",
    "shares": 6492.0,
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000019.txt",
    "price_at_trade": 2.04,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "OWLS",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000019.txt",
    "price_at_trade": 2.04,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "OWLS",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000019.txt",
    "price_at_trade": 2.28,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "OWLS",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000019.txt",
    "price_at_trade": 2.28,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -9.2
   },
   {
    "ticker": "OWLS",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000018.txt",
    "price_at_trade": 2.2,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.5
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "OWLS",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000018.txt",
    "price_at_trade": 2.2,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.5
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "OWLS",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000018.txt",
    "price_at_trade": 2.29,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.3
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -9.6
   },
   {
    "ticker": "OWLS",
@@ -168,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000018.txt",
    "price_at_trade": 2.29,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.3
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -9.6
   },
   {
    "ticker": "OWLS",
@@ -187,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000017.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -206,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000017.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -225,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000016.txt",
    "price_at_trade": 2.26,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.1
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "OWLS",
@@ -244,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000016.txt",
    "price_at_trade": 2.26,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.1
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.4
   },
   {
    "ticker": "OWLS",
@@ -263,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000015.txt",
    "price_at_trade": 2.22,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.4
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "OWLS",
@@ -282,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000015.txt",
    "price_at_trade": 2.22,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.4
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "OWLS",
@@ -301,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000015.txt",
    "price_at_trade": 2.51,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -16.2
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.4
   },
   {
    "ticker": "OWLS",
@@ -320,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000015.txt",
    "price_at_trade": 2.51,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -16.2
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.4
   },
   {
    "ticker": "OWLS",
@@ -339,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000014.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -358,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109341-26-000003.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -377,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000014.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -396,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109341/0002109341-26-000003.txt",
    "price_at_trade": 2.18,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OWLS",
@@ -415,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2025416/0002109337-26-000013.txt",
    "price_at_trade": 2.04,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "OWLS",
@@ -434,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2109337/0002109337-26-000013.txt",
    "price_at_trade": 2.04,
-   "price_now": 2.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.9
+   "price_now": 2.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.5
   }
  ],
  "trump_trades": [],

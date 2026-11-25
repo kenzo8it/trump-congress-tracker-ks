@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "TILE",
  "company": {
   "name": "INTERFACE INC",
@@ -8,8 +8,8 @@
   "industry": "Carpets & Rugs",
   "sector": "Retail & Consumer"
  },
- "price_now": 31.3,
- "price_date": "2026-11-23",
+ "price_now": 31.42,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TILE",
+   "company_name": "INTERFACE INC",
+   "owner_name": "Hurd Laurel",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 7000.0,
+   "price": 31.06,
+   "value": 217420.0,
+   "shares_after": 521682.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1768695/0001768695-26-000011.txt",
+   "price_at_trade": 31.42,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "TILE",
+   "company_name": "INTERFACE INC",
+   "owner_name": "Hurd Laurel",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 7000.0,
+   "price": 31.06,
+   "value": 217420.0,
+   "shares_after": 521682.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001768695-26-000011.txt",
+   "price_at_trade": 31.42,
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "TILE",
    "company_name": "INTERFACE INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1094629/0001094629-26-000005.txt",
    "price_at_trade": 38.42,
-   "price_now": 31.3,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.2
   },
   {
    "ticker": "TILE",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001094629-26-000005.txt",
    "price_at_trade": 38.42,
-   "price_now": 31.3,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.2
   },
   {
    "ticker": "TILE",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1768695/0001768695-26-000009.txt",
    "price_at_trade": 36.45,
-   "price_now": 31.3,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.1
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.8
   },
   {
    "ticker": "TILE",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/715787/0001768695-26-000009.txt",
    "price_at_trade": 36.45,
-   "price_now": 31.3,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.1
+   "price_now": 31.42,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.8
   }
  ],
  "trump_trades": [],

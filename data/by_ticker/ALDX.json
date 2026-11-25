@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "ALDX",
  "company": {
   "name": "Aldeyra Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.76,
- "price_date": "2026-11-23",
+ "price_now": 1.04,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ALDX",
+   "company_name": "Aldeyra Therapeutics, Inc.",
+   "owner_name": "Brady Todd C",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 300000.0,
+   "price": 0.8102,
+   "value": 243060.0,
+   "shares_after": 2021298.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-473131.txt",
+   "price_at_trade": 0.84,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 23.8
+  },
+  {
+   "ticker": "ALDX",
+   "company_name": "Aldeyra Therapeutics, Inc.",
+   "owner_name": "Brady Todd C",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 300000.0,
+   "price": 0.8102,
+   "value": 243060.0,
+   "shares_after": 2021298.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579179/0001193125-26-473131.txt",
+   "price_at_trade": 0.84,
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 23.8
+  },
   {
    "ticker": "ALDX",
    "company_name": "Aldeyra Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1089409/0001193125-26-463942.txt",
    "price_at_trade": 0.63,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 20.6
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 65.1
   },
   {
    "ticker": "ALDX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-463942.txt",
    "price_at_trade": 0.63,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 20.6
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 65.1
   },
   {
    "ticker": "ALDX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1021015/0001193125-26-460743.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 16.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 59.8
   },
   {
    "ticker": "ALDX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-460743.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 16.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 59.8
   },
   {
    "ticker": "ALDX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1341235/0001193125-26-460801.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 16.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 59.8
   },
   {
    "ticker": "ALDX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744687/0001193125-26-460801.txt",
    "price_at_trade": 0.65,
-   "price_now": 0.76,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 16.7
+   "price_now": 1.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 59.8
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "PLXS",
  "company": {
   "name": "PLEXUS CORP",
@@ -8,8 +8,8 @@
   "industry": "Printed Circuit Boards",
   "sector": "Technology"
  },
- "price_now": 202.45,
- "price_date": "2026-11-23",
+ "price_now": 187.51,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "PLXS",
    "company_name": "PLEXUS CORP",
+   "owner_name": "Zycinski Frank",
+   "owner_title": "Regional President - EMEA",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 809.0,
+   "price": 203.36,
+   "value": 164518.24,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1990156/0001990156-26-000006.txt",
+   "price_at_trade": 202.45,
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.4
+  },
+  {
+   "ticker": "PLXS",
+   "company_name": "PLEXUS CORP",
+   "owner_name": "Zycinski Frank",
+   "owner_title": "Regional President - EMEA",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 809.0,
+   "price": 203.36,
+   "value": 164518.24,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/785786/0001990156-26-000006.txt",
+   "price_at_trade": 202.45,
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.4
+  },
+  {
+   "ticker": "PLXS",
+   "company_name": "PLEXUS CORP",
    "owner_name": "Kelsey Todd P.",
    "owner_title": "Director, President & CEO",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1411282/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "PLXS",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1411282/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "PLXS",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1411282/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "PLXS",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/785786/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "PLXS",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/785786/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   },
   {
    "ticker": "PLXS",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/785786/0001411282-26-000027.txt",
    "price_at_trade": 211.22,
-   "price_now": 202.45,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 187.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.2
   }
  ],
  "trump_trades": [],

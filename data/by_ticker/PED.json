@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "PED",
  "company": {
   "name": "PEDEVCO CORP",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 9.14,
- "price_date": "2026-11-23",
+ "price_now": 8.73,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,120 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Geiser Edward",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "shares_after": 6900668.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001213900-26-123737.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Juniper Capital IV GP, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "shares_after": 1717432.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001213900-26-123738.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Long Robert Joseph",
+   "owner_title": "CFO and Treasurer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 7000.0,
+   "price": 10.57,
+   "value": 73990.0,
+   "shares_after": 39308.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001654954-26-010105.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Geiser Edward",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "shares_after": 6900668.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1839074/0001213900-26-123737.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Long Robert Joseph",
+   "owner_title": "CFO and Treasurer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 7000.0,
+   "price": 10.57,
+   "value": 73990.0,
+   "shares_after": 39308.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2092580/0001654954-26-010105.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
+  {
+   "ticker": "PED",
+   "company_name": "PEDEVCO CORP",
+   "owner_name": "Juniper Capital IV GP, L.P.",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 22000.0,
+   "price": 10.57,
+   "value": 232540.0,
+   "shares_after": 1717432.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2099373/0001213900-26-123738.txt",
+   "price_at_trade": 9.14,
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.5
+  },
   {
    "ticker": "PED",
    "company_name": "PEDEVCO CORP",
@@ -35,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001654954-26-010060.txt",
    "price_at_trade": 9.56,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.7
   },
   {
    "ticker": "PED",
@@ -54,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1222390/0001654954-26-010060.txt",
    "price_at_trade": 9.56,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.7
   },
   {
    "ticker": "PED",
@@ -73,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1946705/0001654954-26-010060.txt",
    "price_at_trade": 9.56,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.7
   },
   {
    "ticker": "PED",
@@ -92,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001654954-26-010008.txt",
    "price_at_trade": 9.22,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.9
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "PED",
@@ -111,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1241052/0001654954-26-010008.txt",
    "price_at_trade": 9.22,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.9
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.3
   },
   {
    "ticker": "PED",
@@ -130,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001654954-26-009873.txt",
    "price_at_trade": 10.76,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -15.1
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.9
   },
   {
    "ticker": "PED",
@@ -149,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1241052/0001654954-26-009873.txt",
    "price_at_trade": 10.76,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -15.1
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.9
   },
   {
    "ticker": "PED",
@@ -168,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1141197/0001654954-26-009857.txt",
    "price_at_trade": 11.71,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.9
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.4
   },
   {
    "ticker": "PED",
@@ -187,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1222390/0001654954-26-009857.txt",
    "price_at_trade": 11.71,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.9
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.4
   },
   {
    "ticker": "PED",
@@ -206,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1946705/0001654954-26-009857.txt",
    "price_at_trade": 11.71,
-   "price_now": 9.14,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.9
+   "price_now": 8.73,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.4
   }
  ],
  "trump_trades": [],

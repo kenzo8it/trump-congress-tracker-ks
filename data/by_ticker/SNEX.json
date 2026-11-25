@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "SNEX",
  "company": {
   "name": "StoneX Group Inc.",
@@ -8,8 +8,8 @@
   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
   "sector": "Financials"
  },
- "price_now": 39.49,
- "price_date": "2026-11-23",
+ "price_now": 38.15,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SNEX",
+   "company_name": "StoneX Group Inc.",
+   "owner_name": "Thamodaran Dhamu R.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 38.3,
+   "value": 95750.0,
+   "shares_after": 8349.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1531352/0001531352-26-000016.txt",
+   "price_at_trade": 38.15,
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SNEX",
+   "company_name": "StoneX Group Inc.",
+   "owner_name": "Thamodaran Dhamu R.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 38.3,
+   "value": 95750.0,
+   "shares_after": 8349.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/913760/0001531352-26-000016.txt",
+   "price_at_trade": 38.15,
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SNEX",
+   "company_name": "StoneX Group Inc.",
+   "owner_name": "Lyon Charles M",
+   "owner_title": "President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 10418.0,
+   "price": 38.56,
+   "value": 401718.08,
+   "shares_after": 334660.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1620576/0001620576-26-000010.txt",
+   "price_at_trade": 39.49,
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.4
+  },
+  {
+   "ticker": "SNEX",
+   "company_name": "StoneX Group Inc.",
+   "owner_name": "Lyon Charles M",
+   "owner_title": "President",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 10418.0,
+   "price": 38.56,
+   "value": 401718.08,
+   "shares_after": 334660.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/913760/0001620576-26-000010.txt",
+   "price_at_trade": 39.49,
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.4
+  },
   {
    "ticker": "SNEX",
    "company_name": "StoneX Group Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1318349/0001318349-26-000024.txt",
    "price_at_trade": 53.62,
-   "price_now": 39.49,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.4
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.9
   },
   {
    "ticker": "SNEX",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/913760/0001318349-26-000024.txt",
    "price_at_trade": 53.62,
-   "price_now": 39.49,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.4
+   "price_now": 38.15,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.9
   }
  ],
  "trump_trades": [],

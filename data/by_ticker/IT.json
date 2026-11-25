@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "IT",
  "company": {
   "name": "GARTNER INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Management Services",
   "sector": "Other"
  },
- "price_now": 175.81,
- "price_date": "2026-11-23",
+ "price_now": 180.08,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 149.1,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 17.9,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 20.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 166.74,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 5.4,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 8.0,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 248.34,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -29.2,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -27.5,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 248.4,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -29.2,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -27.5,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 248.4,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -29.2,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -27.5,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -192,9 +192,9 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 241.12,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -27.1,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.3,
    "days_to_disclose": 41,
    "late_filing": false
   }
@@ -209,15 +209,53 @@
    "ticker": "IT",
    "est_shares": 1.0,
    "avg_price": 248.19,
-   "price_now": 175.81,
-   "est_position_value": 170,
-   "total_return_pct": -29.2,
-   "total_return_usd": -70,
+   "price_now": 180.08,
+   "est_position_value": 174,
+   "total_return_pct": -27.4,
+   "total_return_usd": -66,
    "first_buy": "2025-09-11",
    "last_trade": "2025-10-31"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "IT",
+   "company_name": "GARTNER INC",
+   "owner_name": "Rinello John J",
+   "owner_title": "EVP, Global Business Sales",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 888.0,
+   "price": 177.68,
+   "value": 157779.84,
+   "shares_after": 2836.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2053986/0000749251-26-000334.txt",
+   "price_at_trade": 174.49,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.2
+  },
+  {
+   "ticker": "IT",
+   "company_name": "GARTNER INC",
+   "owner_name": "Rinello John J",
+   "owner_title": "EVP, Global Business Sales",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 888.0,
+   "price": 177.68,
+   "value": 157779.84,
+   "shares_after": 2836.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/749251/0000749251-26-000334.txt",
+   "price_at_trade": 174.49,
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.2
+  },
   {
    "ticker": "IT",
    "company_name": "GARTNER INC",
@@ -233,9 +271,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1843710/0000749251-26-000311.txt",
    "price_at_trade": 191.02,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.0
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "IT",
@@ -252,9 +290,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/749251/0000749251-26-000311.txt",
    "price_at_trade": 191.02,
-   "price_now": 175.81,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.0
+   "price_now": 180.08,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],

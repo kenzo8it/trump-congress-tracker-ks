@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "PSA",
  "company": {
   "name": "Public Storage",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 330.48,
- "price_date": "2026-11-23",
+ "price_now": 331.92,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Public Storage Common Stock",
+   "asset_type": "ST",
+   "ticker": "PSA",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-29",
+   "notified_date": "2029-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "Public Storage",
+   "sector": "Real Estate",
+   "committee_overlap": [],
+   "price_at_trade": 288.42,
+   "price_now": 331.92,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 15.1,
+   "days_to_disclose": 208,
+   "late_filing": true
+  },
   {
    "chamber": "House",
    "politician_name": "Virginia Foxx",
@@ -42,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 271.06,
-   "price_now": 330.48,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 21.9,
+   "price_now": 331.92,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 22.5,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -72,14 +102,31 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 251.6,
-   "price_now": 330.48,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 31.4,
+   "price_now": 331.92,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 31.9,
    "days_to_disclose": 24,
    "late_filing": false
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [],
+   "ticker": "PSA",
+   "est_shares": 27.7,
+   "avg_price": 288.42,
+   "price_now": 331.92,
+   "est_position_value": 9207,
+   "total_return_pct": 15.1,
+   "total_return_usd": 1207,
+   "first_buy": "2026-04-29",
+   "last_trade": "2026-04-29"
+  }
+ ],
  "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],

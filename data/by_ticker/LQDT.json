@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "LQDT",
  "company": {
   "name": "LIQUIDITY SERVICES INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 33.01,
- "price_date": "2026-11-23",
+ "price_now": 33.54,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "LQDT",
    "company_name": "LIQUIDITY SERVICES INC",
+   "owner_name": "INFANTE BEATRIZ V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 4500.0,
+   "price": 32.25,
+   "value": 145125.0,
+   "shares_after": 92724.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1193369/0001193369-26-000004.txt",
+   "price_at_trade": 33.01,
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "LQDT",
+   "company_name": "LIQUIDITY SERVICES INC",
+   "owner_name": "INFANTE BEATRIZ V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 4500.0,
+   "price": 32.25,
+   "value": 145125.0,
+   "shares_after": 92724.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1235468/0001193369-26-000004.txt",
+   "price_at_trade": 33.01,
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "LQDT",
+   "company_name": "LIQUIDITY SERVICES INC",
    "owner_name": "Daunt John",
    "owner_title": "EVP, Chief Commercial Officer",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1235468/0001774667-26-000033.txt",
    "price_at_trade": 44.64,
-   "price_now": 33.01,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.1
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.9
   },
   {
    "ticker": "LQDT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1235468/0001774667-26-000033.txt",
    "price_at_trade": 44.64,
-   "price_now": 33.01,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.1
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.9
   },
   {
    "ticker": "LQDT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000033.txt",
    "price_at_trade": 44.64,
-   "price_now": 33.01,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.1
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.9
   },
   {
    "ticker": "LQDT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000033.txt",
    "price_at_trade": 44.64,
-   "price_now": 33.01,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.1
+   "price_now": 33.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.9
   }
  ],
  "trump_trades": [],

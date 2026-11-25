@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-25T05:13+00:00",
+ "ticker": "CRNT",
+ "company": {
+  "name": "CERAGON NETWORKS LTD",
+  "cik": 1119769,
+  "sic": 3663,
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Technology"
+ },
+ "price_now": 2.17,
+ "price_date": "2026-11-24",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CRNT",
+   "company_name": "CERAGON NETWORKS LTD",
+   "owner_name": "BEN-HAMOU RONEN",
+   "owner_title": "Chief Revenue Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 29765.0,
+   "price": 2.19,
+   "value": 65185.35,
+   "shares_after": 245376.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1119769/0001976408-26-000967.txt",
+   "price_at_trade": 2.25,
+   "price_now": 2.17,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.6
+  },
+  {
+   "ticker": "CRNT",
+   "company_name": "CERAGON NETWORKS LTD",
+   "owner_name": "BEN-HAMOU RONEN",
+   "owner_title": "Chief Revenue Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 29765.0,
+   "price": 2.19,
+   "value": 65185.35,
+   "shares_after": 245376.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2038089/0001976408-26-000967.txt",
+   "price_at_trade": 2.25,
+   "price_now": 2.17,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

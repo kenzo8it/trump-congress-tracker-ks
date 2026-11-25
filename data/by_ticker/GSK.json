@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "GSK",
  "company": {
   "name": "GSK plc",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 48.57,
- "price_date": "2026-11-23",
+ "price_now": 50.07,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "GSK plc American Depositary Shares",
+   "asset_type": "ST",
+   "ticker": "GSK",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "GSK plc",
+   "sector": "Healthcare",
+   "committee_overlap": [],
+   "price_at_trade": 50.03,
+   "price_now": 50.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.1,
+   "days_to_disclose": 208,
+   "late_filing": true
+  },
   {
    "chamber": "House",
    "politician_name": "Lisa C. McClain",
@@ -42,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 44.85,
-   "price_now": 48.57,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 8.3,
+   "price_now": 50.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.6,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 44.93,
-   "price_now": 48.57,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 8.1,
+   "price_now": 50.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.4,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 44.93,
-   "price_now": 48.57,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 8.1,
+   "price_now": 50.07,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.4,
    "days_to_disclose": 22,
    "late_filing": false
   }

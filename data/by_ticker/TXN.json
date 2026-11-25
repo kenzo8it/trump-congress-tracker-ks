@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "TXN",
  "company": {
   "name": "TEXAS INSTRUMENTS INC",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 291.19,
- "price_date": "2026-11-23",
+ "price_now": 258.44,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,70 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Texas Instruments Incorporated - Common Stock",
+   "asset_type": "ST",
+   "ticker": "TXN",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "TEXAS INSTRUMENTS INC",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 279.29,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.5,
+   "days_to_disclose": 40,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Texas Instruments Incorporated - Common Stock",
+   "asset_type": "ST",
+   "ticker": "TXN",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "TEXAS INSTRUMENTS INC",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 279.29,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.5,
+   "days_to_disclose": 40,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Kevin Hern",
@@ -42,9 +106,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 279.29,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 4.3,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.5,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -74,9 +138,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 256.89,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.4,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.6,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -106,9 +170,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 215.6,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 35.1,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 19.9,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -136,9 +200,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 187.93,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 54.9,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 37.5,
    "days_to_disclose": 16,
    "late_filing": false
   },
@@ -168,9 +232,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 172.43,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 68.9,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 49.9,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -200,9 +264,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 161.82,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 79.9,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 59.7,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -232,9 +296,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 158.77,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 83.4,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 62.8,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -264,9 +328,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 166.55,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 74.8,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 55.2,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -296,9 +360,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 166.55,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 74.8,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 55.2,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -328,9 +392,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 166.55,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 74.8,
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 55.2,
    "days_to_disclose": 43,
    "late_filing": false
   }
@@ -347,12 +411,30 @@
    "ticker": "TXN",
    "est_shares": 117.7,
    "avg_price": 203.93,
-   "price_now": 291.19,
-   "est_position_value": 34271,
-   "total_return_pct": 42.8,
-   "total_return_usd": 10269,
+   "price_now": 258.44,
+   "est_position_value": 30416,
+   "total_return_pct": 26.7,
+   "total_return_usd": 6415,
    "first_buy": "2025-11-26",
    "last_trade": "2026-09-17"
+  },
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "ticker": "TXN",
+   "est_shares": 28.6,
+   "avg_price": 279.29,
+   "price_now": 258.44,
+   "est_position_value": 7403,
+   "total_return_pct": -7.5,
+   "total_return_usd": -597,
+   "first_buy": "2026-10-14",
+   "last_trade": "2026-10-14"
   }
  ],
  "insider_trades": [
@@ -371,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1646850/0001646850-26-000006.txt",
    "price_at_trade": 312.48,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.8
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.3
   },
   {
    "ticker": "TXN",
@@ -390,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0001646850-26-000006.txt",
    "price_at_trade": 312.48,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.8
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.3
   },
   {
    "ticker": "TXN",
@@ -409,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1186342/0000097476-26-000178.txt",
    "price_at_trade": 311.42,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.5
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "TXN",
@@ -428,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000178.txt",
    "price_at_trade": 311.42,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.5
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.0
   },
   {
    "ticker": "TXN",
@@ -447,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1182591/0000097476-26-000174.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -466,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216484/0000097476-26-000176.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -485,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216484/0000097476-26-000176.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -504,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216931/0000097476-26-000172.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -523,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1216931/0000097476-26-000172.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -542,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000172.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -561,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000172.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -580,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000174.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -599,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000176.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   },
   {
    "ticker": "TXN",
@@ -618,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/97476/0000097476-26-000176.txt",
    "price_at_trade": 307.41,
-   "price_now": 291.19,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.3
+   "price_now": 258.44,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.9
   }
  ],
  "trump_trades": [],

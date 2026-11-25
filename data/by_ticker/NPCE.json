@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "NPCE",
  "company": {
   "name": "NeuroPace Inc",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 8.39,
- "price_date": "2026-11-23",
+ "price_now": 8.54,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NPCE",
+   "company_name": "NeuroPace Inc",
+   "owner_name": "Kumar Rakhi",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 11361.0,
+   "price": 8.5581,
+   "value": 97228.57,
+   "shares_after": 34400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1528287/0001856296-26-000009.txt",
+   "price_at_trade": 8.54,
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "NPCE",
+   "company_name": "NeuroPace Inc",
+   "owner_name": "Kumar Rakhi",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 11361.0,
+   "price": 8.5581,
+   "value": 97228.57,
+   "shares_after": 34400.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1856296/0001856296-26-000009.txt",
+   "price_at_trade": 8.54,
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "NPCE",
    "company_name": "NeuroPace Inc",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1365493/0001628280-26-074869.txt",
    "price_at_trade": 8.22,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.1
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.9
   },
   {
    "ticker": "NPCE",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1528287/0001628280-26-074869.txt",
    "price_at_trade": 8.22,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.1
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.9
   },
   {
    "ticker": "NPCE",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1528287/0001533175-26-000018.txt",
    "price_at_trade": 8.2,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.3
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "NPCE",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1528287/0001562229-26-000007.txt",
    "price_at_trade": 8.2,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.3
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "NPCE",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1533175/0001533175-26-000018.txt",
    "price_at_trade": 8.2,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.3
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "NPCE",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1562229/0001562229-26-000007.txt",
    "price_at_trade": 8.2,
-   "price_now": 8.39,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.3
+   "price_now": 8.54,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.1
   }
  ],
  "trump_trades": [],

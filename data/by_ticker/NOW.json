@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "NOW",
  "company": {
   "name": "ServiceNow, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 91.72,
- "price_date": "2026-11-23",
+ "price_now": 91.74,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,10 +42,42 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 153.12,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -40.1,
    "days_to_disclose": 20,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "ServiceNow, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "NOW",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-10-20",
+   "notified_date": "2026-10-20",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "ServiceNow, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 149.54,
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -38.7,
+   "days_to_disclose": 34,
    "late_filing": false
   },
   {
@@ -74,11 +106,43 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 90.17,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": 1.7,
    "days_to_disclose": 25,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "ServiceNow, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "NOW",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-04-21",
+   "notified_date": "2026-04-21",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "ServiceNow, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 100.14,
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.4,
+   "days_to_disclose": 216,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -104,8 +168,8 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 87.79,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": 4.5,
    "days_to_disclose": 24,
    "late_filing": false
@@ -136,8 +200,8 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 124.34,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -26.2,
    "days_to_disclose": 33,
    "late_filing": false
@@ -166,9 +230,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 106.48,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -13.9,
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -196,9 +260,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 106.48,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -13.9,
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -228,11 +292,43 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 117.01,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -21.6,
    "days_to_disclose": 27,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "ServiceNow, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "NOW",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-01-14",
+   "notified_date": "2026-01-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "ServiceNow, Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 134.61,
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -31.8,
+   "days_to_disclose": 313,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -260,8 +356,8 @@
     "House Permanent Select Committee on Intelligence"
    ],
    "price_at_trade": 156.48,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -41.4,
    "days_to_disclose": 28,
    "late_filing": false
@@ -292,8 +388,8 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 170.7,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -46.3,
    "days_to_disclose": 240,
    "late_filing": true
@@ -324,8 +420,8 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 170.7,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -46.3,
    "days_to_disclose": 240,
    "late_filing": true
@@ -354,8 +450,8 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 172.37,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -46.8,
    "days_to_disclose": 38,
    "late_filing": false
@@ -384,8 +480,8 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 180.72,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -49.2,
    "days_to_disclose": 32,
    "late_filing": false
@@ -416,8 +512,8 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 225.99,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -59.4,
    "days_to_disclose": 599,
    "late_filing": true
@@ -435,10 +531,10 @@
    "ticker": "NOW",
    "est_shares": 46.9,
    "avg_price": 170.7,
-   "price_now": 91.72,
-   "est_position_value": 4299,
+   "price_now": 91.74,
+   "est_position_value": 4300,
    "total_return_pct": -46.3,
-   "total_return_usd": -3702,
+   "total_return_usd": -3701,
    "first_buy": "2025-12-08",
    "last_trade": "2025-12-08"
   },
@@ -451,10 +547,10 @@
    "ticker": "NOW",
    "est_shares": 52.2,
    "avg_price": 153.12,
-   "price_now": 91.72,
-   "est_position_value": 4792,
+   "price_now": 91.74,
+   "est_position_value": 4793,
    "total_return_pct": -40.1,
-   "total_return_usd": -3208,
+   "total_return_usd": -3207,
    "first_buy": "2025-10-17",
    "last_trade": "2026-10-21"
   },
@@ -467,12 +563,30 @@
    "ticker": "NOW",
    "est_shares": 150.3,
    "avg_price": 106.48,
-   "price_now": 91.72,
-   "est_position_value": 13783,
-   "total_return_pct": -13.9,
-   "total_return_usd": -2218,
+   "price_now": 91.74,
+   "est_position_value": 13786,
+   "total_return_pct": -13.8,
+   "total_return_usd": -2215,
    "first_buy": "2026-02-10",
    "last_trade": "2026-02-10"
+  },
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "ticker": "NOW",
+   "est_shares": 53.5,
+   "avg_price": 149.54,
+   "price_now": 91.74,
+   "est_position_value": 4908,
+   "total_return_pct": -38.7,
+   "total_return_usd": -3092,
+   "first_buy": "2026-10-20",
+   "last_trade": "2026-10-20"
   }
  ],
  "insider_trades": [
@@ -491,9 +605,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/0001649609-26-000043.txt",
    "price_at_trade": 90.59,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "NOW",
@@ -510,9 +624,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1649609/0001649609-26-000043.txt",
    "price_at_trade": 90.59,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.2
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.3
   },
   {
    "ticker": "NOW",
@@ -529,8 +643,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/0001649609-26-000041.txt",
    "price_at_trade": 99.37,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -7.7
   },
   {
@@ -548,8 +662,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1649609/0001649609-26-000041.txt",
    "price_at_trade": 99.37,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -7.7
   },
   {
@@ -567,8 +681,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/0001649609-26-000039.txt",
    "price_at_trade": 102.76,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -10.7
   },
   {
@@ -586,8 +700,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1649609/0001649609-26-000039.txt",
    "price_at_trade": 102.76,
-   "price_now": 91.72,
-   "price_now_date": "2026-11-23",
+   "price_now": 91.74,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -10.7
   }
  ],

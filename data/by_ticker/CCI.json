@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "CCI",
  "company": {
   "name": "CROWN CASTLE INC.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 81.24,
- "price_date": "2026-11-23",
+ "price_now": 82.71,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 72.97,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 11.3,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 13.3,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 73.85,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 10.0,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 12.0,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 73.5,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 10.5,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 12.5,
    "days_to_disclose": 18,
    "late_filing": false
   },
@@ -134,11 +134,41 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 74.64,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 8.8,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 10.8,
    "days_to_disclose": 10,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Crown Castle Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "CCI",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "CROWN CASTLE INC.",
+   "sector": "Real Estate",
+   "committee_overlap": [],
+   "price_at_trade": 83.66,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.1,
+   "days_to_disclose": 208,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -166,9 +196,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 76.57,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 6.1,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 8.0,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -196,14 +226,31 @@
    "sector": "Real Estate",
    "committee_overlap": [],
    "price_at_trade": 82.85,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.9,
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.2,
    "days_to_disclose": 24,
    "late_filing": false
   }
  ],
- "congress_holders": [],
+ "congress_holders": [
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [],
+   "ticker": "CCI",
+   "est_shares": 95.6,
+   "avg_price": 83.66,
+   "price_now": 82.71,
+   "est_position_value": 7910,
+   "total_return_pct": -1.1,
+   "total_return_usd": -91,
+   "first_buy": "2026-04-29",
+   "last_trade": "2026-04-29"
+  }
+ ],
  "insider_trades": [
   {
    "ticker": "CCI",
@@ -220,9 +267,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1051470/0001051470-26-000096.txt",
    "price_at_trade": 88.6,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.3
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "CCI",
@@ -239,9 +286,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590197/0001051470-26-000096.txt",
    "price_at_trade": 88.6,
-   "price_now": 81.24,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.3
+   "price_now": 82.71,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.6
   }
  ],
  "trump_trades": [],

@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-25T05:13+00:00",
+ "ticker": "IESC",
+ "company": {
+  "name": "IES Holdings, Inc.",
+  "cik": 1048268,
+  "sic": 1731,
+  "industry": "Electrical Work",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 166.04,
+ "price_date": "2026-11-24",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "IESC",
+   "company_name": "IES Holdings, Inc.",
+   "owner_name": "Simmes Matthew J",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 40000.0,
+   "price": 156.06,
+   "value": 6242400.0,
+   "shares_after": 140600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048268/0001048268-26-000178.txt",
+   "price_at_trade": 156.06,
+   "price_now": 166.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
+  },
+  {
+   "ticker": "IESC",
+   "company_name": "IES Holdings, Inc.",
+   "owner_name": "Simmes Matthew J",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 40000.0,
+   "price": 156.06,
+   "value": 6242400.0,
+   "shares_after": 140600.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1899288/0001048268-26-000178.txt",
+   "price_at_trade": 156.06,
+   "price_now": 166.04,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

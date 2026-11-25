@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "YUM",
  "company": {
   "name": "YUM BRANDS INC",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 164.44,
- "price_date": "2026-11-23",
+ "price_now": 166.33,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "YUM",
+   "company_name": "YUM BRANDS INC",
+   "owner_name": "Skala Justin",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 16456.0,
+   "price": 165.94,
+   "value": 2730708.64,
+   "shares_after": 1185.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000217.txt",
+   "price_at_trade": 166.33,
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "YUM",
+   "company_name": "YUM BRANDS INC",
+   "owner_name": "Russell David Eric",
+   "owner_title": "Sr. Vice President, Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 4000.0,
+   "price": 165.73,
+   "value": 662920.0,
+   "shares_after": 7960.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000219.txt",
+   "price_at_trade": 166.33,
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "YUM",
+   "company_name": "YUM BRANDS INC",
+   "owner_name": "Skala Justin",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 16456.0,
+   "price": 165.94,
+   "value": 2730708.64,
+   "shares_after": 1185.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1424025/0001041061-26-000217.txt",
+   "price_at_trade": 166.33,
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "YUM",
+   "company_name": "YUM BRANDS INC",
+   "owner_name": "Russell David Eric",
+   "owner_title": "Sr. Vice President, Controller",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 4000.0,
+   "price": 165.73,
+   "value": 662920.0,
+   "shares_after": 7960.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1513190/0001041061-26-000219.txt",
+   "price_at_trade": 166.33,
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "YUM",
    "company_name": "YUM BRANDS INC",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000201.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000203.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000205.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041061/0001041061-26-000207.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1660119/0001041061-26-000207.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783787/0001041061-26-000203.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -149,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2037991/0001041061-26-000201.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "YUM",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2057807/0001041061-26-000205.txt",
    "price_at_trade": 166.31,
-   "price_now": 164.44,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.1
+   "price_now": 166.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   }
  ],
  "trump_trades": [],

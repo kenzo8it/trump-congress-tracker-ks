@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "BLND",
  "company": {
   "name": "Blend Labs, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Programming, Data Processing, Etc.",
   "sector": "Technology"
  },
- "price_now": 0.95,
- "price_date": "2026-11-23",
+ "price_now": 0.79,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BLND",
+   "company_name": "Blend Labs, Inc.",
+   "owner_name": "Venkatramani Srinivasan",
+   "owner_title": "Head of Product Tech & Cust Op",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 9526.0,
+   "price": 0.873,
+   "value": 8316.2,
+   "shares_after": 266727.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0002050301-26-000011.txt",
+   "price_at_trade": 0.79,
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BLND",
+   "company_name": "Blend Labs, Inc.",
+   "owner_name": "Venkatramani Srinivasan",
+   "owner_title": "Head of Product Tech & Cust Op",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-24",
+   "shares": 9526.0,
+   "price": 0.873,
+   "value": 8316.2,
+   "shares_after": 266727.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2050301/0002050301-26-000011.txt",
+   "price_at_trade": 0.79,
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BLND",
+   "company_name": "Blend Labs, Inc.",
+   "owner_name": "Ghamsari Nima",
+   "owner_title": "Director, HEAD OF BLEND",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 30315.0,
+   "price": 0.859,
+   "value": 26040.58,
+   "shares_after": 7627812.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0001870974-26-000030.txt",
+   "price_at_trade": 0.95,
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -16.4
+  },
+  {
+   "ticker": "BLND",
+   "company_name": "Blend Labs, Inc.",
+   "owner_name": "Ghamsari Nima",
+   "owner_title": "Director, HEAD OF BLEND",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 30315.0,
+   "price": 0.859,
+   "value": 26040.58,
+   "shares_after": 7627812.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000030.txt",
+   "price_at_trade": 0.95,
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -16.4
+  },
   {
    "ticker": "BLND",
    "company_name": "Blend Labs, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0001870974-26-000028.txt",
    "price_at_trade": 1.01,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.9
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -21.4
   },
   {
    "ticker": "BLND",
@@ -54,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000028.txt",
    "price_at_trade": 1.01,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.9
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -21.4
   },
   {
    "ticker": "BLND",
@@ -73,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0001870974-26-000026.txt",
    "price_at_trade": 0.99,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.5
   },
   {
    "ticker": "BLND",
@@ -92,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000026.txt",
    "price_at_trade": 0.99,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.7
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.5
   },
   {
    "ticker": "BLND",
@@ -111,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0001870974-26-000024.txt",
    "price_at_trade": 1.2,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.8
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -33.8
   },
   {
    "ticker": "BLND",
@@ -130,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000024.txt",
    "price_at_trade": 1.2,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.8
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -33.8
   },
   {
    "ticker": "BLND",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1855747/0001870974-26-000022.txt",
    "price_at_trade": 1.16,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.1
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -31.6
   },
   {
    "ticker": "BLND",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000022.txt",
    "price_at_trade": 1.16,
-   "price_now": 0.95,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.1
+   "price_now": 0.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -31.6
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "SPRO",
  "company": {
   "name": "Spero Therapeutics, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 0.78,
- "price_date": "2026-11-23",
+ "price_now": 0.8,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SPRO",
+   "company_name": "Spero Therapeutics, Inc.",
+   "owner_name": "THOMAS FRANK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "shares_after": 110000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1242616/0001193125-26-476041.txt",
+   "price_at_trade": 0.78,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.8
+  },
+  {
+   "ticker": "SPRO",
+   "company_name": "Spero Therapeutics, Inc.",
+   "owner_name": "THOMAS FRANK E",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 25000.0,
+   "price": 0.8,
+   "value": 20000.0,
+   "shares_after": 110000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1701108/0001193125-26-476041.txt",
+   "price_at_trade": 0.78,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.8
+  },
   {
    "ticker": "SPRO",
    "company_name": "Spero Therapeutics, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1701108/0001193125-26-455873.txt",
    "price_at_trade": 1.07,
-   "price_now": 0.78,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.7
+   "price_now": 0.8,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.4
   },
   {
    "ticker": "SPRO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1903716/0001193125-26-455873.txt",
    "price_at_trade": 1.07,
-   "price_now": 0.78,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.7
+   "price_now": 0.8,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "CPSS",
  "company": {
   "name": "CONSUMER PORTFOLIO SERVICES, INC.",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 8.93,
- "price_date": "2026-11-23",
+ "price_now": 8.51,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,120 @@
    "owner_name": "WOOD DANIEL S",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 1500.0,
+   "price": 9.09,
+   "value": 13635.0,
+   "shares_after": 205408.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-009105.txt",
+   "price_at_trade": 8.93,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "WOOD DANIEL S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 1500.0,
+   "price": 9.09,
+   "value": 13635.0,
+   "shares_after": 205408.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-009105.txt",
+   "price_at_trade": 8.93,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "WOOD DANIEL S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 2855.0,
+   "price": 9.08,
+   "value": 25923.4,
+   "shares_after": 206908.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-009105.txt",
+   "price_at_trade": 8.84,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "Jackson Noel",
+   "owner_title": "Sr. Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 8.8436,
+   "value": 22109.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2069203/0001683168-26-009106.txt",
+   "price_at_trade": 8.84,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "WOOD DANIEL S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 2855.0,
+   "price": 9.08,
+   "value": 25923.4,
+   "shares_after": 206908.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-009105.txt",
+   "price_at_trade": 8.84,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "Jackson Noel",
+   "owner_title": "Sr. Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 2500.0,
+   "price": 8.8436,
+   "value": 22109.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-009106.txt",
+   "price_at_trade": 8.84,
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.7
+  },
+  {
+   "ticker": "CPSS",
+   "company_name": "CONSUMER PORTFOLIO SERVICES, INC.",
+   "owner_name": "WOOD DANIEL S",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-19",
    "reported_date": "2026-11-19",
    "shares": 366.0,
@@ -35,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -54,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -73,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -92,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -111,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -130,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.06,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "CPSS",
@@ -149,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -168,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -187,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -206,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -225,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -244,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -263,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -282,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 9.34,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.4
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.9
   },
   {
    "ticker": "CPSS",
@@ -301,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 8.87,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.7
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "CPSS",
@@ -320,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246388/0001683168-26-008969.txt",
    "price_at_trade": 8.87,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.7
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "CPSS",
@@ -339,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 8.87,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.7
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "CPSS",
@@ -358,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008969.txt",
    "price_at_trade": 8.87,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 0.7
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.1
   },
   {
    "ticker": "CPSS",
@@ -377,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1028860/0001683168-26-008385.txt",
    "price_at_trade": 10.14,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -11.9
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -16.1
   },
   {
    "ticker": "CPSS",
@@ -396,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/889609/0001683168-26-008385.txt",
    "price_at_trade": 10.14,
-   "price_now": 8.93,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -11.9
+   "price_now": 8.51,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -16.1
   }
  ],
  "trump_trades": [],

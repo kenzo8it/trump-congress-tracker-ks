@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "SNOW",
  "company": {
   "name": "Snowflake Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 271.27,
- "price_date": "2026-11-23",
+ "price_now": 271.09,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,38 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Snowflake Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "SNOW",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "Snowflake Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 335.08,
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.1,
+   "days_to_disclose": 40,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Maria Elvira Salazar",
@@ -42,8 +74,8 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 334.0,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -18.8,
    "days_to_disclose": 13,
    "late_filing": false
@@ -72,9 +104,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 337.18,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -19.5,
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.6,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -102,9 +134,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 337.18,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -19.5,
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.6,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -132,11 +164,43 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 330.49,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -17.9,
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.0,
    "days_to_disclose": 34,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Snowflake Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "SNOW",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-26",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "Snowflake Inc.",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 140.32,
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 93.2,
+   "days_to_disclose": 211,
+   "late_filing": true
   }
  ],
  "congress_holders": [
@@ -149,12 +213,30 @@
    "ticker": "SNOW",
    "est_shares": 24.2,
    "avg_price": 330.49,
-   "price_now": 271.27,
-   "est_position_value": 6567,
-   "total_return_pct": -17.9,
-   "total_return_usd": -1434,
+   "price_now": 271.09,
+   "est_position_value": 6563,
+   "total_return_pct": -18.0,
+   "total_return_usd": -1438,
    "first_buy": "2026-08-07",
    "last_trade": "2026-08-07"
+  },
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "ticker": "SNOW",
+   "est_shares": 33.1,
+   "avg_price": 140.32,
+   "price_now": 271.09,
+   "est_position_value": 8984,
+   "total_return_pct": 93.2,
+   "total_return_usd": 4334,
+   "first_buy": "2026-04-26",
+   "last_trade": "2026-10-14"
   },
   {
    "name": "Maria Elvira Salazar",
@@ -165,10 +247,10 @@
    "ticker": "SNOW",
    "est_shares": 96.2,
    "avg_price": 337.18,
-   "price_now": 271.27,
-   "est_position_value": 26086,
-   "total_return_pct": -19.5,
-   "total_return_usd": -6338,
+   "price_now": 271.09,
+   "est_position_value": 26069,
+   "total_return_pct": -19.6,
+   "total_return_usd": -6355,
    "first_buy": "2026-09-04",
    "last_trade": "2026-09-24"
   }
@@ -189,9 +271,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -208,9 +290,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -227,9 +309,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -246,9 +328,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -265,9 +347,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -284,9 +366,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -303,9 +385,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -322,9 +404,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -341,9 +423,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -360,9 +442,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -379,9 +461,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -398,9 +480,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -417,9 +499,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -436,9 +518,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -455,9 +537,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -474,9 +556,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 268.59,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "SNOW",
@@ -493,9 +575,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -512,9 +594,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -531,9 +613,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -550,9 +632,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -569,9 +651,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -588,9 +670,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -607,9 +689,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -626,9 +708,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -645,9 +727,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -664,9 +746,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -683,9 +765,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1402348/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -702,9 +784,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -721,9 +803,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -740,9 +822,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -759,9 +841,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -778,9 +860,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -797,9 +879,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -816,9 +898,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -835,9 +917,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -854,9 +936,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -873,9 +955,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -892,9 +974,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001402348-26-000021.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -911,9 +993,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001821737-26-000019.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -930,9 +1012,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821737/0001821737-26-000019.txt",
    "price_at_trade": 279.62,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.0
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "SNOW",
@@ -949,8 +1031,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -968,8 +1050,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -987,8 +1069,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1006,8 +1088,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1025,8 +1107,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1044,8 +1126,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1063,8 +1145,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1082,8 +1164,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1101,8 +1183,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1120,8 +1202,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1139,8 +1221,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1158,8 +1240,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1177,8 +1259,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1196,8 +1278,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1215,8 +1297,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1234,8 +1316,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1253,8 +1335,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1272,8 +1354,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1291,8 +1373,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1310,8 +1392,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1329,8 +1411,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1348,8 +1430,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1367,8 +1449,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1386,8 +1468,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1405,8 +1487,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1424,8 +1506,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1443,8 +1525,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1462,8 +1544,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1481,8 +1563,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1500,8 +1582,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1519,8 +1601,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1538,8 +1620,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1557,8 +1639,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1576,8 +1658,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1595,8 +1677,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1433644/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1614,8 +1696,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1633,8 +1715,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1652,8 +1734,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1671,8 +1753,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1690,8 +1772,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1709,8 +1791,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1728,8 +1810,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1747,8 +1829,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1766,8 +1848,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1785,8 +1867,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1804,8 +1886,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1823,8 +1905,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1842,8 +1924,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1861,8 +1943,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1880,8 +1962,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1899,8 +1981,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1918,8 +2000,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1937,8 +2019,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1956,8 +2038,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1975,8 +2057,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -1994,8 +2076,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2013,8 +2095,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2032,8 +2114,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2051,8 +2133,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2070,8 +2152,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2089,8 +2171,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2108,8 +2190,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2127,8 +2209,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2146,8 +2228,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2165,8 +2247,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000018.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2184,8 +2266,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2203,8 +2285,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2222,8 +2304,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2241,8 +2323,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2260,8 +2342,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001433644-26-000019.txt",
    "price_at_trade": 275.88,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -1.7
   },
   {
@@ -2279,8 +2361,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001821737-26-000018.txt",
    "price_at_trade": 290.6,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -6.7
   },
   {
@@ -2298,8 +2380,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1821737/0001821737-26-000018.txt",
    "price_at_trade": 290.6,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -6.7
   },
   {
@@ -2317,8 +2399,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/0001979088-26-000023.txt",
    "price_at_trade": 290.68,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -6.7
   },
   {
@@ -2336,8 +2418,8 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1979088/0001979088-26-000023.txt",
    "price_at_trade": 290.68,
-   "price_now": 271.27,
-   "price_now_date": "2026-11-23",
+   "price_now": 271.09,
+   "price_now_date": "2026-11-24",
    "total_return_pct": -6.7
   }
  ],

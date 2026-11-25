@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "UBER",
  "company": {
   "name": "Uber Technologies, Inc",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 64.07,
- "price_date": "2026-11-23",
+ "price_now": 64.7,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 68.94,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.1,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.2,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -76,9 +76,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 72.46,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -11.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -10.7,
    "days_to_disclose": 49,
    "late_filing": true
   },
@@ -106,11 +106,41 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 74.54,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.0,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.2,
    "days_to_disclose": 7,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Uber Technologies, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "UBER",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-07-02",
+   "notified_date": "2026-07-02",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "Uber Technologies, Inc",
+   "sector": "Retail & Consumer",
+   "committee_overlap": [],
+   "price_at_trade": 74.43,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.1,
+   "days_to_disclose": 144,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -136,9 +166,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 70.4,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -9.0,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.1,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -168,9 +198,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 75.09,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.7,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.8,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -200,9 +230,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 72.91,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -12.1,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.3,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -232,9 +262,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 73.33,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -12.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.8,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -264,9 +294,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 71.38,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -10.2,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -9.4,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -294,9 +324,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 80.05,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.0,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.2,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -326,9 +356,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 79.31,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -19.2,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.4,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -356,9 +386,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 85.44,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.0,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.3,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -386,9 +416,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 85.44,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.0,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.3,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -418,9 +448,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 90.86,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -29.5,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.8,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -448,9 +478,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 96.5,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -33.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -33.0,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -478,9 +508,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 96.49,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -33.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.9,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -508,9 +538,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 96.49,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -33.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.9,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -540,9 +570,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 92.3,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -30.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -29.9,
    "days_to_disclose": 32,
    "late_filing": false
   }
@@ -557,9 +587,9 @@
    "ticker": "UBER",
    "est_shares": 0.0,
    "avg_price": 96.49,
-   "price_now": 64.07,
+   "price_now": 64.7,
    "est_position_value": 1,
-   "total_return_pct": -33.6,
+   "total_return_pct": -32.9,
    "total_return_usd": 0,
    "first_buy": "2025-10-30",
    "last_trade": "2025-10-31"
@@ -573,10 +603,10 @@
    "ticker": "UBER",
    "est_shares": 107.3,
    "avg_price": 74.54,
-   "price_now": 64.07,
-   "est_position_value": 6877,
-   "total_return_pct": -14.0,
-   "total_return_usd": -1124,
+   "price_now": 64.7,
+   "est_position_value": 6944,
+   "total_return_pct": -13.2,
+   "total_return_usd": -1056,
    "first_buy": "2026-07-10",
    "last_trade": "2026-07-10"
   },
@@ -589,10 +619,10 @@
    "ticker": "UBER",
    "est_shares": 10653.4,
    "avg_price": 70.4,
-   "price_now": 64.07,
-   "est_position_value": 682564,
-   "total_return_pct": -9.0,
-   "total_return_usd": -67436,
+   "price_now": 64.7,
+   "est_position_value": 689276,
+   "total_return_pct": -8.1,
+   "total_return_usd": -60725,
    "first_buy": "2026-05-29",
    "last_trade": "2026-05-29"
   }
@@ -613,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/0001626201-26-000024.txt",
    "price_at_trade": 69.12,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.3
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.4
   },
   {
    "ticker": "UBER",
@@ -632,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/0001626201-26-000024.txt",
    "price_at_trade": 69.12,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.3
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.4
   },
   {
    "ticker": "UBER",
@@ -651,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1626201/0001626201-26-000024.txt",
    "price_at_trade": 69.12,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.3
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.4
   },
   {
    "ticker": "UBER",
@@ -670,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1626201/0001626201-26-000024.txt",
    "price_at_trade": 69.12,
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.3
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -6.4
   }
  ],
  "trump_trades": [],
@@ -684,9 +714,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 64.07,
-   "price_now_date": "2026-11-23",
-   "return_since_involvement_pct": -21.6,
+   "price_now": 64.7,
+   "price_now_date": "2026-11-24",
+   "return_since_involvement_pct": -20.8,
    "price_at_involvement": 81.7
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "CWT",
  "company": {
   "name": "CALIFORNIA WATER SERVICE GROUP",
@@ -8,8 +8,8 @@
   "industry": "Water Supply",
   "sector": "Energy & Utilities"
  },
- "price_now": 49.22,
- "price_date": "2026-11-23",
+ "price_now": 50.1,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013882.txt",
    "price_at_trade": 50.71,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.9
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "CWT",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1495768/0001214659-26-013882.txt",
    "price_at_trade": 50.71,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.9
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "CWT",
@@ -73,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013788.txt",
    "price_at_trade": 49.63,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.8
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "CWT",
@@ -92,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-013789.txt",
    "price_at_trade": 49.63,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.8
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "CWT",
@@ -111,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1715865/0001214659-26-013788.txt",
    "price_at_trade": 49.63,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.8
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
   },
   {
    "ticker": "CWT",
@@ -130,9 +130,47 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2138819/0001214659-26-013789.txt",
    "price_at_trade": 49.63,
-   "price_now": 49.22,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -0.8
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.9
+  },
+  {
+   "ticker": "CWT",
+   "company_name": "CALIFORNIA WATER SERVICE GROUP",
+   "owner_name": "Esque Shelly Marian",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-10",
+   "reported_date": "2026-11-24",
+   "shares": 0.605,
+   "price": 49.015,
+   "value": 29.65,
+   "shares_after": 18330.922,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035201/0001214659-26-014700.txt",
+   "price_at_trade": 48.54,
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.2
+  },
+  {
+   "ticker": "CWT",
+   "company_name": "CALIFORNIA WATER SERVICE GROUP",
+   "owner_name": "Esque Shelly Marian",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-09-10",
+   "reported_date": "2026-11-24",
+   "shares": 0.605,
+   "price": 49.015,
+   "value": 29.65,
+   "shares_after": 18330.922,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1745383/0001214659-26-014700.txt",
+   "price_at_trade": 48.54,
+   "price_now": 50.1,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.2
   }
  ],
  "trump_trades": [],

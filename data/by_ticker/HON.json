@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "HON",
  "company": {
   "name": "HONEYWELL INTERNATIONAL INC",
@@ -8,8 +8,8 @@
   "industry": "Aircraft Engines & Engine Parts",
   "sector": "Defense & Aerospace"
  },
- "price_now": 221.97,
- "price_date": "2026-11-23",
+ "price_now": 224.82,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 213.13,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 4.1,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 5.5,
    "days_to_disclose": 26,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 211.13,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 5.1,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.5,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 212.86,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 4.3,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 5.6,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -134,9 +134,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 225.04,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.4,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -0.1,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -166,11 +166,41 @@
     "House Committee on Foreign Affairs"
    ],
    "price_at_trade": 229.69,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.4,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -2.1,
    "days_to_disclose": 28,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Honeywell International Inc.",
+   "asset_type": "ST",
+   "ticker": "HON",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-02-24",
+   "notified_date": "2026-02-24",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "HONEYWELL INTERNATIONAL INC",
+   "sector": "Defense & Aerospace",
+   "committee_overlap": [],
+   "price_at_trade": 251.29,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -10.5,
+   "days_to_disclose": 272,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -196,9 +226,9 @@
    "sector": "Defense & Aerospace",
    "committee_overlap": [],
    "price_at_trade": 194.61,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 14.1,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 15.5,
    "days_to_disclose": 12,
    "late_filing": false
   },
@@ -228,9 +258,9 @@
     "House Committee on Armed Services"
    ],
    "price_at_trade": 197.49,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 12.4,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 13.8,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -261,9 +291,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 202.29,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 9.7,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.1,
    "days_to_disclose": 316,
    "late_filing": true
   },
@@ -294,9 +324,9 @@
     "House Committee on Homeland Security"
    ],
    "price_at_trade": 202.29,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 9.7,
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.1,
    "days_to_disclose": 316,
    "late_filing": true
   }
@@ -314,10 +344,10 @@
    "ticker": "HON",
    "est_shares": 39.5,
    "avg_price": 202.29,
-   "price_now": 221.97,
-   "est_position_value": 8779,
-   "total_return_pct": 9.7,
-   "total_return_usd": 778,
+   "price_now": 224.82,
+   "est_position_value": 8892,
+   "total_return_pct": 11.1,
+   "total_return_usd": 891,
    "first_buy": "2025-09-23",
    "last_trade": "2025-09-23"
   },
@@ -332,10 +362,10 @@
    "ticker": "HON",
    "est_shares": 40.5,
    "avg_price": 197.49,
-   "price_now": 221.97,
-   "est_position_value": 8992,
-   "total_return_pct": 12.4,
-   "total_return_usd": 992,
+   "price_now": 224.82,
+   "est_position_value": 9108,
+   "total_return_pct": 13.8,
+   "total_return_usd": 1107,
    "first_buy": "2025-11-18",
    "last_trade": "2025-11-18"
   },
@@ -348,10 +378,10 @@
    "ticker": "HON",
    "est_shares": 35.6,
    "avg_price": 225.04,
-   "price_now": 221.97,
-   "est_position_value": 7891,
-   "total_return_pct": -1.4,
-   "total_return_usd": -109,
+   "price_now": 224.82,
+   "est_position_value": 7993,
+   "total_return_pct": -0.1,
+   "total_return_usd": -8,
    "first_buy": "2026-07-10",
    "last_trade": "2026-07-10"
   },
@@ -366,10 +396,10 @@
    "ticker": "HON",
    "est_shares": 103.6,
    "avg_price": 229.69,
-   "price_now": 221.97,
-   "est_position_value": 22997,
-   "total_return_pct": -3.4,
-   "total_return_usd": -800,
+   "price_now": 224.82,
+   "est_position_value": 23292,
+   "total_return_pct": -2.1,
+   "total_return_usd": -505,
    "first_buy": "2026-03-24",
    "last_trade": "2026-09-24"
   }
@@ -390,9 +420,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1742938/0001742938-26-000009.txt",
    "price_at_trade": 218.59,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "HON",
@@ -409,9 +439,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1748614/0001748614-26-000010.txt",
    "price_at_trade": 218.59,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "HON",
@@ -428,9 +458,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/773840/0001742938-26-000009.txt",
    "price_at_trade": 218.59,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "HON",
@@ -447,9 +477,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/773840/0001748614-26-000010.txt",
    "price_at_trade": 218.59,
-   "price_now": 221.97,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 1.5
+   "price_now": 224.82,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.8
   }
  ],
  "trump_trades": [],

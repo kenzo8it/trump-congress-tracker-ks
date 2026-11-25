@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "ORCL",
  "company": {
   "name": "ORACLE CORP",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 113.68,
- "price_date": "2026-11-23",
+ "price_now": 109.5,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,70 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Oracle Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "ORCL",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-09-16",
+   "notified_date": "2026-09-16",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "ORACLE CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 142.63,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.2,
+   "days_to_disclose": 68,
+   "late_filing": true
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "Oracle Corporation Common Stock",
+   "asset_type": "ST",
+   "ticker": "ORCL",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "ORACLE CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 162.66,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.7,
+   "days_to_disclose": 208,
+   "late_filing": true
+  },
   {
    "chamber": "House",
    "politician_name": "Jared Moskowitz",
@@ -44,9 +108,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 152.7,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.6,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.3,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -76,9 +140,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 152.7,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.6,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.3,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -108,9 +172,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 152.7,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.6,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.3,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -138,9 +202,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 144.59,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.4,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -24.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -168,9 +232,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 162.84,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -30.2,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.8,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -198,9 +262,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 194.88,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -41.7,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -43.8,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -228,9 +292,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 189.44,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -40.0,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -42.2,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -258,9 +322,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 217.58,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -47.8,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -49.7,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -288,9 +352,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 259.14,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -56.1,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -57.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -318,9 +382,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 253.5,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -55.2,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -56.8,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -348,9 +412,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 253.5,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -55.2,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -56.8,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -378,9 +442,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 287.46,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -60.5,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -61.9,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -410,9 +474,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 153.1,
-   "price_now": 113.68,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.7,
+   "price_now": 109.5,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.5,
    "days_to_disclose": 570,
    "late_filing": true
   }
@@ -429,10 +493,10 @@
    "ticker": "ORCL",
    "est_shares": 52.3,
    "avg_price": 153.1,
-   "price_now": 113.68,
-   "est_position_value": 5941,
-   "total_return_pct": -25.7,
-   "total_return_usd": -2060,
+   "price_now": 109.5,
+   "est_position_value": 5722,
+   "total_return_pct": -28.5,
+   "total_return_usd": -2278,
    "first_buy": "2025-01-14",
    "last_trade": "2025-01-14"
   }
@@ -452,8 +516,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 160.79,
    "price_basis": "average price over the period",
-   "price_now": 113.68,
-   "total_return_pct": -29.3
+   "price_now": 109.5,
+   "total_return_pct": -31.9
   }
  ],
  "trump_sponsor": [],

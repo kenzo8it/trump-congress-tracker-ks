@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "CNS",
  "company": {
   "name": "COHEN & STEERS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Investment Advice",
   "sector": "Financials"
  },
- "price_now": 68.15,
- "price_date": "2026-11-23",
+ "price_now": 68.0,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 66.41,
-   "price_now": 68.15,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 2.6,
+   "price_now": 68.0,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.4,
    "days_to_disclose": 19,
    "late_filing": false
   }
@@ -59,10 +59,10 @@
    "ticker": "CNS",
    "est_shares": 120.5,
    "avg_price": 66.41,
-   "price_now": 68.15,
-   "est_position_value": 8210,
-   "total_return_pct": 2.6,
-   "total_return_usd": 210,
+   "price_now": 68.0,
+   "est_position_value": 8192,
+   "total_return_pct": 2.4,
+   "total_return_usd": 192,
    "first_buy": "2025-10-30",
    "last_trade": "2025-10-30"
   }
@@ -83,9 +83,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1201881/0001628280-26-075481.txt",
    "price_at_trade": 64.82,
-   "price_now": 68.15,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 5.1
+   "price_now": 68.0,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.9
   },
   {
    "ticker": "CNS",
@@ -102,9 +102,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1284812/0001628280-26-075481.txt",
    "price_at_trade": 64.82,
-   "price_now": 68.15,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 5.1
+   "price_now": 68.0,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.9
   }
  ],
  "trump_trades": [],

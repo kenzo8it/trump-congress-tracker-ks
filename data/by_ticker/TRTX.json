@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "TRTX",
  "company": {
   "name": "TPG RE Finance Trust, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Real Estate Investment Trusts",
   "sector": "Real Estate"
  },
- "price_now": 6.33,
- "price_date": "2026-11-23",
+ "price_now": 6.64,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TRTX",
+   "company_name": "TPG RE Finance Trust, Inc.",
+   "owner_name": "Smith Michael Bradley",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 6.4,
+   "value": 64000.0,
+   "shares_after": 125223.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-473330.txt",
+   "price_at_trade": 6.36,
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "TRTX",
+   "company_name": "TPG RE Finance Trust, Inc.",
+   "owner_name": "Smith Michael Bradley",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 10000.0,
+   "price": 6.4,
+   "value": 64000.0,
+   "shares_after": 125223.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1711988/0001193125-26-473330.txt",
+   "price_at_trade": 6.36,
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.4
+  },
   {
    "ticker": "TRTX",
    "company_name": "TPG RE Finance Trust, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543437/0001193125-26-466221.txt",
    "price_at_trade": 6.56,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.5
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.2
   },
   {
    "ticker": "TRTX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-466221.txt",
    "price_at_trade": 6.56,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.5
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.2
   },
   {
    "ticker": "TRTX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-460638.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.3
   },
   {
    "ticker": "TRTX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-460639.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.3
   },
   {
    "ticker": "TRTX",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711880/0001193125-26-460638.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.3
   },
   {
    "ticker": "TRTX",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711988/0001193125-26-460639.txt",
    "price_at_trade": 6.43,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -1.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 3.3
   },
   {
    "ticker": "TRTX",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-460639.txt",
    "price_at_trade": 6.64,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.7
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "TRTX",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711988/0001193125-26-460639.txt",
    "price_at_trade": 6.64,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.7
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "TRTX",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1246489/0001193125-26-444483.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TRTX",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-444481.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TRTX",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-444482.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TRTX",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1630472/0001193125-26-444483.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TRTX",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711880/0001193125-26-444481.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "TRTX",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1711988/0001193125-26-444482.txt",
    "price_at_trade": 6.5,
-   "price_now": 6.33,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.6
+   "price_now": 6.64,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

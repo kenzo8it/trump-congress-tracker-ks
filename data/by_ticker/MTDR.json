@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "MTDR",
  "company": {
   "name": "Matador Resources Co",
@@ -8,8 +8,8 @@
   "industry": "Crude Petroleum & Natural Gas",
   "sector": "Energy & Utilities"
  },
- "price_now": 47.46,
- "price_date": "2026-11-23",
+ "price_now": 47.79,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,53 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 40.97,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 15.8,
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 16.7,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "MTDR",
+   "company_name": "Matador Resources Co",
+   "owner_name": "Foran Joseph Wm",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 3000.0,
+   "price": 47.83,
+   "value": 143490.0,
+   "shares_after": 22272.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000038.txt",
+   "price_at_trade": 47.46,
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "MTDR",
+   "company_name": "Matador Resources Co",
+   "owner_name": "Foran Joseph Wm",
+   "owner_title": "Director, Chairman and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 3000.0,
+   "price": 47.83,
+   "value": 143490.0,
+   "shares_after": 22272.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000038.txt",
+   "price_at_trade": 47.46,
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 0.7
+  },
   {
    "ticker": "MTDR",
    "company_name": "Matador Resources Co",
@@ -66,9 +104,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000036.txt",
    "price_at_trade": 48.63,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.4
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "MTDR",
@@ -85,9 +123,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000036.txt",
    "price_at_trade": 48.63,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.4
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "MTDR",
@@ -104,9 +142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000034.txt",
    "price_at_trade": 49.37,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.9
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "MTDR",
@@ -123,9 +161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000034.txt",
    "price_at_trade": 49.37,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -3.9
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "MTDR",
@@ -142,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000031.txt",
    "price_at_trade": 50.5,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "MTDR",
@@ -161,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000031.txt",
    "price_at_trade": 50.5,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -6.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.4
   },
   {
    "ticker": "MTDR",
@@ -180,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000029.txt",
    "price_at_trade": 50.34,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.7
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "MTDR",
@@ -199,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000029.txt",
    "price_at_trade": 50.34,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.7
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.1
   },
   {
    "ticker": "MTDR",
@@ -218,9 +256,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001786877-26-000007.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -237,9 +275,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786877/0001786877-26-000007.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -256,9 +294,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001981193-26-000006.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -275,9 +313,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001981193-26-000006.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -294,9 +332,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1981193/0001981193-26-000006.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -313,9 +351,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1981193/0001981193-26-000006.txt",
    "price_at_trade": 49.53,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.2
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.5
   },
   {
    "ticker": "MTDR",
@@ -332,9 +370,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001981193-26-000006.txt",
    "price_at_trade": 49.97,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "MTDR",
@@ -351,9 +389,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0002020289-26-000008.txt",
    "price_at_trade": 49.97,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "MTDR",
@@ -370,9 +408,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1981193/0001981193-26-000006.txt",
    "price_at_trade": 49.97,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "MTDR",
@@ -389,9 +427,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020289/0002020289-26-000008.txt",
    "price_at_trade": 49.97,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "MTDR",
@@ -408,9 +446,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001540655-26-000027.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -427,9 +465,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0002054635-26-000006.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -446,9 +484,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1540655/0001540655-26-000027.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -465,9 +503,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2054635/0002054635-26-000006.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -484,9 +522,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0001934692-26-000008.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -503,9 +541,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0002015754-26-000003.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -522,9 +560,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1934692/0001934692-26-000008.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -541,9 +579,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2015754/0002015754-26-000003.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -560,9 +598,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0002020286-26-000011.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -579,9 +617,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520006/0002074755-26-000008.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -598,9 +636,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2020286/0002020286-26-000011.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   },
   {
    "ticker": "MTDR",
@@ -617,9 +655,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2074755/0002074755-26-000008.txt",
    "price_at_trade": 49.43,
-   "price_now": 47.46,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 47.79,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -3.3
   }
  ],
  "trump_trades": [],

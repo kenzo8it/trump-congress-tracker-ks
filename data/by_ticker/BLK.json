@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "BLK",
  "company": {
   "name": "BlackRock, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Security Brokers, Dealers & Flotation Companies",
   "sector": "Financials"
  },
- "price_now": 1144.52,
- "price_date": "2026-11-23",
+ "price_now": 1146.03,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1092.76,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 4.7,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.9,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1020.2,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 12.2,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 12.3,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1030.82,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 11.0,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.2,
    "days_to_disclose": 31,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1004.28,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 14.0,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 14.1,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -162,11 +162,41 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1026.73,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 11.5,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.6,
    "days_to_disclose": 27,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "BlackRock, Inc. Common Stock",
+   "asset_type": "ST",
+   "ticker": "BLK",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "BlackRock, Inc.",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 1028.28,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.5,
+   "days_to_disclose": 208,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -192,9 +222,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 959.24,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 19.3,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 19.5,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -222,9 +252,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 1051.11,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 8.9,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 9.0,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -254,9 +284,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 1169.27,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -2.1,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -2.0,
    "days_to_disclose": 38,
    "late_filing": false
   }
@@ -271,10 +301,10 @@
    "ticker": "BLK",
    "est_shares": 0.8,
    "avg_price": 1003.08,
-   "price_now": 1144.52,
-   "est_position_value": 960,
-   "total_return_pct": 14.1,
-   "total_return_usd": 119,
+   "price_now": 1146.03,
+   "est_position_value": 961,
+   "total_return_pct": 14.3,
+   "total_return_usd": 120,
    "first_buy": "2025-11-05",
    "last_trade": "2026-07-30"
   }
@@ -295,9 +325,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1717289/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "BLK",
@@ -314,9 +344,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1717289/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "BLK",
@@ -333,9 +363,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1717289/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "BLK",
@@ -352,9 +382,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "BLK",
@@ -371,9 +401,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "BLK",
@@ -390,9 +420,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2012383/0002012383-26-003982.txt",
    "price_at_trade": 1214.71,
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.8
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],
@@ -404,9 +434,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 1144.52,
-   "price_now_date": "2026-11-23",
-   "return_since_involvement_pct": 3.2,
+   "price_now": 1146.03,
+   "price_now_date": "2026-11-24",
+   "return_since_involvement_pct": 3.3,
    "price_at_involvement": 1109.56
   }
  ],

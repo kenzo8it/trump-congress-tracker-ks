@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "PNC",
  "company": {
   "name": "PNC FINANCIAL SERVICES GROUP, INC.",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 217.13,
- "price_date": "2026-11-23",
+ "price_now": 218.62,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "PNC Financial Services Group, Inc.",
+   "asset_type": "ST",
+   "ticker": "PNC",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+   "sector": "Financials",
+   "committee_overlap": [],
+   "price_at_trade": 215.0,
+   "price_now": 218.62,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 1.7,
+   "days_to_disclose": 208,
+   "late_filing": true
+  },
   {
    "chamber": "House",
    "politician_name": "Julie Johnson",
@@ -42,9 +72,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 176.11,
-   "price_now": 217.13,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 23.3,
+   "price_now": 218.62,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 24.1,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 175.71,
-   "price_now": 217.13,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 23.6,
+   "price_now": 218.62,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 24.4,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -89,10 +119,10 @@
    "ticker": "PNC",
    "est_shares": 45.5,
    "avg_price": 175.71,
-   "price_now": 217.13,
-   "est_position_value": 9886,
-   "total_return_pct": 23.6,
-   "total_return_usd": 1886,
+   "price_now": 218.62,
+   "est_position_value": 9954,
+   "total_return_pct": 24.4,
+   "total_return_usd": 1954,
    "first_buy": "2024-10-23",
    "last_trade": "2024-10-23"
   }

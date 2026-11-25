@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "NVDA",
  "company": {
   "name": "NVIDIA CORP",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 165.05,
- "price_date": "2026-11-23",
+ "price_now": 155.38,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 215.38,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -23.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -27.9,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 210.96,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -26.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 210.96,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -26.3,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -134,10 +134,42 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 216.47,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -23.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -28.2,
    "days_to_disclose": 21,
+   "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "NVDA",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-10-14",
+   "notified_date": "2026-10-14",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "NVIDIA CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 221.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -29.8,
+   "days_to_disclose": 40,
    "late_filing": false
   },
   {
@@ -164,9 +196,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 233.95,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -29.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -33.6,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -194,9 +226,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 230.86,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -28.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -224,9 +256,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 230.86,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -28.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -254,9 +286,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 230.86,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -28.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -32.7,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -284,9 +316,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 225.07,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -26.7,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -31.0,
    "days_to_disclose": 41,
    "late_filing": false
   },
@@ -314,9 +346,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 220.53,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -25.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -29.5,
    "days_to_disclose": 44,
    "late_filing": false
   },
@@ -344,9 +376,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 219.49,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -24.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -29.2,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -374,9 +406,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 219.49,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -24.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -29.2,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -404,9 +436,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 207.06,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.0,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -434,9 +466,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.58,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.3,
    "days_to_disclose": 49,
    "late_filing": true
   },
@@ -464,9 +496,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 210.72,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -21.7,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -26.3,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -494,9 +526,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 192.31,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.2,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -524,9 +556,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 192.31,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.2,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -554,9 +586,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 192.31,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -14.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -19.2,
    "days_to_disclose": 20,
    "late_filing": false
   },
@@ -586,9 +618,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 195.52,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -15.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -20.5,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -619,9 +651,9 @@
     "House Committee on Science, Space, and Technology"
    ],
    "price_at_trade": 207.18,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.0,
    "days_to_disclose": 1,
    "late_filing": false
   },
@@ -649,11 +681,43 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 212.12,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -22.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -26.7,
    "days_to_disclose": 36,
    "late_filing": false
+  },
+  {
+   "chamber": "House",
+   "politician_name": "Harriet M. Hageman",
+   "state_district": "WY00",
+   "reported_date": "2026-11-23",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+   "owner": "spouse",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "ST",
+   "ticker": "NVDA",
+   "trade_type": "BUY",
+   "partial": false,
+   "traded_date": "2026-04-29",
+   "notified_date": "2026-04-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "H001096",
+   "party": "Republican",
+   "state": "WY",
+   "company_name": "NVIDIA CORP",
+   "sector": "Technology",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "price_at_trade": 208.77,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.6,
+   "days_to_disclose": 208,
+   "late_filing": true
   },
   {
    "chamber": "House",
@@ -679,9 +743,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 207.8,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -20.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -25.2,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -709,9 +773,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 198.42,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -16.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -21.7,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -739,9 +803,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 196.06,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -15.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -20.7,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -771,9 +835,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 181.66,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -9.1,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -14.5,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -801,9 +865,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 178.27,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -12.8,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -831,9 +895,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 178.27,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -12.8,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -861,9 +925,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 174.8,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -5.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -11.1,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -891,9 +955,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 179.84,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.6,
    "days_to_disclose": 25,
    "late_filing": false
   },
@@ -921,9 +985,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 195.1,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -15.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -20.4,
    "days_to_disclose": 37,
    "late_filing": false
   },
@@ -951,9 +1015,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 190.68,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -13.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.5,
    "days_to_disclose": 18,
    "late_filing": false
   },
@@ -981,9 +1045,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 190.68,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -13.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.5,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -1011,9 +1075,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 190.68,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -13.4,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -18.5,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -1041,9 +1105,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 185.8,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -11.2,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -16.4,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -1071,9 +1135,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 182.71,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -9.7,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.0,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -1101,9 +1165,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 187.1,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -11.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.0,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -1131,9 +1195,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 188.17,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -12.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.4,
    "days_to_disclose": 30,
    "late_filing": false
   },
@@ -1161,9 +1225,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 188.17,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -12.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -17.4,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -1191,9 +1255,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 180.57,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -13.9,
    "days_to_disclose": 24,
    "late_filing": false
   },
@@ -1221,9 +1285,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 178.45,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -12.9,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -1251,9 +1315,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 180.93,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -14.1,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -1281,9 +1345,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.01,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.3,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.1,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -1311,9 +1375,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.41,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.2,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -1341,9 +1405,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.41,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.2,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -1371,9 +1435,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.41,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.2,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -1401,9 +1465,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 202.41,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -18.5,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -23.2,
    "days_to_disclose": 13,
    "late_filing": false
   },
@@ -1431,9 +1495,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 182.78,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -9.7,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -15.0,
    "days_to_disclose": 32,
    "late_filing": false
   },
@@ -1463,9 +1527,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 173.3,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -10.3,
    "days_to_disclose": 371,
    "late_filing": true
   },
@@ -1495,9 +1559,9 @@
     "House Committee on Energy and Commerce"
    ],
    "price_at_trade": 177.43,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -7.0,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -12.4,
    "days_to_disclose": 372,
    "late_filing": true
   },
@@ -1525,9 +1589,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 119.76,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 37.8,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 29.7,
    "days_to_disclose": 347,
    "late_filing": true
   },
@@ -1555,9 +1619,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 139.19,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 18.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 11.6,
    "days_to_disclose": 447,
    "late_filing": true
   }
@@ -1574,10 +1638,10 @@
    "ticker": "NVDA",
    "est_shares": 49.9,
    "avg_price": 183.74,
-   "price_now": 165.05,
-   "est_position_value": 8242,
-   "total_return_pct": -10.2,
-   "total_return_usd": -933,
+   "price_now": 155.38,
+   "est_position_value": 7759,
+   "total_return_pct": -15.4,
+   "total_return_usd": -1416,
    "first_buy": "2025-08-01",
    "last_trade": "2026-10-28"
   },
@@ -1590,10 +1654,10 @@
    "ticker": "NVDA",
    "est_shares": 1253.9,
    "avg_price": 203.76,
-   "price_now": 165.05,
-   "est_position_value": 206960,
-   "total_return_pct": -19.0,
-   "total_return_usd": -48544,
+   "price_now": 155.38,
+   "est_position_value": 194835,
+   "total_return_pct": -23.7,
+   "total_return_usd": -60669,
    "first_buy": "2025-10-30",
    "last_trade": "2026-10-01"
   },
@@ -1606,10 +1670,10 @@
    "ticker": "NVDA",
    "est_shares": 44.8,
    "avg_price": 178.45,
-   "price_now": 165.05,
-   "est_position_value": 7400,
-   "total_return_pct": -7.5,
-   "total_return_usd": -601,
+   "price_now": 155.38,
+   "est_position_value": 6966,
+   "total_return_pct": -12.9,
+   "total_return_usd": -1034,
    "first_buy": "2025-11-21",
    "last_trade": "2025-11-21"
   },
@@ -1622,12 +1686,30 @@
    "ticker": "NVDA",
    "est_shares": 2953.6,
    "avg_price": 186.21,
-   "price_now": 165.05,
-   "est_position_value": 487497,
-   "total_return_pct": -11.4,
-   "total_return_usd": -62504,
+   "price_now": 155.38,
+   "est_position_value": 458936,
+   "total_return_pct": -16.6,
+   "total_return_usd": -91065,
    "first_buy": "2025-12-30",
    "last_trade": "2026-01-16"
+  },
+  {
+   "name": "Harriet M. Hageman",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "WY",
+   "committee_overlap": [
+    "House Committee on the Judiciary"
+   ],
+   "ticker": "NVDA",
+   "est_shares": 2.2,
+   "avg_price": 208.77,
+   "price_now": 155.38,
+   "est_position_value": 337,
+   "total_return_pct": -25.6,
+   "total_return_usd": -116,
+   "first_buy": "2026-04-29",
+   "last_trade": "2026-10-14"
   },
   {
    "name": "John J. McGuire III",
@@ -1638,10 +1720,10 @@
    "ticker": "NVDA",
    "est_shares": 118.7,
    "avg_price": 202.15,
-   "price_now": 165.05,
-   "est_position_value": 19596,
-   "total_return_pct": -18.4,
-   "total_return_usd": -4405,
+   "price_now": 155.38,
+   "est_position_value": 18448,
+   "total_return_pct": -23.1,
+   "total_return_usd": -5553,
    "first_buy": "2026-01-30",
    "last_trade": "2026-08-18"
   },
@@ -1654,10 +1736,10 @@
    "ticker": "NVDA",
    "est_shares": 75.8,
    "avg_price": 210.96,
-   "price_now": 165.05,
-   "est_position_value": 12519,
-   "total_return_pct": -21.8,
-   "total_return_usd": -3482,
+   "price_now": 155.38,
+   "est_position_value": 11785,
+   "total_return_pct": -26.3,
+   "total_return_usd": -4216,
    "first_buy": "2026-10-23",
    "last_trade": "2026-10-23"
   }
@@ -1678,9 +1760,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1697,9 +1779,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1716,9 +1798,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1735,9 +1817,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1754,9 +1836,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1773,9 +1855,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1792,9 +1874,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1811,9 +1893,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1830,9 +1912,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1849,9 +1931,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1868,9 +1950,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1887,9 +1969,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1906,9 +1988,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1925,9 +2007,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1944,9 +2026,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1963,9 +2045,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -1982,9 +2064,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2001,9 +2083,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2020,9 +2102,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2039,9 +2121,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2058,9 +2140,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2077,9 +2159,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2096,9 +2178,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "NVDA",
@@ -2115,9 +2197,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696841/0001696841-26-000016.txt",
    "price_at_trade": 145.98,
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 13.1
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.4
   }
  ],
  "trump_trades": [
@@ -2134,8 +2216,8 @@
    "source_url": "https://www.benzinga.com/news/politics/26/05/52576337/trump-q1-2026-trade-disclosure-nvidia-amd-palantir-microsoft-oracle",
    "price_at_trade": 183.04,
    "price_basis": "average price over the period",
-   "price_now": 165.05,
-   "total_return_pct": -9.8
+   "price_now": 155.38,
+   "total_return_pct": -15.1
   }
  ],
  "trump_sponsor": [
@@ -2146,9 +2228,9 @@
    "involvement": "Donor (reported; not on official list)",
    "involvement_date": "2025-11-12",
    "source_url": "https://www.wrdw.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "return_since_involvement_pct": -14.6,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "return_since_involvement_pct": -19.6,
    "price_at_involvement": 193.34
   },
   {
@@ -2158,9 +2240,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 165.05,
-   "price_now_date": "2026-11-23",
-   "return_since_involvement_pct": -14.1,
+   "price_now": 155.38,
+   "price_now_date": "2026-11-24",
+   "return_since_involvement_pct": -19.1,
    "price_at_involvement": 192.06
   }
  ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "YELP",
  "company": {
   "name": "YELP INC",
@@ -8,8 +8,8 @@
   "industry": "Services-Personal Services",
   "sector": "Retail & Consumer"
  },
- "price_now": 18.21,
- "price_date": "2026-11-23",
+ "price_now": 18.95,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "YELP",
+   "company_name": "YELP INC",
+   "owner_name": "IRVINE DIANE M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 3500.0,
+   "price": 18.9606,
+   "value": 66362.1,
+   "shares_after": 98303.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1287611/0001287611-26-000008.txt",
+   "price_at_trade": 18.19,
+   "price_now": 18.95,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.2
+  },
+  {
+   "ticker": "YELP",
+   "company_name": "YELP INC",
+   "owner_name": "IRVINE DIANE M",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 3500.0,
+   "price": 18.9606,
+   "value": 66362.1,
+   "shares_after": 98303.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1345016/0001287611-26-000008.txt",
+   "price_at_trade": 18.19,
+   "price_now": 18.95,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 4.2
+  },
   {
    "ticker": "YELP",
    "company_name": "YELP INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1345016/0001919747-26-000017.txt",
    "price_at_trade": 19.81,
-   "price_now": 18.21,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.1
+   "price_now": 18.95,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "YELP",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1919747/0001919747-26-000017.txt",
    "price_at_trade": 19.81,
-   "price_now": 18.21,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -8.1
+   "price_now": 18.95,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -4.3
   }
  ],
  "trump_trades": [],

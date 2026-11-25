@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "DK",
  "company": {
   "name": "Delek US Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Petroleum Refining",
   "sector": "Energy & Utilities"
  },
- "price_now": 57.89,
- "price_date": "2026-11-23",
+ "price_now": 55.2,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "DK",
+   "company_name": "Delek US Holdings, Inc.",
+   "owner_name": "Wright Robert G.",
+   "owner_title": "EVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 15000.0,
+   "price": 59.67,
+   "value": 895050.0,
+   "shares_after": 30967.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1694426/0001908422-26-000026.txt",
+   "price_at_trade": 59.8,
+   "price_now": 55.2,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.7
+  },
+  {
+   "ticker": "DK",
+   "company_name": "Delek US Holdings, Inc.",
+   "owner_name": "Wright Robert G.",
+   "owner_title": "EVP, Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-24",
+   "shares": 15000.0,
+   "price": 59.67,
+   "value": 895050.0,
+   "shares_after": 30967.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1908422/0001908422-26-000026.txt",
+   "price_at_trade": 59.8,
+   "price_now": 55.2,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -7.7
+  },
   {
    "ticker": "DK",
    "company_name": "Delek US Holdings, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1615515/0001615515-26-000034.txt",
    "price_at_trade": 60.32,
-   "price_now": 57.89,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 55.2,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "DK",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1694426/0001615515-26-000034.txt",
    "price_at_trade": 60.32,
-   "price_now": 57.89,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": -4.0
+   "price_now": 55.2,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": -8.5
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -8,16 +8,26 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "counts": {
-  "congress_trades": 5134,
-  "recent_congress_trades": 513,
-  "members_with_positions": 44,
-  "insider_trades": 22633,
+  "congress_trades": 5293,
+  "recent_congress_trades": 583,
+  "members_with_positions": 45,
+  "insider_trades": 23525,
   "trump_trades": 20,
   "sponsor_involvements": 44,
-  "contracts": 178,
-  "tickers": 2230
+  "contracts": 174,
+  "tickers": 2266
  },
  "unparsed_filings": [
+  {
+   "doc_id": "20036848",
+   "first": "Daniel",
+   "last": "Meuser",
+   "state_district": "PA09",
+   "filed": "2026-11-24",
+   "year": 2026,
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+   "reason": "error: 404 Client Error: Not Found for url: https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf"
+  },
   {
    "doc_id": "9116403",
    "first": "Charles J. \"Chuck\"",

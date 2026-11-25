@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:19+00:00",
+ "updated": "2026-11-25T05:13+00:00",
  "ticker": "CRTO",
  "company": {
   "name": "Criteo S.A.",
@@ -8,8 +8,8 @@
   "industry": "Services-Advertising Agencies",
   "sector": "Retail & Consumer"
  },
- "price_now": 18.1,
- "price_date": "2026-11-23",
+ "price_now": 19.33,
+ "price_date": "2026-11-24",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CRTO",
+   "company_name": "Criteo S.A.",
+   "owner_name": "Damon Ryan",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 2132.0,
+   "price": 17.88,
+   "value": 38120.16,
+   "shares_after": 161633.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1576427/0001769573-26-000026.txt",
+   "price_at_trade": 18.1,
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.8
+  },
+  {
+   "ticker": "CRTO",
+   "company_name": "Criteo S.A.",
+   "owner_name": "McGogney Connor",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 671.0,
+   "price": 17.88,
+   "value": 11997.48,
+   "shares_after": 184530.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1576427/0002148390-26-000015.txt",
+   "price_at_trade": 18.1,
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.8
+  },
+  {
+   "ticker": "CRTO",
+   "company_name": "Criteo S.A.",
+   "owner_name": "Damon Ryan",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 2132.0,
+   "price": 17.88,
+   "value": 38120.16,
+   "shares_after": 161633.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1769573/0001769573-26-000026.txt",
+   "price_at_trade": 18.1,
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.8
+  },
+  {
+   "ticker": "CRTO",
+   "company_name": "Criteo S.A.",
+   "owner_name": "McGogney Connor",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 671.0,
+   "price": 17.88,
+   "value": 11997.48,
+   "shares_after": 184530.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2148390/0002148390-26-000015.txt",
+   "price_at_trade": 18.1,
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 6.8
+  },
   {
    "ticker": "CRTO",
    "company_name": "Criteo S.A.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1576427/0002148390-26-000013.txt",
    "price_at_trade": 14.47,
-   "price_now": 18.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 25.1
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 33.6
   },
   {
    "ticker": "CRTO",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2148390/0002148390-26-000013.txt",
    "price_at_trade": 14.47,
-   "price_now": 18.1,
-   "price_now_date": "2026-11-23",
-   "total_return_pct": 25.1
+   "price_now": 19.33,
+   "price_now_date": "2026-11-24",
+   "total_return_pct": 33.6
   }
  ],
  "trump_trades": [],
