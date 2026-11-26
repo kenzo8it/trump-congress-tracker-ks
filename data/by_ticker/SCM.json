@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "SCM",
  "company": {
   "name": "Stellus Capital Investment Corp",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 6.22,
- "price_date": "2026-11-24",
+ "price_now": 6.18,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SCM",
+   "company_name": "Stellus Capital Investment Corp",
+   "owner_name": "Bilger Bruce R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1394.0,
+   "price": 6.25,
+   "value": 8712.5,
+   "shares_after": 260055.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551901/0001104659-26-132174.txt",
+   "price_at_trade": 6.22,
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "SCM",
+   "company_name": "Stellus Capital Investment Corp",
+   "owner_name": "Bilger Bruce R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1394.0,
+   "price": 6.25,
+   "value": 8712.5,
+   "shares_after": 260055.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561707/0001104659-26-132174.txt",
+   "price_at_trade": 6.22,
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "SCM",
+   "company_name": "Stellus Capital Investment Corp",
+   "owner_name": "Bilger Bruce R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 30606.0,
+   "price": 6.2445,
+   "value": 191119.17,
+   "shares_after": 258661.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551901/0001104659-26-132174.txt",
+   "price_at_trade": 6.32,
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "SCM",
+   "company_name": "Stellus Capital Investment Corp",
+   "owner_name": "Bilger Bruce R",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 30606.0,
+   "price": 6.2445,
+   "value": 191119.17,
+   "shares_after": 258661.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561707/0001104659-26-132174.txt",
+   "price_at_trade": 6.32,
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.2
+  },
   {
    "ticker": "SCM",
    "company_name": "Stellus Capital Investment Corp",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551901/0001104659-26-130305.txt",
    "price_at_trade": 6.58,
-   "price_now": 6.22,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.5
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.1
   },
   {
    "ticker": "SCM",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1561515/0001104659-26-130305.txt",
    "price_at_trade": 6.58,
-   "price_now": 6.22,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.5
+   "price_now": 6.18,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.1
   }
  ],
  "trump_trades": [],

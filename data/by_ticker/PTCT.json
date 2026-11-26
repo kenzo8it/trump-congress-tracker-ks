@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "PTCT",
  "company": {
   "name": "PTC THERAPEUTICS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 62.86,
- "price_date": "2026-11-24",
+ "price_now": 62.05,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "PTCT",
    "company_name": "PTC THERAPEUTICS, INC.",
+   "owner_name": "ZELDIS JEROME B",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12000.0,
+   "price": 59.28,
+   "value": 711360.0,
+   "shares_after": 22500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1070081/0001433982-26-000008.txt",
+   "price_at_trade": 59.48,
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.3
+  },
+  {
+   "ticker": "PTCT",
+   "company_name": "PTC THERAPEUTICS, INC.",
+   "owner_name": "ZELDIS JEROME B",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12000.0,
+   "price": 59.28,
+   "value": 711360.0,
+   "shares_after": 22500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1433982/0001433982-26-000008.txt",
+   "price_at_trade": 59.48,
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.3
+  },
+  {
+   "ticker": "PTCT",
+   "company_name": "PTC THERAPEUTICS, INC.",
    "owner_name": "Boulding Mark Elliott",
    "owner_title": "EXEC. VP AND CLO",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1070081/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "PTCT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1070081/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "PTCT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1070081/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "PTCT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1578852/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "PTCT",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1578852/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "PTCT",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1578852/0001578852-26-000028.txt",
    "price_at_trade": 60.97,
-   "price_now": 62.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 62.05,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.8
   }
  ],
  "trump_trades": [],

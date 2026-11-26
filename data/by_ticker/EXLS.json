@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "EXLS",
  "company": {
   "name": "ExlService Holdings, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 43.84,
- "price_date": "2026-11-24",
+ "price_now": 45.1,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "EXLS",
+   "company_name": "ExlService Holdings, Inc.",
+   "owner_name": "Kini Narasimha",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 10771.0,
+   "price": 44.22,
+   "value": 476293.62,
+   "shares_after": 196583.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-075989.txt",
+   "price_at_trade": 43.84,
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.9
+  },
+  {
+   "ticker": "EXLS",
+   "company_name": "ExlService Holdings, Inc.",
+   "owner_name": "Kapoor Rohit",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 100000.0,
+   "price": 43.78,
+   "value": 4378000.0,
+   "shares_after": 357214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-075992.txt",
+   "price_at_trade": 43.84,
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.9
+  },
+  {
+   "ticker": "EXLS",
+   "company_name": "ExlService Holdings, Inc.",
+   "owner_name": "Kapoor Rohit",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 100000.0,
+   "price": 43.78,
+   "value": 4378000.0,
+   "shares_after": 357214.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1373630/0001628280-26-075992.txt",
+   "price_at_trade": 43.84,
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.9
+  },
+  {
+   "ticker": "EXLS",
+   "company_name": "ExlService Holdings, Inc.",
+   "owner_name": "Kini Narasimha",
+   "owner_title": "Executive Vice President",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 10771.0,
+   "price": 44.22,
+   "value": 476293.62,
+   "shares_after": 196583.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1373631/0001628280-26-075989.txt",
+   "price_at_trade": 43.84,
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.9
+  },
   {
    "ticker": "EXLS",
    "company_name": "ExlService Holdings, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-073993.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373630/0001628280-26-073993.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-073647.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-073649.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373633/0001628280-26-073649.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1762098/0001628280-26-073647.txt",
    "price_at_trade": 43.1,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.7
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "EXLS",
@@ -149,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1297989/0001628280-26-069283.txt",
    "price_at_trade": 42.53,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.0
   },
   {
    "ticker": "EXLS",
@@ -168,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1373633/0001628280-26-069283.txt",
    "price_at_trade": 42.53,
-   "price_now": 43.84,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.1
+   "price_now": 45.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.0
   }
  ],
  "trump_trades": [],

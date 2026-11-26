@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "TGT",
  "company": {
   "name": "TARGET CORP",
@@ -8,8 +8,8 @@
   "industry": "Retail-Variety Stores",
   "sector": "Retail & Consumer"
  },
- "price_now": 176.06,
- "price_date": "2026-11-24",
+ "price_now": 172.22,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 154.22,
-   "price_now": 176.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.2,
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.7,
    "days_to_disclose": 40,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 124.83,
-   "price_now": 176.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 41.0,
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 38.0,
    "days_to_disclose": 208,
    "late_filing": true
   },
@@ -102,9 +102,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 106.27,
-   "price_now": 176.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 65.7,
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 62.1,
    "days_to_disclose": 521,
    "late_filing": true
   }
@@ -119,15 +119,53 @@
    "ticker": "TGT",
    "est_shares": 12.2,
    "avg_price": 124.83,
-   "price_now": 176.06,
-   "est_position_value": 2150,
-   "total_return_pct": 41.0,
-   "total_return_usd": 626,
+   "price_now": 172.22,
+   "est_position_value": 2103,
+   "total_return_pct": 38.0,
+   "total_return_usd": 579,
    "first_buy": "2026-04-29",
    "last_trade": "2026-10-14"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "TGT",
+   "company_name": "TARGET CORP",
+   "owner_name": "Cornell Brian C",
+   "owner_title": "Director, Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25000.0,
+   "price": 175.5094,
+   "value": 4387735.0,
+   "shares_after": 118270.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1288709/0001288709-26-000016.txt",
+   "price_at_trade": 176.06,
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.2
+  },
+  {
+   "ticker": "TGT",
+   "company_name": "TARGET CORP",
+   "owner_name": "Cornell Brian C",
+   "owner_title": "Director, Executive Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25000.0,
+   "price": 175.5094,
+   "value": 4387735.0,
+   "shares_after": 118270.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/0001288709-26-000016.txt",
+   "price_at_trade": 176.06,
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.2
+  },
   {
    "ticker": "TGT",
    "company_name": "TARGET CORP",
@@ -143,9 +181,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1941816/0001941816-26-000007.txt",
    "price_at_trade": 167.46,
-   "price_now": 176.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.1
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.8
   },
   {
    "ticker": "TGT",
@@ -162,9 +200,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/27419/0001941816-26-000007.txt",
    "price_at_trade": 167.46,
-   "price_now": 176.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.1
+   "price_now": 172.22,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.8
   }
  ],
  "trump_trades": [],

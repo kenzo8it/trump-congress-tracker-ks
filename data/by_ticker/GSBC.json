@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-26T04:28+00:00",
+ "ticker": "GSBC",
+ "company": {
+  "name": "GREAT SOUTHERN BANCORP, INC.",
+  "cik": 854560,
+  "sic": 6022,
+  "industry": "State Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 78.07,
+ "price_date": "2026-11-25",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "GSBC",
+   "company_name": "GREAT SOUTHERN BANCORP, INC.",
+   "owner_name": "TURNER WILLIAM V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1013.0,
+   "price": 78.2687,
+   "value": 79286.19,
+   "shares_after": 191699.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1044043/0001214659-26-014737.txt",
+   "price_at_trade": 78.52,
+   "price_now": 78.07,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.6
+  },
+  {
+   "ticker": "GSBC",
+   "company_name": "GREAT SOUTHERN BANCORP, INC.",
+   "owner_name": "TURNER WILLIAM V",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1013.0,
+   "price": 78.2687,
+   "value": 79286.19,
+   "shares_after": 191699.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/854560/0001214659-26-014737.txt",
+   "price_at_trade": 78.52,
+   "price_now": 78.07,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.6
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

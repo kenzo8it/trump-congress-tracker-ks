@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "DELL",
  "company": {
   "name": "Dell Technologies Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electronic Computers",
   "sector": "Technology"
  },
- "price_now": 295.28,
- "price_date": "2026-11-24",
+ "price_now": 297.06,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 420.77,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -29.8,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -29.4,
    "days_to_disclose": 6,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 160.32,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 84.2,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 85.3,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 159.33,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 85.3,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 86.4,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 159.33,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 85.3,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 86.4,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -164,9 +164,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 98.9,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 100.1,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -196,9 +196,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 98.9,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 100.1,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -228,9 +228,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 148.47,
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 98.9,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 100.1,
    "days_to_disclose": 43,
    "late_filing": false
   }
@@ -247,15 +247,54 @@
    "ticker": "DELL",
    "est_shares": 326.7,
    "avg_price": 148.47,
-   "price_now": 295.28,
-   "est_position_value": 96461,
-   "total_return_pct": 98.9,
-   "total_return_usd": 47959,
+   "price_now": 297.06,
+   "est_position_value": 97042,
+   "total_return_pct": 100.1,
+   "total_return_usd": 48541,
    "first_buy": "2025-10-10",
    "last_trade": "2025-10-10"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "DELL",
+   "company_name": "Dell Technologies Inc.",
+   "owner_name": "Radakovich Lynn Vojvodich",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 2022.0,
+   "price": 379.0,
+   "value": 766338.0,
+   "shares_after": 25686.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/0001662205-26-000025.txt",
+   "price_at_trade": 334.91,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.3
+  },
+  {
+   "ticker": "DELL",
+   "company_name": "Dell Technologies Inc.",
+   "owner_name": "Radakovich Lynn Vojvodich",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 2022.0,
+   "price": 379.0,
+   "value": 766338.0,
+   "shares_after": 25686.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1662205/0001662205-26-000025.txt",
+   "price_at_trade": 334.91,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.3
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [
   {
@@ -265,9 +304,9 @@
    "involvement": "Corporate commitment",
    "involvement_date": "2026-01-29",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0374",
-   "price_now": 295.28,
-   "price_now_date": "2026-11-24",
-   "return_since_involvement_pct": 150.7,
+   "price_now": 297.06,
+   "price_now_date": "2026-11-25",
+   "return_since_involvement_pct": 152.2,
    "price_at_involvement": 117.77
   }
  ],

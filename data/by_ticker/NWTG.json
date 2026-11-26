@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "NWTG",
  "company": {
   "name": "Newton Golf Company, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Sporting & Athletic Goods, NEC",
   "sector": "Other"
  },
- "price_now": 0.77,
- "price_date": "2026-11-24",
+ "price_now": 0.8,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "NWTG",
+   "company_name": "Newton Golf Company, Inc.",
+   "owner_name": "Hemphill Gregg",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7000.0,
+   "price": 0.78,
+   "value": 5460.0,
+   "shares_after": 42802.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1934245/0002135300-26-000006.txt",
+   "price_at_trade": 0.77,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "NWTG",
+   "company_name": "Newton Golf Company, Inc.",
+   "owner_name": "Hemphill Gregg",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7000.0,
+   "price": 0.78,
+   "value": 5460.0,
+   "shares_after": 42802.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2135300/0002135300-26-000006.txt",
+   "price_at_trade": 0.77,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 3.6
+  },
+  {
+   "ticker": "NWTG",
+   "company_name": "Newton Golf Company, Inc.",
+   "owner_name": "Hemphill Gregg",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 0.8607,
+   "value": 8607.0,
+   "shares_after": 35802.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1934245/0002135300-26-000006.txt",
+   "price_at_trade": 0.88,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.8
+  },
+  {
+   "ticker": "NWTG",
+   "company_name": "Newton Golf Company, Inc.",
+   "owner_name": "Hemphill Gregg",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 0.8607,
+   "value": 8607.0,
+   "shares_after": 35802.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2135300/0002135300-26-000006.txt",
+   "price_at_trade": 0.88,
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.8
+  },
   {
    "ticker": "NWTG",
    "company_name": "Newton Golf Company, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1612084/0001612084-26-000005.txt",
    "price_at_trade": 0.79,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.8
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "NWTG",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1934245/0001612084-26-000005.txt",
    "price_at_trade": 0.79,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.8
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "NWTG",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1934245/0002135300-26-000004.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.7
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 12.7
   },
   {
    "ticker": "NWTG",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2135300/0002135300-26-000004.txt",
    "price_at_trade": 0.71,
-   "price_now": 0.77,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.7
+   "price_now": 0.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 12.7
   }
  ],
  "trump_trades": [],

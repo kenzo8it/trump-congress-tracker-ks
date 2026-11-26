@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "MDLZ",
  "company": {
   "name": "Mondelez International, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Food and Kindred Products",
   "sector": "Agriculture & Food"
  },
- "price_now": 67.01,
- "price_date": "2026-11-24",
+ "price_now": 67.81,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Robert F. Onder, Jr.",
+   "state_district": "MO03",
+   "reported_date": "2026-11-24",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+   "owner": "self",
+   "asset": "Mondelez International, Inc. - Class A Common Stock",
+   "asset_type": "ST",
+   "ticker": "MDLZ",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-29",
+   "notified_date": "2026-10-29",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "O000177",
+   "party": "Republican",
+   "state": "MO",
+   "company_name": "Mondelez International, Inc.",
+   "sector": "Agriculture & Food",
+   "committee_overlap": [],
+   "price_at_trade": 62.53,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 8.4,
+   "days_to_disclose": 26,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Thomas H. Kean, Jr.",
@@ -42,9 +72,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 60.9,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.0,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.3,
    "days_to_disclose": 37,
    "late_filing": false
   },
@@ -72,9 +102,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 62.05,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.0,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.3,
    "days_to_disclose": 5,
    "late_filing": false
   },
@@ -102,9 +132,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 50.2,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 33.5,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 35.1,
    "days_to_disclose": 7,
    "late_filing": false
   },
@@ -132,9 +162,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 52.9,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 26.7,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 28.2,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -162,9 +192,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 55.01,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 21.8,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 23.3,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -192,9 +222,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 54.7,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 22.5,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 24.0,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -222,9 +252,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 55.8,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 20.1,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 21.5,
    "days_to_disclose": 279,
    "late_filing": true
   },
@@ -252,9 +282,9 @@
    "sector": "Agriculture & Food",
    "committee_overlap": [],
    "price_at_trade": 55.8,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 20.1,
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 21.5,
    "days_to_disclose": 279,
    "late_filing": true
   }
@@ -276,9 +306,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/0001628280-26-071820.txt",
    "price_at_trade": 66.82,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.3
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "MDLZ",
@@ -295,9 +325,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1536137/0001628280-26-071820.txt",
    "price_at_trade": 66.82,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.3
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.5
   },
   {
    "ticker": "MDLZ",
@@ -314,9 +344,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/0001628280-26-071820.txt",
    "price_at_trade": 67.38,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.5
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "MDLZ",
@@ -333,9 +363,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1536137/0001628280-26-071820.txt",
    "price_at_trade": 67.38,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.5
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.6
   },
   {
    "ticker": "MDLZ",
@@ -352,9 +382,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/0001628280-26-069544.txt",
    "price_at_trade": 66.38,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.9
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "MDLZ",
@@ -371,9 +401,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1536137/0001628280-26-069544.txt",
    "price_at_trade": 66.38,
-   "price_now": 67.01,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.9
+   "price_now": 67.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

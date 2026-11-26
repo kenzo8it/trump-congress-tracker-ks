@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "RVI",
  "company": {
   "name": "Robinhood Ventures Fund I",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 17.83,
- "price_date": "2026-11-24",
+ "price_now": 17.55,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/0000950103-26-016560.txt",
    "price_at_trade": 24.77,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.0
+   "price_now": 17.55,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -29.1
   },
   {
    "ticker": "RVI",
@@ -54,9 +54,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2085091/0000950103-26-016560.txt",
    "price_at_trade": 24.77,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.0
+   "price_now": 17.55,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -29.1
   },
   {
    "ticker": "RVI",
@@ -73,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/0001783879-26-000173.txt",
    "price_at_trade": 24.77,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.0
+   "price_now": 17.55,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -29.1
   },
   {
    "ticker": "RVI",
@@ -92,85 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2085091/0001783879-26-000173.txt",
    "price_at_trade": 24.77,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.0
-  },
-  {
-   "ticker": "RVI",
-   "company_name": "Robinhood Ventures Fund I",
-   "owner_name": "Robinhood Markets, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-27",
-   "shares": 225.0,
-   "price": 25.0,
-   "value": 5625.0,
-   "shares_after": 12922004.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/0001783879-26-000166.txt",
-   "price_at_trade": 25.0,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.7
-  },
-  {
-   "ticker": "RVI",
-   "company_name": "Robinhood Ventures Fund I",
-   "owner_name": "Robinhood Markets, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-27",
-   "shares": 225.0,
-   "price": 25.0,
-   "value": 5625.0,
-   "shares_after": 12922004.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2085091/0001783879-26-000166.txt",
-   "price_at_trade": 25.0,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.7
-  },
-  {
-   "ticker": "RVI",
-   "company_name": "Robinhood Ventures Fund I",
-   "owner_name": "Robinhood Markets, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-23",
-   "reported_date": "2026-10-27",
-   "shares": 4134.0,
-   "price": 25.04,
-   "value": 103515.36,
-   "shares_after": 12922229.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/0001783879-26-000166.txt",
-   "price_at_trade": 24.81,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.1
-  },
-  {
-   "ticker": "RVI",
-   "company_name": "Robinhood Ventures Fund I",
-   "owner_name": "Robinhood Markets, Inc.",
-   "owner_title": "10% owner",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-23",
-   "reported_date": "2026-10-27",
-   "shares": 4134.0,
-   "price": 25.04,
-   "value": 103515.36,
-   "shares_after": 12922229.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2085091/0001783879-26-000166.txt",
-   "price_at_trade": 24.81,
-   "price_now": 17.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.1
+   "price_now": 17.55,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -29.1
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "ETN",
  "company": {
   "name": "Eaton Corp plc",
@@ -8,8 +8,8 @@
   "industry": "Misc Industrial & Commercial Machinery & Equipment",
   "sector": "Construction & Industrials"
  },
- "price_now": 319.27,
- "price_date": "2026-11-24",
+ "price_now": 317.81,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -18,6 +18,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Kevin Hern",
+   "state_district": "OK01",
+   "reported_date": "2026-11-24",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf",
+   "owner": "self",
+   "asset": "Eaton Corporation, PLC Ordinary Shares",
+   "asset_type": "ST",
+   "ticker": "ETN",
+   "trade_type": "SELL",
+   "partial": true,
+   "traded_date": "2026-11-10",
+   "notified_date": "2026-11-19",
+   "size_lower": 15001,
+   "size_upper": 50000,
+   "size_mid": 32500.5,
+   "bioguide": "H001082",
+   "party": "Republican",
+   "state": "OK",
+   "company_name": "Eaton Corp plc",
+   "sector": "Construction & Industrials",
+   "committee_overlap": [],
+   "price_at_trade": 354.22,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -10.3,
+   "days_to_disclose": 14,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "David J. Taylor",
@@ -44,9 +74,9 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 390.5,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -18.2,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -18.6,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -76,9 +106,9 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 390.5,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -18.2,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -18.6,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -106,9 +136,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 407.9,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -21.7,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -22.1,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -136,9 +166,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 414.77,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -23.0,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -23.4,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -166,9 +196,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 382.4,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.5,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -16.9,
    "days_to_disclose": 23,
    "late_filing": false
   },
@@ -198,9 +228,9 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 370.35,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -13.8,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -14.2,
    "days_to_disclose": 8,
    "late_filing": false
   },
@@ -230,9 +260,9 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 339.85,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -6.1,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.5,
    "days_to_disclose": 17,
    "late_filing": false
   },
@@ -260,9 +290,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 320.0,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.2,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.7,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -290,9 +320,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 312.37,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.2,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.7,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -322,9 +352,9 @@
     "House Committee on Transportation and Infrastructure"
    ],
    "price_at_trade": 349.44,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.6,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -9.1,
    "days_to_disclose": 9,
    "late_filing": false
   },
@@ -352,9 +382,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 334.46,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -4.5,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -5.0,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -382,9 +412,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 350.06,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.8,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -9.2,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -412,9 +442,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 376.2,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -15.1,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -15.5,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -442,9 +472,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 377.71,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -15.5,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -15.9,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -472,9 +502,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 377.71,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -15.5,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -15.9,
    "days_to_disclose": 22,
    "late_filing": false
   },
@@ -502,9 +532,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 376.36,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -15.2,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -15.6,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -532,9 +562,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 374.68,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -14.8,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -15.2,
    "days_to_disclose": 41,
    "late_filing": false
   },
@@ -562,9 +592,9 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 305.57,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5,
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.0,
    "days_to_disclose": 481,
    "late_filing": true
   }
@@ -579,10 +609,10 @@
    "ticker": "ETN",
    "est_shares": 106.4,
    "avg_price": 305.57,
-   "price_now": 319.27,
-   "est_position_value": 33958,
-   "total_return_pct": 4.5,
-   "total_return_usd": 1457,
+   "price_now": 317.81,
+   "est_position_value": 33802,
+   "total_return_pct": 4.0,
+   "total_return_usd": 1302,
    "first_buy": "2025-02-07",
    "last_trade": "2025-02-07"
   },
@@ -595,10 +625,10 @@
    "ticker": "ETN",
    "est_shares": 98.5,
    "avg_price": 402.36,
-   "price_now": 319.27,
-   "est_position_value": 31459,
-   "total_return_pct": -20.7,
-   "total_return_usd": -8187,
+   "price_now": 317.81,
+   "est_position_value": 31315,
+   "total_return_pct": -21.0,
+   "total_return_usd": -8331,
    "first_buy": "2025-10-15",
    "last_trade": "2026-08-27"
   },
@@ -613,10 +643,10 @@
    "ticker": "ETN",
    "est_shares": 65.8,
    "avg_price": 373.17,
-   "price_now": 319.27,
-   "est_position_value": 21011,
-   "total_return_pct": -14.4,
-   "total_return_usd": -3547,
+   "price_now": 317.81,
+   "est_position_value": 20915,
+   "total_return_pct": -14.8,
+   "total_return_usd": -3643,
    "first_buy": "2025-12-10",
    "last_trade": "2026-11-03"
   }
@@ -637,9 +667,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1523721/0001104659-26-131074.txt",
    "price_at_trade": 311.33,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.6
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.1
   },
   {
    "ticker": "ETN",
@@ -656,9 +686,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/0001104659-26-131074.txt",
    "price_at_trade": 311.33,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.6
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.1
   },
   {
    "ticker": "ETN",
@@ -675,9 +705,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/0001104659-26-131076.txt",
    "price_at_trade": 311.33,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.6
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.1
   },
   {
    "ticker": "ETN",
@@ -694,9 +724,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1773340/0001104659-26-131076.txt",
    "price_at_trade": 311.33,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.6
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.1
   },
   {
    "ticker": "ETN",
@@ -713,9 +743,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1523721/0001104659-26-129065.txt",
    "price_at_trade": 336.88,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.2
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "ETN",
@@ -732,9 +762,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/0001104659-26-129065.txt",
    "price_at_trade": 336.88,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.2
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "ETN",
@@ -751,9 +781,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/0001104659-26-129068.txt",
    "price_at_trade": 336.88,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.2
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -5.7
   },
   {
    "ticker": "ETN",
@@ -770,9 +800,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1772226/0001104659-26-129068.txt",
    "price_at_trade": 336.88,
-   "price_now": 319.27,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.2
+   "price_now": 317.81,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -5.7
   }
  ],
  "trump_trades": [],

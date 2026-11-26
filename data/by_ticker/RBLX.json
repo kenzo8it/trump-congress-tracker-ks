@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "RBLX",
  "company": {
   "name": "Roblox Corp",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 53.49,
- "price_date": "2026-11-24",
+ "price_now": 55.63,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 81.88,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -34.7,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -32.1,
    "days_to_disclose": 19,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 101.73,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -47.4,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -45.3,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 106.84,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -49.9,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -47.9,
    "days_to_disclose": 38,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 128.0,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -58.2,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -56.5,
    "days_to_disclose": 83,
    "late_filing": true
   },
@@ -162,9 +162,9 @@
    "sector": "Technology",
    "committee_overlap": [],
    "price_at_trade": 134.49,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -60.2,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -58.6,
    "days_to_disclose": 89,
    "late_filing": true
   }
@@ -179,10 +179,10 @@
    "ticker": "RBLX",
    "est_shares": 55.8,
    "avg_price": 104.22,
-   "price_now": 53.49,
-   "est_position_value": 2986,
-   "total_return_pct": -48.7,
-   "total_return_usd": -2832,
+   "price_now": 55.63,
+   "est_position_value": 3105,
+   "total_return_pct": -46.6,
+   "total_return_usd": -2712,
    "first_buy": "2025-11-07",
    "last_trade": "2025-12-24"
   }
@@ -191,6 +191,44 @@
   {
    "ticker": "RBLX",
    "company_name": "Roblox Corp",
+   "owner_name": "BUCKLEY SEAN JACK",
+   "owner_title": "Chief People & Systems Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4764.0,
+   "price": 51.46,
+   "value": 245155.44,
+   "shares_after": 76733.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000217.txt",
+   "price_at_trade": 53.49,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.0
+  },
+  {
+   "ticker": "RBLX",
+   "company_name": "Roblox Corp",
+   "owner_name": "BUCKLEY SEAN JACK",
+   "owner_title": "Chief People & Systems Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4764.0,
+   "price": 51.46,
+   "value": 245155.44,
+   "shares_after": 76733.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2122649/0001315098-26-000217.txt",
+   "price_at_trade": 53.49,
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.0
+  },
+  {
+   "ticker": "RBLX",
+   "company_name": "Roblox Corp",
    "owner_name": "Rawlings Amy Marie",
    "owner_title": "Chief Accounting Officer",
    "trade_type": "SELL",
@@ -203,9 +241,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -222,9 +260,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -241,9 +279,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -260,9 +298,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -279,9 +317,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -298,9 +336,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -317,9 +355,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -336,9 +374,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -355,9 +393,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -374,9 +412,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -393,9 +431,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -412,9 +450,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -431,9 +469,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -450,9 +488,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -469,9 +507,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -488,9 +526,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -507,9 +545,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -526,9 +564,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -545,9 +583,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -564,9 +602,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -583,9 +621,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -602,9 +640,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -621,9 +659,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565390/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -640,9 +678,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565390/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -659,9 +697,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565390/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -678,9 +716,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1565390/0001565390-26-000011.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -697,9 +735,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834991/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -716,9 +754,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834991/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -735,9 +773,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834991/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -754,9 +792,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834991/0001315098-26-000209.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -773,9 +811,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -792,9 +830,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -811,9 +849,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -830,9 +868,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000205.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -849,9 +887,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875017/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -868,9 +906,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875017/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -887,9 +925,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875017/0001315098-26-000201.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -906,9 +944,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2044191/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -925,9 +963,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2044191/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -944,9 +982,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2044191/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -963,9 +1001,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2044191/0001315098-26-000207.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -982,9 +1020,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2122649/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -1001,9 +1039,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2122649/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -1020,9 +1058,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2122649/0001315098-26-000203.txt",
    "price_at_trade": 46.72,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 14.5
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 19.1
   },
   {
    "ticker": "RBLX",
@@ -1039,9 +1077,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000199.txt",
    "price_at_trade": 51.6,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "RBLX",
@@ -1058,9 +1096,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000199.txt",
    "price_at_trade": 51.6,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "RBLX",
@@ -1077,9 +1115,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000199.txt",
    "price_at_trade": 51.6,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "RBLX",
@@ -1096,9 +1134,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835037/0001315098-26-000199.txt",
    "price_at_trade": 51.6,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "RBLX",
@@ -1115,9 +1153,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1134,9 +1172,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1153,9 +1191,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1172,9 +1210,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1191,9 +1229,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1210,9 +1248,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1229,9 +1267,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1248,9 +1286,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1267,9 +1305,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1286,9 +1324,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1305,9 +1343,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   },
   {
    "ticker": "RBLX",
@@ -1324,9 +1362,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000197.txt",
    "price_at_trade": 45.45,
-   "price_now": 53.49,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 17.7
+   "price_now": 55.63,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 22.4
   }
  ],
  "trump_trades": [],

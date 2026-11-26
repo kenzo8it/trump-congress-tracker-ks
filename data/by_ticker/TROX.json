@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "TROX",
  "company": {
   "name": "Tronox Holdings plc",
@@ -8,8 +8,8 @@
   "industry": "Industrial Inorganic Chemicals",
   "sector": "Materials & Mining"
  },
- "price_now": 1.89,
- "price_date": "2026-11-24",
+ "price_now": 2.03,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TROX",
+   "company_name": "Tronox Holdings plc",
+   "owner_name": "Romano John D",
+   "owner_title": "Director, CEO and Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 75000.0,
+   "price": 1.8576,
+   "value": 139320.0,
+   "shares_after": 175000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1344537/0001140361-26-045598.txt",
+   "price_at_trade": 1.89,
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.4
+  },
+  {
+   "ticker": "TROX",
+   "company_name": "Tronox Holdings plc",
+   "owner_name": "Romano John D",
+   "owner_title": "Director, CEO and Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 75000.0,
+   "price": 1.8576,
+   "value": 139320.0,
+   "shares_after": 175000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/0001140361-26-045598.txt",
+   "price_at_trade": 1.89,
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.4
+  },
+  {
+   "ticker": "TROX",
+   "company_name": "Tronox Holdings plc",
+   "owner_name": "Engle Jeffrey A.",
+   "owner_title": "SVP, Chief Commercial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12500.0,
+   "price": 1.5899,
+   "value": 19873.75,
+   "shares_after": 187751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/0001140361-26-045601.txt",
+   "price_at_trade": 1.64,
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 23.8
+  },
+  {
+   "ticker": "TROX",
+   "company_name": "Tronox Holdings plc",
+   "owner_name": "Engle Jeffrey A.",
+   "owner_title": "SVP, Chief Commercial Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12500.0,
+   "price": 1.5899,
+   "value": 19873.75,
+   "shares_after": 187751.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2012547/0001140361-26-045601.txt",
+   "price_at_trade": 1.64,
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 23.8
+  },
   {
    "ticker": "TROX",
    "company_name": "Tronox Holdings plc",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/0001140361-26-045172.txt",
    "price_at_trade": 1.45,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 30.3
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 40.0
   },
   {
    "ticker": "TROX",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1583731/0001140361-26-045172.txt",
    "price_at_trade": 1.45,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 30.3
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 40.0
   },
   {
    "ticker": "TROX",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1412239/0001140361-26-044904.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 15.2
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 23.8
   },
   {
    "ticker": "TROX",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/0001140361-26-044904.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 15.2
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 23.8
   },
   {
    "ticker": "TROX",
@@ -111,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/0001140361-26-042891.txt",
    "price_at_trade": 2.66,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.9
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -23.6
   },
   {
    "ticker": "TROX",
@@ -130,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1556520/0001140361-26-042891.txt",
    "price_at_trade": 2.66,
-   "price_now": 1.89,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -28.9
+   "price_now": 2.03,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -23.6
   }
  ],
  "trump_trades": [],

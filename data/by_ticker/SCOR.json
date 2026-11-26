@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "SCOR",
  "company": {
   "name": "COMSCORE, INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 3.2,
- "price_date": "2026-11-24",
+ "price_now": 3.25,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "McLaughlin Matthew F.",
    "owner_title": "Director, Chief Executive Officer",
    "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25907.0,
+   "price": 3.43,
+   "value": 88861.01,
+   "shares_after": 150000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158172/0001853874-26-000020.txt",
+   "price_at_trade": 3.2,
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "SCOR",
+   "company_name": "COMSCORE, INC.",
+   "owner_name": "McLaughlin Matthew F.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25907.0,
+   "price": 3.43,
+   "value": 88861.01,
+   "shares_after": 150000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1853874/0001853874-26-000020.txt",
+   "price_at_trade": 3.2,
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "SCOR",
+   "company_name": "COMSCORE, INC.",
+   "owner_name": "McLaughlin Matthew F.",
+   "owner_title": "Director, Chief Executive Officer",
+   "trade_type": "BUY",
    "traded_date": "2026-11-23",
    "reported_date": "2026-11-24",
    "shares": 7260.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158172/0001853874-26-000018.txt",
    "price_at_trade": 3.41,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -6.2
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "SCOR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1853874/0001853874-26-000018.txt",
    "price_at_trade": 3.41,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -6.2
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "SCOR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158172/0001853874-26-000018.txt",
    "price_at_trade": 3.09,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.6
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "SCOR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1853874/0001853874-26-000018.txt",
    "price_at_trade": 3.09,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.6
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "SCOR",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158172/0001853874-26-000016.txt",
    "price_at_trade": 3.33,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.9
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.4
   },
   {
    "ticker": "SCOR",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1853874/0001853874-26-000016.txt",
    "price_at_trade": 3.33,
-   "price_now": 3.2,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.9
+   "price_now": 3.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.4
   }
  ],
  "trump_trades": [],

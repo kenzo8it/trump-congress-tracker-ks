@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-26T04:28+00:00",
+ "ticker": "GGG",
+ "company": {
+  "name": "GRACO INC",
+  "cik": 42888,
+  "sic": 3561,
+  "industry": "Pumps & Pumping Equipment",
+  "sector": "Construction & Industrials"
+ },
+ "price_now": 72.1,
+ "price_date": "2026-11-25",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "GGG",
+   "company_name": "GRACO INC",
+   "owner_name": "Merengo Claudio",
+   "owner_title": "Pres, Global Powder Division",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7206.0,
+   "price": 71.5023,
+   "value": 515245.57,
+   "shares_after": 20104.0368,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1957947/0000042888-26-000150.txt",
+   "price_at_trade": 72.11,
+   "price_now": 72.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.0
+  },
+  {
+   "ticker": "GGG",
+   "company_name": "GRACO INC",
+   "owner_name": "Merengo Claudio",
+   "owner_title": "Pres, Global Powder Division",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7206.0,
+   "price": 71.5023,
+   "value": 515245.57,
+   "shares_after": 20104.0368,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/42888/0000042888-26-000150.txt",
+   "price_at_trade": 72.11,
+   "price_now": 72.1,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

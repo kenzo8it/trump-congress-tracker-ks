@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "CART",
  "company": {
   "name": "Maplebear Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 57.35,
- "price_date": "2026-11-24",
+ "price_now": 57.68,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,53 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 42.41,
-   "price_now": 57.35,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 35.2,
+   "price_now": 57.68,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 36.0,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "CART",
+   "company_name": "Maplebear Inc.",
+   "owner_name": "Fong Morgan",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 18390.0,
+   "price": 57.4808,
+   "value": 1057071.91,
+   "shares_after": 515744.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0001990106-26-000030.txt",
+   "price_at_trade": 56.94,
+   "price_now": 57.68,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.3
+  },
+  {
+   "ticker": "CART",
+   "company_name": "Maplebear Inc.",
+   "owner_name": "Fong Morgan",
+   "owner_title": "Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 18390.0,
+   "price": 57.4808,
+   "value": 1057071.91,
+   "shares_after": 515744.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1990106/0001990106-26-000030.txt",
+   "price_at_trade": 56.94,
+   "price_now": 57.68,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.3
+  },
   {
    "ticker": "CART",
    "company_name": "Maplebear Inc.",
@@ -66,9 +104,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0002082930-26-000024.txt",
    "price_at_trade": 58.66,
-   "price_now": 57.35,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.2
+   "price_now": 57.68,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.7
   },
   {
    "ticker": "CART",
@@ -85,47 +123,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2082930/0002082930-26-000024.txt",
    "price_at_trade": 58.66,
-   "price_now": 57.35,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.2
-  },
-  {
-   "ticker": "CART",
-   "company_name": "Maplebear Inc.",
-   "owner_name": "Rogers Chris",
-   "owner_title": "Director, President and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-27",
-   "shares": 24665.0,
-   "price": 60.0,
-   "value": 1479900.0,
-   "shares_after": 867911.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1579091/0002082930-26-000020.txt",
-   "price_at_trade": 60.88,
-   "price_now": 57.35,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.8
-  },
-  {
-   "ticker": "CART",
-   "company_name": "Maplebear Inc.",
-   "owner_name": "Rogers Chris",
-   "owner_title": "Director, President and CEO",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-27",
-   "shares": 24665.0,
-   "price": 60.0,
-   "value": 1479900.0,
-   "shares_after": 867911.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/2082930/0002082930-26-000020.txt",
-   "price_at_trade": 60.88,
-   "price_now": 57.35,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.8
+   "price_now": 57.68,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.7
   }
  ],
  "trump_trades": [],

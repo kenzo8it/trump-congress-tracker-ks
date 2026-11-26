@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "SITE",
  "company": {
   "name": "SiteOne Landscape Supply, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Professional & Commercial Equipment & Supplies",
   "sector": "Other"
  },
- "price_now": 113.23,
- "price_date": "2026-11-24",
+ "price_now": 116.4,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "SITE",
    "company_name": "SiteOne Landscape Supply, Inc.",
+   "owner_name": "Elema Eric J",
+   "owner_title": "EVP, CFO and Assistant Sec.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2415.0,
+   "price": 114.4,
+   "value": 276276.0,
+   "shares_after": 4388.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1650729/0001104659-26-132210.txt",
+   "price_at_trade": 113.23,
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.8
+  },
+  {
+   "ticker": "SITE",
+   "company_name": "SiteOne Landscape Supply, Inc.",
+   "owner_name": "Elema Eric J",
+   "owner_title": "EVP, CFO and Assistant Sec.",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2415.0,
+   "price": 114.4,
+   "value": 276276.0,
+   "shares_after": 4388.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2102762/0001104659-26-132210.txt",
+   "price_at_trade": 113.23,
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.8
+  },
+  {
+   "ticker": "SITE",
+   "company_name": "SiteOne Landscape Supply, Inc.",
    "owner_name": "BLACK DOUG",
    "owner_title": "Director, CEO",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1650729/0001104659-26-122247.txt",
    "price_at_trade": 110.87,
-   "price_now": 113.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.1
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "SITE",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1650729/0001104659-26-122247.txt",
    "price_at_trade": 110.87,
-   "price_now": 113.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.1
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "SITE",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1672083/0001104659-26-122247.txt",
    "price_at_trade": 110.87,
-   "price_now": 113.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.1
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.0
   },
   {
    "ticker": "SITE",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1672083/0001104659-26-122247.txt",
    "price_at_trade": 110.87,
-   "price_now": 113.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 2.1
+   "price_now": 116.4,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.0
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "GKOS",
  "company": {
   "name": "GLAUKOS Corp",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 256.98,
- "price_date": "2026-11-24",
+ "price_now": 259.9,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,804 @@
   {
    "ticker": "GKOS",
    "company_name": "GLAUKOS Corp",
+   "owner_name": "Kliman Gilbert H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 250.0,
+   "value": 625000.0,
+   "shares_after": 37406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478550.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 12317.0,
+   "price": 250.57,
+   "value": 3086270.69,
+   "shares_after": 119158.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7682.0,
+   "price": 251.54,
+   "value": 1932330.28,
+   "shares_after": 111476.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4709.0,
+   "price": 252.39,
+   "value": 1188504.51,
+   "shares_after": 106767.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4409.0,
+   "price": 253.56,
+   "value": 1117946.04,
+   "shares_after": 102358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 17280.0,
+   "price": 254.59,
+   "value": 4399315.2,
+   "shares_after": 85078.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 11545.0,
+   "price": 255.55,
+   "value": 2950324.75,
+   "shares_after": 73533.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 8473.0,
+   "price": 256.63,
+   "value": 2174425.99,
+   "shares_after": 65060.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1341.0,
+   "price": 250.52,
+   "value": 335947.32,
+   "shares_after": 76823.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1245.0,
+   "price": 251.67,
+   "value": 313329.15,
+   "shares_after": 75578.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 552.0,
+   "price": 253.05,
+   "value": 139683.6,
+   "shares_after": 75026.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2033.0,
+   "price": 254.86,
+   "value": 518130.38,
+   "shares_after": 72993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 941.0,
+   "price": 255.67,
+   "value": 240585.47,
+   "shares_after": 72052.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 450.0,
+   "price": 256.77,
+   "value": 115546.5,
+   "shares_after": 71602.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Kliman Gilbert H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 250.0,
+   "value": 625000.0,
+   "shares_after": 37406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1293171/0001193125-26-478550.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 12317.0,
+   "price": 250.57,
+   "value": 3086270.69,
+   "shares_after": 119158.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 7682.0,
+   "price": 251.54,
+   "value": 1932330.28,
+   "shares_after": 111476.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4709.0,
+   "price": 252.39,
+   "value": 1188504.51,
+   "shares_after": 106767.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4409.0,
+   "price": 253.56,
+   "value": 1117946.04,
+   "shares_after": 102358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 17280.0,
+   "price": 254.59,
+   "value": 4399315.2,
+   "shares_after": 85078.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 11545.0,
+   "price": 255.55,
+   "value": 2950324.75,
+   "shares_after": 73533.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 8473.0,
+   "price": 256.63,
+   "value": 2174425.99,
+   "shares_after": 65060.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1341.0,
+   "price": 250.52,
+   "value": 335947.32,
+   "shares_after": 76823.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 1245.0,
+   "price": 251.67,
+   "value": 313329.15,
+   "shares_after": 75578.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 552.0,
+   "price": 253.05,
+   "value": 139683.6,
+   "shares_after": 75026.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2033.0,
+   "price": 254.86,
+   "value": 518130.38,
+   "shares_after": 72993.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 941.0,
+   "price": 255.67,
+   "value": 240585.47,
+   "shares_after": 72052.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 450.0,
+   "price": 256.77,
+   "value": 115546.5,
+   "shares_after": 71602.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 256.98,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Kliman Gilbert H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 250.0,
+   "value": 625000.0,
+   "shares_after": 37406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478550.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 11611.0,
+   "price": 250.23,
+   "value": 2905420.53,
+   "shares_after": 87034.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12703.0,
+   "price": 251.46,
+   "value": 3194296.38,
+   "shares_after": 74331.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 9271.0,
+   "price": 252.44,
+   "value": 2340371.24,
+   "shares_after": 65060.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 5044.0,
+   "price": 250.15,
+   "value": 1261756.6,
+   "shares_after": 74108.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 1750.0,
+   "price": 251.28,
+   "value": 439740.0,
+   "shares_after": 72358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 756.0,
+   "price": 252.76,
+   "value": 191086.56,
+   "shares_after": 71602.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Kliman Gilbert H",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 250.0,
+   "value": 625000.0,
+   "shares_after": 37406.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1293171/0001193125-26-478550.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 11611.0,
+   "price": 250.23,
+   "value": 2905420.53,
+   "shares_after": 87034.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 12703.0,
+   "price": 251.46,
+   "value": 3194296.38,
+   "shares_after": 74331.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Burns Thomas William",
+   "owner_title": "Director, CHAIRMAN & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 9271.0,
+   "price": 252.44,
+   "value": 2340371.24,
+   "shares_after": 65060.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-478551.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 5044.0,
+   "price": 250.15,
+   "value": 1261756.6,
+   "shares_after": 74108.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 1750.0,
+   "price": 251.28,
+   "value": 439740.0,
+   "shares_after": 72358.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
+   "owner_name": "Gilliam Joseph E",
+   "owner_title": "PRESIDENT & COO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 756.0,
+   "price": 252.76,
+   "value": 191086.56,
+   "shares_after": 71602.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-478625.txt",
+   "price_at_trade": 249.59,
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
+  },
+  {
+   "ticker": "GKOS",
+   "company_name": "GLAUKOS Corp",
    "owner_name": "Thurman Alex R.",
    "owner_title": "SVP & CHIEF FINANCIAL OFFICER",
    "trade_type": "SELL",
@@ -35,9 +833,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -54,9 +852,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -73,9 +871,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -92,9 +890,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -111,9 +909,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -130,9 +928,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -149,9 +947,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -168,9 +966,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -187,9 +985,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -206,9 +1004,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -225,9 +1023,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -244,9 +1042,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -263,9 +1061,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -282,9 +1080,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -301,9 +1099,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -320,9 +1118,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -339,9 +1137,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -358,9 +1156,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -377,9 +1175,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -396,9 +1194,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -415,9 +1213,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -434,9 +1232,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -453,9 +1251,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -472,9 +1270,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -491,9 +1289,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -510,9 +1308,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -529,9 +1327,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -548,9 +1346,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -567,9 +1365,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -586,9 +1384,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -605,9 +1403,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -624,9 +1422,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -643,9 +1441,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -662,9 +1460,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -681,9 +1479,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -700,9 +1498,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -719,9 +1517,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -738,9 +1536,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -757,9 +1555,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -776,9 +1574,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -795,9 +1593,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1644557/0001193125-26-470661.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -814,9 +1612,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -833,9 +1631,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -852,9 +1650,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -871,9 +1669,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -890,9 +1688,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -909,9 +1707,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -928,9 +1726,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -947,9 +1745,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -966,9 +1764,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -985,9 +1783,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -1004,9 +1802,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -1023,9 +1821,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -1042,9 +1840,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920061/0001193125-26-470627.txt",
    "price_at_trade": 233.08,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 10.3
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.5
   },
   {
    "ticker": "GKOS",
@@ -1061,9 +1859,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-467432.txt",
    "price_at_trade": 244.88,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.9
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "GKOS",
@@ -1080,9 +1878,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-467432.txt",
    "price_at_trade": 244.88,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.9
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "GKOS",
@@ -1099,9 +1897,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1118,9 +1916,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1137,9 +1935,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1156,9 +1954,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1175,9 +1973,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1194,9 +1992,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1213,9 +2011,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1232,9 +2030,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1251,9 +2049,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1270,9 +2068,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1289,9 +2087,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1308,9 +2106,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705850/0001193125-26-464222.txt",
    "price_at_trade": 246.03,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.5
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.6
   },
   {
    "ticker": "GKOS",
@@ -1327,9 +2125,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-450384.txt",
    "price_at_trade": 246.7,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "GKOS",
@@ -1346,9 +2144,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1293171/0001193125-26-450384.txt",
    "price_at_trade": 246.7,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.4
   },
   {
    "ticker": "GKOS",
@@ -1365,9 +2163,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1384,9 +2182,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1403,9 +2201,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1422,9 +2220,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1192448/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1441,9 +2239,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920053/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1460,9 +2258,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920053/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1479,9 +2277,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920053/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "GKOS",
@@ -1498,9 +2296,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1920053/0001193125-26-445949.txt",
    "price_at_trade": 237.6,
-   "price_now": 256.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 8.2
+   "price_now": 259.9,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   }
  ],
  "trump_trades": [],

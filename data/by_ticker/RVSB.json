@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "RVSB",
  "company": {
   "name": "RIVERVIEW BANCORP INC",
@@ -8,8 +8,8 @@
   "industry": "Savings Institution, Federally Chartered",
   "sector": "Financials"
  },
- "price_now": 6.45,
- "price_date": "2026-11-24",
+ "price_now": 6.52,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "RVSB",
    "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "Girod Jon Louis",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 1500.0,
+   "price": 6.54,
+   "value": 9810.0,
+   "shares_after": 6500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0002128637-26-000011.txt",
+   "price_at_trade": 6.52,
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
+   "owner_name": "Girod Jon Louis",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 1500.0,
+   "price": 6.54,
+   "value": 9810.0,
+   "shares_after": 6500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2128637/0002128637-26-000011.txt",
+   "price_at_trade": 6.52,
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "RVSB",
+   "company_name": "RIVERVIEW BANCORP INC",
    "owner_name": "NIES GERALD LEE",
    "owner_title": "Director",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0001474005-26-000002.txt",
    "price_at_trade": 6.13,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.2
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "RVSB",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1474005/0001474005-26-000002.txt",
    "price_at_trade": 6.13,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.2
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.4
   },
   {
    "ticker": "RVSB",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0001474005-26-000002.txt",
    "price_at_trade": 6.09,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.9
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "RVSB",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1474005/0001474005-26-000002.txt",
    "price_at_trade": 6.09,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 5.9
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "RVSB",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1041368/0002128637-26-000009.txt",
    "price_at_trade": 6.01,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 7.3
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 8.5
   },
   {
    "ticker": "RVSB",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2128637/0002128637-26-000009.txt",
    "price_at_trade": 6.01,
-   "price_now": 6.45,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 7.3
+   "price_now": 6.52,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 8.5
   }
  ],
  "trump_trades": [],

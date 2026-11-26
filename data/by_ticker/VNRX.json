@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "VNRX",
  "company": {
   "name": "VOLITIONRX LTD",
@@ -8,8 +8,8 @@
   "industry": "In Vitro & In Vivo Diagnostic Substances",
   "sector": "Healthcare"
  },
- "price_now": 0.16,
- "price_date": "2026-11-24",
+ "price_now": 0.17,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "VNRX",
+   "company_name": "VOLITIONRX LTD",
+   "owner_name": "Reynolds Cameron John",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24-05:00",
+   "reported_date": "2026-11-25",
+   "shares": 20000.0,
+   "price": 0.1703,
+   "value": 3406.0,
+   "shares_after": 205781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1340610/0001477932-26-007296.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
+  },
+  {
+   "ticker": "VNRX",
+   "company_name": "VOLITIONRX LTD",
+   "owner_name": "Reynolds Cameron John",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24-05:00",
+   "reported_date": "2026-11-25",
+   "shares": 20000.0,
+   "price": 0.1703,
+   "value": 3406.0,
+   "shares_after": 205781.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93314/0001477932-26-007296.txt",
+   "price_at_trade": 0.16,
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
+  },
   {
    "ticker": "VNRX",
    "company_name": "VOLITIONRX LTD",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579377/0001477932-26-007226.txt",
    "price_at_trade": 0.16,
-   "price_now": 0.16,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.0
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
   },
   {
    "ticker": "VNRX",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/93314/0001477932-26-007226.txt",
    "price_at_trade": 0.16,
-   "price_now": 0.16,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.0
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
   },
   {
    "ticker": "VNRX",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1340610/0001477932-26-007198.txt",
    "price_at_trade": 0.16,
-   "price_now": 0.16,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.0
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
   },
   {
    "ticker": "VNRX",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/93314/0001477932-26-007198.txt",
    "price_at_trade": 0.16,
-   "price_now": 0.16,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.0
+   "price_now": 0.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.3
   }
  ],
  "trump_trades": [],

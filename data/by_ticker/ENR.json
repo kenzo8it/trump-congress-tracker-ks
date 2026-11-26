@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "ENR",
  "company": {
   "name": "ENERGIZER HOLDINGS, INC.",
@@ -8,8 +8,8 @@
   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
   "sector": "Construction & Industrials"
  },
- "price_now": 27.98,
- "price_date": "2026-11-24",
+ "price_now": 27.92,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ENR",
+   "company_name": "ENERGIZER HOLDINGS, INC.",
+   "owner_name": "LaVigne Mark Stephen",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 80000.0,
+   "price": 27.93,
+   "value": 2234400.0,
+   "shares_after": 542012.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1540121/0001632790-26-000117.txt",
+   "price_at_trade": 27.98,
+   "price_now": 27.92,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.2
+  },
+  {
+   "ticker": "ENR",
+   "company_name": "ENERGIZER HOLDINGS, INC.",
+   "owner_name": "LaVigne Mark Stephen",
+   "owner_title": "Director, President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 80000.0,
+   "price": 27.93,
+   "value": 2234400.0,
+   "shares_after": 542012.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1632790/0001632790-26-000117.txt",
+   "price_at_trade": 27.98,
+   "price_now": 27.92,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.2
+  },
   {
    "ticker": "ENR",
    "company_name": "ENERGIZER HOLDINGS, INC.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1632790/0001632790-26-000115.txt",
    "price_at_trade": 28.26,
-   "price_now": 27.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.0
+   "price_now": 27.92,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.2
   },
   {
    "ticker": "ENR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1793881/0001632790-26-000115.txt",
    "price_at_trade": 28.26,
-   "price_now": 27.98,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.0
+   "price_now": 27.92,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.2
   }
  ],
  "trump_trades": [],

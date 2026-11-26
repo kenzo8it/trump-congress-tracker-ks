@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "PTC",
  "company": {
   "name": "PTC INC.",
@@ -9,7 +9,7 @@
   "sector": "Technology"
  },
  "price_now": 196.0,
- "price_date": "2026-11-24",
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -43,7 +43,7 @@
    "committee_overlap": [],
    "price_at_trade": 194.62,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 0.7,
    "days_to_disclose": 14,
    "late_filing": false
@@ -73,7 +73,7 @@
    "committee_overlap": [],
    "price_at_trade": 134.44,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 45.8,
    "days_to_disclose": 25,
    "late_filing": false
@@ -103,7 +103,7 @@
    "committee_overlap": [],
    "price_at_trade": 128.89,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 52.1,
    "days_to_disclose": 16,
    "late_filing": false
@@ -133,7 +133,7 @@
    "committee_overlap": [],
    "price_at_trade": 155.74,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 25.9,
    "days_to_disclose": 25,
    "late_filing": false
@@ -165,7 +165,7 @@
    ],
    "price_at_trade": 156.13,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 25.5,
    "days_to_disclose": 3,
    "late_filing": false
@@ -195,7 +195,7 @@
    "committee_overlap": [],
    "price_at_trade": 161.91,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 21.1,
    "days_to_disclose": 16,
    "late_filing": false
@@ -227,7 +227,7 @@
    ],
    "price_at_trade": 162.14,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 20.9,
    "days_to_disclose": 10,
    "late_filing": false
@@ -259,7 +259,7 @@
    ],
    "price_at_trade": 173.52,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 13.0,
    "days_to_disclose": 31,
    "late_filing": false
@@ -291,14 +291,53 @@
    ],
    "price_at_trade": 176.48,
    "price_now": 196.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-25",
    "total_return_pct": 11.1,
    "days_to_disclose": 34,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "PTC",
+   "company_name": "PTC INC.",
+   "owner_name": "VON STAATS AARON C",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 3100.0,
+   "price": 195.71,
+   "value": 606701.0,
+   "shares_after": 34664.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1252191/0001252191-26-000006.txt",
+   "price_at_trade": 196.0,
+   "price_now": 196.0,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "PTC",
+   "company_name": "PTC INC.",
+   "owner_name": "VON STAATS AARON C",
+   "owner_title": "EVP, Chief Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 3100.0,
+   "price": 195.71,
+   "value": 606701.0,
+   "shares_after": 34664.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/857005/0001252191-26-000006.txt",
+   "price_at_trade": 196.0,
+   "price_now": 196.0,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

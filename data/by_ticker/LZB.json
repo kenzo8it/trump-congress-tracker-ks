@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "LZB",
  "company": {
   "name": "LA-Z-BOY INC",
@@ -8,8 +8,8 @@
   "industry": "Household Furniture",
   "sector": "Other"
  },
- "price_now": 30.37,
- "price_date": "2026-11-24",
+ "price_now": 30.24,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,54 @@
    "sector": "Other",
    "committee_overlap": [],
    "price_at_trade": 32.45,
-   "price_now": 30.37,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -6.4,
+   "price_now": 30.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.8,
    "days_to_disclose": 27,
    "late_filing": false
   }
  ],
  "congress_holders": [],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "LZB",
+   "company_name": "LA-Z-BOY INC",
+   "owner_name": "Linz Terrence James",
+   "owner_title": "President, Wholesale Brands",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 3000.0,
+   "price": 30.2998,
+   "value": 90899.4,
+   "shares_after": 61383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1945552/0001945552-26-000006.txt",
+   "price_at_trade": 30.24,
+   "price_now": 30.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "LZB",
+   "company_name": "LA-Z-BOY INC",
+   "owner_name": "Linz Terrence James",
+   "owner_title": "President, Wholesale Brands",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 3000.0,
+   "price": 30.2998,
+   "value": 90899.4,
+   "shares_after": 61383.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/57131/0001945552-26-000006.txt",
+   "price_at_trade": 30.24,
+   "price_now": 30.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

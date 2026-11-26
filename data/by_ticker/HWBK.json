@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-26T04:28+00:00",
+ "ticker": "HWBK",
+ "company": {
+  "name": "HAWTHORN BANCSHARES, INC.",
+  "cik": 893847,
+  "sic": 6021,
+  "industry": "National Commercial Banks",
+  "sector": "Financials"
+ },
+ "price_now": 39.3,
+ "price_date": "2026-11-25",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "HWBK",
+   "company_name": "HAWTHORN BANCSHARES, INC.",
+   "owner_name": "GILES BRENT M",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 500.0,
+   "price": 39.25,
+   "value": 19625.0,
+   "shares_after": 33259.83,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1355435/0001355435-26-000004.txt",
+   "price_at_trade": 39.15,
+   "price_now": 39.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "HWBK",
+   "company_name": "HAWTHORN BANCSHARES, INC.",
+   "owner_name": "GILES BRENT M",
+   "owner_title": "Director, CHIEF EXECUTIVE OFFICER",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 500.0,
+   "price": 39.25,
+   "value": 19625.0,
+   "shares_after": 33259.83,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/893847/0001355435-26-000004.txt",
+   "price_at_trade": 39.15,
+   "price_now": 39.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

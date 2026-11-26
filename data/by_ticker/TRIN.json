@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "TRIN",
  "company": {
   "name": "Trinity Capital Inc.",
@@ -8,8 +8,8 @@
   "industry": "",
   "sector": null
  },
- "price_now": 17.17,
- "price_date": "2026-11-24",
+ "price_now": 17.31,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TRIN",
+   "company_name": "Trinity Capital Inc.",
+   "owner_name": "Brown Steve Louis",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 720.0,
+   "price": 17.06,
+   "value": 12283.2,
+   "shares_after": 348521.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786108/0001193125-26-478554.txt",
+   "price_at_trade": 17.04,
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "TRIN",
+   "company_name": "Trinity Capital Inc.",
+   "owner_name": "Brown Steve Louis",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 675.0,
+   "price": 17.09,
+   "value": 11535.75,
+   "shares_after": 941420.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786108/0001193125-26-478554.txt",
+   "price_at_trade": 17.04,
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "TRIN",
+   "company_name": "Trinity Capital Inc.",
+   "owner_name": "Brown Steve Louis",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 720.0,
+   "price": 17.06,
+   "value": 12283.2,
+   "shares_after": 348521.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1796793/0001193125-26-478554.txt",
+   "price_at_trade": 17.04,
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
+  {
+   "ticker": "TRIN",
+   "company_name": "Trinity Capital Inc.",
+   "owner_name": "Brown Steve Louis",
+   "owner_title": "Director, Executive Chairman",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 675.0,
+   "price": 17.09,
+   "value": 11535.75,
+   "shares_after": 941420.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1796793/0001193125-26-478554.txt",
+   "price_at_trade": 17.04,
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.6
+  },
   {
    "ticker": "TRIN",
    "company_name": "Trinity Capital Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786108/0001193125-26-475868.txt",
    "price_at_trade": 16.63,
-   "price_now": 17.17,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.2
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "TRIN",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796067/0001193125-26-475868.txt",
    "price_at_trade": 16.63,
-   "price_now": 17.17,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.2
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.1
   },
   {
    "ticker": "TRIN",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786108/0001193125-26-460772.txt",
    "price_at_trade": 17.86,
-   "price_now": 17.17,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.9
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.1
   },
   {
    "ticker": "TRIN",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1796795/0001193125-26-460772.txt",
    "price_at_trade": 17.86,
-   "price_now": 17.17,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.9
+   "price_now": 17.31,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.1
   }
  ],
  "trump_trades": [],

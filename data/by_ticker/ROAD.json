@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "ROAD",
  "company": {
   "name": "Construction Partners, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Heavy Construction Other Than Bldg Const - Contractors",
   "sector": "Construction & Industrials"
  },
- "price_now": 70.25,
- "price_date": "2026-11-24",
+ "price_now": 72.12,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ROAD",
+   "company_name": "Construction Partners, Inc.",
+   "owner_name": "Fleming Ned N III",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 1909.0,
+   "price": 71.91,
+   "value": 137276.19,
+   "shares_after": 1909.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1707712/0001193125-26-478515.txt",
+   "price_at_trade": 71.8,
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "ROAD",
+   "company_name": "Construction Partners, Inc.",
+   "owner_name": "Fleming Ned N III",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 591.0,
+   "price": 72.85,
+   "value": 43054.35,
+   "shares_after": 2500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1707712/0001193125-26-478515.txt",
+   "price_at_trade": 71.8,
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "ROAD",
+   "company_name": "Construction Partners, Inc.",
+   "owner_name": "Fleming Ned N III",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 1909.0,
+   "price": 71.91,
+   "value": 137276.19,
+   "shares_after": 1909.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1718227/0001193125-26-478515.txt",
+   "price_at_trade": 71.8,
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  },
+  {
+   "ticker": "ROAD",
+   "company_name": "Construction Partners, Inc.",
+   "owner_name": "Fleming Ned N III",
+   "owner_title": "Director, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 591.0,
+   "price": 72.85,
+   "value": 43054.35,
+   "shares_after": 2500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1718227/0001193125-26-478515.txt",
+   "price_at_trade": 71.8,
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.4
+  },
   {
    "ticker": "ROAD",
    "company_name": "Construction Partners, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1621670/0001628280-26-071701.txt",
    "price_at_trade": 77.18,
-   "price_now": 70.25,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -9.0
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.6
   },
   {
    "ticker": "ROAD",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1718227/0001628280-26-071701.txt",
    "price_at_trade": 77.18,
-   "price_now": 70.25,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -9.0
+   "price_now": 72.12,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.6
   }
  ],
  "trump_trades": [],

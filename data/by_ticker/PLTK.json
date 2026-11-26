@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "PLTK",
  "company": {
   "name": "Playtika Holding Corp.",
@@ -8,8 +8,8 @@
   "industry": "Services-Computer Processing & Data Preparation",
   "sector": "Technology"
  },
- "price_now": 2.36,
- "price_date": "2026-11-24",
+ "price_now": 2.38,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Sandler Ariel",
    "owner_title": "Chief Operations Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 235504.0,
+   "price": 2.37,
+   "value": 558144.48,
+   "shares_after": 452330.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1828016/0001971511-26-000008.txt",
+   "price_at_trade": 2.36,
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "PLTK",
+   "company_name": "Playtika Holding Corp.",
+   "owner_name": "Sandler Ariel",
+   "owner_title": "Chief Operations Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 235504.0,
+   "price": 2.37,
+   "value": 558144.48,
+   "shares_after": 452330.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1971511/0001971511-26-000008.txt",
+   "price_at_trade": 2.36,
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "PLTK",
+   "company_name": "Playtika Holding Corp.",
+   "owner_name": "Sandler Ariel",
+   "owner_title": "Chief Operations Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-17",
    "reported_date": "2026-11-17",
    "shares": 143485.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828016/0001971511-26-000006.txt",
    "price_at_trade": 2.6,
-   "price_now": 2.36,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -9.2
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "PLTK",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1971511/0001971511-26-000006.txt",
    "price_at_trade": 2.6,
-   "price_now": 2.36,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -9.2
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "PLTK",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1828016/0002022718-26-000004.txt",
    "price_at_trade": 2.59,
-   "price_now": 2.36,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.9
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.1
   },
   {
    "ticker": "PLTK",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2022718/0002022718-26-000004.txt",
    "price_at_trade": 2.59,
-   "price_now": 2.36,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.9
+   "price_now": 2.38,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -8.1
   }
  ],
  "trump_trades": [],

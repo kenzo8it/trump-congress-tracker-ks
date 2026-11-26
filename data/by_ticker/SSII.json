@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "SSII",
  "company": {
   "name": "SS Innovations International, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 1.23,
- "price_date": "2026-11-24",
+ "price_now": 1.24,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-123787.txt",
    "price_at_trade": 1.23,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.0
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
   },
   {
    "ticker": "SSII",
@@ -54,8 +54,46 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2035070/0001213900-26-123787.txt",
    "price_at_trade": 1.23,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.8
+  },
+  {
+   "ticker": "SSII",
+   "company_name": "SS Innovations International, Inc.",
+   "owner_name": "Adams Timothy P.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 2000.0,
+   "price": 1.23,
+   "value": 2460.0,
+   "shares_after": 2000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-123787.txt",
+   "price_at_trade": 1.24,
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "SSII",
+   "company_name": "SS Innovations International, Inc.",
+   "owner_name": "Adams Timothy P.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-24",
+   "shares": 2000.0,
+   "price": 1.24,
+   "value": 2480.0,
+   "shares_after": 4000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-123787.txt",
+   "price_at_trade": 1.24,
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
    "total_return_pct": 0.0
   },
   {
@@ -71,49 +109,11 @@
    "value": 2460.0,
    "shares_after": 2000.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-123787.txt",
-   "price_at_trade": 1.24,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.8
-  },
-  {
-   "ticker": "SSII",
-   "company_name": "SS Innovations International, Inc.",
-   "owner_name": "Adams Timothy P.",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-23",
-   "reported_date": "2026-11-24",
-   "shares": 2000.0,
-   "price": 1.24,
-   "value": 2480.0,
-   "shares_after": 4000.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-123787.txt",
-   "price_at_trade": 1.24,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.8
-  },
-  {
-   "ticker": "SSII",
-   "company_name": "SS Innovations International, Inc.",
-   "owner_name": "Adams Timothy P.",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-23",
-   "reported_date": "2026-11-24",
-   "shares": 2000.0,
-   "price": 1.23,
-   "value": 2460.0,
-   "shares_after": 2000.0,
-   "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2035070/0001213900-26-123787.txt",
    "price_at_trade": 1.24,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.8
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "SSII",
@@ -130,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2035070/0001213900-26-123787.txt",
    "price_at_trade": 1.24,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.8
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "SSII",
@@ -149,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1570020/0001213900-26-121405.txt",
    "price_at_trade": 1.33,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -7.5
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.8
   },
   {
    "ticker": "SSII",
@@ -168,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1676163/0001213900-26-121405.txt",
    "price_at_trade": 1.33,
-   "price_now": 1.23,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -7.5
+   "price_now": 1.24,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.8
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "GEHCV",
  "company": {},
  "price_now": null,
@@ -12,6 +12,36 @@
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
  "congress_trades": [
+  {
+   "chamber": "House",
+   "politician_name": "Robert F. Onder, Jr.",
+   "state_district": "MO03",
+   "reported_date": "2026-11-24",
+   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+   "owner": "self",
+   "asset": "GE HealthCare Technologies Inc.",
+   "asset_type": "ST",
+   "ticker": "GEHCV",
+   "trade_type": "SELL",
+   "partial": false,
+   "traded_date": "2026-10-29",
+   "notified_date": "2026-10-29",
+   "size_lower": 1001,
+   "size_upper": 15000,
+   "size_mid": 8000.5,
+   "bioguide": "O000177",
+   "party": "Republican",
+   "state": "MO",
+   "company_name": "GE HealthCare Technologies Inc.",
+   "sector": null,
+   "committee_overlap": [],
+   "price_at_trade": null,
+   "price_now": null,
+   "price_now_date": null,
+   "total_return_pct": null,
+   "days_to_disclose": 26,
+   "late_filing": false
+  },
   {
    "chamber": "House",
    "politician_name": "Gilbert Ray Cisneros, Jr.",

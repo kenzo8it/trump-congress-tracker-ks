@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "CLBT",
  "company": {
   "name": "Cellebrite DI Ltd.",
@@ -8,8 +8,8 @@
   "industry": "Services-Prepackaged Software",
   "sector": "Technology"
  },
- "price_now": 11.63,
- "price_date": "2026-11-24",
+ "price_now": 11.91,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "GEE DAVID NICHOLAS",
    "owner_title": "Chief Marketing Officer",
    "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4002.0,
+   "price": 11.6164,
+   "value": 46488.83,
+   "shares_after": 128955.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1547134/0001628280-26-075863.txt",
+   "price_at_trade": 11.63,
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CLBT",
+   "company_name": "Cellebrite DI Ltd.",
+   "owner_name": "GEE DAVID NICHOLAS",
+   "owner_title": "Chief Marketing Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 4002.0,
+   "price": 11.6164,
+   "value": 46488.83,
+   "shares_after": 128955.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-075863.txt",
+   "price_at_trade": 11.63,
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.4
+  },
+  {
+   "ticker": "CLBT",
+   "company_name": "Cellebrite DI Ltd.",
+   "owner_name": "GEE DAVID NICHOLAS",
+   "owner_title": "Chief Marketing Officer",
+   "trade_type": "SELL",
    "traded_date": "2026-11-23",
    "reported_date": "2026-11-24",
    "shares": 2090.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1547134/0001628280-26-075732.txt",
    "price_at_trade": 11.23,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.6
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "CLBT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-075732.txt",
    "price_at_trade": 11.23,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 3.6
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 6.1
   },
   {
    "ticker": "CLBT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1815199/0001628280-26-074949.txt",
    "price_at_trade": 10.65,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 9.2
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.8
   },
   {
    "ticker": "CLBT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-074949.txt",
    "price_at_trade": 10.65,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 9.2
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.8
   },
   {
    "ticker": "CLBT",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-074647.txt",
    "price_at_trade": 10.65,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 9.2
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.8
   },
   {
    "ticker": "CLBT",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875661/0001628280-26-074647.txt",
    "price_at_trade": 10.65,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 9.2
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 11.8
   },
   {
    "ticker": "CLBT",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-074647.txt",
    "price_at_trade": 11.12,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.6
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "CLBT",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875661/0001628280-26-074647.txt",
    "price_at_trade": 11.12,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.6
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 7.1
   },
   {
    "ticker": "CLBT",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1547134/0001628280-26-073843.txt",
    "price_at_trade": 10.89,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.8
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "CLBT",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-073843.txt",
    "price_at_trade": 10.89,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.8
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "CLBT",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1854587/0001628280-26-073412.txt",
    "price_at_trade": 10.89,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.8
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   },
   {
    "ticker": "CLBT",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1875661/0001628280-26-073412.txt",
    "price_at_trade": 10.89,
-   "price_now": 11.63,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.8
+   "price_now": 11.91,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.4
   }
  ],
  "trump_trades": [],

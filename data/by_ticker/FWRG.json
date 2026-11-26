@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "FWRG",
  "company": {
   "name": "First Watch Restaurant Group, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 12.64,
- "price_date": "2026-11-24",
+ "price_now": 12.59,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 11.36,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 11.3,
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 10.8,
    "days_to_disclose": 43,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Retail & Consumer",
    "committee_overlap": [],
    "price_at_trade": 12.97,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.5,
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.9,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -104,9 +104,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 18.45,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -31.5,
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -31.8,
    "days_to_disclose": 19,
    "late_filing": false
   }
@@ -123,10 +123,10 @@
    "ticker": "FWRG",
    "est_shares": 433.6,
    "avg_price": 18.45,
-   "price_now": 12.64,
-   "est_position_value": 5481,
-   "total_return_pct": -31.5,
-   "total_return_usd": -2519,
+   "price_now": 12.59,
+   "est_position_value": 5459,
+   "total_return_pct": -31.8,
+   "total_return_usd": -2541,
    "first_buy": "2025-11-26",
    "last_trade": "2025-11-26"
   },
@@ -139,10 +139,10 @@
    "ticker": "FWRG",
    "est_shares": 704.3,
    "avg_price": 11.36,
-   "price_now": 12.64,
-   "est_position_value": 8902,
-   "total_return_pct": 11.3,
-   "total_return_usd": 901,
+   "price_now": 12.59,
+   "est_position_value": 8867,
+   "total_return_pct": 10.8,
+   "total_return_usd": 866,
    "first_buy": "2026-04-06",
    "last_trade": "2026-04-06"
   }
@@ -151,6 +151,44 @@
   {
    "ticker": "FWRG",
    "company_name": "First Watch Restaurant Group, Inc.",
+   "owner_name": "Kussell William A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25000.0,
+   "price": 12.63,
+   "value": 315750.0,
+   "shares_after": 38747.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1518338/0001518338-26-000004.txt",
+   "price_at_trade": 12.64,
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "FWRG",
+   "company_name": "First Watch Restaurant Group, Inc.",
+   "owner_name": "Kussell William A",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 25000.0,
+   "price": 12.63,
+   "value": 315750.0,
+   "shares_after": 38747.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001518338-26-000004.txt",
+   "price_at_trade": 12.64,
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "FWRG",
+   "company_name": "First Watch Restaurant Group, Inc.",
    "owner_name": "Sorensen Laura Anne",
    "owner_title": "Chief People Officer",
    "trade_type": "SELL",
@@ -163,9 +201,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001880954-26-000005.txt",
    "price_at_trade": 12.72,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.6
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "FWRG",
@@ -182,9 +220,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880954/0001880954-26-000005.txt",
    "price_at_trade": 12.72,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.6
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "FWRG",
@@ -201,9 +239,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001879565-26-000006.txt",
    "price_at_trade": 12.72,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.6
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "FWRG",
@@ -220,9 +258,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1879565/0001879565-26-000006.txt",
    "price_at_trade": 12.72,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.6
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.0
   },
   {
    "ticker": "FWRG",
@@ -239,9 +277,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001880954-26-000005.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -258,9 +296,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001880954-26-000005.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -277,9 +315,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880954/0001880954-26-000005.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -296,9 +334,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880954/0001880954-26-000005.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -315,9 +353,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001879565-26-000006.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -334,9 +372,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1879565/0001879565-26-000006.txt",
    "price_at_trade": 13.06,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.2
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.6
   },
   {
    "ticker": "FWRG",
@@ -353,9 +391,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1789940/0001879565-26-000006.txt",
    "price_at_trade": 13.21,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -4.3
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.7
   },
   {
    "ticker": "FWRG",
@@ -372,9 +410,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1879565/0001879565-26-000006.txt",
    "price_at_trade": 13.21,
-   "price_now": 12.64,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -4.3
+   "price_now": 12.59,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.7
   }
  ],
  "trump_trades": [],

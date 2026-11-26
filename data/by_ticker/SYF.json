@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "SYF",
  "company": {
   "name": "Synchrony Financial",
@@ -8,8 +8,8 @@
   "industry": "Finance Services",
   "sector": "Financials"
  },
- "price_now": 67.91,
- "price_date": "2026-11-24",
+ "price_now": 68.73,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Financial Services"
    ],
    "price_at_trade": 71.56,
-   "price_now": 67.91,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -5.1,
+   "price_now": 68.73,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.0,
    "days_to_disclose": 40,
    "late_filing": false
   },
@@ -74,9 +74,9 @@
    "sector": "Financials",
    "committee_overlap": [],
    "price_at_trade": 67.73,
-   "price_now": 67.91,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 0.3,
+   "price_now": 68.73,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.5,
    "days_to_disclose": 195,
    "late_filing": true
   }
@@ -91,10 +91,10 @@
    "ticker": "SYF",
    "est_shares": 118.1,
    "avg_price": 67.73,
-   "price_now": 67.91,
-   "est_position_value": 8022,
-   "total_return_pct": 0.3,
-   "total_return_usd": 21,
+   "price_now": 68.73,
+   "est_position_value": 8119,
+   "total_return_pct": 1.5,
+   "total_return_usd": 118,
    "first_buy": "2025-07-02",
    "last_trade": "2025-07-02"
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "ALT",
  "company": {
   "name": "Altimmune, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 1.38,
- "price_date": "2026-11-24",
+ "price_now": 1.45,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "ALT",
+   "company_name": "Altimmune, Inc.",
+   "owner_name": "Sohn Catherine A.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 1.43,
+   "value": 14300.0,
+   "shares_after": 11500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/0001555132-26-000012.txt",
+   "price_at_trade": 1.38,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.1
+  },
+  {
+   "ticker": "ALT",
+   "company_name": "Altimmune, Inc.",
+   "owner_name": "Sohn Catherine A.",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 1.43,
+   "value": 14300.0,
+   "shares_after": 11500.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1555132/0001555132-26-000012.txt",
+   "price_at_trade": 1.38,
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 5.1
+  },
   {
    "ticker": "ALT",
    "company_name": "Altimmune, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/0002156820-26-000008.txt",
    "price_at_trade": 1.39,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.7
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "ALT",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2156820/0002156820-26-000008.txt",
    "price_at_trade": 1.39,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.7
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.3
   },
   {
    "ticker": "ALT",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1251779/0001251779-26-000017.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   },
   {
    "ticker": "ALT",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/0001251779-26-000017.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   },
   {
    "ticker": "ALT",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/0001698665-26-000011.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   },
   {
    "ticker": "ALT",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/0001743611-26-000008.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   },
   {
    "ticker": "ALT",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1698665/0001698665-26-000011.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   },
   {
    "ticker": "ALT",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1743611/0001743611-26-000008.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.38,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -16.1
+   "price_now": 1.45,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -11.9
   }
  ],
  "trump_trades": [],

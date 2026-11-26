@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "TWFG",
  "company": {
   "name": "TWFG, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Insurance Agents, Brokers & Service",
   "sector": "Financials"
  },
- "price_now": 25.9,
- "price_date": "2026-11-24",
+ "price_now": 25.3,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "TWFG",
    "company_name": "TWFG, Inc.",
+   "owner_name": "Bunch Charles Alexander",
+   "owner_title": "Chief Creative & Marketing Off",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 5200.0,
+   "price": 25.5,
+   "value": 132600.0,
+   "shares_after": 31323.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2007596/0002028304-26-000005.txt",
+   "price_at_trade": 25.39,
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "TWFG",
+   "company_name": "TWFG, Inc.",
+   "owner_name": "Bunch Charles Alexander",
+   "owner_title": "Chief Creative & Marketing Off",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 5200.0,
+   "price": 25.5,
+   "value": 132600.0,
+   "shares_after": 31323.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2028304/0002028304-26-000005.txt",
+   "price_at_trade": 25.39,
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.4
+  },
+  {
+   "ticker": "TWFG",
+   "company_name": "TWFG, Inc.",
    "owner_name": "Zwinggi Janice E.",
    "owner_title": "Chief Financial Officer",
    "trade_type": "SELL",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007596/0002028316-26-000005.txt",
    "price_at_trade": 26.48,
-   "price_now": 25.9,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.2
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "TWFG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028316/0002028316-26-000005.txt",
    "price_at_trade": 26.48,
-   "price_now": 25.9,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.2
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "TWFG",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2007596/0002028316-26-000005.txt",
    "price_at_trade": 26.92,
-   "price_now": 25.9,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.8
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.0
   },
   {
    "ticker": "TWFG",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2028316/0002028316-26-000005.txt",
    "price_at_trade": 26.92,
-   "price_now": 25.9,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.8
+   "price_now": 25.3,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -6.0
   }
  ],
  "trump_trades": [],

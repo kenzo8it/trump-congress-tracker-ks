@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "LH",
  "company": {
   "name": "LABCORP HOLDINGS INC.",
@@ -8,8 +8,8 @@
   "industry": "Services-Medical Laboratories",
   "sector": "Healthcare"
  },
- "price_now": 376.11,
- "price_date": "2026-11-24",
+ "price_now": 368.95,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,9 +42,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 336.31,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 11.8,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 9.7,
    "days_to_disclose": 15,
    "late_filing": false
   },
@@ -72,9 +72,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 317.87,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 18.3,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 16.1,
    "days_to_disclose": 33,
    "late_filing": false
   },
@@ -102,9 +102,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 315.24,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 19.3,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 17.0,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -132,9 +132,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 312.68,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 20.3,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 18.0,
    "days_to_disclose": 35,
    "late_filing": false
   },
@@ -162,9 +162,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 287.2,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 31.0,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 28.5,
    "days_to_disclose": 27,
    "late_filing": false
   },
@@ -192,9 +192,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 273.6,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 37.5,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 34.9,
    "days_to_disclose": 34,
    "late_filing": false
   },
@@ -222,9 +222,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 265.55,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 41.6,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 38.9,
    "days_to_disclose": 5,
    "late_filing": false
   },
@@ -252,9 +252,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 258.25,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 45.6,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 42.9,
    "days_to_disclose": 21,
    "late_filing": false
   },
@@ -282,9 +282,9 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 250.93,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 49.9,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 47.0,
    "days_to_disclose": 4,
    "late_filing": false
   },
@@ -312,15 +312,91 @@
    "sector": "Healthcare",
    "committee_overlap": [],
    "price_at_trade": 245.18,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 53.4,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 50.5,
    "days_to_disclose": 6,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "LH",
+   "company_name": "LABCORP HOLDINGS INC.",
+   "owner_name": "Schechter Adam H",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 6810.0,
+   "price": 368.04,
+   "value": 2506352.4,
+   "shares_after": 95755.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1376841/0000920148-26-000232.txt",
+   "price_at_trade": 371.84,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "LH",
+   "company_name": "LABCORP HOLDINGS INC.",
+   "owner_name": "Summy Amy B.",
+   "owner_title": "EVP, Chief Marketing Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 4221.0,
+   "price": 373.407,
+   "value": 1576150.95,
+   "shares_after": 7053.5,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1805303/0000920148-26-000231.txt",
+   "price_at_trade": 371.84,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "LH",
+   "company_name": "LABCORP HOLDINGS INC.",
+   "owner_name": "Summy Amy B.",
+   "owner_title": "EVP, Chief Marketing Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 4221.0,
+   "price": 373.407,
+   "value": 1576150.95,
+   "shares_after": 7053.5,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000231.txt",
+   "price_at_trade": 371.84,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
+  },
+  {
+   "ticker": "LH",
+   "company_name": "LABCORP HOLDINGS INC.",
+   "owner_name": "Schechter Adam H",
+   "owner_title": "Director, President & CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 6810.0,
+   "price": 368.04,
+   "value": 2506352.4,
+   "shares_after": 95755.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000232.txt",
+   "price_at_trade": 371.84,
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
+  },
   {
    "ticker": "LH",
    "company_name": "LABCORP HOLDINGS INC.",
@@ -336,9 +412,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1805303/0000920148-26-000230.txt",
    "price_at_trade": 371.74,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.2
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "LH",
@@ -355,9 +431,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000230.txt",
    "price_at_trade": 371.74,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.2
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.8
   },
   {
    "ticker": "LH",
@@ -374,9 +450,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1717915/0000920148-26-000229.txt",
    "price_at_trade": 370.16,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.6
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.3
   },
   {
    "ticker": "LH",
@@ -393,9 +469,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000229.txt",
    "price_at_trade": 370.16,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 1.6
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.3
   },
   {
    "ticker": "LH",
@@ -412,9 +488,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2103999/0000920148-26-000228.txt",
    "price_at_trade": 353.24,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.5
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "LH",
@@ -431,9 +507,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000228.txt",
    "price_at_trade": 353.24,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 6.5
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.4
   },
   {
    "ticker": "LH",
@@ -450,9 +526,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1550078/0000920148-26-000225.txt",
    "price_at_trade": 360.69,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.3
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.3
   },
   {
    "ticker": "LH",
@@ -469,9 +545,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/920148/0000920148-26-000225.txt",
    "price_at_trade": 360.69,
-   "price_now": 376.11,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 4.3
+   "price_now": 368.95,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 2.3
   }
  ],
  "trump_trades": [],

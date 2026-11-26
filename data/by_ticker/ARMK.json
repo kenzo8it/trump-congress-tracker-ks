@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "ARMK",
  "company": {
   "name": "Aramark",
@@ -8,8 +8,8 @@
   "industry": "Retail-Eating  Places",
   "sector": "Retail & Consumer"
  },
- "price_now": 56.83,
- "price_date": "2026-11-24",
+ "price_now": 57.8,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Small Business"
    ],
    "price_at_trade": 37.03,
-   "price_now": 56.83,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": 53.5,
+   "price_now": 57.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 56.1,
    "days_to_disclose": 33,
    "late_filing": false
   }
@@ -63,15 +63,54 @@
    "ticker": "ARMK",
    "est_shares": 216.1,
    "avg_price": 37.03,
-   "price_now": 56.83,
-   "est_position_value": 12278,
-   "total_return_pct": 53.5,
-   "total_return_usd": 4278,
+   "price_now": 57.8,
+   "est_position_value": 12488,
+   "total_return_pct": 56.1,
+   "total_return_usd": 4487,
    "first_buy": "2025-12-10",
    "last_trade": "2025-12-10"
   }
  ],
- "insider_trades": [],
+ "insider_trades": [
+  {
+   "ticker": "ARMK",
+   "company_name": "Aramark",
+   "owner_name": "Schilling Christopher T.",
+   "owner_title": "SVP, Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 9629.0,
+   "price": 56.77,
+   "value": 546638.33,
+   "shares_after": 44992.145,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1584509/0001875451-26-000012.txt",
+   "price_at_trade": 56.75,
+   "price_now": 57.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.9
+  },
+  {
+   "ticker": "ARMK",
+   "company_name": "Aramark",
+   "owner_name": "Schilling Christopher T.",
+   "owner_title": "SVP, Controller and CAO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 9629.0,
+   "price": 56.77,
+   "value": 546638.33,
+   "shares_after": 44992.145,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1875451/0001875451-26-000012.txt",
+   "price_at_trade": 56.75,
+   "price_now": 57.8,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 1.9
+  }
+ ],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

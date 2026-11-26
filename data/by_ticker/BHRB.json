@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "BHRB",
  "company": {
   "name": "Burke & Herbert Financial Services Corp.",
@@ -8,8 +8,8 @@
   "industry": "National Commercial Banks",
   "sector": "Financials"
  },
- "price_now": 68.86,
- "price_date": "2026-11-24",
+ "price_now": 69.25,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "BHRB",
+   "company_name": "Burke & Herbert Financial Services Corp.",
+   "owner_name": "McLaughlin Shawn Patrick",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 500.0,
+   "price": 68.75,
+   "value": 34375.0,
+   "shares_after": 72000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001964493-26-000012.txt",
+   "price_at_trade": 69.25,
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "BHRB",
+   "company_name": "Burke & Herbert Financial Services Corp.",
+   "owner_name": "McLaughlin Shawn Patrick",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-25",
+   "shares": 500.0,
+   "price": 68.75,
+   "value": 34375.0,
+   "shares_after": 72000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1964493/0001964493-26-000012.txt",
+   "price_at_trade": 69.25,
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.0
+  },
   {
    "ticker": "BHRB",
    "company_name": "Burke & Herbert Financial Services Corp.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1208842/0001208842-26-000016.txt",
    "price_at_trade": 68.89,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.0
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "BHRB",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001208842-26-000016.txt",
    "price_at_trade": 68.89,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -0.0
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 0.5
   },
   {
    "ticker": "BHRB",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1945031/0001945031-26-000015.txt",
    "price_at_trade": 71.29,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.4
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "BHRB",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001945031-26-000015.txt",
    "price_at_trade": 71.29,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.4
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -2.9
   },
   {
    "ticker": "BHRB",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001964493-26-000010.txt",
    "price_at_trade": 70.53,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.4
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.8
   },
   {
    "ticker": "BHRB",
@@ -130,85 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1964493/0001964493-26-000010.txt",
    "price_at_trade": 70.53,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -2.4
-  },
-  {
-   "ticker": "BHRB",
-   "company_name": "Burke & Herbert Financial Services Corp.",
-   "owner_name": "WILSON DAVID",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-27",
-   "shares": 35.0,
-   "price": 70.115,
-   "value": 2454.02,
-   "shares_after": 397.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1208842/0001208842-26-000014.txt",
-   "price_at_trade": 69.92,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.5
-  },
-  {
-   "ticker": "BHRB",
-   "company_name": "Burke & Herbert Financial Services Corp.",
-   "owner_name": "WILSON DAVID",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-27",
-   "shares": 69.0,
-   "price": 69.85,
-   "value": 4819.65,
-   "shares_after": 69.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1208842/0001208842-26-000014.txt",
-   "price_at_trade": 69.92,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.5
-  },
-  {
-   "ticker": "BHRB",
-   "company_name": "Burke & Herbert Financial Services Corp.",
-   "owner_name": "WILSON DAVID",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-27",
-   "shares": 35.0,
-   "price": 70.115,
-   "value": 2454.02,
-   "shares_after": 397.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001208842-26-000014.txt",
-   "price_at_trade": 69.92,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.5
-  },
-  {
-   "ticker": "BHRB",
-   "company_name": "Burke & Herbert Financial Services Corp.",
-   "owner_name": "WILSON DAVID",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-27",
-   "shares": 69.0,
-   "price": 69.85,
-   "value": 4819.65,
-   "shares_after": 69.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1964333/0001208842-26-000014.txt",
-   "price_at_trade": 69.92,
-   "price_now": 68.86,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -1.5
+   "price_now": 69.25,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -1.8
   }
  ],
  "trump_trades": [],

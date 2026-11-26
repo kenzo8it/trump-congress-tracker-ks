@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "BG",
  "company": {
   "name": "Bunge Global SA",
@@ -8,8 +8,8 @@
   "industry": "Fats & Oils",
   "sector": "Agriculture & Food"
  },
- "price_now": 84.06,
- "price_date": "2026-11-24",
+ "price_now": 88.15,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -23,6 +23,44 @@
   {
    "ticker": "BG",
    "company_name": "Bunge Global SA",
+   "owner_name": "Zenuk Mark N",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 91.9826,
+   "value": 229956.5,
+   "shares_after": 9000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1335617/0001628280-26-076025.txt",
+   "price_at_trade": 84.06,
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "BG",
+   "company_name": "Bunge Global SA",
+   "owner_name": "Zenuk Mark N",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-25",
+   "shares": 2500.0,
+   "price": 91.9826,
+   "value": 229956.5,
+   "shares_after": 9000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1996862/0001628280-26-076025.txt",
+   "price_at_trade": 84.06,
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": 4.9
+  },
+  {
+   "ticker": "BG",
+   "company_name": "Bunge Global SA",
    "owner_name": "Mahoney Christopher",
    "owner_title": "Director",
    "trade_type": "BUY",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1996862/0001628280-26-075421.txt",
    "price_at_trade": 90.9,
-   "price_now": 84.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -7.5
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.0
   },
   {
    "ticker": "BG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2074676/0001628280-26-075421.txt",
    "price_at_trade": 90.9,
-   "price_now": 84.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -7.5
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.0
   },
   {
    "ticker": "BG",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1996862/0001628280-26-075421.txt",
    "price_at_trade": 91.75,
-   "price_now": 84.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.4
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "BG",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2074676/0001628280-26-075421.txt",
    "price_at_trade": 91.75,
-   "price_now": 84.06,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -8.4
+   "price_now": 88.15,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.9
   }
  ],
  "trump_trades": [],

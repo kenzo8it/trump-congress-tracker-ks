@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:13+00:00",
+ "updated": "2026-11-26T04:28+00:00",
  "ticker": "KODK",
  "company": {
   "name": "EASTMAN KODAK CO",
@@ -8,8 +8,8 @@
   "industry": "Photographic Equipment & Supplies",
   "sector": "Other"
  },
- "price_now": 8.18,
- "price_date": "2026-11-24",
+ "price_now": 8.17,
+ "price_date": "2026-11-25",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "KODK",
+   "company_name": "EASTMAN KODAK CO",
+   "owner_name": "Lynch Kathleen B.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 8.15,
+   "value": 81500.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1863429/0000891839-26-000507.txt",
+   "price_at_trade": 8.18,
+   "price_now": 8.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.1
+  },
+  {
+   "ticker": "KODK",
+   "company_name": "EASTMAN KODAK CO",
+   "owner_name": "Lynch Kathleen B.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-23",
+   "reported_date": "2026-11-25",
+   "shares": 10000.0,
+   "price": 8.15,
+   "value": 81500.0,
+   "shares_after": 0.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/31235/0000891839-26-000507.txt",
+   "price_at_trade": 8.18,
+   "price_now": 8.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -0.1
+  },
   {
    "ticker": "KODK",
    "company_name": "EASTMAN KODAK CO",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1579836/0000891839-26-000488.txt",
    "price_at_trade": 8.5,
-   "price_now": 8.18,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.8
+   "price_now": 8.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.9
   },
   {
    "ticker": "KODK",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/31235/0000891839-26-000488.txt",
    "price_at_trade": 8.5,
-   "price_now": 8.18,
-   "price_now_date": "2026-11-24",
-   "total_return_pct": -3.8
+   "price_now": 8.17,
+   "price_now_date": "2026-11-25",
+   "total_return_pct": -3.9
   }
  ],
  "trump_trades": [],
