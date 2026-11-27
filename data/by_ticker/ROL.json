@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "ROL",
  "company": {
   "name": "ROLLINS INC",
@@ -230,36 +230,6 @@
   },
   {
    "chamber": "House",
-   "politician_name": "Lisa C. McClain",
-   "state_district": "MI09",
-   "reported_date": "2025-10-22",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf",
-   "owner": "spouse",
-   "asset": "Rollins, Inc. Common Stock",
-   "asset_type": "ST",
-   "ticker": "ROL",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-01",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "M001136",
-   "party": "Republican",
-   "state": "MI",
-   "company_name": "ROLLINS INC",
-   "sector": "Retail & Consumer",
-   "committee_overlap": [],
-   "price_at_trade": 55.34,
-   "price_now": 38.45,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -30.5,
-   "days_to_disclose": 27,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
    "politician_name": "Julie Johnson",
    "state_district": "TX32",
    "reported_date": "2026-08-05",
@@ -319,24 +289,7 @@
    "late_filing": true
   }
  ],
- "congress_holders": [
-  {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "ROL",
-   "est_shares": 1.2,
-   "avg_price": 55.34,
-   "price_now": 38.45,
-   "est_position_value": 45,
-   "total_return_pct": -30.5,
-   "total_return_usd": -20,
-   "first_buy": "2025-09-25",
-   "last_trade": "2025-10-14"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "ROL",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -152,9 +152,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 81.51,
-   "price_now": 76.64,
+   "price_now": 76.06,
    "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0,
+   "total_return_pct": -6.7,
    "days_to_disclose": 14,
    "late_filing": false
   },
@@ -7928,9 +7928,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 62.26,
-   "price_now": 49.58,
+   "price_now": 49.15,
    "price_now_date": "2026-11-25",
-   "total_return_pct": -20.4,
+   "total_return_pct": -21.1,
    "days_to_disclose": 11,
    "late_filing": false
   },
@@ -8184,9 +8184,9 @@
    "sector": null,
    "committee_overlap": [],
    "price_at_trade": 59.92,
-   "price_now": 49.58,
+   "price_now": 49.15,
    "price_now_date": "2026-11-25",
-   "total_return_pct": -17.3,
+   "total_return_pct": -18.0,
    "days_to_disclose": 18,
    "late_filing": false
   },
@@ -8245,7 +8245,7 @@
    "committee_overlap": [],
    "price_at_trade": 0.0,
    "price_now": 0.0,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-26",
    "total_return_pct": 0.0,
    "days_to_disclose": 20,
    "late_filing": false
@@ -12574,9 +12574,9 @@
     "House Committee on the Judiciary"
    ],
    "price_at_trade": 10.66,
-   "price_now": 7.25,
+   "price_now": 7.2,
    "price_now_date": "2026-11-25",
-   "total_return_pct": -32.0,
+   "total_return_pct": -32.4,
    "days_to_disclose": 28,
    "late_filing": false
   },
@@ -15232,7 +15232,7 @@
    "committee_overlap": [],
    "price_at_trade": 26.08,
    "price_now": 23.77,
-   "price_now_date": "2026-11-24",
+   "price_now_date": "2026-11-26",
    "total_return_pct": -8.8,
    "days_to_disclose": 24,
    "late_filing": false
@@ -17919,29 +17919,6 @@
    "party": "Democrat",
    "state": "WA",
    "days_to_disclose": 27,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
-   "politician_name": "Max L. Miller",
-   "state_district": "OH07",
-   "reported_date": "2026-09-27",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
-   "owner": "self",
-   "asset": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP)",
-   "asset_type": "HN",
-   "ticker": null,
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2026-09-04",
-   "notified_date": "2026-09-27",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "M001222",
-   "party": "Republican",
-   "state": "OH",
-   "days_to_disclose": 23,
    "late_filing": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "EXPO",
  "company": {
   "name": "EXPONENT INC",
@@ -17,38 +17,7 @@
   "senate": "Senate trades not yet included.",
   "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
  },
- "congress_trades": [
-  {
-   "chamber": "House",
-   "politician_name": "Lisa C. McClain",
-   "state_district": "MI09",
-   "reported_date": "2025-10-22",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf",
-   "owner": "spouse",
-   "asset": "Exponent, Inc. - Common Stock",
-   "asset_type": "ST",
-   "ticker": "EXPO",
-   "trade_type": "SELL",
-   "partial": false,
-   "traded_date": "2025-09-11",
-   "notified_date": "2025-10-01",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "M001136",
-   "party": "Republican",
-   "state": "MI",
-   "company_name": "EXPONENT INC",
-   "sector": "Other",
-   "committee_overlap": [],
-   "price_at_trade": 69.69,
-   "price_now": 91.76,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 31.7,
-   "days_to_disclose": 41,
-   "late_filing": false
-  }
- ],
+ "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
   {

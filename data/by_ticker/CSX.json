@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "CSX",
  "company": {
   "name": "CSX CORP",
@@ -140,46 +140,7 @@
   }
  ],
  "congress_holders": [],
- "insider_trades": [
-  {
-   "ticker": "CSX",
-   "company_name": "CSX CORP",
-   "owner_name": "ZILLMER JOHN J",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-28",
-   "shares": 19500.0,
-   "price": 51.24,
-   "value": 999180.0,
-   "shares_after": 334214.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1188262/0001193125-26-436168.txt",
-   "price_at_trade": 51.31,
-   "price_now": 51.16,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -0.3
-  },
-  {
-   "ticker": "CSX",
-   "company_name": "CSX CORP",
-   "owner_name": "ZILLMER JOHN J",
-   "owner_title": "Director",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-28",
-   "shares": 19500.0,
-   "price": 51.24,
-   "value": 999180.0,
-   "shares_after": 334214.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/277948/0001193125-26-436168.txt",
-   "price_at_trade": 51.31,
-   "price_now": 51.16,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -0.3
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

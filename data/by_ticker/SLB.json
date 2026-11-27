@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "SLB",
  "company": {
   "name": "SLB LIMITED/NV",
@@ -110,36 +110,6 @@
   },
   {
    "chamber": "House",
-   "politician_name": "Lisa C. McClain",
-   "state_district": "MI09",
-   "reported_date": "2025-10-22",
-   "source_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf",
-   "owner": "spouse",
-   "asset": "Schlumberger N.V. Common Stock",
-   "asset_type": "ST",
-   "ticker": "SLB",
-   "trade_type": "BUY",
-   "partial": false,
-   "traded_date": "2025-09-25",
-   "notified_date": "2025-10-01",
-   "size_lower": 1001,
-   "size_upper": 15000,
-   "size_mid": 8000.5,
-   "bioguide": "M001136",
-   "party": "Republican",
-   "state": "MI",
-   "company_name": "SLB LIMITED/NV",
-   "sector": "Energy & Utilities",
-   "committee_overlap": [],
-   "price_at_trade": 33.76,
-   "price_now": 48.52,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 43.7,
-   "days_to_disclose": 27,
-   "late_filing": false
-  },
-  {
-   "chamber": "House",
    "politician_name": "Julia Letlow",
    "state_district": "LA05",
    "reported_date": "2026-01-13",
@@ -199,24 +169,7 @@
    "late_filing": true
   }
  ],
- "congress_holders": [
-  {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "SLB",
-   "est_shares": 9.7,
-   "avg_price": 34.58,
-   "price_now": 48.52,
-   "est_position_value": 470,
-   "total_return_pct": 40.3,
-   "total_return_usd": 135,
-   "first_buy": "2025-09-25",
-   "last_trade": "2025-10-31"
-  }
- ],
+ "congress_holders": [],
  "insider_trades": [
   {
    "ticker": "SLB",
@@ -331,44 +284,6 @@
    "price_now": 48.52,
    "price_now_date": "2026-11-25",
    "total_return_pct": -9.8
-  },
-  {
-   "ticker": "SLB",
-   "company_name": "SLB LIMITED/NV",
-   "owner_name": "Le Peuch Olivier",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-28",
-   "shares": 25000.0,
-   "price": 53.17,
-   "value": 1329250.0,
-   "shares_after": 1271328.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1497824/0000087347-26-000126.txt",
-   "price_at_trade": 54.08,
-   "price_now": 48.52,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -10.3
-  },
-  {
-   "ticker": "SLB",
-   "company_name": "SLB LIMITED/NV",
-   "owner_name": "Le Peuch Olivier",
-   "owner_title": "Director, Chief Executive Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-27",
-   "reported_date": "2026-10-28",
-   "shares": 25000.0,
-   "price": 53.17,
-   "value": 1329250.0,
-   "shares_after": 1271328.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/87347/0000087347-26-000126.txt",
-   "price_at_trade": 54.08,
-   "price_now": 48.52,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -10.3
   }
  ],
  "trump_trades": [],

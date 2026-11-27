@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "CATY",
  "company": {
   "name": "CATHAY GENERAL BANCORP",
@@ -97,46 +97,7 @@
    "last_trade": "2026-03-03"
   }
  ],
- "insider_trades": [
-  {
-   "ticker": "CATY",
-   "company_name": "CATHAY GENERAL BANCORP",
-   "owner_name": "SUN ALBERT",
-   "owner_title": "EVP, Chief Credit Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-28",
-   "shares": 960.0,
-   "price": 64.95,
-   "value": 62352.0,
-   "shares_after": 0.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1668213/0001437749-26-033821.txt",
-   "price_at_trade": 64.72,
-   "price_now": 62.78,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -3.0
-  },
-  {
-   "ticker": "CATY",
-   "company_name": "CATHAY GENERAL BANCORP",
-   "owner_name": "SUN ALBERT",
-   "owner_title": "EVP, Chief Credit Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-10-26",
-   "reported_date": "2026-10-28",
-   "shares": 960.0,
-   "price": 64.95,
-   "value": 62352.0,
-   "shares_after": 0.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/861842/0001437749-26-033821.txt",
-   "price_at_trade": 64.72,
-   "price_now": 62.78,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -3.0
-  }
- ],
+ "insider_trades": [],
  "trump_trades": [],
  "trump_sponsor": [],
  "contracts": []

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "NFLX",
  "company": {
   "name": "NETFLIX INC",
@@ -781,22 +781,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "NFLX",
-   "est_shares": 2.0,
-   "avg_price": 108.9,
-   "price_now": 59.41,
-   "est_position_value": 117,
-   "total_return_pct": -45.4,
-   "total_return_usd": -97,
-   "first_buy": "2025-10-30",
-   "last_trade": "2025-10-31"
-  },
-  {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
@@ -863,6 +847,22 @@
    "total_return_usd": -3659,
    "first_buy": "2025-10-24",
    "last_trade": "2025-10-24"
+  },
+  {
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "committee_overlap": [],
+   "ticker": "NFLX",
+   "est_shares": 2.0,
+   "avg_price": 108.9,
+   "price_now": 59.41,
+   "est_position_value": 117,
+   "total_return_pct": -45.4,
+   "total_return_usd": -97,
+   "first_buy": "2025-10-30",
+   "last_trade": "2025-10-31"
   }
  ],
  "insider_trades": [

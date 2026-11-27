@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "BSX",
  "company": {
   "name": "BOSTON SCIENTIFIC CORP",
@@ -695,22 +695,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "BSX",
-   "est_shares": 0.1,
-   "avg_price": 100.57,
-   "price_now": 45.12,
-   "est_position_value": 5,
-   "total_return_pct": -55.1,
-   "total_return_usd": -7,
-   "first_buy": "2025-10-30",
-   "last_trade": "2025-10-31"
-  },
-  {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
@@ -725,6 +709,22 @@
    "total_return_usd": -13468,
    "first_buy": "2025-10-17",
    "last_trade": "2026-08-18"
+  },
+  {
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "committee_overlap": [],
+   "ticker": "BSX",
+   "est_shares": 0.1,
+   "avg_price": 100.57,
+   "price_now": 45.12,
+   "est_position_value": 5,
+   "total_return_pct": -55.1,
+   "total_return_usd": -7,
+   "first_buy": "2025-10-30",
+   "last_trade": "2025-10-31"
   }
  ],
  "insider_trades": [],

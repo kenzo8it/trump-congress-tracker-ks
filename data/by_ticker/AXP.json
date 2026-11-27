@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "AXP",
  "company": {
   "name": "AMERICAN EXPRESS CO",
@@ -357,6 +357,22 @@
  ],
  "congress_holders": [
   {
+   "name": "Jared Moskowitz",
+   "party": "Democrat",
+   "chamber": "House",
+   "state": "FL",
+   "committee_overlap": [],
+   "ticker": "AXP",
+   "est_shares": 181.8,
+   "avg_price": 310.84,
+   "price_now": 312.39,
+   "est_position_value": 56784,
+   "total_return_pct": 0.5,
+   "total_return_usd": 282,
+   "first_buy": "2025-10-10",
+   "last_trade": "2026-03-31"
+  },
+  {
    "name": "Lisa C. McClain",
    "party": "Republican",
    "chamber": "House",
@@ -373,22 +389,6 @@
    "total_return_usd": -5,
    "first_buy": "2025-10-30",
    "last_trade": "2025-10-31"
-  },
-  {
-   "name": "Jared Moskowitz",
-   "party": "Democrat",
-   "chamber": "House",
-   "state": "FL",
-   "committee_overlap": [],
-   "ticker": "AXP",
-   "est_shares": 181.8,
-   "avg_price": 310.84,
-   "price_now": 312.39,
-   "est_position_value": 56784,
-   "total_return_pct": 0.5,
-   "total_return_usd": 282,
-   "first_buy": "2025-10-10",
-   "last_trade": "2026-03-31"
   },
   {
    "name": "Rick W. Allen",

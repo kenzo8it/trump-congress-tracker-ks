@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:28+00:00",
+ "updated": "2026-11-27T04:31+00:00",
  "ticker": "ILMN",
  "company": {
   "name": "ILLUMINA, INC.",
@@ -171,22 +171,6 @@
  ],
  "congress_holders": [
   {
-   "name": "Lisa C. McClain",
-   "party": "Republican",
-   "chamber": "House",
-   "state": "MI",
-   "committee_overlap": [],
-   "ticker": "ILMN",
-   "est_shares": 16.0,
-   "avg_price": 99.01,
-   "price_now": 200.39,
-   "est_position_value": 3215,
-   "total_return_pct": 102.4,
-   "total_return_usd": 1627,
-   "first_buy": "2025-10-30",
-   "last_trade": "2025-10-31"
-  },
-  {
    "name": "Gilbert Ray Cisneros, Jr.",
    "party": "Democrat",
    "chamber": "House",
@@ -201,6 +185,22 @@
    "total_return_usd": 3115,
    "first_buy": "2026-02-10",
    "last_trade": "2026-10-27"
+  },
+  {
+   "name": "Lisa C. McClain",
+   "party": "Republican",
+   "chamber": "House",
+   "state": "MI",
+   "committee_overlap": [],
+   "ticker": "ILMN",
+   "est_shares": 16.0,
+   "avg_price": 99.01,
+   "price_now": 200.39,
+   "est_position_value": 3215,
+   "total_return_pct": 102.4,
+   "total_return_usd": 1627,
+   "first_buy": "2025-10-30",
+   "last_trade": "2025-10-31"
   }
  ],
  "insider_trades": [
