@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "TEVA",
  "company": {
   "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
@@ -8,8 +8,8 @@
   "industry": "Pharmaceutical Preparations",
   "sector": "Healthcare"
  },
- "price_now": 39.86,
- "price_date": "2026-11-25",
+ "price_now": 39.94,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TEVA",
+   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "owner_name": "Francis Richard D",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 250000.0,
+   "price": 39.768,
+   "value": 9942000.0,
+   "shares_after": 677529.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1673277/0001193125-26-480243.txt",
+   "price_at_trade": 39.86,
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.2
+  },
+  {
+   "ticker": "TEVA",
+   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "owner_name": "Francis Richard D",
+   "owner_title": "President and CEO",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 250000.0,
+   "price": 39.768,
+   "value": 9942000.0,
+   "shares_after": 677529.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-480243.txt",
+   "price_at_trade": 39.86,
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.2
+  },
   {
    "ticker": "TEVA",
    "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1998173/0001193125-26-475606.txt",
    "price_at_trade": 39.23,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "TEVA",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-475606.txt",
    "price_at_trade": 39.23,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.8
   },
   {
    "ticker": "TEVA",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1721442/0001193125-26-458410.txt",
    "price_at_trade": 43.65,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -8.7
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "TEVA",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458410.txt",
    "price_at_trade": 43.65,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -8.7
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -8.5
   },
   {
    "ticker": "TEVA",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1726096/0001193125-26-458451.txt",
    "price_at_trade": 43.24,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.8
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "TEVA",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458451.txt",
    "price_at_trade": 43.24,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.8
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.6
   },
   {
    "ticker": "TEVA",
@@ -149,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1673277/0001193125-26-458424.txt",
    "price_at_trade": 42.4,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.8
   },
   {
    "ticker": "TEVA",
@@ -168,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458424.txt",
    "price_at_trade": 42.4,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.8
   },
   {
    "ticker": "TEVA",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1726096/0001193125-26-458451.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897057/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897057/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1897057/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -263,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -282,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -301,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458383.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -320,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-458451.txt",
    "price_at_trade": 42.97,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.2
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.1
   },
   {
    "ticker": "TEVA",
@@ -339,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1721442/0001193125-26-451814.txt",
    "price_at_trade": 41.78,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.6
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.4
   },
   {
    "ticker": "TEVA",
@@ -358,8 +396,46 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-451814.txt",
    "price_at_trade": 41.78,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.4
+  },
+  {
+   "ticker": "TEVA",
+   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "owner_name": "Bergwerk Dov",
+   "owner_title": "Interim Cheif Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 17505.0,
+   "price": 41.72,
+   "value": 730308.6,
+   "shares_after": 11943.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1997381/0001193125-26-451804.txt",
+   "price_at_trade": 41.85,
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.6
+  },
+  {
+   "ticker": "TEVA",
+   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "owner_name": "Bergwerk Dov",
+   "owner_title": "Interim Cheif Legal Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-04",
+   "reported_date": "2026-11-06",
+   "shares": 8755.0,
+   "price": 41.72,
+   "value": 365258.6,
+   "shares_after": 11943.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1997381/0001193125-26-451804.txt",
+   "price_at_trade": 41.85,
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
    "total_return_pct": -4.6
   },
   {
@@ -375,49 +451,11 @@
    "value": 730308.6,
    "shares_after": 11943.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1997381/0001193125-26-451804.txt",
-   "price_at_trade": 41.85,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.8
-  },
-  {
-   "ticker": "TEVA",
-   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
-   "owner_name": "Bergwerk Dov",
-   "owner_title": "Interim Cheif Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-11-04",
-   "reported_date": "2026-11-06",
-   "shares": 8755.0,
-   "price": 41.72,
-   "value": 365258.6,
-   "shares_after": 11943.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1997381/0001193125-26-451804.txt",
-   "price_at_trade": 41.85,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.8
-  },
-  {
-   "ticker": "TEVA",
-   "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
-   "owner_name": "Bergwerk Dov",
-   "owner_title": "Interim Cheif Legal Officer",
-   "trade_type": "SELL",
-   "traded_date": "2026-11-04",
-   "reported_date": "2026-11-06",
-   "shares": 17505.0,
-   "price": 41.72,
-   "value": 730308.6,
-   "shares_after": 11943.0,
-   "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-451804.txt",
    "price_at_trade": 41.85,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.8
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.6
   },
   {
    "ticker": "TEVA",
@@ -434,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/818686/0001193125-26-451804.txt",
    "price_at_trade": 41.85,
-   "price_now": 39.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.8
+   "price_now": 39.94,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.6
   }
  ],
  "trump_trades": [],

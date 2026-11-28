@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "RELY",
  "company": {
   "name": "Remitly Global, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Services-Business Services, NEC",
   "sector": "Retail & Consumer"
  },
- "price_now": 21.68,
- "price_date": "2026-11-25",
+ "price_now": 21.84,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "RELY",
+   "company_name": "Remitly Global, Inc.",
+   "owner_name": "Mehta Vikas D",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 25000.0,
+   "price": 21.67,
+   "value": 541750.0,
+   "shares_after": 887545.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001872886-26-000011.txt",
+   "price_at_trade": 21.68,
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.7
+  },
+  {
+   "ticker": "RELY",
+   "company_name": "Remitly Global, Inc.",
+   "owner_name": "Mehta Vikas D",
+   "owner_title": "Chief Financial Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 25000.0,
+   "price": 21.67,
+   "value": 541750.0,
+   "shares_after": 887545.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1872886/0001872886-26-000011.txt",
+   "price_at_trade": 21.68,
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.7
+  },
   {
    "ticker": "RELY",
    "company_name": "Remitly Global, Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1554614/0001554614-26-000008.txt",
    "price_at_trade": 23.48,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.7
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RELY",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001554614-26-000008.txt",
    "price_at_trade": 23.48,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.7
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -7.0
   },
   {
    "ticker": "RELY",
@@ -73,9 +111,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001880864-26-000030.txt",
    "price_at_trade": 22.32,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "RELY",
@@ -92,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880864/0001880864-26-000030.txt",
    "price_at_trade": 22.32,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -2.2
   },
   {
    "ticker": "RELY",
@@ -111,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1782170/0001880864-26-000030.txt",
    "price_at_trade": 21.55,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.6
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.4
   },
   {
    "ticker": "RELY",
@@ -130,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1880864/0001880864-26-000030.txt",
    "price_at_trade": 21.55,
-   "price_now": 21.68,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.6
+   "price_now": 21.84,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.4
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "PLUG",
  "company": {
   "name": "PLUG POWER INC",
@@ -8,8 +8,8 @@
   "industry": "Electrical Industrial Apparatus",
   "sector": "Construction & Industrials"
  },
- "price_now": 1.07,
- "price_date": "2026-11-25",
+ "price_now": 1.16,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PLUG",
+   "company_name": "PLUG POWER INC",
+   "owner_name": "MIDDLETON PAUL B",
+   "owner_title": "CFO, CAO & Executive VP",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 70241.0,
+   "price": 0.9464,
+   "value": 66476.08,
+   "shares_after": 2876928.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1093691/0001104659-26-132479.txt",
+   "price_at_trade": 0.93,
+   "price_now": 1.16,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 24.7
+  },
+  {
+   "ticker": "PLUG",
+   "company_name": "PLUG POWER INC",
+   "owner_name": "MIDDLETON PAUL B",
+   "owner_title": "CFO, CAO & Executive VP",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 70241.0,
+   "price": 0.9464,
+   "value": 66476.08,
+   "shares_after": 2876928.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1224978/0001104659-26-132479.txt",
+   "price_at_trade": 0.93,
+   "price_now": 1.16,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 24.7
+  },
   {
    "ticker": "PLUG",
    "company_name": "PLUG POWER INC",
@@ -35,9 +73,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1093691/0001104659-26-129803.txt",
    "price_at_trade": 1.07,
-   "price_now": 1.07,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.0
+   "price_now": 1.16,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.4
   },
   {
    "ticker": "PLUG",
@@ -54,9 +92,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2085249/0001104659-26-129803.txt",
    "price_at_trade": 1.07,
-   "price_now": 1.07,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.0
+   "price_now": 1.16,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.4
   }
  ],
  "trump_trades": [],

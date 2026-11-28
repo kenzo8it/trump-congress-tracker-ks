@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "OM",
  "company": {
   "name": "Outset Medical, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Electromedical & Electrotherapeutic Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 2.98,
- "price_date": "2026-11-25",
+ "price_now": 3.22,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,82 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "OM",
+   "company_name": "Outset Medical, Inc.",
+   "owner_name": "Leonard Braden Michael",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-27",
+   "reported_date": "2026-11-27",
+   "shares": 2900.0,
+   "price": 3.0999,
+   "value": 8989.71,
+   "shares_after": 2783697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1373603/0001373604-26-000086.txt",
+   "price_at_trade": 3.22,
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "OM",
+   "company_name": "Outset Medical, Inc.",
+   "owner_name": "Leonard Braden Michael",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-27",
+   "reported_date": "2026-11-27",
+   "shares": 2900.0,
+   "price": 3.0999,
+   "value": 8989.71,
+   "shares_after": 2783697.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1484612/0001373604-26-000086.txt",
+   "price_at_trade": 3.22,
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
+  },
+  {
+   "ticker": "OM",
+   "company_name": "Outset Medical, Inc.",
+   "owner_name": "Leonard Braden Michael",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 16187.0,
+   "price": 2.7805,
+   "value": 45007.95,
+   "shares_after": 2780797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1373603/0001373604-26-000086.txt",
+   "price_at_trade": 2.98,
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.1
+  },
+  {
+   "ticker": "OM",
+   "company_name": "Outset Medical, Inc.",
+   "owner_name": "Leonard Braden Michael",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 16187.0,
+   "price": 2.7805,
+   "value": 45007.95,
+   "shares_after": 2780797.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1484612/0001373604-26-000086.txt",
+   "price_at_trade": 2.98,
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.1
+  },
   {
    "ticker": "OM",
    "company_name": "Outset Medical, Inc.",
@@ -35,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1304125/0001484612-26-000052.txt",
    "price_at_trade": 3.39,
-   "price_now": 2.98,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -12.1
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OM",
@@ -54,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1484612/0001484612-26-000052.txt",
    "price_at_trade": 3.39,
-   "price_now": 2.98,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -12.1
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OM",
@@ -73,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1484612/0001484612-26-000054.txt",
    "price_at_trade": 3.39,
-   "price_now": 2.98,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -12.1
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "OM",
@@ -92,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1742428/0001484612-26-000054.txt",
    "price_at_trade": 3.39,
-   "price_now": 2.98,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -12.1
+   "price_now": 3.22,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   }
  ],
  "trump_trades": [],

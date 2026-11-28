@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "LNSR",
  "company": {
   "name": "LENSAR, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Surgical & Medical Instruments & Apparatus",
   "sector": "Healthcare"
  },
- "price_now": 4.05,
- "price_date": "2026-11-25",
+ "price_now": 4.07,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "O'Farrell Elizabeth G.",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 22000.0,
+   "price": 4.12,
+   "value": 90640.0,
+   "shares_after": 45368.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1320350/0001193125-26-480323.txt",
+   "price_at_trade": 4.13,
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "LNSR",
+   "company_name": "LENSAR, Inc.",
+   "owner_name": "O'Farrell Elizabeth G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 22000.0,
+   "price": 4.12,
+   "value": 90640.0,
+   "shares_after": 45368.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744662/0001193125-26-480323.txt",
+   "price_at_trade": 4.13,
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -1.6
+  },
+  {
+   "ticker": "LNSR",
+   "company_name": "LENSAR, Inc.",
+   "owner_name": "O'Farrell Elizabeth G.",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-18",
    "reported_date": "2026-11-19",
    "shares": 10961.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1320350/0001193125-26-468672.txt",
    "price_at_trade": 4.85,
-   "price_now": 4.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -16.5
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "LNSR",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744662/0001193125-26-468672.txt",
    "price_at_trade": 4.85,
-   "price_now": 4.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -16.5
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -16.2
   },
   {
    "ticker": "LNSR",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1320350/0001193125-26-468672.txt",
    "price_at_trade": 4.91,
-   "price_now": 4.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -17.5
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -17.2
   },
   {
    "ticker": "LNSR",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744662/0001193125-26-468672.txt",
    "price_at_trade": 4.91,
-   "price_now": 4.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -17.5
+   "price_now": 4.07,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -17.2
   }
  ],
  "trump_trades": [],

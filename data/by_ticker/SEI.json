@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "SEI",
  "company": {
   "name": "Solaris Energy Infrastructure, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Oil & Gas Field Machinery & Equipment",
   "sector": "Construction & Industrials"
  },
- "price_now": 58.23,
- "price_date": "2026-11-25",
+ "price_now": 61.58,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -42,15 +42,91 @@
    "sector": "Construction & Industrials",
    "committee_overlap": [],
    "price_at_trade": 52.83,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 10.2,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 16.6,
    "days_to_disclose": 35,
    "late_filing": false
   }
  ],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 400.0,
+   "price": 55.97,
+   "value": 22388.0,
+   "shares_after": 16775.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-076084.txt",
+   "price_at_trade": 58.23,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.8
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 400.0,
+   "price": 55.97,
+   "value": 22388.0,
+   "shares_after": 16775.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-076084.txt",
+   "price_at_trade": 58.23,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.8
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 180.0,
+   "price": 55.35,
+   "value": 9963.0,
+   "shares_after": 16375.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-076084.txt",
+   "price_at_trade": 56.53,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.9
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 180.0,
+   "price": 55.35,
+   "value": 9963.0,
+   "shares_after": 16375.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-076084.txt",
+   "price_at_trade": 56.53,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.9
+  },
   {
    "ticker": "SEI",
    "company_name": "Solaris Energy Infrastructure, Inc.",
@@ -66,9 +142,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-075235.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -85,9 +161,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1520378/0001628280-26-075232.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -104,9 +180,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075232.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -123,9 +199,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075233.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -142,9 +218,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075234.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -161,9 +237,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075235.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -180,9 +256,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1705386/0001628280-26-075234.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -199,9 +275,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1714868/0001628280-26-075233.txt",
    "price_at_trade": 54.67,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 12.6
   },
   {
    "ticker": "SEI",
@@ -218,9 +294,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-075235.txt",
    "price_at_trade": 61.43,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -5.2
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "SEI",
@@ -237,9 +313,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075235.txt",
    "price_at_trade": 61.43,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -5.2
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.2
   },
   {
    "ticker": "SEI",
@@ -256,9 +332,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-075068.txt",
    "price_at_trade": 61.99,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.1
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "SEI",
@@ -275,9 +351,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-075068.txt",
    "price_at_trade": 61.99,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.1
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.7
   },
   {
    "ticker": "SEI",
@@ -294,9 +370,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-074185.txt",
    "price_at_trade": 60.96,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -4.5
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.0
   },
   {
    "ticker": "SEI",
@@ -313,8 +389,65 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-074185.txt",
    "price_at_trade": 60.96,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.0
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 230.0,
+   "price": 65.17,
+   "value": 14989.1,
+   "shares_after": 15340.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-074185.txt",
+   "price_at_trade": 63.81,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.5
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 230.0,
+   "price": 65.17,
+   "value": 14989.1,
+   "shares_after": 15340.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-074185.txt",
+   "price_at_trade": 63.81,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.5
+  },
+  {
+   "ticker": "SEI",
+   "company_name": "Solaris Energy Infrastructure, Inc.",
+   "owner_name": "TEAGUE AJ",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-12",
+   "reported_date": "2026-11-16",
+   "shares": 155.0,
+   "price": 64.86,
+   "value": 10053.3,
+   "shares_after": 117540.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-074185.txt",
+   "price_at_trade": 64.5,
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
    "total_return_pct": -4.5
   },
   {
@@ -323,63 +456,6 @@
    "owner_name": "TEAGUE AJ",
    "owner_title": "Director",
    "trade_type": "BUY",
-   "traded_date": "2026-11-13",
-   "reported_date": "2026-11-16",
-   "shares": 230.0,
-   "price": 65.17,
-   "value": 14989.1,
-   "shares_after": 15340.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-074185.txt",
-   "price_at_trade": 63.81,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -8.7
-  },
-  {
-   "ticker": "SEI",
-   "company_name": "Solaris Energy Infrastructure, Inc.",
-   "owner_name": "TEAGUE AJ",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-13",
-   "reported_date": "2026-11-16",
-   "shares": 230.0,
-   "price": 65.17,
-   "value": 14989.1,
-   "shares_after": 15340.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-074185.txt",
-   "price_at_trade": 63.81,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -8.7
-  },
-  {
-   "ticker": "SEI",
-   "company_name": "Solaris Energy Infrastructure, Inc.",
-   "owner_name": "TEAGUE AJ",
-   "owner_title": "Director",
-   "trade_type": "BUY",
-   "traded_date": "2026-11-12",
-   "reported_date": "2026-11-16",
-   "shares": 155.0,
-   "price": 64.86,
-   "value": 10053.3,
-   "shares_after": 117540.0,
-   "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-074185.txt",
-   "price_at_trade": 64.5,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -9.7
-  },
-  {
-   "ticker": "SEI",
-   "company_name": "Solaris Energy Infrastructure, Inc.",
-   "owner_name": "TEAGUE AJ",
-   "owner_title": "Director",
-   "trade_type": "BUY",
    "traded_date": "2026-11-12",
    "reported_date": "2026-11-16",
    "shares": 155.0,
@@ -389,9 +465,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-074185.txt",
    "price_at_trade": 64.5,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -9.7
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.5
   },
   {
    "ticker": "SEI",
@@ -408,9 +484,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-073438.txt",
    "price_at_trade": 64.8,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -10.1
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "SEI",
@@ -427,9 +503,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-073438.txt",
    "price_at_trade": 64.8,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -10.1
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.0
   },
   {
    "ticker": "SEI",
@@ -446,9 +522,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-073438.txt",
    "price_at_trade": 61.87,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -5.9
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "SEI",
@@ -465,9 +541,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-073438.txt",
    "price_at_trade": 61.87,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -5.9
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.5
   },
   {
    "ticker": "SEI",
@@ -484,9 +560,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183251/0001628280-26-073438.txt",
    "price_at_trade": 62.61,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.0
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -1.6
   },
   {
    "ticker": "SEI",
@@ -503,9 +579,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-073438.txt",
    "price_at_trade": 62.61,
-   "price_now": 58.23,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.0
+   "price_now": 61.58,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -1.6
   }
  ],
  "trump_trades": [],

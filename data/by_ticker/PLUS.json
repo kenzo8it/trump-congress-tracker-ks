@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "PLUS",
  "company": {
   "name": "EPLUS INC",
@@ -8,8 +8,8 @@
   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
   "sector": "Other"
  },
- "price_now": 97.71,
- "price_date": "2026-11-25",
+ "price_now": 98.55,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -35,9 +35,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000131.txt",
    "price_at_trade": 95.37,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.5
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.3
   },
   {
    "ticker": "PLUS",
@@ -54,8 +54,46 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000131.txt",
    "price_at_trade": 95.37,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.3
+  },
+  {
+   "ticker": "PLUS",
+   "company_name": "EPLUS INC",
+   "owner_name": "Marion Elaine D",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 4500.0,
+   "price": 96.7739,
+   "value": 435482.55,
+   "shares_after": 74759.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000114.txt",
+   "price_at_trade": 96.17,
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.5
+  },
+  {
+   "ticker": "PLUS",
+   "company_name": "EPLUS INC",
+   "owner_name": "Marion Elaine D",
+   "owner_title": "CHIEF FINANCIAL OFFICER",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-13",
+   "reported_date": "2026-11-16",
+   "shares": 500.0,
+   "price": 97.512,
+   "value": 48756.0,
+   "shares_after": 74259.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000114.txt",
+   "price_at_trade": 96.17,
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
    "total_return_pct": 2.5
   },
   {
@@ -71,49 +109,11 @@
    "value": 435482.55,
    "shares_after": 74759.0,
    "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000114.txt",
-   "price_at_trade": 96.17,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
-  },
-  {
-   "ticker": "PLUS",
-   "company_name": "EPLUS INC",
-   "owner_name": "Marion Elaine D",
-   "owner_title": "CHIEF FINANCIAL OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-11-13",
-   "reported_date": "2026-11-16",
-   "shares": 500.0,
-   "price": 97.512,
-   "value": 48756.0,
-   "shares_after": 74259.0,
-   "planned_10b5_1": true,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000114.txt",
-   "price_at_trade": 96.17,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
-  },
-  {
-   "ticker": "PLUS",
-   "company_name": "EPLUS INC",
-   "owner_name": "Marion Elaine D",
-   "owner_title": "CHIEF FINANCIAL OFFICER",
-   "trade_type": "SELL",
-   "traded_date": "2026-11-13",
-   "reported_date": "2026-11-16",
-   "shares": 4500.0,
-   "price": 96.7739,
-   "value": 435482.55,
-   "shares_after": 74759.0,
-   "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1444430/0001022408-26-000114.txt",
    "price_at_trade": 96.17,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PLUS",
@@ -130,9 +130,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1444430/0001022408-26-000114.txt",
    "price_at_trade": 96.17,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 1.6
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.5
   },
   {
    "ticker": "PLUS",
@@ -149,9 +149,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000112.txt",
    "price_at_trade": 96.86,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.9
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -168,9 +168,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000112.txt",
    "price_at_trade": 96.86,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.9
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -187,9 +187,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000112.txt",
    "price_at_trade": 96.86,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.9
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -206,9 +206,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000112.txt",
    "price_at_trade": 96.86,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.9
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -225,9 +225,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000112.txt",
    "price_at_trade": 96.92,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.8
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -244,9 +244,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000112.txt",
    "price_at_trade": 96.92,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.8
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
   },
   {
    "ticker": "PLUS",
@@ -263,9 +263,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -282,9 +282,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -301,9 +301,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -320,9 +320,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -339,9 +339,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -358,9 +358,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -377,9 +377,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -396,9 +396,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 94.2,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.6
   },
   {
    "ticker": "PLUS",
@@ -415,9 +415,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 91.85,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.4
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.3
   },
   {
    "ticker": "PLUS",
@@ -434,9 +434,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1022408/0001022408-26-000110.txt",
    "price_at_trade": 91.85,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.4
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.3
   },
   {
    "ticker": "PLUS",
@@ -453,9 +453,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 91.85,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.4
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.3
   },
   {
    "ticker": "PLUS",
@@ -472,9 +472,9 @@
    "planned_10b5_1": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736723/0001022408-26-000110.txt",
    "price_at_trade": 91.85,
-   "price_now": 97.71,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.4
+   "price_now": 98.55,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.3
   }
  ],
  "trump_trades": [],

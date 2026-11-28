@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-28T04:11+00:00",
+ "ticker": "SI",
+ "company": {
+  "name": "SHOULDER INNOVATIONS, INC.",
+  "cik": 1699350,
+  "sic": 3841,
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Healthcare"
+ },
+ "price_now": 21.82,
+ "price_date": "2026-11-27",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SI",
+   "company_name": "SHOULDER INNOVATIONS, INC.",
+   "owner_name": "Ahearn Matthew Fraser",
+   "owner_title": "Director, Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 700.0,
+   "price": 22.0,
+   "value": 15400.0,
+   "shares_after": 244524.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1699350/0002070582-26-000006.txt",
+   "price_at_trade": 21.45,
+   "price_now": 21.82,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
+  },
+  {
+   "ticker": "SI",
+   "company_name": "SHOULDER INNOVATIONS, INC.",
+   "owner_name": "Ahearn Matthew Fraser",
+   "owner_title": "Director, Chief Operating Officer",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 700.0,
+   "price": 22.0,
+   "value": 15400.0,
+   "shares_after": 244524.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2070582/0002070582-26-000006.txt",
+   "price_at_trade": 21.45,
+   "price_now": 21.82,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 1.7
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

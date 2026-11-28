@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-28T04:11+00:00",
+ "ticker": "CCG",
+ "company": {
+  "name": "Cheche Group Inc.",
+  "cik": 1965473,
+  "sic": 6411,
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials"
+ },
+ "price_now": 11.2,
+ "price_date": "2026-11-27",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "CCG",
+   "company_name": "Cheche Group Inc.",
+   "owner_name": "Zhang Lei",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 120000.0,
+   "price": 10.36,
+   "value": 1243200.0,
+   "shares_after": 120000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786998/0001493152-26-054493.txt",
+   "price_at_trade": 10.42,
+   "price_now": 11.2,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.5
+  },
+  {
+   "ticker": "CCG",
+   "company_name": "Cheche Group Inc.",
+   "owner_name": "Zhang Lei",
+   "owner_title": "Director, Chief Executive Officer, 10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 120000.0,
+   "price": 10.36,
+   "value": 1243200.0,
+   "shares_after": 120000.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1965473/0001493152-26-054493.txt",
+   "price_at_trade": 10.42,
+   "price_now": 11.2,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.5
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

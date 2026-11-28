@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "TMC",
  "company": {
   "name": "TMC the metals Co Inc.",
@@ -8,8 +8,8 @@
   "industry": "Metal Mining",
   "sector": "Materials & Mining"
  },
- "price_now": 1.94,
- "price_date": "2026-11-25",
+ "price_now": 2.11,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "TMC",
+   "company_name": "TMC the metals Co Inc.",
+   "owner_name": "Barron Gerard",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 20000.0,
+   "price": 1.67,
+   "value": 33400.0,
+   "shares_after": 41823445.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1798562/0001104659-26-132347.txt",
+   "price_at_trade": 1.94,
+   "price_now": 2.11,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.8
+  },
+  {
+   "ticker": "TMC",
+   "company_name": "TMC the metals Co Inc.",
+   "owner_name": "Barron Gerard",
+   "owner_title": "Director, Chairman & CEO",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 20000.0,
+   "price": 1.67,
+   "value": 33400.0,
+   "shares_after": 41823445.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1878772/0001104659-26-132347.txt",
+   "price_at_trade": 1.94,
+   "price_now": 2.11,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 8.8
+  },
   {
    "ticker": "TMC",
    "company_name": "TMC the metals Co Inc.",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798562/0001104659-26-131894.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.94,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 18.3
+   "price_now": 2.11,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 28.7
   },
   {
    "ticker": "TMC",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1874431/0001104659-26-131894.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.94,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 18.3
+   "price_now": 2.11,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 28.7
   },
   {
    "ticker": "TMC",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1881973/0001104659-26-131894.txt",
    "price_at_trade": 1.64,
-   "price_now": 1.94,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 18.3
+   "price_now": 2.11,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 28.7
   }
  ],
  "trump_trades": [],

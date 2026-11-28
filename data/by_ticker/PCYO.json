@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "PCYO",
  "company": {
   "name": "PURE CYCLE CORP",
@@ -8,8 +8,8 @@
   "industry": "Water Supply",
   "sector": "Energy & Utilities"
  },
- "price_now": 10.05,
- "price_date": "2026-11-25",
+ "price_now": 10.25,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -20,6 +20,44 @@
  "congress_trades": [],
  "congress_holders": [],
  "insider_trades": [
+  {
+   "ticker": "PCYO",
+   "company_name": "PURE CYCLE CORP",
+   "owner_name": "Fink Christopher",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 2500.0,
+   "price": 10.01,
+   "value": 25025.0,
+   "shares_after": 3623.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2155883/0002155883-26-000006.txt",
+   "price_at_trade": 10.05,
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.0
+  },
+  {
+   "ticker": "PCYO",
+   "company_name": "PURE CYCLE CORP",
+   "owner_name": "Fink Christopher",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 2500.0,
+   "price": 10.01,
+   "value": 25025.0,
+   "shares_after": 3623.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/276720/0002155883-26-000006.txt",
+   "price_at_trade": 10.05,
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.0
+  },
   {
    "ticker": "PCYO",
    "company_name": "PURE CYCLE CORP",
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1546628/0001546628-26-000006.txt",
    "price_at_trade": 9.69,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "PCYO",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/276720/0001546628-26-000006.txt",
    "price_at_trade": 9.69,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 3.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.8
   },
   {
    "ticker": "PCYO",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1546628/0001546628-26-000004.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "PCYO",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/276720/0000940763-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "PCYO",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/276720/0000940763-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "PCYO",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/276720/0001546628-26-000004.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "PCYO",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/940763/0000940763-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   },
   {
    "ticker": "PCYO",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/940763/0000940763-26-000006.txt",
    "price_at_trade": 9.51,
-   "price_now": 10.05,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 5.7
+   "price_now": 10.25,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 7.8
   }
  ],
  "trump_trades": [],

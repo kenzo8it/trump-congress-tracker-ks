@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "ENPH",
  "company": {
   "name": "Enphase Energy, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Semiconductors & Related Devices",
   "sector": "Technology"
  },
- "price_now": 20.86,
- "price_date": "2026-11-25",
+ "price_now": 21.69,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,6 +26,44 @@
    "owner_name": "Rodgers Thurman J",
    "owner_title": "Director",
    "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 171400.0,
+   "price": 20.4393,
+   "value": 3503296.02,
+   "shares_after": 130319.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1183967/0001183967-26-000007.txt",
+   "price_at_trade": 20.37,
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 6.5
+  },
+  {
+   "ticker": "ENPH",
+   "company_name": "Enphase Energy, Inc.",
+   "owner_name": "Rodgers Thurman J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 171400.0,
+   "price": 20.4393,
+   "value": 3503296.02,
+   "shares_after": 130319.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001183967-26-000007.txt",
+   "price_at_trade": 20.37,
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 6.5
+  },
+  {
+   "ticker": "ENPH",
+   "company_name": "Enphase Energy, Inc.",
+   "owner_name": "Rodgers Thurman J",
+   "owner_title": "Director",
+   "trade_type": "SELL",
    "traded_date": "2026-11-18",
    "reported_date": "2026-11-19",
    "shares": 216525.0,
@@ -35,9 +73,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183967/0001183967-26-000006.txt",
    "price_at_trade": 22.66,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.9
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "ENPH",
@@ -54,9 +92,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183967/0001183967-26-000006.txt",
    "price_at_trade": 22.66,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.9
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "ENPH",
@@ -73,9 +111,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001183967-26-000006.txt",
    "price_at_trade": 22.66,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.9
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "ENPH",
@@ -92,9 +130,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001183967-26-000006.txt",
    "price_at_trade": 22.66,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -7.9
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -4.3
   },
   {
    "ticker": "ENPH",
@@ -111,9 +149,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183967/0001183967-26-000006.txt",
    "price_at_trade": 23.06,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -9.5
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "ENPH",
@@ -130,9 +168,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001183967-26-000006.txt",
    "price_at_trade": 23.06,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -9.5
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -5.9
   },
   {
    "ticker": "ENPH",
@@ -149,9 +187,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1183967/0001183967-26-000005.txt",
    "price_at_trade": 29.08,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -28.3
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -25.4
   },
   {
    "ticker": "ENPH",
@@ -168,9 +206,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001183967-26-000005.txt",
    "price_at_trade": 29.08,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -28.3
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -25.4
   },
   {
    "ticker": "ENPH",
@@ -187,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1337887/0001337887-26-000007.txt",
    "price_at_trade": 30.42,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -31.4
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -28.7
   },
   {
    "ticker": "ENPH",
@@ -206,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001337887-26-000007.txt",
    "price_at_trade": 30.42,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -31.4
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -28.7
   },
   {
    "ticker": "ENPH",
@@ -225,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1463101/0001543777-26-000006.txt",
    "price_at_trade": 27.93,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -25.3
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -22.3
   },
   {
    "ticker": "ENPH",
@@ -244,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1543777/0001543777-26-000006.txt",
    "price_at_trade": 27.93,
-   "price_now": 20.86,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -25.3
+   "price_now": 21.69,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -22.3
   }
  ],
  "trump_trades": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "WM",
  "company": {
   "name": "WASTE MANAGEMENT INC",
@@ -8,8 +8,8 @@
   "industry": "Refuse Systems",
   "sector": "Energy & Utilities"
  },
- "price_now": 247.29,
- "price_date": "2026-11-25",
+ "price_now": 246.49,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -44,9 +44,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 232.25,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.5,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 6.1,
    "days_to_disclose": 279,
    "late_filing": true
   },
@@ -76,9 +76,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 231.56,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 6.8,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 6.4,
    "days_to_disclose": 283,
    "late_filing": true
   },
@@ -108,9 +108,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 223.63,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 10.6,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.2,
    "days_to_disclose": 306,
    "late_filing": true
   },
@@ -140,9 +140,9 @@
     "House Committee on Natural Resources"
    ],
    "price_at_trade": 223.63,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 10.6,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.2,
    "days_to_disclose": 306,
    "late_filing": true
   },
@@ -170,9 +170,9 @@
    "sector": "Energy & Utilities",
    "committee_overlap": [],
    "price_at_trade": 213.24,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 16.0,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 15.6,
    "days_to_disclose": 7,
    "late_filing": false
   }
@@ -187,10 +187,10 @@
    "ticker": "WM",
    "est_shares": 37.5,
    "avg_price": 213.24,
-   "price_now": 247.29,
-   "est_position_value": 9278,
-   "total_return_pct": 16.0,
-   "total_return_usd": 1278,
+   "price_now": 246.49,
+   "est_position_value": 9248,
+   "total_return_pct": 15.6,
+   "total_return_usd": 1247,
    "first_buy": "2026-01-07",
    "last_trade": "2026-01-07"
   },
@@ -205,15 +205,53 @@
    "ticker": "WM",
    "est_shares": 140.5,
    "avg_price": 227.69,
-   "price_now": 247.29,
-   "est_position_value": 34756,
-   "total_return_pct": 8.6,
-   "total_return_usd": 2754,
+   "price_now": 246.49,
+   "est_position_value": 34644,
+   "total_return_pct": 8.3,
+   "total_return_usd": 2642,
    "first_buy": "2026-01-21",
    "last_trade": "2026-02-17"
   }
  ],
  "insider_trades": [
+  {
+   "ticker": "WM",
+   "company_name": "WASTE MANAGEMENT INC",
+   "owner_name": "DeSantis Christopher P.",
+   "owner_title": "SVP Operations - East",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 2493.0,
+   "price": 249.0,
+   "value": 620757.0,
+   "shares_after": 9504.168,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1997789/0001225208-26-009176.txt",
+   "price_at_trade": 247.29,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.3
+  },
+  {
+   "ticker": "WM",
+   "company_name": "WASTE MANAGEMENT INC",
+   "owner_name": "DeSantis Christopher P.",
+   "owner_title": "SVP Operations - East",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-25",
+   "reported_date": "2026-11-27",
+   "shares": 2493.0,
+   "price": 249.0,
+   "value": 620757.0,
+   "shares_after": 9504.168,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/823768/0001225208-26-009176.txt",
+   "price_at_trade": 247.29,
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -0.3
+  },
   {
    "ticker": "WM",
    "company_name": "WASTE MANAGEMENT INC",
@@ -229,9 +267,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2005460/0001225208-26-008762.txt",
    "price_at_trade": 241.27,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.5
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.2
   },
   {
    "ticker": "WM",
@@ -248,9 +286,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/823768/0001225208-26-008762.txt",
    "price_at_trade": 241.27,
-   "price_now": 247.29,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.5
+   "price_now": 246.49,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 2.2
   }
  ],
  "trump_trades": [],

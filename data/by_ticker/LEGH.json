@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-28T04:11+00:00",
+ "ticker": "LEGH",
+ "company": {
+  "name": "Legacy Housing Corp",
+  "cik": 1436208,
+  "sic": 2451,
+  "industry": "Mobile Homes",
+  "sector": "Other"
+ },
+ "price_now": 30.06,
+ "price_date": "2026-11-27",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "LEGH",
+   "company_name": "Legacy Housing Corp",
+   "owner_name": "Hodgson 2015 Grandchild Trust",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 4912.0,
+   "price": 29.0,
+   "value": 142448.0,
+   "shares_after": 2609918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1436208/0001104659-26-132355.txt",
+   "price_at_trade": 28.8,
+   "price_now": 30.06,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.4
+  },
+  {
+   "ticker": "LEGH",
+   "company_name": "Legacy Housing Corp",
+   "owner_name": "Hodgson 2015 Grandchild Trust",
+   "owner_title": "10% owner",
+   "trade_type": "SELL",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 4912.0,
+   "price": 29.0,
+   "value": 142448.0,
+   "shares_after": 2609918.0,
+   "planned_10b5_1": true,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2165383/0001104659-26-132355.txt",
+   "price_at_trade": 28.8,
+   "price_now": 30.06,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 4.4
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}

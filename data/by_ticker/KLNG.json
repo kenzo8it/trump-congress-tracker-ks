@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:31+00:00",
+ "updated": "2026-11-28T04:11+00:00",
  "ticker": "KLNG",
  "company": {
   "name": "Koil Energy Solutions, Inc.",
@@ -8,8 +8,8 @@
   "industry": "Oil & Gas Field Machinery & Equipment",
   "sector": "Construction & Industrials"
  },
- "price_now": 2.35,
- "price_date": "2026-11-25",
+ "price_now": 2.42,
+ "price_date": "2026-11-27",
  "notes": {
   "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
   "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
@@ -26,18 +26,151 @@
    "owner_name": "Intelligent Fanatics Capital Management LLC",
    "owner_title": "10% owner",
    "trade_type": "BUY",
-   "traded_date": "2026-11-20",
-   "reported_date": "2026-11-20",
-   "shares": 2000.0,
-   "price": 2.3,
-   "value": 4600.0,
-   "shares_after": 1584131.0,
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
    "planned_10b5_1": false,
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000008.txt",
-   "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 1900.0,
+   "price": 2.15,
+   "value": 4085.0,
+   "shares_after": 1586031.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000009.txt",
+   "price_at_trade": 2.2,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 10.0
   },
   {
    "ticker": "KLNG",
@@ -54,9 +187,28 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
+  },
+  {
+   "ticker": "KLNG",
+   "company_name": "Koil Energy Solutions, Inc.",
+   "owner_name": "Intelligent Fanatics Capital Management LLC",
+   "owner_title": "10% owner",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-20",
+   "reported_date": "2026-11-20",
+   "shares": 2000.0,
+   "price": 2.3,
+   "value": 4600.0,
+   "shares_after": 1584131.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000008.txt",
+   "price_at_trade": 2.3,
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -73,9 +225,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -92,9 +244,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -111,9 +263,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -130,9 +282,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -149,9 +301,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -168,9 +320,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000008.txt",
    "price_at_trade": 2.3,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 2.2
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 5.2
   },
   {
    "ticker": "KLNG",
@@ -187,9 +339,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -206,9 +358,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -225,9 +377,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -244,9 +396,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -263,9 +415,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -282,9 +434,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -301,9 +453,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -320,9 +472,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000008.txt",
    "price_at_trade": 2.5,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -6.0
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": -3.2
   },
   {
    "ticker": "KLNG",
@@ -339,9 +491,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -358,9 +510,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -377,9 +529,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -396,9 +548,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -415,9 +567,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -434,9 +586,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -453,9 +605,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -472,9 +624,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000007.txt",
    "price_at_trade": 2.42,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": -2.9
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 0.0
   },
   {
    "ticker": "KLNG",
@@ -491,9 +643,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -510,9 +662,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1110607/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -529,9 +681,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -548,9 +700,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1586220/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -567,9 +719,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -586,9 +738,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798792/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -605,9 +757,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   },
   {
    "ticker": "KLNG",
@@ -624,9 +776,9 @@
    "planned_10b5_1": false,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1816505/0001798792-26-000007.txt",
    "price_at_trade": 2.34,
-   "price_now": 2.35,
-   "price_now_date": "2026-11-25",
-   "total_return_pct": 0.4
+   "price_now": 2.42,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 3.4
   }
  ],
  "trump_trades": [],

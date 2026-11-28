@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-28T04:11+00:00",
+ "ticker": "SYRA",
+ "company": {
+  "name": "Syra Health Corp",
+  "cik": 1922335,
+  "sic": 7361,
+  "industry": "Services-Employment Agencies",
+  "sector": "Retail & Consumer"
+ },
+ "price_now": 0.5,
+ "price_date": "2026-11-27",
+ "notes": {
+  "returns": "Total returns are estimates: disclosures give value ranges, so each trade uses the midpoint; returns run from the closing price on the trade date to the latest close (Yahoo Finance, adjusted).",
+  "positions": "Positions are rebuilt from the last 400 days of disclosed trades only, so older holdings are missing.",
+  "trump": "Trump trades come from news reports of his OGE 278-T filings (seed/trump_trades.csv), not the full filings, which are scanned PDFs with thousands of lines. Treat them as partial.",
+  "senate": "Senate trades not yet included.",
+  "disclosure_lag": "Members of Congress have up to 45 days to disclose a trade."
+ },
+ "congress_trades": [],
+ "congress_holders": [],
+ "insider_trades": [
+  {
+   "ticker": "SYRA",
+   "company_name": "Syra Health Corp",
+   "owner_name": "Mereddy Radhika",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 2006.0,
+   "price": 0.3587,
+   "value": 719.55,
+   "shares_after": 2006.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1922335/0001493152-26-054460.txt",
+   "price_at_trade": 0.37,
+   "price_now": 0.5,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 35.0
+  },
+  {
+   "ticker": "SYRA",
+   "company_name": "Syra Health Corp",
+   "owner_name": "Mereddy Radhika",
+   "owner_title": "Director",
+   "trade_type": "BUY",
+   "traded_date": "2026-11-24",
+   "reported_date": "2026-11-27",
+   "shares": 2006.0,
+   "price": 0.3587,
+   "value": 719.55,
+   "shares_after": 2006.0,
+   "planned_10b5_1": false,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2104703/0001493152-26-054460.txt",
+   "price_at_trade": 0.37,
+   "price_now": 0.5,
+   "price_now_date": "2026-11-27",
+   "total_return_pct": 35.0
+  }
+ ],
+ "trump_trades": [],
+ "trump_sponsor": [],
+ "contracts": []
+}
